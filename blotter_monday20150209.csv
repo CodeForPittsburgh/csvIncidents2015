@@ -1,0 +1,118 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,SEX
+OFFENSE 2.0,15019441,601.04(e)(1),Amplified Noise from a vehicle operated on a public street  alley  etc  at a distance of (75) feet,00:55,1500 block Brighton Rd,California-Kirkbride,1,,
+OFFENSE 2.0,15019581,3921,Theft by Unlawful Taking or Disposition.,07:00,300 block E North Ave,Allegheny Center,1,,
+OFFENSE 2.0,15019459,3745,Accidents Involving Damage to Unattended Veh.or Prop.,07:12,2400 block Perrysville Ave,Perry South,1,,
+OFFENSE 2.0,15019639,2709,Harassment (Non-Specific),10:43,1400 block Monterey St,Central Northside,1,,
+OFFENSE 2.0,15019639,3304,Criminal Mischief.,10:43,1400 block Monterey St,Central Northside,1,,
+ARREST,15002882,2701,Simple Assault.,11:25,100 block Rhine Ct,Spring Hill-City View,1,22,M
+OFFENSE 2.0,15019719,13(a)(16),Possession of Controlled Substance,13:35,300 block Cedar Ave,East Allegheny,1,,
+OFFENSE 2.0,15019719,13(a)(30),Possession w/ Intent to Del. Controlled Substance,13:35,300 block Cedar Ave,East Allegheny,1,,
+ARREST,15019719,13(a)(16),Possession of Controlled Substance,13:36,300 block Cedar Ave,East Allegheny,1,19,M
+ARREST,15019719,13(a)(30),Possession w/ Intent to Del. Controlled Substance,13:36,300 block Cedar Ave,East Allegheny,1,19,M
+ARREST,15019719,13(a)(16),Possession of Controlled Substance,13:36,300 block Cedar Ave,East Allegheny,1,28,M
+ARREST,15019719,13(a)(16),Possession of Controlled Substance,13:36,300 block Cedar Ave,East Allegheny,1,30,F
+OFFENSE 2.0,15019755,9490,Missing Persons (18 and Over),14:00,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,15019779,029,Missing Juvenile,14:30,3800 block Brighton Rd,Brighton Heights,1,,
+OFFENSE 2.0,15019995,3934,Theft from Vehicle,15:00,600 block East Ohio St,East Allegheny,1,,
+OFFENSE 2.0,15019807,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,16:00,3400 block Fleming Ave,Brighton Heights,1,,
+OFFENSE 2.0,15019790,9496,Dead on Arrival (DOA),16:13,3400 block Mexico St,Brighton Heights,1,,
+OFFENSE 2.0,15019944,3921,Theft by Unlawful Taking or Disposition.,19:30,1200 block Federal St,Central Northside,1,,
+OFFENSE 2.0,15020009,9490,Missing Persons (18 and Over),21:55,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,15020000,3304,Criminal Mischief.,22:08,600 block Pressley St,East Allegheny,1,,
+OFFENSE 2.0,15020022,9999,9999 - (Misc. Incident): ,22:20,2800 block Wadlow St,Marshall-Shadeland,1,,
+OFFENSE 2.0,15020030,3353,Prohibitions in Specified Places.,23:36,Brighton Rd & N Charles St,Perry South,1,,
+OFFENSE 2.0,15020030,3802(a)(1),DUI - General Impairment,23:36,Brighton Rd & N Charles St,Perry South,1,,
+ARREST,15020030,3353,Prohibitions in Specified Places.,23:38,Brighton Rd & N Charles St,Perry South,1,33,M
+ARREST,15020030,3802(a)(1),DUI - General Impairment,23:38,Brighton Rd & N Charles St,Perry South,1,33,M
+OFFENSE 2.0,15019748,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02:00,900 block Herron Ave,Polish Hill,2,,
+OFFENSE 2.0,15019560,3743,Accidents Involving Damage to Attended Veh. or Property,07:30,Bigelow Blvd & Herron Ave,Strip District,2,,
+OFFENSE 2.0,15020151,4915,Failure to Comply with Megans Law,08:00,300 block Fort Duquesne Blvd,Bluff,2,,
+OFFENSE 2.0,15019634,4915,Failure to Comply with Megans Law,08:00,5000 block 2nd Ave,Bluff,2,,
+OFFENSE 2.0,15019618,3743,Accidents Involving Damage to Attended Veh. or Property,08:30,Cabinet Way & 40th St,Lower Lawrenceville,2,,
+OFFENSE 2.0,13196224,3309,Driving on Roadways Laned for Traffic.,08:35,600 block 1st Ave,Lincoln-Lemington-Belmar,2,,
+OFFENSE 2.0,13196224,3718(a),Minor Prohib from Operating w/ Alcohol in System,08:35,600 block 1st Ave,Lincoln-Lemington-Belmar,2,,
+OFFENSE 2.0,13196224,3732,Homicide by Vehicle,08:35,600 block 1st Ave,Lincoln-Lemington-Belmar,2,,
+OFFENSE 2.0,13196224,3735,Homicide by Vehicle While Driving Under the Influence,08:35,600 block 1st Ave,Lincoln-Lemington-Belmar,2,,
+OFFENSE 2.0,13196224,3736,Reckless Driving,08:35,600 block 1st Ave,Lincoln-Lemington-Belmar,2,,
+OFFENSE 2.0,13196224,3802(a)(1),DUI - General Impairment,08:35,600 block 1st Ave,Lincoln-Lemington-Belmar,2,,
+OFFENSE 2.0,13196224,3802(e),DUI - Minors - BAC >=.02%,08:35,600 block 1st Ave,Lincoln-Lemington-Belmar,2,,
+ARREST,13196224,2504,Involuntary Manslaughter.,08:35,600 block 1st Ave,Lincoln-Lemington-Belmar,2,22,M
+ARREST,13196224,2705,Recklessly Endangering Another Person.,08:35,600 block 1st Ave,Lincoln-Lemington-Belmar,2,22,M
+ARREST,13196224,3309,Driving on Roadways Laned for Traffic.,08:35,600 block 1st Ave,Lincoln-Lemington-Belmar,2,22,M
+ARREST,13196224,3718(a),Minor Prohib from Operating w/ Alcohol in System,08:35,600 block 1st Ave,Lincoln-Lemington-Belmar,2,22,M
+ARREST,13196224,3732,Homicide by Vehicle,08:35,600 block 1st Ave,Lincoln-Lemington-Belmar,2,22,M
+ARREST,13196224,3735,Homicide by Vehicle While Driving Under the Influence,08:35,600 block 1st Ave,Lincoln-Lemington-Belmar,2,22,M
+ARREST,13196224,3736,Reckless Driving,08:35,600 block 1st Ave,Lincoln-Lemington-Belmar,2,22,M
+ARREST,13196224,3802(a)(1),DUI - General Impairment,08:35,600 block 1st Ave,Lincoln-Lemington-Belmar,2,22,M
+ARREST,13196224,3802(e),DUI - Minors - BAC >=.02%,08:35,600 block 1st Ave,Lincoln-Lemington-Belmar,2,22,M
+OFFENSE 2.0,13196224,2504,Involuntary Manslaughter.,08:35,600 block 1st Ave,Lincoln-Lemington-Belmar,2,,
+OFFENSE 2.0,13196224,2705,Recklessly Endangering Another Person.,08:35,600 block 1st Ave,Lincoln-Lemington-Belmar,2,,
+OFFENSE 2.0,15019669,9489,Found Property,09:05,Smithfield St & Blvd Of The Allies,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15019936,3921,Theft by Unlawful Taking or Disposition.,13:00,500 block William Penn Pl,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15019730,4101,Forgery.,14:13,300 block Smithfield St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15019770,13(a)(31),Marijuana: Possession Small Amount,15:42,5th Ave & Smithfield St,Golden Triangle/Civic Arena,2,,
+ARREST,15019770,13(a)(31),Marijuana: Possession Small Amount,15:42,5th Ave & Smithfield St,Golden Triangle/Civic Arena,2,26,M
+ARREST,15019788,3503(b)(1)(ii),Defiant Trespass Notice Posted by Sign(s),16:12,200 block 5th Ave,Golden Triangle/Civic Arena,2,20,M
+OFFENSE 2.0,15019788,3503(b)(1)(ii),Defiant Trespass Notice Posted by Sign(s),16:12,200 block 5th Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15019844,5505,Public Drunkenness,17:23,Centre Ave & Erin St,Middle Hill,2,,
+OFFENSE 2.0,15019886,3701,Robbery.,18:21,1800 block Centre Ave,Crawford-Roberts,2,,
+OFFENSE 2.0,15020300,9504,Lost Property,19:40,11th Ave,Squirrel Hill North,2,,
+OFFENSE 2.0,15019959,9497,Aided Case,20:43,5300 block Keystone St,Upper Lawrenceville,2,,
+OFFENSE 2.0,15019442,3745,Accidents Involving Damage to Unattended Veh.or Prop.,01:00,400 block Brownsville Rd,Knoxville,3,,
+OFFENSE 2.0,15019492,3921,Theft by Unlawful Taking or Disposition.,02:46,100 block Freeland St,Beltzhoover,3,,
+OFFENSE 2.0,15019507,3934,Theft from Vehicle,03:30,100 block S 15th St,South Side Flats,3,,
+OFFENSE 2.0,15019507,3304,Criminal Mischief.,03:30,100 block S 15th St,South Side Flats,3,,
+OFFENSE 2.0,15019561,3304,Criminal Mischief.,07:00,700 block Brownsville Rd,Knoxville,3,,
+OFFENSE 2.0,15019596,3745,Accidents Involving Damage to Unattended Veh.or Prop.,08:00,2600 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15019726,9489,Found Property,14:10,2200 block Almont St,Carrick,3,,
+ARREST,14197429,4581,Restraint Systems.,15:00,Merrimac St & Virginia Ave,Golden Triangle/Civic Arena,3,23,F
+ARREST,14197429,3928,Unauthorized Use of Automobile and Other Vehicles.,15:00,Merrimac St & Virginia Ave,Golden Triangle/Civic Arena,3,23,F
+ARREST,14197429,3322,Vehicle Turning Left.,15:00,Merrimac St & Virginia Ave,Golden Triangle/Civic Arena,3,23,F
+ARREST,14197429,1501,Drivers Required to be Licensed.,15:00,Merrimac St & Virginia Ave,Golden Triangle/Civic Arena,3,23,F
+OFFENSE 2.0,15019772,4106,Access Device Fraud,15:15,Carrick Ave,Carrick,3,,
+OFFENSE 2.0,15019772,3921,Theft by Unlawful Taking or Disposition.,15:15,Carrick Ave,Carrick,3,,
+OFFENSE 2.0,15019656,13(a)(30),Possession w/ Intent to Del. Controlled Substance,16:00,800 block E Warrington Ave,Allentown,3,,
+OFFENSE 2.0,15019656,13(a)(16),Possession of Controlled Substance,16:00,800 block E Warrington Ave,Allentown,3,,
+OFFENSE 2.0,15019793,601.11(a),Littering and Dumping; Any waste  dangerous or detrimental substance upon public property,16:40,1900 block WHARTON St,South Side Flats,3,,
+OFFENSE 2.0,15019827,9497,Aided Case,17:20,600 block Boggs Ave,Mount Washington,3,,
+OFFENSE 2.0,15020243,4103,Fraud. Destruct.  Remov. or Conceal.of Record. Instr.,20:30,400 block Ariston St,Carrick,3,,
+OFFENSE 2.0,15020243,4120,Identity Theft,20:30,400 block Ariston St,Carrick,3,,
+OFFENSE 2.0,15019965,9498,302 (Mental),20:50,Sarah St & S 14th St,South Side Flats,3,,
+OFFENSE 2.0,15019965,5505,Public Drunkenness,20:50,Sarah St & S 14th St,South Side Flats,3,,
+OFFENSE 2.0,15019965,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,20:50,Sarah St & S 14th St,South Side Flats,3,,
+ARREST,15019965,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,20:55,Sarah St & S 14th St,South Side Flats,3,22,F
+ARREST,15019965,5505,Public Drunkenness,20:55,Sarah St & S 14th St,South Side Flats,3,22,F
+ARREST,15019965,9498,302 (Mental),20:55,Sarah St & S 14th St,South Side Flats,3,22,F
+OFFENSE 2.0,15020015,9504,Lost Property,22:00,800 block Warrington Ave,Greenfield,3,,
+OFFENSE 2.0,15019805,3934,Theft from Vehicle,07:00,5300 block Gertrude St,Hazelwood,4,,
+OFFENSE 2.0,15019630,3934,Theft from Vehicle,09:00,Cust St,Hazelwood,4,,
+ARREST,15009470,3502,Burglary.,11:00,200 block Glenwood Ave,Golden Triangle/Civic Arena,4,16,M
+ARREST,15009470,3921,Theft by Unlawful Taking or Disposition.,11:00,200 block Glenwood Ave,Golden Triangle/Civic Arena,4,16,M
+OFFENSE 2.0,15019675,3929,Retail Theft.,12:00,1700 block Murray Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,15021018,3921,Theft by Unlawful Taking or Disposition.,12:30,3200 block Dawson St,South Oakland,4,,
+OFFENSE 2.0,15020354,3745,Accidents Involving Damage to Unattended Veh.or Prop.,13:00,200 block S Highland Ave,Shadyside,4,,
+OFFENSE 2.0,15019697,3921,Theft by Unlawful Taking or Disposition.,13:30,5000 block LOUGEAN Ave,Lincoln Place,4,,
+OFFENSE 2.0,15019760,3502,Burglary.,13:50,200 block East End Ave,Point Breeze,4,,
+OFFENSE 2.0,15020282,4106,Access Device Fraud,18:00,5800 block FORBES Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,15019894,3921,Theft by Unlawful Taking or Disposition.,18:30,5800 block Ellsworth Ave,Shadyside,4,,
+OFFENSE 2.0,15019917,3934,Theft from Vehicle,19:00,300 block Winston St,Hazelwood,4,,
+OFFENSE 2.0,15019978,9496,Dead on Arrival (DOA),21:17,6300 block Alderson St,Squirrel Hill South,4,,
+OFFENSE 2.0,15019797,3921,Theft by Unlawful Taking or Disposition.,00:01,500 block Larimer Ave,Larimer,5,,
+OFFENSE 2.0,15019797,4106,Access Device Fraud,00:01,500 block Larimer Ave,Larimer,5,,
+OFFENSE 2.0,15019429,2709(a)(6),Harassment Communicates Repeatedly at Extreme Hours,00:05,1400 block N Homewood Ave,Homewood North,5,,
+OFFENSE 2.0,15019456,2707.1,Discharge of a Firearm into Occupied Structure,01:08,500 block Oakwood St,East Hills,5,,
+OFFENSE 2.0,15019563,3745,Accidents Involving Damage to Unattended Veh.or Prop.,07:00,5700 block Bunkerhill St,Highland Park,5,,
+OFFENSE 2.0,15019557,9999,9999 - (Misc. Incident): 9999 - (Misc. Incident): furnace malfunction,07:38,600 block Haverhill St,East Hills,5,,
+OFFENSE 2.0,15019713,2709,Harassment (Non-Specific),09:10,5600 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,15019745,4101,Forgery.,12:00,5000 block S Negley Ave,East Liberty,5,,
+OFFENSE 2.0,15019943,9999,9999 - (Misc. Incident): ,00:01,800 block Dubois St,Crafton Heights,6,,
+OFFENSE 2.0,15019954,9999,9999 - (Misc. Incident): ,00:01,1800 block Hethlon St,Westwood,6,,
+OFFENSE 2.0,15019450,2701,Simple Assault.,00:59,800 block Coast Ave,Beechview,6,,
+ARREST,15019450,2701,Simple Assault.,01:15,800 block Coast Ave,Beechview,6,49,F
+OFFENSE 2.0,15019024,9488,False  Burglar Alarm,03:05,3100 block Banksville Rd,Banksville,6,,
+OFFENSE 2.0,15019535,3921(a),Theft by Unlawful Taking or Disposition - Movable item,05:20,3400 block Chartiers Ave,Sheraden,6,,
+OFFENSE 2.0,15019718,3301(d.1),Dangerous Burning,13:40,600 block Hillsboro St,Sheraden,6,,
+OFFENSE 2.0,15019789,9496,Dead on Arrival (DOA),16:00,1300 block Wareman Ave,Brookline,6,,
+OFFENSE 2.0,15019846,9488,False  Burglar Alarm,17:40,300 block Crane Ave,Beechview,6,,
+OFFENSE 2.0,15019926,9488,False  Burglar Alarm,19:29,3149 Banksville Rd,Banksville,6,,
+OFFENSE 2.0,15019472,9999,9999 - (Misc. Incident): Police Vehicle collision,01:50,Beechford Rd,Outside City,OSC,,
