@@ -1,0 +1,137 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,15026017,3802(a)(1),DUI - General Impairment,02/13/2015,02:12,Chateau St & Columbus Ave,Manchester,1,,
+ARREST,15026017,3802(a)(1),DUI - General Impairment,02/13/2015,02:20,Chateau St & Columbus Ave,Manchester,1,25,F
+OFFENSE 2.0,15026120,3934,Theft from Vehicle,02/13/2015,09:30,200 block federal St,North Shore,1,,
+OFFENSE 2.0,15026117,9488,False  Burglar Alarm,02/13/2015,09:42,1800 block Niggel St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,15026129,029,Missing Juvenile,02/13/2015,09:59,300 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,15026143,029,Missing Juvenile,02/13/2015,11:00,3800 block Brighton Rd,Brighton Heights,1,,
+OFFENSE 2.0,15026165,029,Missing Juvenile,02/13/2015,11:46,Perrysville Ave & N Charles St,Perry South,1,,
+OFFENSE 2.0,15026171,9489,Found Property,02/13/2015,11:55,800 block Phineas St,East Allegheny,1,,
+OFFENSE 2.0,15026335,9999,9999 - (Misc. Incident): Firearms turned in for destruction,02/13/2015,17:45,1600 block Perrysville Ave,Perry South,1,,
+OFFENSE 2.0,15026452,029,Missing Juvenile,02/13/2015,20:15,200 block Ridge Ave,Allegheny Center,1,,
+OFFENSE 2.0,15026464,029,Missing Juvenile,02/13/2015,20:15,200 block Ridge Ave,Allegheny Center,1,,
+ARREST,14165993,3921,Theft by Unlawful Taking or Disposition.,02/13/2015,21:50,100 block Federal St S,North Shore,1,47,M
+OFFENSE 2.0,15026545,9490,Missing Persons (18 and Over),02/13/2015,22:40,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,15026556,9498,302 (Mental),02/13/2015,23:48,1900 block Bader St,Spring Hill-City View,1,,
+OFFENSE 2.0,15025970,3304,Criminal Mischief.,02/13/2015,00:37,Lyon St & Cherokee St,Upper Hill,2,,
+OFFENSE 2.0,15026008,2707.1,Discharge of a Firearm into Occupied Structure,02/13/2015,00:45,800 block Bryn Mawr Rd,Upper Hill,2,,
+OFFENSE 2.0,15026070,3921,Theft by Unlawful Taking or Disposition.,02/13/2015,07:45,400 block Smithfield St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15026159,3921(a),Theft by Unlawful Taking or Disposition - Movable item,02/13/2015,11:00,300 block Dinwiddie St,Crawford-Roberts,2,,
+OFFENSE 2.0,15026147,9488,False  Burglar Alarm,02/13/2015,11:12,300 block 5th Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15026226,9488,False  Burglar Alarm,02/13/2015,13:55,3000 block Terrace St,Terrace Village,2,,
+OFFENSE 2.0,15026325,2701,Simple Assault.,02/13/2015,15:40,300 block Burrows St,Terrace Village,2,,
+OFFENSE 2.0,15026325,2709(a),Harassment.,02/13/2015,15:40,300 block Burrows St,Terrace Village,2,,
+ARREST,14166985,5121,Escape.,02/13/2015,16:00,300 block Blvd Of The Allies,Golden Triangle/Civic Arena,2,23,M
+ARREST,14166985,5123,Contraband.,02/13/2015,16:00,300 block Blvd Of The Allies,Golden Triangle/Civic Arena,2,23,M
+ARREST,14166985,13(a)(16),Possession of Controlled Substance,02/13/2015,16:00,300 block Blvd Of The Allies,Golden Triangle/Civic Arena,2,23,M
+OFFENSE 2.0,15026356,2706,Terroristic Threats.,02/13/2015,16:37,38th St,Lower Lawrenceville,2,,
+OFFENSE 2.0,15026356,2709(a)(4),Harassment Communicates Prohibited Acts,02/13/2015,16:37,38th St,Lower Lawrenceville,2,,
+OFFENSE 2.0,15026316,3929,Retail Theft.,02/13/2015,16:45,1700 block Penn Ave,Strip District,2,,
+OFFENSE 2.0,15026316,2702,Aggravated Assault.,02/13/2015,16:45,1700 block Penn Ave,Strip District,2,,
+OFFENSE 2.0,15026316,2701,Simple Assault.,02/13/2015,16:45,1700 block Penn Ave,Strip District,2,,
+OFFENSE 2.0,15026316,5104,Resisting Arrest or Other Law Enforcement.,02/13/2015,16:45,1700 block Penn Ave,Strip District,2,,
+ARREST,15026316,5104,Resisting Arrest or Other Law Enforcement.,02/13/2015,16:45,1700 block Penn Ave,Strip District,2,,M
+ARREST,15026316,2701,Simple Assault.,02/13/2015,16:45,1700 block Penn Ave,Strip District,2,,M
+ARREST,15026316,2702,Aggravated Assault.,02/13/2015,16:45,1700 block Penn Ave,Strip District,2,,M
+ARREST,15026316,3929,Retail Theft.,02/13/2015,16:45,1700 block Penn Ave,Strip District,2,,M
+ARREST,15026373,3929,Retail Theft.,02/13/2015,18:16,300 block 6th Ave,Golden Triangle/Civic Arena,2,25,M
+OFFENSE 2.0,15026373,3929,Retail Theft.,02/13/2015,18:16,300 block 6th Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15026380,2701,Simple Assault.,02/13/2015,18:27,3700 block Peoria Way,Lower Lawrenceville,2,,
+OFFENSE 2.0,15026380,2707,Propulsion of Missiles ,02/13/2015,18:27,3700 block Peoria Way,Lower Lawrenceville,2,,
+ARREST,15026380,2707,Propulsion of Missiles ,02/13/2015,18:35,3700 block Peoria Way,Lower Lawrenceville,2,29,M
+ARREST,15026380,2701,Simple Assault.,02/13/2015,18:35,3700 block Peoria Way,Lower Lawrenceville,2,29,M
+ARREST,15026394,13(a)(31),Marijuana: Possession Small Amount,02/13/2015,18:43,Bigelow Blvd & Herron Ave,Strip District,2,27,M
+ARREST,15026394,3334,Turning Movements and Required Signals.,02/13/2015,18:43,Bigelow Blvd & Herron Ave,Strip District,2,27,M
+OFFENSE 2.0,15026394,13(a)(31),Marijuana: Possession Small Amount,02/13/2015,18:50,Bigelow Blvd & Herron Ave,Strip District,2,,
+OFFENSE 2.0,15026394,3334,Turning Movements and Required Signals.,02/13/2015,18:50,Bigelow Blvd & Herron Ave,Strip District,2,,
+OFFENSE 2.0,15026571,2701,Simple Assault.,02/13/2015,23:41,400 block North Shore Dr,Allegheny Center,2,,
+OFFENSE 2.0,15026571,3503(b)(1)(ii),Defiant Trespass Notice Posted by Sign(s),02/13/2015,23:41,400 block North Shore Dr,Allegheny Center,2,,
+OFFENSE 2.0,15026571,5104,Resisting Arrest or Other Law Enforcement.,02/13/2015,23:41,400 block North Shore Dr,Allegheny Center,2,,
+OFFENSE 2.0,15026571,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,02/13/2015,23:41,400 block North Shore Dr,Allegheny Center,2,,
+ARREST,15026571,5505,Public Drunkenness,02/13/2015,23:41,400 block North Shore Dr,Allegheny Center,2,,F
+ARREST,15026571,2701,Simple Assault.,02/13/2015,23:41,400 block North Shore Dr,Allegheny Center,2,,F
+ARREST,15026571,3503(b)(1)(ii),Defiant Trespass Notice Posted by Sign(s),02/13/2015,23:41,400 block North Shore Dr,Allegheny Center,2,,F
+ARREST,15026571,5104,Resisting Arrest or Other Law Enforcement.,02/13/2015,23:41,400 block North Shore Dr,Allegheny Center,2,,F
+ARREST,15026571,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,02/13/2015,23:41,400 block North Shore Dr,Allegheny Center,2,,F
+OFFENSE 2.0,15026571,5505,Public Drunkenness,02/13/2015,23:41,400 block North Shore Dr,Allegheny Center,2,,
+OFFENSE 2.0,15026028,2701,Simple Assault.,02/13/2015,02:50,1600 block Nobles Ln,Carrick,3,,
+OFFENSE 2.0,15026105,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/13/2015,08:00,Carey Way & S 17th St,South Side Flats,3,,
+OFFENSE 2.0,15026094,9018,Accidental Fire,02/13/2015,09:00,300 block Sunnyland Ave,Carrick,3,,
+OFFENSE 2.0,15026279,3929,Retail Theft.,02/13/2015,12:30,1100 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,15026272,3502,Burglary.,02/13/2015,15:42,1600 block Sterling St,South Side Slopes,3,,
+OFFENSE 2.0,15026281,9123,Miscellaneous Fire Other Investigation to Continue,02/13/2015,15:50,200 block Nobles Ln,Carrick,3,,
+OFFENSE 2.0,15026315,2701,Simple Assault.,02/13/2015,16:41,200 block Knox Ave,Knoxville,3,,
+ARREST,15026315,2701,Simple Assault.,02/13/2015,16:57,200 block Knox Ave,Knoxville,3,50,F
+OFFENSE 2.0,15026541,3502,Burglary.,02/13/2015,20:20,200 block Helen Way,Allentown,3,,
+OFFENSE 2.0,15026541,3701,Robbery.,02/13/2015,20:20,200 block Helen Way,Allentown,3,,
+OFFENSE 2.0,15026542,029,Missing Juvenile,02/13/2015,22:37,300 block Climax St,Beltzhoover,3,,
+OFFENSE 2.0,15026542,3921,Theft by Unlawful Taking or Disposition.,02/13/2015,22:37,300 block Climax St,Beltzhoover,3,,
+OFFENSE 2.0,15026573,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,02/13/2015,23:40,S 17th St & Wrights Way,South Side Flats,3,,
+OFFENSE 2.0,15026173,3921(a),Theft by Unlawful Taking or Disposition - Movable item,02/13/2015,02:00,3200 block Niagara St,South Oakland,4,,
+ARREST,14190691,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,02/13/2015,12:35,1100 block Greenfield Ave,Golden Triangle/Civic Arena,4,28,M
+ARREST,14190691,5505,Public Drunkenness,02/13/2015,12:35,1100 block Greenfield Ave,Golden Triangle/Civic Arena,4,28,M
+OFFENSE 2.0,15026211,3929,Retail Theft.,02/13/2015,13:00,6300 block Shakespeare St,Shadyside,4,,
+ARREST,15026211,3929,Retail Theft.,02/13/2015,13:00,6300 block Shakespeare St,Shadyside,4,23,F
+OFFENSE 2.0,15026277,3743,Accidents Involving Damage to Attended Veh. or Property,02/13/2015,13:35,Forbes Ave & S Craig St,Squirrel Hill North,4,,
+OFFENSE 2.0,15026275,9999,9999 - (Misc. Incident): ,02/13/2015,14:00,6600 block Rosemoor St,Squirrel Hill South,4,,
+OFFENSE 2.0,15026267,3921(a),Theft by Unlawful Taking or Disposition - Movable item,02/13/2015,15:25,5100 block 5th Ave,Shadyside,4,,
+OFFENSE 2.0,15026336,9497,Aided Case,02/13/2015,17:22,6300 block Walnut St,Shadyside,4,,
+ARREST,15026353,3809(a),Restriction on Alcoholic Beverages in Vehicle,02/13/2015,17:41,2nd Ave & Technology Center Dr,South Oakland,4,39,M
+ARREST,15026353,3802(a)(1),DUI - General Impairment,02/13/2015,17:41,2nd Ave & Technology Center Dr,South Oakland,4,39,M
+ARREST,15026353,3714,Careless Driving,02/13/2015,17:41,2nd Ave & Technology Center Dr,South Oakland,4,39,M
+OFFENSE 2.0,15026353,3809(a),Restriction on Alcoholic Beverages in Vehicle,02/13/2015,17:45,2nd Ave & Technology Center Dr,South Oakland,4,,
+OFFENSE 2.0,15026353,3802(a)(1),DUI - General Impairment,02/13/2015,17:45,2nd Ave & Technology Center Dr,South Oakland,4,,
+OFFENSE 2.0,15026353,3714,Careless Driving,02/13/2015,17:45,2nd Ave & Technology Center Dr,South Oakland,4,,
+OFFENSE 2.0,15026369,9999,9999 - (Misc. Incident): 9999 - (Misc. Incident): Transformer Explosion,02/13/2015,18:08,500 block N Craig St,North Oakland,4,,
+OFFENSE 2.0,15026408,3502,Burglary.,02/13/2015,19:20,2200 block Beechwood Blvd,Squirrel Hill South,4,,
+ARREST,15025955,3702,Robbery of Motor Vehicle.,02/13/2015,01:07,1000 block Silverdale St,Homewood North,5,15,M
+ARREST,15025955,13(a)(31),Marijuana: Possession Small Amount,02/13/2015,01:07,1000 block Silverdale St,Homewood North,5,15,M
+ARREST,15025955,6110.1,Possesion of Firearm by Minor,02/13/2015,01:07,1000 block Silverdale St,Homewood North,5,15,M
+ARREST,15025955,6106,Firearms not to be Carried without a License.,02/13/2015,01:07,1000 block Silverdale St,Homewood North,5,15,M
+OFFENSE 2.0,15026042,2701,Simple Assault.,02/13/2015,01:46,Frankstown Ave & Brushton Ave,Homewood North,5,,
+OFFENSE 2.0,15026004,9018,Accidental Fire,02/13/2015,01:52,8300 block Bricelyn St,East Hills,5,,
+OFFENSE 2.0,15026023,2705,Recklessly Endangering Another Person.,02/13/2015,02:45,8100 block frankstown Ave,East Hills,5,,
+OFFENSE 2.0,15026023,3502,Burglary.,02/13/2015,02:45,8100 block frankstown Ave,East Hills,5,,
+OFFENSE 2.0,15026023,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,02/13/2015,02:45,8100 block frankstown Ave,East Hills,5,,
+ARREST,15026023,2705,Recklessly Endangering Another Person.,02/13/2015,02:57,8100 block frankstown Ave,East Hills,5,49,F
+ARREST,15026023,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,02/13/2015,02:57,8100 block frankstown Ave,East Hills,5,49,F
+ARREST,15026023,3502,Burglary.,02/13/2015,02:57,8100 block frankstown Ave,East Hills,5,49,F
+OFFENSE 2.0,15026030,3502,Burglary.,02/13/2015,03:12,7000 block Frankstown Ave,Homewood South,5,,
+OFFENSE 2.0,15026360,3304,Criminal Mischief.,02/13/2015,09:00,7600 block Bennett St,Homewood South,5,,
+OFFENSE 2.0,15026128,4120,Identity Theft,02/13/2015,09:57,5400 block Stanton Ave,Morningside,5,,
+ARREST,15015731,3929,Retail Theft.,02/13/2015,11:50,5600 block Baum Blvd,Friendship,5,26,F
+ARREST,13008131,2501,Criminal Homicide.,02/13/2015,13:00,300 block N Negley Ave,East Liberty,5,20,M
+OFFENSE 2.0,15026209,2709,Harassment (Non-Specific),02/13/2015,13:16,5600 block Penn Ave,East Liberty,5,,
+ARREST,15026228,3334,Turning Movements and Required Signals.,02/13/2015,13:50,Lemington Ave & Paulson Ave,Lincoln-Lemington-Belmar,5,22,M
+ARREST,15026228,1543,Driving While Operating Privilege is Suspended or Revoked.,02/13/2015,13:50,Lemington Ave & Paulson Ave,Lincoln-Lemington-Belmar,5,22,M
+ARREST,15026228,13(a)(31),Marijuana: Possession Small Amount,02/13/2015,13:50,Lemington Ave & Paulson Ave,Lincoln-Lemington-Belmar,5,22,M
+ARREST,15026228,13(a)(16),Possession of Controlled Substance,02/13/2015,13:50,Lemington Ave & Paulson Ave,Lincoln-Lemington-Belmar,5,22,M
+OFFENSE 2.0,15026228,1543,Driving While Operating Privilege is Suspended or Revoked.,02/13/2015,13:50,Lemington Ave & Paulson Ave,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15026228,13(a)(31),Marijuana: Possession Small Amount,02/13/2015,13:50,Lemington Ave & Paulson Ave,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15026228,13(a)(16),Possession of Controlled Substance,02/13/2015,13:50,Lemington Ave & Paulson Ave,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15026228,3334,Turning Movements and Required Signals.,02/13/2015,13:50,Lemington Ave & Paulson Ave,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15026298,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,02/13/2015,16:20,1000 block Brushton Ave,Homewood North,5,,
+ARREST,15026323,3736,Reckless Driving,02/13/2015,17:00,Kelly St & N Braddock Ave,Homewood South,5,19,M
+ARREST,15026323,3733,Fleeing or Attempting to Elude Police Officer,02/13/2015,17:00,Kelly St & N Braddock Ave,Homewood South,5,19,M
+ARREST,15026323,3323,Stop Signs and Yield Signs.,02/13/2015,17:00,Kelly St & N Braddock Ave,Homewood South,5,19,M
+ARREST,15026323,3112,Traffic-Control Signals.,02/13/2015,17:00,Kelly St & N Braddock Ave,Homewood South,5,19,M
+ARREST,15026323,4303,General Lighting Requirements.,02/13/2015,17:00,Kelly St & N Braddock Ave,Homewood South,5,19,M
+ARREST,15026323,2705,Recklessly Endangering Another Person.,02/13/2015,17:00,Kelly St & N Braddock Ave,Homewood South,5,19,M
+OFFENSE 2.0,15026323,4303,General Lighting Requirements.,02/13/2015,17:45,Kelly St & N Braddock Ave,Homewood South,5,,
+OFFENSE 2.0,15026323,3736,Reckless Driving,02/13/2015,17:45,Kelly St & N Braddock Ave,Homewood South,5,,
+OFFENSE 2.0,15026323,3733,Fleeing or Attempting to Elude Police Officer,02/13/2015,17:45,Kelly St & N Braddock Ave,Homewood South,5,,
+OFFENSE 2.0,15026323,3323,Stop Signs and Yield Signs.,02/13/2015,17:45,Kelly St & N Braddock Ave,Homewood South,5,,
+OFFENSE 2.0,15026323,2705,Recklessly Endangering Another Person.,02/13/2015,17:45,Kelly St & N Braddock Ave,Homewood South,5,,
+OFFENSE 2.0,15026323,3112,Traffic-Control Signals.,02/13/2015,17:45,Kelly St & N Braddock Ave,Homewood South,5,,
+OFFENSE 2.0,15026412,3921(a),Theft by Unlawful Taking or Disposition - Movable item,02/13/2015,19:08,400 block N Graham St,Garfield,5,,
+OFFENSE 2.0,15026569,9999,9999 - (Misc. Incident): ,02/13/2015,23:59,800 block Freeport Rd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15026107,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/13/2015,08:36,1600 block Suburban Ave,Beechview,6,,
+OFFENSE 2.0,15026293,3502,Burglary.,02/13/2015,15:45,1200 block Faust St,Sheraden,6,,
+OFFENSE 2.0,15026326,1543,Driving While Operating Privilege is Suspended or Revoked.,02/13/2015,16:59,Chartiers Ave & Marlow St,Elliott,6,,
+OFFENSE 2.0,15026326,13(a)(31),Marijuana: Possession Small Amount,02/13/2015,16:59,Chartiers Ave & Marlow St,Elliott,6,,
+OFFENSE 2.0,15026326,1786,Required Financial Responsibility.,02/13/2015,16:59,Chartiers Ave & Marlow St,Elliott,6,,
+ARREST,15026326,13(a)(31),Marijuana: Possession Small Amount,02/13/2015,17:10,Chartiers Ave & Marlow St,Elliott,6,35,F
+ARREST,15026326,1543,Driving While Operating Privilege is Suspended or Revoked.,02/13/2015,17:10,Chartiers Ave & Marlow St,Elliott,6,35,F
+ARREST,15026326,1786,Required Financial Responsibility.,02/13/2015,17:10,Chartiers Ave & Marlow St,Elliott,6,35,F
+OFFENSE 2.0,15026430,9129,Miscellaneous Investigation,02/13/2015,19:59,Wind Gap Ave & Chartiers Ave,Windgap,6,,
+OFFENSE 2.0,15026557,9999,9999 - (Misc. Incident): ,02/13/2015,23:10,Saw Mill Run Blvd & Steuben St,West End,6,,
