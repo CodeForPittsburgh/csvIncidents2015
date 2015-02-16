@@ -1,0 +1,138 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,15027194,2709(a),Harassment.,02/15/2015,00:16,700 block Cedar Ave,East Allegheny,1,,
+OFFENSE 2.0,15027210,9488,False  Burglar Alarm,02/15/2015,00:40,1400 block Monterey St,Central Northside,1,,
+OFFENSE 2.0,15027224,9488,False  Burglar Alarm,02/15/2015,00:59,4000 block Franklin Rd,Perry North,1,,
+OFFENSE 2.0,15027223,9488,False  Burglar Alarm,02/15/2015,01:04,3500 block Mc Clure Ave,Brighton Heights,1,,
+OFFENSE 2.0,15027229,9488,False  Burglar Alarm,02/15/2015,01:12,700 block E Lacock St,North Shore,1,,
+OFFENSE 2.0,15027228,9488,False  Burglar Alarm,02/15/2015,01:32,1900 block Clayton Ave,Perry South,1,,
+OFFENSE 2.0,15027234,9488,False  Burglar Alarm,02/15/2015,01:34,2900 block Beaver Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,15027317,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,02/15/2015,05:47,100 block Lafayette Ave,Perry South,1,,
+ARREST,15027317,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,02/15/2015,06:18,100 block Lafayette Ave,Perry South,1,21,F
+OFFENSE 2.0,15027322,9488,False  Burglar Alarm,02/15/2015,06:25,2900 block Beaver Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,15027354,2701,Simple Assault.,02/15/2015,07:38,1600 block Sandusky Ct,Fineview,1,,
+ARREST,15027354,2701,Simple Assault.,02/15/2015,07:50,1600 block Sandusky Ct,Fineview,1,48,M
+OFFENSE 2.0,15027361,9488,False  Burglar Alarm,02/15/2015,09:06,300 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,15027385,9999,9999 - (Misc. Incident): 9999 - (Misc. Incident): 9999 - (Misc. Incident): ,02/15/2015,10:29,Allegheny Ave,Chateau,1,,
+OFFENSE 2.0,15027530,9093,Indirect Criminal Contempt,02/15/2015,14:22,500 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,15027538,2705,Recklessly Endangering Another Person.,02/15/2015,15:15,300 block E North Ave,Allegheny Center,1,,
+OFFENSE 2.0,15027538,2702,Aggravated Assault.,02/15/2015,15:15,300 block E North Ave,Allegheny Center,1,,
+OFFENSE 2.0,15027537,029,Missing Juvenile,02/15/2015,15:30,3800 block Brighton Rd,Brighton Heights,1,,
+OFFENSE 2.0,15027574,13(a)(16),Possession of Controlled Substance,02/15/2015,17:00,300 block E North Ave,Allegheny Center,1,,
+OFFENSE 2.0,15027559,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/15/2015,17:06,1400 block Geyer Ave,Marshall-Shadeland,1,,
+ARREST,15027574,13(a)(16),Possession of Controlled Substance,02/15/2015,17:20,300 block E North Ave,Allegheny Center,1,25,M
+OFFENSE 2.0,15027564,029,Missing Juvenile,02/15/2015,17:25,4000 block Perrysville Ave,Perry North,1,,
+OFFENSE 2.0,15027613,2709.2,Stalking Conduct or Repeatedly Communicates,02/15/2015,18:51,300 block Elsdon St,Perry South,1,,
+OFFENSE 2.0,15027613,2706,Terroristic Threats.,02/15/2015,18:51,300 block Elsdon St,Perry South,1,,
+OFFENSE 2.0,15027613,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,02/15/2015,18:51,300 block Elsdon St,Perry South,1,,
+OFFENSE 2.0,15027635,3743,Accidents Involving Damage to Attended Veh. or Property,02/15/2015,19:20,Somewhere On Crosstown Blvd,Mt. Oliver Boro,1,,
+ARREST,15027747,3714,Careless Driving,02/15/2015,23:58,3500 block SPRING GARDEN Ave,Spring Hill-City View,1,17,M
+ARREST,15027747,3925,Receiving Stolen Property.,02/15/2015,23:58,3500 block SPRING GARDEN Ave,Spring Hill-City View,1,17,M
+ARREST,15027747,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,02/15/2015,23:58,3500 block SPRING GARDEN Ave,Spring Hill-City View,1,17,M
+OFFENSE 2.0,15027339,3304,Criminal Mischief.,02/15/2015,01:30,1100 block Penn Ave,Strip District,2,,
+OFFENSE 2.0,15027276,2702,Aggravated Assault.,02/15/2015,03:00,1400 block Centre Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15027276,2701,Simple Assault.,02/15/2015,03:00,1400 block Centre Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15027276,903,Criminal Conspiracy.,02/15/2015,03:00,1400 block Centre Ave,Golden Triangle/Civic Arena,2,,
+ARREST,15027276,903,Criminal Conspiracy.,02/15/2015,03:59,1400 block Centre Ave,Golden Triangle/Civic Arena,2,23,M
+ARREST,15027276,2702,Aggravated Assault.,02/15/2015,03:59,1400 block Centre Ave,Golden Triangle/Civic Arena,2,23,M
+ARREST,15027276,2701,Simple Assault.,02/15/2015,03:59,1400 block Centre Ave,Golden Triangle/Civic Arena,2,23,M
+ARREST,15027276,903,Criminal Conspiracy.,02/15/2015,03:59,1400 block Centre Ave,Golden Triangle/Civic Arena,2,24,M
+ARREST,15027276,2702,Aggravated Assault.,02/15/2015,03:59,1400 block Centre Ave,Golden Triangle/Civic Arena,2,24,M
+ARREST,15027276,2701,Simple Assault.,02/15/2015,03:59,1400 block Centre Ave,Golden Triangle/Civic Arena,2,24,M
+OFFENSE 2.0,15027420,3304,Criminal Mischief.,02/15/2015,11:30,400 block Garner Ct,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15027420,901,Criminal Attempt,02/15/2015,11:30,400 block Garner Ct,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15027432,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/15/2015,12:00,Stanton Ave & Carnegie St,Central Lawrenceville,2,,
+OFFENSE 2.0,15027442,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/15/2015,12:00,Stanton Ave & Carnegie St,Central Lawrenceville,2,,
+OFFENSE 2.0,15027669,2709(a)(5),Harassment Communicates Repeatedly in Anonymous Manner,02/15/2015,15:00,400 block 7th Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15027617,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/15/2015,19:05,200 block Burrows St,Middle Hill,2,,
+OFFENSE 2.0,15027218,3743,Accidents Involving Damage to Attended Veh. or Property,02/15/2015,00:22,200 block Madeline St,Carrick,3,,
+OFFENSE 2.0,15027199,601.08(a),Alcohol or Liquor Consumption on Streets or Sidewalks,02/15/2015,00:45,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15027278,3502,Burglary.,02/15/2015,01:30,400 block Jucunda St,Knoxville,3,,
+ARREST,15027198,2701,Simple Assault.,02/15/2015,01:45,200 block Arabella St,Knoxville,3,23,M
+ARREST,15027198,3921(a),Theft by Unlawful Taking or Disposition - Movable item,02/15/2015,01:45,200 block Arabella St,Knoxville,3,23,M
+OFFENSE 2.0,15027251,3353,Prohibitions in Specified Places.,02/15/2015,02:13,2400 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15027251,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,02/15/2015,02:13,2400 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15027251,3802(a)(1),DUI - General Impairment,02/15/2015,02:13,2400 block E Carson St,South Side Flats,3,,
+ARREST,15027251,3353,Prohibitions in Specified Places.,02/15/2015,02:17,2400 block E Carson St,South Side Flats,3,42,M
+ARREST,15027251,3802(a)(1),DUI - General Impairment,02/15/2015,02:17,2400 block E Carson St,South Side Flats,3,42,M
+ARREST,15027251,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,02/15/2015,02:17,2400 block E Carson St,South Side Flats,3,42,M
+OFFENSE 2.0,15027260,3361, Driving Vehicle at Safe Speed.,02/15/2015,02:26,Josephine St & Greeley St,South Side Slopes,3,,
+ARREST,15027260,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,02/15/2015,02:26,Josephine St & Greeley St,South Side Slopes,3,19,M
+ARREST,15027260,3802(a)(1),DUI - General Impairment,02/15/2015,02:26,Josephine St & Greeley St,South Side Slopes,3,19,M
+ARREST,15027260,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/15/2015,02:26,Josephine St & Greeley St,South Side Slopes,3,19,M
+ARREST,15027260,3736,Reckless Driving,02/15/2015,02:26,Josephine St & Greeley St,South Side Slopes,3,19,M
+OFFENSE 2.0,15027260,13(a)(16),Possession of Controlled Substance,02/15/2015,02:26,Josephine St & Greeley St,South Side Slopes,3,,
+OFFENSE 2.0,15027260,13(a)(30),Possession w/ Intent to Del. Controlled Substance,02/15/2015,02:26,Josephine St & Greeley St,South Side Slopes,3,,
+OFFENSE 2.0,15027260,13(a)(32),Paraphernalia - Use or Possession,02/15/2015,02:26,Josephine St & Greeley St,South Side Slopes,3,,
+OFFENSE 2.0,15027260,1543,Driving While Operating Privilege is Suspended or Revoked.,02/15/2015,02:26,Josephine St & Greeley St,South Side Slopes,3,,
+OFFENSE 2.0,15027260,3736,Reckless Driving,02/15/2015,02:26,Josephine St & Greeley St,South Side Slopes,3,,
+OFFENSE 2.0,15027260,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/15/2015,02:26,Josephine St & Greeley St,South Side Slopes,3,,
+OFFENSE 2.0,15027260,3802(a)(1),DUI - General Impairment,02/15/2015,02:26,Josephine St & Greeley St,South Side Slopes,3,,
+OFFENSE 2.0,15027260,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,02/15/2015,02:26,Josephine St & Greeley St,South Side Slopes,3,,
+ARREST,15027260,13(a)(16),Possession of Controlled Substance,02/15/2015,02:26,Josephine St & Greeley St,South Side Slopes,3,19,M
+ARREST,15027260,13(a)(30),Possession w/ Intent to Del. Controlled Substance,02/15/2015,02:26,Josephine St & Greeley St,South Side Slopes,3,19,M
+ARREST,15027260,13(a)(32),Paraphernalia - Use or Possession,02/15/2015,02:26,Josephine St & Greeley St,South Side Slopes,3,19,M
+ARREST,15027260,1543,Driving While Operating Privilege is Suspended or Revoked.,02/15/2015,02:26,Josephine St & Greeley St,South Side Slopes,3,19,M
+ARREST,15027260,3361, Driving Vehicle at Safe Speed.,02/15/2015,02:26,Josephine St & Greeley St,South Side Slopes,3,19,M
+OFFENSE 2.0,15027298,9999,9999 - (Misc. Incident): ,02/15/2015,04:30,2000 block saw mill Rd,Duquesne Heights,3,,
+OFFENSE 2.0,15027543,9504,Lost Property,02/15/2015,08:00,100 block S 16th St,South Side Flats,3,,
+ARREST,14235122,2706,Terroristic Threats.,02/15/2015,08:10,800 block Roll St,Knoxville,3,28,M
+ARREST,14235122,2701(a)(3),Simple Assault - Attempts by Physical Menace ,02/15/2015,08:10,800 block Roll St,Knoxville,3,28,M
+ARREST,14235122,2709(a),Harassment.,02/15/2015,08:10,800 block Roll St,Knoxville,3,28,M
+OFFENSE 2.0,15027403,3929,Retail Theft.,02/15/2015,11:15,1100 block Brownsville Rd,Carrick,3,,
+ARREST,15027403,3929,Retail Theft.,02/15/2015,11:30,1100 block Brownsville Rd,Carrick,3,34,F
+ARREST,15026279,3929,Retail Theft.,02/15/2015,11:30,1100 block Brownsville Rd,Carrick,3,34,F
+OFFENSE 2.0,15027592,2701(a)(3),Simple Assault - Attempts by Physical Menace ,02/15/2015,18:05,2500 block Library Rd,Overbrook,3,,
+OFFENSE 2.0,15027592,3502,Burglary.,02/15/2015,18:05,2500 block Library Rd,Overbrook,3,,
+OFFENSE 2.0,15027592,3701,Robbery.,02/15/2015,18:05,2500 block Library Rd,Overbrook,3,,
+OFFENSE 2.0,15027624,4106,Access Device Fraud,02/15/2015,19:10,2300 block Valera St,Carrick,3,,
+OFFENSE 2.0,15027674,3701,Robbery.,02/15/2015,20:41,2500 block Sidney St,South Side Flats,3,,
+OFFENSE 2.0,15027674,2702,Aggravated Assault.,02/15/2015,20:41,2500 block Sidney St,South Side Flats,3,,
+OFFENSE 2.0,15027670,3802(a)(1),DUI - General Impairment,02/15/2015,21:15,Grandview Ave & Merrimac St,Mount Washington,3,,
+OFFENSE 2.0,15027670,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,02/15/2015,21:15,Grandview Ave & Merrimac St,Mount Washington,3,,
+ARREST,15027670,3736,Reckless Driving,02/15/2015,21:15,Grandview Ave & Merrimac St,Mount Washington,3,38,M
+ARREST,15027670,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,02/15/2015,21:15,Grandview Ave & Merrimac St,Mount Washington,3,38,M
+ARREST,15027670,3802(a)(1),DUI - General Impairment,02/15/2015,21:15,Grandview Ave & Merrimac St,Mount Washington,3,38,M
+OFFENSE 2.0,15027670,3736,Reckless Driving,02/15/2015,21:15,Grandview Ave & Merrimac St,Mount Washington,3,,
+OFFENSE 2.0,15027221,9018,Accidental Fire,02/15/2015,00:52,1000 block Welfer St,Greenfield,4,,
+OFFENSE 2.0,15027250,9122,Miscellaneous Fire Vehicle Investigation to Continue,02/15/2015,02:01,Cust St,Hazelwood,4,,
+OFFENSE 2.0,15027367,9488,False  Burglar Alarm,02/15/2015,09:28,1300 block Inverness Sq,South Oakland,4,,
+OFFENSE 2.0,15027527,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/15/2015,15:42,100 block Overlook Dr,Greenfield,4,,
+OFFENSE 2.0,15027519,9011,Gun Related,02/15/2015,16:06,5100 block Blair St,Hazelwood,4,,
+OFFENSE 2.0,15027659,9090,Recovered Firearm,02/15/2015,16:45,5100 block Blair St,Hazelwood,4,,
+ARREST,14234537,2702,Aggravated Assault.,02/15/2015,17:13,900 block Rosselle Ct,Glen Hazel,4,50,M
+ARREST,14234537,2705,Recklessly Endangering Another Person.,02/15/2015,17:13,900 block Rosselle Ct,Glen Hazel,4,50,M
+OFFENSE 2.0,15027628,3921(a),Theft by Unlawful Taking or Disposition - Movable item,02/15/2015,18:00,Garetta St,Greenfield,4,,
+OFFENSE 2.0,15027661,3929,Retail Theft.,02/15/2015,20:00,3400 block Forbes Ave,Central Oakland,4,,
+ARREST,15027661,3929,Retail Theft.,02/15/2015,20:25,3400 block Forbes Ave,Central Oakland,4,58,F
+OFFENSE 2.0,15027289,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/15/2015,03:35,2000 block Swissvale Ave,East Hills,5,,
+OFFENSE 2.0,15027366,3502,Burglary.,02/15/2015,08:00,Bracey Ct,East Liberty,5,,
+OFFENSE 2.0,15027359,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/15/2015,08:39,2000 block Frankella Ave,East Hills,5,,
+OFFENSE 2.0,15027437,9489,Found Property,02/15/2015,13:10,Baum Blvd & S Negley Ave,East Liberty,5,,
+OFFENSE 2.0,15027473,9093,Indirect Criminal Contempt,02/15/2015,13:51,5800 block Borland St,East Liberty,5,,
+OFFENSE 2.0,15027511,3701,Robbery.,02/15/2015,15:50,S Mathilda St & Friendship Ave,Bloomfield,5,,
+OFFENSE 2.0,15027534,9490,Missing Persons (18 and Over),02/15/2015,16:00,300 block S Negley Ave,Friendship,5,,
+OFFENSE 2.0,15027561,3304,Criminal Mischief.,02/15/2015,16:30,7300 block Finance St,Homewood South,5,,
+OFFENSE 2.0,15027561,3502,Burglary.,02/15/2015,16:30,7300 block Finance St,Homewood South,5,,
+OFFENSE 2.0,15027549,3502,Burglary.,02/15/2015,16:40,7300 block Finance St,Homewood South,5,,
+OFFENSE 2.0,15027594,3304,Criminal Mischief.,02/15/2015,18:07,5000 block Somerville St,Stanton Heights,5,,
+OFFENSE 2.0,15027594,9012,Non-Violent Domestic,02/15/2015,18:07,5000 block Somerville St,Stanton Heights,5,,
+OFFENSE 2.0,15027595,3502,Burglary.,02/15/2015,18:15,7600 block Frankstown Ave,Homewood South,5,,
+OFFENSE 2.0,15027644,3743,Accidents Involving Damage to Attended Veh. or Property,02/15/2015,19:50,N Negley Ave & Rippey St,Garfield,5,,
+OFFENSE 2.0,15027644,1786,Required Financial Responsibility.,02/15/2015,19:50,N Negley Ave & Rippey St,Garfield,5,,
+OFFENSE 2.0,15027644,1511,Carrying and Exhibiting Driver's License on Demand.,02/15/2015,19:50,N Negley Ave & Rippey St,Garfield,5,,
+OFFENSE 2.0,15027644,1311,Registration Card to be Signed and Exhibited on Demand.,02/15/2015,19:50,N Negley Ave & Rippey St,Garfield,5,,
+OFFENSE 2.0,15027645,4101,Forgery.,02/15/2015,20:00,6200 block Auburn St,Larimer,5,,
+OFFENSE 2.0,15027205,3743,Accidents Involving Damage to Attended Veh. or Property,02/15/2015,00:06,2500 block West Liberty Ave,Beechview,6,,
+OFFENSE 2.0,15027286,9999,9999 - (Misc. Incident): Check on well being.,02/15/2015,03:32,2800 block Castlegate Ave,Brookline,6,,
+OFFENSE 2.0,15027310,903,Criminal Conspiracy.,02/15/2015,05:12,Woodlow St & Crucible St,Crafton Heights,6,,
+OFFENSE 2.0,15027310,2702,Aggravated Assault.,02/15/2015,05:12,Woodlow St & Crucible St,Crafton Heights,6,,
+OFFENSE 2.0,15027316,2701,Simple Assault.,02/15/2015,05:41,1300 block Jeffers St,Sheraden,6,,
+ARREST,15027316,2701,Simple Assault.,02/15/2015,06:15,1300 block Jeffers St,Sheraden,6,24,M
+OFFENSE 2.0,15027314,9488,False  Burglar Alarm,02/15/2015,06:25,1000 block Chartiers Ave,Elliott,6,,
+OFFENSE 2.0,15027426,94951,Attempted Suicide,02/15/2015,11:52,900 block Idlewood Ave,East Carnegie,6,,
+OFFENSE 2.0,15027528,9496,Dead on Arrival (DOA),02/15/2015,15:47,300 block Ainsworth St,Elliott,6,,
+OFFENSE 2.0,15027552,3743,Accidents Involving Damage to Attended Veh. or Property,02/15/2015,16:45,W End Cir & S Main St,West End,6,,
+ARREST,15027626,13(a)(32),Paraphernalia - Use or Possession,02/15/2015,19:22,Brookline Blvd & Breining St,Brookline,6,37,M
+ARREST,15027626,13(a)(31),Marijuana: Possession Small Amount,02/15/2015,19:22,Brookline Blvd & Breining St,Brookline,6,37,M
+OFFENSE 2.0,15027626,13(a)(32),Paraphernalia - Use or Possession,02/15/2015,19:22,Brookline Blvd & Breining St,Brookline,6,,
+OFFENSE 2.0,15027626,13(a)(31),Marijuana: Possession Small Amount,02/15/2015,19:22,Brookline Blvd & Breining St,Brookline,6,,
