@@ -1,0 +1,146 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+ARREST,15030637,2701,Simple Assault.,02/21/2015,00:05,1300 block Diana St,Spring Hill-City View,1,36,M
+ARREST,15030637,2702,Aggravated Assault.,02/21/2015,00:05,1300 block Diana St,Spring Hill-City View,1,36,M
+OFFENSE 2.0,15030695,3802(a)(1),DUI - General Impairment,02/21/2015,01:18,40th St Brg & Pa Rt 28 Ramp,Troy Hill-Herrs Island,1,,
+ARREST,15030695,3802(a)(1),DUI - General Impairment,02/21/2015,01:50,40th St Brg & Pa Rt 28 Ramp,Troy Hill-Herrs Island,1,27,M
+OFFENSE 2.0,15030738,9488,False  Burglar Alarm,02/21/2015,02:40,800 block Pennsylvania Ave,Central Northside,1,,
+ARREST,15030754,3503(b)(1)(ii),Defiant Trespass Notice Posted by Sign(s),02/21/2015,03:04,1600 block Sandusky Ct,Fineview,1,29,M
+ARREST,15030754,13(a)(30),Possession w/ Intent to Del. Controlled Substance,02/21/2015,03:04,1600 block Sandusky Ct,Fineview,1,29,M
+ARREST,15030754,4910,Tampering with or Fabricating Physical Evidence.,02/21/2015,03:04,1600 block Sandusky Ct,Fineview,1,29,M
+ARREST,15030754,13(a)(16),Possession of Controlled Substance,02/21/2015,03:04,1600 block Sandusky Ct,Fineview,1,29,M
+OFFENSE 2.0,15030754,4910,Tampering with or Fabricating Physical Evidence.,02/21/2015,03:04,1600 block Sandusky Ct,Fineview,1,,
+OFFENSE 2.0,15030754,13(a)(16),Possession of Controlled Substance,02/21/2015,03:04,1600 block Sandusky Ct,Fineview,1,,
+OFFENSE 2.0,15030754,13(a)(30),Possession w/ Intent to Del. Controlled Substance,02/21/2015,03:04,1600 block Sandusky Ct,Fineview,1,,
+OFFENSE 2.0,15030754,3503(b)(1)(ii),Defiant Trespass Notice Posted by Sign(s),02/21/2015,03:04,1600 block Sandusky Ct,Fineview,1,,
+OFFENSE 2.0,15030800,9488,False  Burglar Alarm,02/21/2015,05:25,300 block North Shore Dr,Chateau,1,,
+OFFENSE 2.0,15030829,9488,False  Burglar Alarm,02/21/2015,08:13,700 block West Commons,Allegheny Center,1,,
+OFFENSE 2.0,15030852,9488,False  Burglar Alarm,02/21/2015,09:43,Noster St,Spring Hill-City View,1,,
+OFFENSE 2.0,15030884,9488,False  Burglar Alarm,02/21/2015,10:49,1700 block Belleau Dr,Fineview,1,,
+OFFENSE 2.0,15030888,9488,False  Burglar Alarm,02/21/2015,11:24,Noster St,Spring Hill-City View,1,,
+OFFENSE 2.0,15030903,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/21/2015,11:30,4000 block California Ave,Brighton Heights,1,,
+OFFENSE 2.0,15031110,029,Missing Juvenile,02/21/2015,19:10,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,15031102,029,Missing Juvenile,02/21/2015,19:10,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,15031109,029,Missing Juvenile,02/21/2015,19:10,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,15030708,3743,Accidents Involving Damage to Attended Veh. or Property,02/21/2015,01:41,700 block Grant St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15030773,9999,9999 - (Misc. Incident): ,02/21/2015,04:00,1000 block 5th Ave,Bluff,2,,
+OFFENSE 2.0,15030775,3743,Accidents Involving Damage to Attended Veh. or Property,02/21/2015,04:04,Mossfield St & N Mathilda St,Central Lawrenceville,2,,
+OFFENSE 2.0,15030820,3502,Burglary.,02/21/2015,07:50,200 block Grant St,Golden Triangle/Civic Arena,2,,
+ARREST,15030820,3502,Burglary.,02/21/2015,07:50,200 block Grant St,Golden Triangle/Civic Arena,2,21,M
+OFFENSE 2.0,15031118,3921,Theft by Unlawful Taking or Disposition.,02/21/2015,16:30,2400 block Webster Ave,Middle Hill,2,,
+OFFENSE 2.0,15031063,601.08(a),Alcohol or Liquor Consumption on Streets or Sidewalks,02/21/2015,17:49,500 block Smithfield St,Golden Triangle/Civic Arena,2,,
+ARREST,15015172,3928,Unauthorized Use of Automobile and Other Vehicles.,02/21/2015,20:31,600 block First Ave,Upper Lawrenceville,2,39,F
+OFFENSE 2.0,15030659,3111,Obedience to Traffic-Control Devices.,02/21/2015,00:27,Mary St & S 20th St,South Side Flats,3,,
+OFFENSE 2.0,15030659,3334,Turning Movements and Required Signals.,02/21/2015,00:27,Mary St & S 20th St,South Side Flats,3,,
+OFFENSE 2.0,15030659,3802(a)(1),DUI - General Impairment,02/21/2015,00:27,Mary St & S 20th St,South Side Flats,3,,
+OFFENSE 2.0,15030659,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,02/21/2015,00:27,Mary St & S 20th St,South Side Flats,3,,
+ARREST,15030659,3802(a)(1),DUI - General Impairment,02/21/2015,00:37,Mary St & S 20th St,South Side Flats,3,30,M
+ARREST,15030659,3111,Obedience to Traffic-Control Devices.,02/21/2015,00:37,Mary St & S 20th St,South Side Flats,3,30,M
+ARREST,15030659,3334,Turning Movements and Required Signals.,02/21/2015,00:37,Mary St & S 20th St,South Side Flats,3,30,M
+ARREST,15030680,5503,Disorderly Conduct.,02/21/2015,00:54,1500 block E Carson St,South Side Flats,3,21,M
+ARREST,15030680,5104,Resisting Arrest or Other Law Enforcement.,02/21/2015,00:54,1500 block E Carson St,South Side Flats,3,21,M
+ARREST,15030680,3503(b)(1)(i),Actual Communication,02/21/2015,00:54,1500 block E Carson St,South Side Flats,3,21,M
+ARREST,15030680,2706,Terroristic Threats.,02/21/2015,00:54,1500 block E Carson St,South Side Flats,3,21,M
+OFFENSE 2.0,15030680,5503,Disorderly Conduct.,02/21/2015,00:54,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15030680,5104,Resisting Arrest or Other Law Enforcement.,02/21/2015,00:54,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15030680,3503(b)(1)(i),Actual Communication,02/21/2015,00:54,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15030680,2706,Terroristic Threats.,02/21/2015,00:54,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15030701,3802(a)(1),DUI - General Impairment,02/21/2015,01:37,300 block Oneida St,Duquesne Heights,3,,
+OFFENSE 2.0,15030701,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/21/2015,01:37,300 block Oneida St,Duquesne Heights,3,,
+OFFENSE 2.0,15030701,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,02/21/2015,01:37,300 block Oneida St,Duquesne Heights,3,,
+OFFENSE 2.0,15030846,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/21/2015,01:45,1500 block E Carson St,South Side Flats,3,,
+ARREST,15030701,3802(a)(1),DUI - General Impairment,02/21/2015,01:45,300 block Oneida St,Duquesne Heights,3,37,F
+ARREST,15030701,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/21/2015,01:45,300 block Oneida St,Duquesne Heights,3,37,F
+ARREST,15030701,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,02/21/2015,01:45,300 block Oneida St,Duquesne Heights,3,37,F
+OFFENSE 2.0,15030716,5505,Public Drunkenness,02/21/2015,02:05,E Carson St & S 18th St,South Side Flats,3,,
+OFFENSE 2.0,15030727,2701,Simple Assault.,02/21/2015,02:12,500 block Meridan St,Duquesne Heights,3,,
+OFFENSE 2.0,15030733,5104,Resisting Arrest or Other Law Enforcement.,02/21/2015,02:22,300 block Station Square Dr W,South Shore,3,,
+OFFENSE 2.0,15030733,3802(a)(1),DUI - General Impairment,02/21/2015,02:22,300 block Station Square Dr W,South Shore,3,,
+OFFENSE 2.0,15030733,2702,Aggravated Assault.,02/21/2015,02:22,300 block Station Square Dr W,South Shore,3,,
+ARREST,15030733,3802(a)(1),DUI - General Impairment,02/21/2015,02:25,300 block Station Square Dr W,South Shore,3,25,M
+ARREST,15030733,5104,Resisting Arrest or Other Law Enforcement.,02/21/2015,02:25,300 block Station Square Dr W,South Shore,3,25,M
+ARREST,15030733,2702,Aggravated Assault.,02/21/2015,02:25,300 block Station Square Dr W,South Shore,3,25,M
+ARREST,15030727,2701,Simple Assault.,02/21/2015,02:30,500 block Meridan St,Duquesne Heights,3,37,F
+OFFENSE 2.0,15030744,1543,Driving While Operating Privilege is Suspended or Revoked.,02/21/2015,02:34,W Carson St & Fort Pitt Brg Ramp,South Shore,3,,
+OFFENSE 2.0,15030744,3736,Reckless Driving,02/21/2015,02:34,W Carson St & Fort Pitt Brg Ramp,South Shore,3,,
+OFFENSE 2.0,15030744,3802(a)(1),DUI - General Impairment,02/21/2015,02:34,W Carson St & Fort Pitt Brg Ramp,South Shore,3,,
+ARREST,15030744,3802(a)(1),DUI - General Impairment,02/21/2015,03:19,W Carson St & Fort Pitt Brg Ramp,South Shore,3,26,M
+ARREST,15030744,3736,Reckless Driving,02/21/2015,03:19,W Carson St & Fort Pitt Brg Ramp,South Shore,3,26,M
+ARREST,15030744,1543,Driving While Operating Privilege is Suspended or Revoked.,02/21/2015,03:19,W Carson St & Fort Pitt Brg Ramp,South Shore,3,26,M
+OFFENSE 2.0,15030771,2701,Simple Assault.,02/21/2015,03:45,2500 block Transport St,Overbrook,3,,
+ARREST,15030771,2701,Simple Assault.,02/21/2015,04:15,2500 block Transport St,Overbrook,3,22,M
+ARREST,15030771,2701,Simple Assault.,02/21/2015,04:15,2500 block Transport St,Overbrook,3,26,M
+ARREST,15003727,2701,Simple Assault.,02/21/2015,05:49,300 block Knox Ave,South Side Slopes,3,20,M
+ARREST,15030804,6110.2,Possesion of Firearm with Altered Mfg. Number,02/21/2015,05:50,Mt Oliver St,South Side Slopes,3,20,M
+OFFENSE 2.0,15030804,6110.2,Possesion of Firearm with Altered Mfg. Number,02/21/2015,05:55,Mt Oliver St,South Side Slopes,3,,
+OFFENSE 2.0,15030976,3325,Duty of Driver on Approach of Emergency Vehicle.,02/21/2015,15:02,S 18th St & Sarah St,South Side Flats,3,,
+OFFENSE 2.0,15030976,3736,Reckless Driving,02/21/2015,15:02,S 18th St & Sarah St,South Side Flats,3,,
+OFFENSE 2.0,15030976,3743,Accidents Involving Damage to Attended Veh. or Property,02/21/2015,15:02,S 18th St & Sarah St,South Side Flats,3,,
+OFFENSE 2.0,15030976,3802(a)(1),DUI - General Impairment,02/21/2015,15:02,S 18th St & Sarah St,South Side Flats,3,,
+ARREST,15030976,3325,Duty of Driver on Approach of Emergency Vehicle.,02/21/2015,15:26,S 18th St & Sarah St,South Side Flats,3,21,F
+ARREST,15030976,3802(a)(1),DUI - General Impairment,02/21/2015,15:26,S 18th St & Sarah St,South Side Flats,3,21,F
+ARREST,15030976,3743,Accidents Involving Damage to Attended Veh. or Property,02/21/2015,15:26,S 18th St & Sarah St,South Side Flats,3,21,F
+ARREST,15030976,3736,Reckless Driving,02/21/2015,15:26,S 18th St & Sarah St,South Side Flats,3,21,F
+OFFENSE 2.0,15031086,2709(a),Harassment.,02/21/2015,18:26,400 block Moore Ave,Knoxville,3,,
+OFFENSE 2.0,15031142,5121,Escape.,02/21/2015,20:10,200 block Jucunda St,Knoxville,3,,
+OFFENSE 2.0,15031142,9489,Found Property,02/21/2015,20:10,200 block Jucunda St,Knoxville,3,,
+ARREST,15031142,9489,Found Property,02/21/2015,20:18,200 block Jucunda St,Knoxville,3,18,M
+ARREST,15031142,5121,Escape.,02/21/2015,20:18,200 block Jucunda St,Knoxville,3,18,M
+OFFENSE 2.0,15031170,9999,9999 - (Misc. Incident): ,02/21/2015,21:11,200 block Wynoka St,Carrick,3,,
+OFFENSE 2.0,15031217,2707.1,Discharge of a Firearm into Occupied Structure,02/21/2015,22:30,200 block Climax St,Beltzhoover,3,,
+OFFENSE 2.0,15031217,3304,Criminal Mischief.,02/21/2015,22:30,200 block Climax St,Beltzhoover,3,,
+OFFENSE 2.0,15030898,901,Criminal Attempt,02/21/2015,01:00,200 block Dunseith St,West Oakland,4,,
+OFFENSE 2.0,15030702,9504,Lost Property,02/21/2015,01:30,I-376,South Oakland,4,,
+OFFENSE 2.0,15030779,3921,Theft by Unlawful Taking or Disposition.,02/21/2015,03:30,Bates St,South Oakland,4,,
+OFFENSE 2.0,14249802,2701,Simple Assault.,02/21/2015,09:00,Alexis St,Golden Triangle/Civic Arena,4,,
+OFFENSE 2.0,14249802,2713,Neglect of Care-Dependent Person,02/21/2015,09:00,Alexis St,Golden Triangle/Civic Arena,4,,
+ARREST,14249802,2713,Neglect of Care-Dependent Person,02/21/2015,09:00,Alexis St,Golden Triangle/Civic Arena,4,78,F
+ARREST,14249802,2705,Recklessly Endangering Another Person.,02/21/2015,09:00,Alexis St,Golden Triangle/Civic Arena,4,78,F
+ARREST,14249802,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,02/21/2015,09:00,Alexis St,Golden Triangle/Civic Arena,4,78,F
+OFFENSE 2.0,14249802,2705,Recklessly Endangering Another Person.,02/21/2015,09:00,Alexis St,Golden Triangle/Civic Arena,4,,
+OFFENSE 2.0,15030859,3743,Accidents Involving Damage to Attended Veh. or Property,02/21/2015,09:15,Centre Ave & Bigelow Blvd,North Oakland,4,,
+OFFENSE 2.0,15030880,3929,Retail Theft.,02/21/2015,10:36,5900 block Centre Ave,Shadyside,4,,
+OFFENSE 2.0,15030894,3924,Theft of Property Lost  Mislaid or Delivered by Mistake.,02/21/2015,10:40,6300 block Forbes Ave,Squirrel Hill North,4,,
+OFFENSE 2.0,15030968,3701,Robbery.,02/21/2015,14:38,300 block Renova St,Hazelwood,4,,
+ARREST,15030968,3701,Robbery.,02/21/2015,16:45,300 block Renova St,Hazelwood,4,14,M
+OFFENSE 2.0,15030654,3921(a),Theft by Unlawful Taking or Disposition - Movable item,02/21/2015,00:26,1100 block Larimer Ave,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15030654,1501,Drivers Required to be Licensed.,02/21/2015,00:26,1100 block Larimer Ave,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15030654,3925,Receiving Stolen Property.,02/21/2015,00:26,1100 block Larimer Ave,Lincoln-Lemington-Belmar,5,,
+ARREST,15030654,3925,Receiving Stolen Property.,02/21/2015,00:45,1100 block Larimer Ave,Lincoln-Lemington-Belmar,5,18,M
+ARREST,15030654,3921(a),Theft by Unlawful Taking or Disposition - Movable item,02/21/2015,00:45,1100 block Larimer Ave,Lincoln-Lemington-Belmar,5,18,M
+ARREST,15030654,1501,Drivers Required to be Licensed.,02/21/2015,00:45,1100 block Larimer Ave,Lincoln-Lemington-Belmar,5,18,M
+ARREST,15030766,13(a)(31),Marijuana: Possession Small Amount,02/21/2015,03:03,Brushton Ave & Kelly St,Homewood South,5,24,F
+ARREST,15030766,5121,Escape.,02/21/2015,03:03,Brushton Ave & Kelly St,Homewood South,5,36,M
+ARREST,15030766,3925,Receiving Stolen Property.,02/21/2015,03:03,Brushton Ave & Kelly St,Homewood South,5,36,M
+ARREST,15030766,13(a)(16),Possession of Controlled Substance,02/21/2015,03:03,Brushton Ave & Kelly St,Homewood South,5,36,M
+ARREST,15030766,1543,Driving While Operating Privilege is Suspended or Revoked.,02/21/2015,03:03,Brushton Ave & Kelly St,Homewood South,5,36,M
+OFFENSE 2.0,15030706,9999,9999 - (Misc. Incident): 9999 - (Misc. Incident): Non-Reportable Accident,02/21/2015,03:20,Dean St & Montezuma St,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15030766,13(a)(16),Possession of Controlled Substance,02/21/2015,03:32,Brushton Ave & Kelly St,Homewood South,5,,
+OFFENSE 2.0,15030766,13(a)(31),Marijuana: Possession Small Amount,02/21/2015,03:32,Brushton Ave & Kelly St,Homewood South,5,,
+OFFENSE 2.0,15030766,1543,Driving While Operating Privilege is Suspended or Revoked.,02/21/2015,03:32,Brushton Ave & Kelly St,Homewood South,5,,
+OFFENSE 2.0,15030766,3925,Receiving Stolen Property.,02/21/2015,03:32,Brushton Ave & Kelly St,Homewood South,5,,
+OFFENSE 2.0,15030766,5121,Escape.,02/21/2015,03:32,Brushton Ave & Kelly St,Homewood South,5,,
+OFFENSE 2.0,15030807,9122,Miscellaneous Fire Vehicle Investigation to Continue,02/21/2015,08:00,5800 block East Liberty Blvd,East Liberty,5,,
+OFFENSE 2.0,15030933,3921(a),Theft by Unlawful Taking or Disposition - Movable item,02/21/2015,11:15,1200 block Mohler St,Homewood North,5,,
+OFFENSE 2.0,15031143,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/21/2015,12:00,800 block Heberton St,Highland Park,5,,
+OFFENSE 2.0,15030979,3921(a),Theft by Unlawful Taking or Disposition - Movable item,02/21/2015,15:10,7100 block Ross Garden Rd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15030993,9129,Miscellaneous Investigation,02/21/2015,15:30,5700 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,15031032,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/21/2015,17:00,Hillcrest St & N Graham St,Garfield,5,,
+OFFENSE 2.0,15031045,3743,Accidents Involving Damage to Attended Veh. or Property,02/21/2015,17:48,Allegheny River Blvd & Washington Blvd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15030711,9999,9999 - (Misc. Incident): Forced Police Entry,02/21/2015,02:08,500 block Noblestown Rd,East Carnegie,6,,
+OFFENSE 2.0,15030725,3802(a)(1),DUI - General Impairment,02/21/2015,02:09,300 block S Main St,West End,6,,
+OFFENSE 2.0,15030770,9488,False  Burglar Alarm,02/21/2015,04:00,1100 block Newcomer St,Sheraden,6,,
+ARREST,15022869,2903,False Imprisonment.,02/21/2015,05:49,3100 block Bergman St,Sheraden,6,20,M
+ARREST,15022869,2902,Unlawful Restraint.,02/21/2015,05:49,3100 block Bergman St,Sheraden,6,20,M
+ARREST,15022869,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,02/21/2015,05:49,3100 block Bergman St,Sheraden,6,20,M
+ARREST,15022869,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,02/21/2015,05:49,3100 block Bergman St,Sheraden,6,20,M
+OFFENSE 2.0,15030835,3743,Accidents Involving Damage to Attended Veh. or Property,02/21/2015,07:55,Corliss St & Chartiers Ave,Sheraden,6,,
+OFFENSE 2.0,15030891,9123,Miscellaneous Fire Other Investigation to Continue,02/21/2015,11:00,800 block Lorenz Ave,Elliott,6,,
+OFFENSE 2.0,15030994,9999,9999 - (Misc. Incident): ,02/21/2015,15:35,Chartiers Ave & Wind Gap Ave,Windgap,6,,
+OFFENSE 2.0,15031038,3745,Accidents Involving Damage to Unattended Veh.or Prop.,02/21/2015,17:17,2500 block Starkamp St,Brookline,6,,
+OFFENSE 2.0,15031101,3743,Accidents Involving Damage to Attended Veh. or Property,02/21/2015,18:58,Carnahan Rd & Maydell St,Banksville,6,,
+ARREST,15031199,1543,Driving While Operating Privilege is Suspended or Revoked.,02/21/2015,21:55,2400 block West Liberty Ave,Beechview,6,31,M
+OFFENSE 2.0,15031199,13(a)(16),Possession of Controlled Substance,02/21/2015,21:55,2400 block West Liberty Ave,Beechview,6,,
+OFFENSE 2.0,15031199,13(a)(32),Paraphernalia - Use or Possession,02/21/2015,21:55,2400 block West Liberty Ave,Beechview,6,,
+OFFENSE 2.0,15031199,1543,Driving While Operating Privilege is Suspended or Revoked.,02/21/2015,21:55,2400 block West Liberty Ave,Beechview,6,,
+ARREST,15031199,13(a)(16),Possession of Controlled Substance,02/21/2015,21:55,2400 block West Liberty Ave,Beechview,6,31,M
+ARREST,15031199,13(a)(32),Paraphernalia - Use or Possession,02/21/2015,21:55,2400 block West Liberty Ave,Beechview,6,31,M
