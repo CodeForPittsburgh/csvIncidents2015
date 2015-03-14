@@ -1,0 +1,175 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,15043291,029,Missing Juvenile,03/13/2015,00:15,2200 block Perrysville Ave,Perry South,1,,
+OFFENSE 2.0,15043339,3924,Theft of Property Lost  Mislaid or Delivered by Mistake.,03/13/2015,00:35,1800 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,15043305,3304,Criminal Mischief.,03/13/2015,01:30,3800 block East St,Perry North,1,,
+OFFENSE 2.0,15043295,029,Missing Juvenile,03/13/2015,01:40,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,15043280,029,Missing Juvenile,03/13/2015,01:40,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,15043318,2702,Aggravated Assault.,03/13/2015,01:52,2600 block Brighton Rd,Perry South,1,,
+ARREST,15043318,2702,Aggravated Assault.,03/13/2015,02:00,2600 block Brighton Rd,Perry South,1,53,M
+OFFENSE 2.0,15043342,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,03/13/2015,02:45,1500 block Brighton Rd,California-Kirkbride,1,,
+OFFENSE 2.0,15043343,2701,Simple Assault.,03/13/2015,03:10,3800 block East St,Perry North,1,,
+ARREST,15043343,2701,Simple Assault.,03/13/2015,03:20,3800 block East St,Perry North,1,52,M
+OFFENSE 2.0,15043422,9488,False  Burglar Alarm,03/13/2015,07:54,1000 block Shreve St,Spring Hill-City View,1,,
+OFFENSE 2.0,15043486,2709,Harassment (Non-Specific),03/13/2015,09:30,800 block Cedar Ave,East Allegheny,1,,
+ARREST,14252891,9501,Bench Warrant,03/13/2015,10:35,1500 block Davis Ave,Brighton Heights,1,31,M
+OFFENSE 2.0,15043639,3502,Burglary.,03/13/2015,11:45,3800 block East St,Perry North,1,,
+OFFENSE 2.0,15043603,3934,Theft from Vehicle,03/13/2015,13:30,4000 block Cambronne St,Brighton Heights,1,,
+OFFENSE 2.0,15043770,601.16,Public Urination And Defecation,03/13/2015,18:25,3200 block Brighton Rd,Marshall-Shadeland,1,,
+OFFENSE 2.0,15043810,2701,Simple Assault.,03/13/2015,19:29,1400 block High St,Spring Garden,1,,
+ARREST,15043810,2701,Simple Assault.,03/13/2015,19:40,1400 block High St,Spring Garden,1,19,F
+OFFENSE 2.0,15043814,2709(a),Harassment.,03/13/2015,19:45,1800 block Winhurst St,Brighton Heights,1,,
+OFFENSE 2.0,15043880,3921(a),Theft by Unlawful Taking or Disposition - Movable item,03/13/2015,20:30,1100 block Marshall Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,15043934,3743,Accidents Involving Damage to Attended Veh. or Property,03/13/2015,23:30,Brighton Rd & Ridge Ave,Allegheny West,1,,
+OFFENSE 2.0,15043372,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,03/13/2015,02:15,40th St Brg,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15043372,2705,Recklessly Endangering Another Person.,03/13/2015,02:15,40th St Brg,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15043372,3714,Careless Driving,03/13/2015,02:15,40th St Brg,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15043372,3743,Accidents Involving Damage to Attended Veh. or Property,03/13/2015,02:15,40th St Brg,Golden Triangle/Civic Arena,2,,
+ARREST,14153806,3921,Theft by Unlawful Taking or Disposition.,03/13/2015,05:00,400 block Smithfield St,Golden Triangle/Civic Arena,2,21,M
+ARREST,14153806,3927,Theft by Failure to Make Required Disp. of Funds,03/13/2015,05:00,400 block Smithfield St,Golden Triangle/Civic Arena,2,21,M
+OFFENSE 2.0,15043432,3745,Accidents Involving Damage to Unattended Veh.or Prop.,03/13/2015,07:50,3300 block Webster Ave,Upper Hill,2,,
+OFFENSE 2.0,15043424,3304,Criminal Mischief.,03/13/2015,08:00,1700 block Blvd Of The Allies,Bluff,2,,
+OFFENSE 2.0,15043424,3502,Burglary.,03/13/2015,08:00,1700 block Blvd Of The Allies,Bluff,2,,
+ARREST,15043447,903,Criminal Conspiracy.,03/13/2015,08:00,300 block Harmar St,Polish Hill,2,20,M
+ARREST,15035385,7512,Criminal Use of Communication,03/13/2015,08:00,300 block Harmar St,Polish Hill,2,20,M
+ARREST,15035385,13(a)(30)*,Delivery of Controlled Substance,03/13/2015,08:00,300 block Harmar St,Polish Hill,2,20,M
+ARREST,15043447,13(a)(16),Possession of Controlled Substance,03/13/2015,08:00,300 block Harmar St,Polish Hill,2,20,M
+ARREST,15043447,13(a)(30),Possession w/ Intent to Del. Controlled Substance,03/13/2015,08:00,300 block Harmar St,Polish Hill,2,20,M
+ARREST,15043447,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),03/13/2015,08:00,300 block Harmar St,Polish Hill,2,20,M
+ARREST,15043447,13(a)(16),Possession of Controlled Substance,03/13/2015,08:00,300 block Harmar St,Polish Hill,2,18,M
+ARREST,15043447,13(a)(30),Possession w/ Intent to Del. Controlled Substance,03/13/2015,08:00,300 block Harmar St,Polish Hill,2,18,M
+ARREST,15043447,903,Criminal Conspiracy.,03/13/2015,08:00,300 block Harmar St,Polish Hill,2,18,M
+ARREST,15043447,13(a)(16),Possession of Controlled Substance,03/13/2015,08:00,300 block Harmar St,Polish Hill,2,20,M
+ARREST,15043447,13(a)(30),Possession w/ Intent to Del. Controlled Substance,03/13/2015,08:00,300 block Harmar St,Polish Hill,2,20,M
+ARREST,15043447,903,Criminal Conspiracy.,03/13/2015,08:00,300 block Harmar St,Polish Hill,2,20,M
+OFFENSE 2.0,15043447,13(a)(16),Possession of Controlled Substance,03/13/2015,08:00,300 block Harmar St,Polish Hill,2,,
+OFFENSE 2.0,15043447,13(a)(30),Possession w/ Intent to Del. Controlled Substance,03/13/2015,08:00,300 block Harmar St,Polish Hill,2,,
+OFFENSE 2.0,15043447,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),03/13/2015,08:00,300 block Harmar St,Polish Hill,2,,
+OFFENSE 2.0,15043447,903,Criminal Conspiracy.,03/13/2015,08:00,300 block Harmar St,Polish Hill,2,,
+ARREST,15035385,13(a)(16),Possession of Controlled Substance,03/13/2015,08:00,300 block Harmar St,Polish Hill,2,20,M
+ARREST,15035385,13(a)(30),Possession w/ Intent to Del. Controlled Substance,03/13/2015,08:00,300 block Harmar St,Polish Hill,2,20,M
+OFFENSE 2.0,15043474,3304(a)(1),CRIMINAL MISCHIEF-Prop Damage By Fire  Explosives  or Other Dangerous Means,03/13/2015,08:50,1600 block Bedford Ave,Crawford-Roberts,2,,
+OFFENSE 2.0,15043518,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,03/13/2015,11:03,2700 block Liberty Ave,Strip District,2,,
+OFFENSE 2.0,15043518,2706,Terroristic Threats.,03/13/2015,11:03,2700 block Liberty Ave,Strip District,2,,
+OFFENSE 2.0,15043550,2707.1,Discharge of a Firearm into Occupied Structure,03/13/2015,11:50,Elmore St,Middle Hill,2,,
+OFFENSE 2.0,15043596,2709(a)(3),Harassment No Legitimate Purpose,03/13/2015,13:19,1100 block Penn Ave,Strip District,2,,
+OFFENSE 2.0,15043612,3304,Criminal Mischief.,03/13/2015,14:01,200 block 6th Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15043612,3503(b)(1)(i),Actual Communication,03/13/2015,14:01,200 block 6th Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15043612,2705,Recklessly Endangering Another Person.,03/13/2015,14:01,200 block 6th Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15043656,3929,Retail Theft.,03/13/2015,14:10,200 block 5th Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,14239822,3929,Retail Theft.,03/13/2015,14:25,900 block 2nd Ave,Lincoln-Lemington-Belmar,2,,
+ARREST,14239822,3929,Retail Theft.,03/13/2015,14:29,900 block 2nd Ave,Lincoln-Lemington-Belmar,2,21,F
+ARREST,14239822,903,Criminal Conspiracy.,03/13/2015,14:29,900 block 2nd Ave,Lincoln-Lemington-Belmar,2,21,F
+OFFENSE 2.0,15043664,3934,Theft from Vehicle,03/13/2015,14:45,100 block 43rd St,Central Lawrenceville,2,,
+OFFENSE 2.0,15043664,3304,Criminal Mischief.,03/13/2015,14:45,100 block 43rd St,Central Lawrenceville,2,,
+ARREST,15043612,2705,Recklessly Endangering Another Person.,03/13/2015,15:15,200 block 6th Ave,Golden Triangle/Civic Arena,2,27,M
+ARREST,15043612,3304,Criminal Mischief.,03/13/2015,15:15,200 block 6th Ave,Golden Triangle/Civic Arena,2,27,M
+ARREST,15043612,3503(b)(1)(i),Actual Communication,03/13/2015,15:15,200 block 6th Ave,Golden Triangle/Civic Arena,2,27,M
+OFFENSE 2.0,15043678,3304,Criminal Mischief.,03/13/2015,15:30,4000 block Penn Ave,Central Lawrenceville,2,,
+ARREST,15043656,3929,Retail Theft.,03/13/2015,15:34,200 block 5th Ave,Golden Triangle/Civic Arena,2,39,F
+ARREST,15043745,4910,Tampering with or Fabricating Physical Evidence.,03/13/2015,17:22,2300 block Centre Ave,Middle Hill,2,19,M
+ARREST,15043745,3323,Stop Signs and Yield Signs.,03/13/2015,17:22,2300 block Centre Ave,Middle Hill,2,19,M
+ARREST,15043745,1543,Driving While Operating Privilege is Suspended or Revoked.,03/13/2015,17:22,2300 block Centre Ave,Middle Hill,2,19,M
+ARREST,15043745,13(a)(16),Possession of Controlled Substance,03/13/2015,17:22,2300 block Centre Ave,Middle Hill,2,19,M
+OFFENSE 2.0,15043745,3323,Stop Signs and Yield Signs.,03/13/2015,17:35,2300 block Centre Ave,Middle Hill,2,,
+OFFENSE 2.0,15043745,4910,Tampering with or Fabricating Physical Evidence.,03/13/2015,17:35,2300 block Centre Ave,Middle Hill,2,,
+OFFENSE 2.0,15043745,1543,Driving While Operating Privilege is Suspended or Revoked.,03/13/2015,17:35,2300 block Centre Ave,Middle Hill,2,,
+OFFENSE 2.0,15043745,13(a)(16),Possession of Controlled Substance,03/13/2015,17:35,2300 block Centre Ave,Middle Hill,2,,
+OFFENSE 2.0,15014600,3701,Robbery.,03/13/2015,17:42,Iowa St & Clarissa St,Upper Hill,2,,
+OFFENSE 2.0,15014600,903,Criminal Conspiracy.,03/13/2015,17:42,Iowa St & Clarissa St,Upper Hill,2,,
+OFFENSE 2.0,15043751,9501,Bench Warrant,03/13/2015,17:42,Iowa St & Clarissa St,Upper Hill,2,,
+OFFENSE 2.0,15014600,2702,Aggravated Assault.,03/13/2015,17:42,Iowa St & Clarissa St,Upper Hill,2,,
+ARREST,15043751,9501,Bench Warrant,03/13/2015,17:50,Iowa St & Clarissa St,Upper Hill,2,29,M
+ARREST,15014600,2702,Aggravated Assault.,03/13/2015,17:50,Iowa St & Clarissa St,Upper Hill,2,29,M
+ARREST,15014600,3701,Robbery.,03/13/2015,17:50,Iowa St & Clarissa St,Upper Hill,2,29,M
+ARREST,15014600,903,Criminal Conspiracy.,03/13/2015,17:50,Iowa St & Clarissa St,Upper Hill,2,29,M
+ARREST,15043773,9501,Bench Warrant,03/13/2015,18:30,400 block Wood St,Golden Triangle/Civic Arena,2,35,F
+OFFENSE 2.0,15043760,9501,Bench Warrant,03/13/2015,18:30,Veterans Brg Ramp & Crosstown Blvd,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15043773,9501,Bench Warrant,03/13/2015,18:30,400 block Wood St,Golden Triangle/Civic Arena,2,,
+ARREST,15037016,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,03/13/2015,18:45,400 block Wood St,Golden Triangle/Civic Arena,2,35,F
+ARREST,15037016,3929,Retail Theft.,03/13/2015,18:45,400 block Wood St,Golden Triangle/Civic Arena,2,35,F
+ARREST,15043760,9501,Bench Warrant,03/13/2015,18:45,Veterans Brg Ramp & Crosstown Blvd,Golden Triangle/Civic Arena,2,31,F
+OFFENSE 2.0,15043828,601.04 (d) (1),Apartment to Apartment 0700-2200 >10 dB(c) 2200-0700 >5dB(c),03/13/2015,20:06,2200 block Bedford Ave,Bedford Dwellings,2,,
+ARREST,15030021,3714,Careless Driving,03/13/2015,20:45,600 block 1st Ave,Golden Triangle/Civic Arena,2,25,M
+ARREST,15030021,3802(a)(1),DUI - General Impairment,03/13/2015,20:45,600 block 1st Ave,Golden Triangle/Civic Arena,2,25,M
+ARREST,15030021,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,03/13/2015,20:45,600 block 1st Ave,Golden Triangle/Civic Arena,2,25,M
+ARREST,15041228,3701,Robbery.,03/13/2015,20:50,900 block Second Ave,Elliott,2,24,M
+ARREST,15041228,2702,Aggravated Assault.,03/13/2015,20:50,900 block Second Ave,Elliott,2,24,M
+OFFENSE 2.0,15043917,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,03/13/2015,23:14,100 block Addison St,Middle Hill,2,,
+OFFENSE 2.0,15043333,2701,Simple Assault.,03/13/2015,02:45,Sidney St & S 19th St,South Side Flats,3,,
+OFFENSE 2.0,15043333,2705,Recklessly Endangering Another Person.,03/13/2015,02:45,Sidney St & S 19th St,South Side Flats,3,,
+ARREST,15043333,2705,Recklessly Endangering Another Person.,03/13/2015,02:50,Sidney St & S 19th St,South Side Flats,3,28,M
+ARREST,15043333,2701,Simple Assault.,03/13/2015,02:50,Sidney St & S 19th St,South Side Flats,3,28,M
+OFFENSE 2.0,15043358,3934,Theft from Vehicle,03/13/2015,03:30,200 block Kearsarge St,Mount Washington,3,,
+ARREST,15043410,13(a)(31),Marijuana: Possession Small Amount,03/13/2015,06:15,900 block Freeland St,Allentown,3,43,M
+ARREST,15043410,13(a)(32),Paraphernalia - Use or Possession,03/13/2015,06:15,900 block Freeland St,Allentown,3,43,M
+ARREST,15043410,13(a)(30),Possession w/ Intent to Del. Controlled Substance,03/13/2015,06:15,900 block Freeland St,Allentown,3,43,M
+ARREST,15043410,13(a)(16),Possession of Controlled Substance,03/13/2015,06:15,900 block Freeland St,Allentown,3,43,M
+OFFENSE 2.0,15043442,3743,Accidents Involving Damage to Attended Veh. or Property,03/13/2015,06:50,Saw Mill Run Blvd & Bausman St,Bon Air,3,,
+OFFENSE 2.0,15043410,13(a)(30),Possession w/ Intent to Del. Controlled Substance,03/13/2015,08:00,900 block Freeland St,Allentown,3,,
+OFFENSE 2.0,15043410,13(a)(31),Marijuana: Possession Small Amount,03/13/2015,08:00,900 block Freeland St,Allentown,3,,
+OFFENSE 2.0,15043410,13(a)(32),Paraphernalia - Use or Possession,03/13/2015,08:00,900 block Freeland St,Allentown,3,,
+OFFENSE 2.0,15043410,13(a)(16),Possession of Controlled Substance,03/13/2015,08:00,900 block Freeland St,Allentown,3,,
+OFFENSE 2.0,15043543,3502,Burglary.,03/13/2015,08:00,2100 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,15043478,3745,Accidents Involving Damage to Unattended Veh.or Prop.,03/13/2015,09:15,100 block Sylvania Ave,Beltzhoover,3,,
+OFFENSE 2.0,15043522,3745,Accidents Involving Damage to Unattended Veh.or Prop.,03/13/2015,10:00,400 block Grace St,Mount Washington,3,,
+OFFENSE 2.0,15043522,3304,Criminal Mischief.,03/13/2015,10:00,400 block Grace St,Mount Washington,3,,
+OFFENSE 2.0,15043501,5503,Disorderly Conduct.,03/13/2015,10:25,2000 block Wharton St,South Side Flats,3,,
+OFFENSE 2.0,15043501,5507,Obstructing Highways and Passages.,03/13/2015,10:25,2000 block Wharton St,South Side Flats,3,,
+OFFENSE 2.0,15043501,5505,Public Drunkenness,03/13/2015,10:25,2000 block Wharton St,South Side Flats,3,,
+OFFENSE 2.0,15043564,3701,Robbery.,03/13/2015,12:15,700 block E Warrington Ave,Allentown,3,,
+ARREST,15003551,13(a)(16),Possession of Controlled Substance,03/13/2015,12:56,Michigan St & Curtin Way,Bluff,3,33,M
+OFFENSE 2.0,15043693,3745,Accidents Involving Damage to Unattended Veh.or Prop.,03/13/2015,15:35,S 27th St & Josephine St,South Side Slopes,3,,
+ARREST,15043667,13(a)(31),Marijuana: Possession Small Amount,03/13/2015,15:50,300 block Bigbee St,Mount Washington,3,21,M
+ARREST,15043667,13(a)(31),Marijuana: Possession Small Amount,03/13/2015,15:50,300 block Bigbee St,Mount Washington,3,20,F
+OFFENSE 2.0,15043667,13(a)(31),Marijuana: Possession Small Amount,03/13/2015,16:00,300 block Bigbee St,Mount Washington,3,,
+OFFENSE 2.0,15043784,9999,9999 - (Misc. Incident): ,03/13/2015,19:15,600 block Horning St,Overbrook,3,,
+OFFENSE 2.0,15043809,3921,Theft by Unlawful Taking or Disposition.,03/13/2015,19:24,700 block Mc Lain St,Allentown,3,,
+OFFENSE 2.0,15043905,3745,Accidents Involving Damage to Unattended Veh.or Prop.,03/13/2015,22:30,S 18th St & Jane St,South Side Flats,3,,
+OFFENSE 2.0,15043261,3304,Criminal Mischief.,03/13/2015,00:05,Almeda St,Hazelwood,4,,
+OFFENSE 2.0,15043469,2709,Harassment (Non-Specific),03/13/2015,09:10,400 block Shady Ave,Shadyside,4,,
+OFFENSE 2.0,15043590,9999,9999 - (Misc. Incident): ,03/13/2015,11:53,1900 block Murray Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,15043676,3921,Theft by Unlawful Taking or Disposition.,03/13/2015,14:05,300 block Halket St,Central Oakland,4,,
+OFFENSE 2.0,15043848,3304,Criminal Mischief.,03/13/2015,20:00,Overlook Dr & Greenfield Rd,Squirrel Hill South,4,,
+OFFENSE 2.0,15043239,029,Missing Juvenile,03/13/2015,00:01,7600 block Kelly St,Homewood South,5,,
+OFFENSE 2.0,15043400,3502,Burglary.,03/13/2015,06:00,S Aiken Ave & Baum Blvd,Bloomfield,5,,
+OFFENSE 2.0,15043506,3304,Criminal Mischief.,03/13/2015,09:40,Beecher St & Idlewild St,Homewood West,5,,
+OFFENSE 2.0,15043545,4912,Impersonating a Public Servant.,03/13/2015,11:30,5600 block Rippey St,East Liberty,5,,
+OFFENSE 2.0,15043572,2702,Aggravated Assault.,03/13/2015,12:35,7100 block Highland Dr,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15043572,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,03/13/2015,12:35,7100 block Highland Dr,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15043572,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,03/13/2015,12:35,7100 block Highland Dr,Lincoln-Lemington-Belmar,5,,
+ARREST,15043572,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,03/13/2015,12:45,7100 block Highland Dr,Lincoln-Lemington-Belmar,5,18,F
+ARREST,15043572,2702,Aggravated Assault.,03/13/2015,12:45,7100 block Highland Dr,Lincoln-Lemington-Belmar,5,18,F
+ARREST,15043572,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,03/13/2015,12:45,7100 block Highland Dr,Lincoln-Lemington-Belmar,5,18,F
+OFFENSE 2.0,15043699,9999,9999 - (Misc. Incident): 9999 - (Misc. Incident): ,03/13/2015,16:21,700 block N Murtland St,Homewood West,5,,
+OFFENSE 2.0,15043735,9018,Accidental Fire,03/13/2015,17:11,800 block Freeport Rd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15043747,5121,Escape.,03/13/2015,17:41,Haverhill St & Nimick Pl,East Hills,5,,
+OFFENSE 2.0,15043747,3745,Accidents Involving Damage to Unattended Veh.or Prop.,03/13/2015,17:41,Haverhill St & Nimick Pl,East Hills,5,,
+OFFENSE 2.0,15043747,3736,Reckless Driving,03/13/2015,17:41,Haverhill St & Nimick Pl,East Hills,5,,
+OFFENSE 2.0,15043747,3323,Stop Signs and Yield Signs.,03/13/2015,17:41,Haverhill St & Nimick Pl,East Hills,5,,
+OFFENSE 2.0,15043747,1543,Driving While Operating Privilege is Suspended or Revoked.,03/13/2015,17:41,Haverhill St & Nimick Pl,East Hills,5,,
+OFFENSE 2.0,15043747,1371,Operation Following Suspension of Registration.,03/13/2015,17:41,Haverhill St & Nimick Pl,East Hills,5,,
+OFFENSE 2.0,15043747,3733,Fleeing or Attempting to Elude Police Officer,03/13/2015,17:41,Haverhill St & Nimick Pl,East Hills,5,,
+ARREST,15043747,1543,Driving While Operating Privilege is Suspended or Revoked.,03/13/2015,17:42,Haverhill St & Nimick Pl,East Hills,5,49,M
+ARREST,15043747,3323,Stop Signs and Yield Signs.,03/13/2015,17:42,Haverhill St & Nimick Pl,East Hills,5,49,M
+ARREST,15043747,3733,Fleeing or Attempting to Elude Police Officer,03/13/2015,17:42,Haverhill St & Nimick Pl,East Hills,5,49,M
+ARREST,15043747,3736,Reckless Driving,03/13/2015,17:42,Haverhill St & Nimick Pl,East Hills,5,49,M
+ARREST,15043747,1371,Operation Following Suspension of Registration.,03/13/2015,17:42,Haverhill St & Nimick Pl,East Hills,5,49,M
+ARREST,15043747,5121,Escape.,03/13/2015,17:42,Haverhill St & Nimick Pl,East Hills,5,49,M
+ARREST,15043747,3745,Accidents Involving Damage to Unattended Veh.or Prop.,03/13/2015,17:42,Haverhill St & Nimick Pl,East Hills,5,49,M
+OFFENSE 2.0,15043826,3304,Criminal Mischief.,03/13/2015,19:45,400 block Enright Ct,East Liberty,5,,
+OFFENSE 2.0,15043832,3304,Criminal Mischief.,03/13/2015,20:10,5300 block Penn Ave,Garfield,5,,
+OFFENSE 2.0,15043881,029,Missing Juvenile,03/13/2015,21:41,6500 block Winslow St,Larimer,5,,
+OFFENSE 2.0,15043264,3304,Criminal Mischief.,03/13/2015,00:32,900 block Woodlow St,Crafton Heights,6,,
+OFFENSE 2.0,15043264,2705,Recklessly Endangering Another Person.,03/13/2015,00:32,900 block Woodlow St,Crafton Heights,6,,
+OFFENSE 2.0,15043264,2707.1,Discharge of a Firearm into Occupied Structure,03/13/2015,00:32,900 block Woodlow St,Crafton Heights,6,,
+OFFENSE 2.0,15043302,2701,Simple Assault.,03/13/2015,01:04,1000 block Woodlow St,Crafton Heights,6,,
+ARREST,15043302,2701,Simple Assault.,03/13/2015,01:07,1000 block Woodlow St,Crafton Heights,6,25,M
+OFFENSE 2.0,15043306,9999,9999 - (Misc. Incident): Suspicious Person,03/13/2015,01:33,3100 block Chartiers Ave,Sheraden,6,,
+ARREST,15028648,3929,Retail Theft.,03/13/2015,04:55,2200 block Noblestown Rd,Westwood,6,30,M
+OFFENSE 2.0,15043473,3502,Burglary.,03/13/2015,08:00,1900 block Broadway Ave,Beechview,6,,
+OFFENSE 2.0,15043553,9999,9999 - (Misc. Incident): ,03/13/2015,11:45,2900 block Strachan Ave,Banksville,6,,
+OFFENSE 2.0,15043622,3743,Accidents Involving Damage to Attended Veh. or Property,03/13/2015,13:45,1600 block Saw Mill Run Blvd,Brookline,6,,
+OFFENSE 2.0,15043674,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,03/13/2015,15:45,200 block Fairview Ave,Elliott,6,,
+ARREST,15043674,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,03/13/2015,16:05,200 block Fairview Ave,Elliott,6,14,M
+OFFENSE 2.0,15043723,9496,Dead on Arrival (DOA),03/13/2015,17:08,1200 block Berkshire Ave,Brookline,6,,
+ARREST,15017603,2701,Simple Assault.,03/13/2015,22:27,1400 block Crucible St,Crafton Heights,6,26,M
