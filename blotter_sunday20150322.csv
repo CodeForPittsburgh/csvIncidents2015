@@ -1,0 +1,200 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,15049381,9490,Missing Persons (18 and Over),03/22/2015,01:00,4000 block Perrysville Ave,Perry North,1,,
+OFFENSE 2.0,15049459,3802(a)(1),DUI - General Impairment,03/22/2015,02:49,North Shore Dr & Art Rooney Ave,North Shore,1,,
+OFFENSE 2.0,15049459,3112,Traffic-Control Signals.,03/22/2015,02:49,North Shore Dr & Art Rooney Ave,North Shore,1,,
+OFFENSE 2.0,15049464,3502,Burglary.,03/22/2015,02:50,3200 block Langfitt Ave,Marshall-Shadeland,1,,
+ARREST,15049459,3112,Traffic-Control Signals.,03/22/2015,02:55,North Shore Dr & Art Rooney Ave,North Shore,1,46,F
+ARREST,15049459,3802(a)(1),DUI - General Impairment,03/22/2015,02:55,North Shore Dr & Art Rooney Ave,North Shore,1,46,F
+OFFENSE 2.0,15049732,3921,Theft by Unlawful Taking or Disposition.,03/22/2015,06:30,300 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,15049628,9497,Aided Case,03/22/2015,11:49,800 block Marshall Ave,Perry South,1,,
+OFFENSE 2.0,15049627,9488,False  Burglar Alarm,03/22/2015,12:00,100 block Federal St S,North Shore,1,,
+OFFENSE 2.0,15049715,9093,Indirect Criminal Contempt,03/22/2015,13:30,100 block W Mc Intyre Ave,Perry South,1,,
+OFFENSE 2.0,15049688,029,Missing Juvenile,03/22/2015,14:08,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,15049708,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,03/22/2015,15:15,1700 block Brighton Pl,California-Kirkbride,1,,
+OFFENSE 2.0,15049726,029,Missing Juvenile,03/22/2015,15:55,2200 block Perrysville Ave,Perry South,1,,
+OFFENSE 2.0,15049750,3701,Robbery.,03/22/2015,16:25,Reddour St & W North Ave,Central Northside,1,,
+OFFENSE 2.0,15049800,9093,Indirect Criminal Contempt,03/22/2015,16:44,4000 block Perrysville Ave,Perry North,1,,
+OFFENSE 2.0,15049880,3934,Theft from Vehicle,03/22/2015,17:00,1200 block Spring Garden Ave,Spring Garden,1,,
+OFFENSE 2.0,15049774,3304,Criminal Mischief.,03/22/2015,17:07,1200 block Liverpool St,Manchester,1,,
+OFFENSE 2.0,15049780,029,Missing Juvenile,03/22/2015,17:11,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,15049798,901,Criminal Attempt,03/22/2015,17:41,4100 block Perrysville Ave,Perry North,1,,
+OFFENSE 2.0,15049833,2701,Simple Assault.,03/22/2015,18:50,East Ohio St & Nash St,East Allegheny,1,,
+ARREST,15049833,2701,Simple Assault.,03/22/2015,18:55,East Ohio St & Nash St,East Allegheny,1,28,M
+ARREST,15045893,2701,Simple Assault.,03/22/2015,20:00,3400 block Gass Ave,Brighton Heights,1,25,F
+ARREST,15045893,3304,Criminal Mischief.,03/22/2015,20:00,3400 block Gass Ave,Brighton Heights,1,25,F
+ARREST,15045893,2701,Simple Assault.,03/22/2015,20:00,3400 block Gass Ave,Brighton Heights,1,21,F
+ARREST,15045893,3304,Criminal Mischief.,03/22/2015,20:00,3400 block Gass Ave,Brighton Heights,1,21,F
+ARREST,15027761,903,Criminal Conspiracy.,03/22/2015,21:25,Arcola Way & Spring Garden Ave,Spring Garden,1,22,M
+ARREST,15027761,3921,Theft by Unlawful Taking or Disposition.,03/22/2015,21:25,Arcola Way & Spring Garden Ave,Spring Garden,1,22,M
+ARREST,15027761,3925,Receiving Stolen Property.,03/22/2015,21:25,Arcola Way & Spring Garden Ave,Spring Garden,1,22,M
+OFFENSE 2.0,15049350,9501,Bench Warrant,03/22/2015,00:33,900 block Liberty Ave,Golden Triangle/Civic Arena,2,,
+ARREST,15049350,9501,Bench Warrant,03/22/2015,00:33,900 block Liberty Ave,Golden Triangle/Civic Arena,2,33,M
+OFFENSE 2.0,15049467,3921(a),Theft by Unlawful Taking or Disposition - Movable item,03/22/2015,03:01,300 block 5th Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15049678,3502,Burglary.,03/22/2015,06:00,400 block 56th St,Upper Lawrenceville,2,,
+OFFENSE 2.0,15049678,3921(a),Theft by Unlawful Taking or Disposition - Movable item,03/22/2015,06:00,400 block 56th St,Upper Lawrenceville,2,,
+OFFENSE 2.0,15049533,3745,Accidents Involving Damage to Unattended Veh.or Prop.,03/22/2015,07:00,Wylie Ave & Hollace St,Middle Hill,2,,
+OFFENSE 2.0,15049677,9999,9999 - (Misc. Incident): ,03/22/2015,13:40,600 block Liberty Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15047738,5503,Disorderly Conduct.,03/22/2015,16:20,Penn Ave & 6th St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15047738,5505,Public Drunkenness,03/22/2015,16:20,Penn Ave & 6th St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15049763,3743,Accidents Involving Damage to Attended Veh. or Property,03/22/2015,16:54,Penn Ave & 31st St,Strip District,2,,
+ARREST,15044776,2902,Unlawful Restraint.,03/22/2015,23:50,3800 block Clement Way,Lower Lawrenceville,2,25,M
+ARREST,15044776,2701,Simple Assault.,03/22/2015,23:50,3800 block Clement Way,Lower Lawrenceville,2,25,M
+OFFENSE 2.0,15049376,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,03/22/2015,00:46,1400 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15049376,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,03/22/2015,00:46,1400 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15049376,2702,Aggravated Assault.,03/22/2015,00:46,1400 block E Carson St,South Side Flats,3,,
+ARREST,15049376,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,03/22/2015,00:46,1400 block E Carson St,South Side Flats,3,24,M
+ARREST,15049376,5104,Resisting Arrest or Other Law Enforcement.,03/22/2015,00:46,1400 block E Carson St,South Side Flats,3,24,M
+ARREST,15049376,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,03/22/2015,00:46,1400 block E Carson St,South Side Flats,3,24,M
+ARREST,15049376,2702,Aggravated Assault.,03/22/2015,00:46,1400 block E Carson St,South Side Flats,3,24,M
+OFFENSE 2.0,15049376,5104,Resisting Arrest or Other Law Enforcement.,03/22/2015,00:46,1400 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15049389,9489,Found Property,03/22/2015,01:04,1700 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15049396,9999,9999 - (Misc. Incident): ,03/22/2015,01:21,2000 block Sarah St,South Side Flats,3,,
+OFFENSE 2.0,15049397,2701,Simple Assault.,03/22/2015,01:45,S 13th St & Sarah St,South Side Flats,3,,
+ARREST,15049397,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,03/22/2015,01:45,S 13th St & Sarah St,South Side Flats,3,43,M
+ARREST,15049397,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,03/22/2015,01:45,S 13th St & Sarah St,South Side Flats,3,43,M
+ARREST,15049397,2701,Simple Assault.,03/22/2015,01:45,S 13th St & Sarah St,South Side Flats,3,43,M
+OFFENSE 2.0,15049397,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,03/22/2015,01:45,S 13th St & Sarah St,South Side Flats,3,,
+OFFENSE 2.0,15049397,4952,Intimidation of Witnesses or Victims,03/22/2015,01:45,S 13th St & Sarah St,South Side Flats,3,,
+OFFENSE 2.0,15049397,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,03/22/2015,01:45,S 13th St & Sarah St,South Side Flats,3,,
+ARREST,15049397,4952,Intimidation of Witnesses or Victims,03/22/2015,01:45,S 13th St & Sarah St,South Side Flats,3,43,M
+OFFENSE 2.0,15049404,5505,Public Drunkenness,03/22/2015,01:55,1400 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15049404,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,03/22/2015,01:55,1400 block E Carson St,South Side Flats,3,,
+ARREST,15049404,2701,Simple Assault.,03/22/2015,01:55,1400 block E Carson St,South Side Flats,3,23,M
+ARREST,15049404,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,03/22/2015,01:55,1400 block E Carson St,South Side Flats,3,23,M
+ARREST,15049404,5505,Public Drunkenness,03/22/2015,01:55,1400 block E Carson St,South Side Flats,3,23,M
+OFFENSE 2.0,15049404,2701,Simple Assault.,03/22/2015,01:55,1400 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15049461,3701,Robbery.,03/22/2015,02:15,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15049470,3934,Theft from Vehicle,03/22/2015,03:05,Millbridge St,Allentown,3,,
+OFFENSE 2.0,15049589,3304,Criminal Mischief.,03/22/2015,09:00,2900 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,15049557,3502,Burglary.,03/22/2015,09:00,100 block Charles St,Knoxville,3,,
+OFFENSE 2.0,15049560,3502,Burglary.,03/22/2015,09:26,2000 block Dartmore St,Overbrook,3,,
+OFFENSE 2.0,15049562,5503(a)(2),DISORDERLY CONDUCT - UNREASONABLE NOISE,03/22/2015,09:32,800 block Saw Mill Run Blvd,Bon Air,3,,
+ARREST,15049562,5503(a)(2),DISORDERLY CONDUCT - UNREASONABLE NOISE,03/22/2015,09:32,800 block Saw Mill Run Blvd,Bon Air,3,39,F
+OFFENSE 2.0,15049562,3921(a),Theft by Unlawful Taking or Disposition - Movable item,03/22/2015,09:32,800 block Saw Mill Run Blvd,Bon Air,3,,
+ARREST,15049562,3921(a),Theft by Unlawful Taking or Disposition - Movable item,03/22/2015,09:32,800 block Saw Mill Run Blvd,Bon Air,3,39,F
+OFFENSE 2.0,15049570,9999,9999 - (Misc. Incident): ,03/22/2015,09:56,Wyoming St,Mount Washington,3,,
+OFFENSE 2.0,15049583,3921(a),Theft by Unlawful Taking or Disposition - Movable item,03/22/2015,11:00,300 block Smith Way,Mount Washington,3,,
+OFFENSE 2.0,15049611,029,Missing Juvenile,03/22/2015,11:26,600 block Excelsior St,Allentown,3,,
+OFFENSE 2.0,15049643,3304(a)(4),CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti  Aerosol Spray Paint  Broad Tip Marker  or Similar),03/22/2015,12:39,1500 block Brownsville Rd,Carrick,3,,
+ARREST,14125334,13(a)(16),Possession of Controlled Substance,03/22/2015,14:25,800 block E Warrington Ave,Bluff,3,20,M
+ARREST,14125334,13(a)(30)*,Delivery of Controlled Substance,03/22/2015,14:25,800 block E Warrington Ave,Bluff,3,20,M
+ARREST,14125334,6301,Corruption of Minors.,03/22/2015,14:25,800 block E Warrington Ave,Bluff,3,20,M
+ARREST,14125334,7512,Criminal Use of Communication,03/22/2015,14:25,800 block E Warrington Ave,Bluff,3,20,M
+OFFENSE 2.0,15049705,9496,Dead on Arrival (DOA),03/22/2015,14:59,10th St Brg & 2nd Ave,South Side Flats,3,,
+OFFENSE 2.0,15049709,2701,Simple Assault.,03/22/2015,15:10,700 block Brownsville Rd,Knoxville,3,,
+ARREST,15049709,2701,Simple Assault.,03/22/2015,15:24,700 block Brownsville Rd,Knoxville,3,18,F
+OFFENSE 2.0,15049758,1543,Driving While Operating Privilege is Suspended or Revoked.,03/22/2015,17:00,W Carson St & I-279 Ramp,South Shore,3,,
+OFFENSE 2.0,15049787,3921,Theft by Unlawful Taking or Disposition.,03/22/2015,17:20,200 block Kramer Way,Mount Washington,3,,
+OFFENSE 2.0,15049787,4106,Access Device Fraud,03/22/2015,17:20,200 block Kramer Way,Mount Washington,3,,
+OFFENSE 2.0,15049787,4120,Identity Theft,03/22/2015,17:20,200 block Kramer Way,Mount Washington,3,,
+OFFENSE 2.0,15049865,2709,Harassment (Non-Specific),03/22/2015,19:34,600 block Laughlin Ave,Carrick,3,,
+OFFENSE 2.0,15049872,13(a)(32),Paraphernalia - Use or Possession,03/22/2015,19:55,300 block Horning St,Carrick,3,,
+ARREST,15049872,13(a)(32),Paraphernalia - Use or Possession,03/22/2015,20:10,300 block Horning St,Carrick,3,33,M
+OFFENSE 2.0,15049920,1371,Operation Following Suspension of Registration.,03/22/2015,21:39,Southern Ave & Simms St,Mount Washington,3,,
+OFFENSE 2.0,15049920,1376,Surrender of Reg. Upon Susp. or Revocation.,03/22/2015,21:39,Southern Ave & Simms St,Mount Washington,3,,
+OFFENSE 2.0,15049920,1543,Driving While Operating Privilege is Suspended or Revoked.,03/22/2015,21:39,Southern Ave & Simms St,Mount Washington,3,,
+OFFENSE 2.0,15049920,3802(a)(1),DUI - General Impairment,03/22/2015,21:39,Southern Ave & Simms St,Mount Washington,3,,
+ARREST,15049920,1371,Operation Following Suspension of Registration.,03/22/2015,21:40,Southern Ave & Simms St,Mount Washington,3,31,M
+ARREST,15049920,1376,Surrender of Reg. Upon Susp. or Revocation.,03/22/2015,21:40,Southern Ave & Simms St,Mount Washington,3,31,M
+ARREST,15049920,1543,Driving While Operating Privilege is Suspended or Revoked.,03/22/2015,21:40,Southern Ave & Simms St,Mount Washington,3,31,M
+ARREST,15049920,3802(a)(1),DUI - General Impairment,03/22/2015,21:40,Southern Ave & Simms St,Mount Washington,3,31,M
+OFFENSE 2.0,15049471,3921(a),Theft by Unlawful Taking or Disposition - Movable item,03/22/2015,02:00,3300 block Hamlet St,South Oakland,4,,
+OFFENSE 2.0,15049450,9999,9999 - (Misc. Incident): ,03/22/2015,02:41,5th Ave & Devonshire Rd,Shadyside,4,,
+OFFENSE 2.0,15049509,029,Missing Juvenile,03/22/2015,05:33,Denmarsh St,Greenfield,4,,
+OFFENSE 2.0,15049543,3929,Retail Theft.,03/22/2015,07:45,5900 block Centre Ave,Shadyside,4,,
+OFFENSE 2.0,15049696,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,03/22/2015,10:30,Forbes Ave & Semple St,Central Oakland,4,,
+OFFENSE 2.0,15049647,3304,Criminal Mischief.,03/22/2015,13:00,400 block S Braddock Ave,Point Breeze,4,,
+OFFENSE 2.0,15049711,3743,Accidents Involving Damage to Attended Veh. or Property,03/22/2015,14:30,Greenfield Ave & Kaercher St,Greenfield,4,,
+OFFENSE 2.0,15049357,3701,Robbery.,03/22/2015,00:14,7200 block Idlewild St,Homewood North,5,,
+OFFENSE 2.0,15049401,2701(a)(3),Simple Assault - Attempts by Physical Menace ,03/22/2015,01:35,100 block Shetland St,Larimer,5,,
+OFFENSE 2.0,15049398,9501,Bench Warrant,03/22/2015,01:41,Frankstown Ave & Collier St,Homewood North,5,,
+ARREST,15049398,9501,Bench Warrant,03/22/2015,01:41,Frankstown Ave & Collier St,Homewood North,5,28,M
+ARREST,15049401,2701(a)(3),Simple Assault - Attempts by Physical Menace ,03/22/2015,02:01,100 block Shetland St,Larimer,5,52,F
+OFFENSE 2.0,15049710,3934,Theft from Vehicle,03/22/2015,03:00,7300 block Idlewild St,Homewood North,5,,
+OFFENSE 2.0,15049502,2702,Aggravated Assault.,03/22/2015,05:09,1300 block Pointview St,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15049502,5505,Public Drunkenness,03/22/2015,05:09,1300 block Pointview St,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15049502,5503,Disorderly Conduct.,03/22/2015,05:09,1300 block Pointview St,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15049502,5104,Resisting Arrest or Other Law Enforcement.,03/22/2015,05:09,1300 block Pointview St,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15049502,3304,Criminal Mischief.,03/22/2015,05:09,1300 block Pointview St,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15049502,2706,Terroristic Threats.,03/22/2015,05:09,1300 block Pointview St,Lincoln-Lemington-Belmar,5,,
+ARREST,15049502,2702,Aggravated Assault.,03/22/2015,05:15,1300 block Pointview St,Lincoln-Lemington-Belmar,5,42,M
+ARREST,15049502,3304,Criminal Mischief.,03/22/2015,05:15,1300 block Pointview St,Lincoln-Lemington-Belmar,5,42,M
+ARREST,15049502,5104,Resisting Arrest or Other Law Enforcement.,03/22/2015,05:15,1300 block Pointview St,Lincoln-Lemington-Belmar,5,42,M
+ARREST,15049502,5503,Disorderly Conduct.,03/22/2015,05:15,1300 block Pointview St,Lincoln-Lemington-Belmar,5,42,M
+ARREST,15049502,5505,Public Drunkenness,03/22/2015,05:15,1300 block Pointview St,Lincoln-Lemington-Belmar,5,42,M
+ARREST,15049502,2706,Terroristic Threats.,03/22/2015,05:15,1300 block Pointview St,Lincoln-Lemington-Belmar,5,42,M
+OFFENSE 2.0,15049599,9501,Bench Warrant,03/22/2015,11:01,Race St & N Lang Ave,Homewood North,5,,
+OFFENSE 2.0,15049602,903,Criminal Conspiracy.,03/22/2015,11:09,400 block N Highland Ave,East Liberty,5,,
+OFFENSE 2.0,15049602,6301,Corruption of Minors.,03/22/2015,11:09,400 block N Highland Ave,East Liberty,5,,
+OFFENSE 2.0,15049602,3929,Retail Theft.,03/22/2015,11:09,400 block N Highland Ave,East Liberty,5,,
+ARREST,15049599,9501,Bench Warrant,03/22/2015,11:11,Race St & N Lang Ave,Homewood North,5,26,F
+ARREST,15049602,903,Criminal Conspiracy.,03/22/2015,11:30,400 block N Highland Ave,East Liberty,5,13,M
+ARREST,15049602,3929,Retail Theft.,03/22/2015,11:30,400 block N Highland Ave,East Liberty,5,13,M
+ARREST,15049602,903,Criminal Conspiracy.,03/22/2015,11:30,400 block N Highland Ave,East Liberty,5,34,M
+ARREST,15049602,3929,Retail Theft.,03/22/2015,11:30,400 block N Highland Ave,East Liberty,5,34,M
+ARREST,15049602,6301,Corruption of Minors.,03/22/2015,11:30,400 block N Highland Ave,East Liberty,5,34,M
+OFFENSE 2.0,15049645,2709,Harassment (Non-Specific),03/22/2015,12:34,4400 block Doleridge St,East Liberty,5,,
+OFFENSE 2.0,15049653,3304,Criminal Mischief.,03/22/2015,12:45,7500 block Susquehanna St,Homewood South,5,,
+ARREST,15012112,3301,Arson ,03/22/2015,14:00,800 block Freeport Rd,Lincoln-Lemington-Belmar,5,11,M
+ARREST,15012112,3304,Criminal Mischief.,03/22/2015,14:00,800 block Freeport Rd,Lincoln-Lemington-Belmar,5,11,M
+ARREST,15012112,3302,Causing or Risking Catastrophe.,03/22/2015,14:00,800 block Freeport Rd,Lincoln-Lemington-Belmar,5,11,M
+OFFENSE 2.0,15049716,3745,Accidents Involving Damage to Unattended Veh.or Prop.,03/22/2015,15:30,5100 block Liberty Ave,Bloomfield,5,,
+OFFENSE 2.0,15049736,3743,Accidents Involving Damage to Attended Veh. or Property,03/22/2015,16:12,Hamilton Ave & 5th Ave,Homewood West,5,,
+OFFENSE 2.0,15049802,3929(a)(5),Retail Theft; destroys  removes  damages control tag or security strip mechanism,03/22/2015,17:30,6200 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,15049802,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,03/22/2015,17:30,6200 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,15049906,3921(a),Theft by Unlawful Taking or Disposition - Movable item,03/22/2015,17:30,5900 block Wellesley Ave,Highland Park,5,,
+OFFENSE 2.0,15049802,907,Possessing Instruments of Crime.,03/22/2015,17:30,6200 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,15049905,3921,Theft by Unlawful Taking or Disposition.,03/22/2015,17:30,5900 block Wellesley Ave,Highland Park,5,,
+OFFENSE 2.0,15049799,3921(a),Theft by Unlawful Taking or Disposition - Movable item,03/22/2015,17:30,5900 block Wellesley Ave,Highland Park,5,,
+OFFENSE 2.0,15049799,3304,Criminal Mischief.,03/22/2015,17:30,5900 block Wellesley Ave,Highland Park,5,,
+ARREST,15049802,907,Possessing Instruments of Crime.,03/22/2015,18:09,6200 block Penn Ave,East Liberty,5,43,M
+ARREST,15049802,3929(a)(5),Retail Theft; destroys  removes  damages control tag or security strip mechanism,03/22/2015,18:09,6200 block Penn Ave,East Liberty,5,43,M
+ARREST,15049802,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,03/22/2015,18:09,6200 block Penn Ave,East Liberty,5,43,M
+OFFENSE 2.0,15049826,9490,Missing Persons (18 and Over),03/22/2015,18:30,200 block Orville Way,Bloomfield,5,,
+OFFENSE 2.0,15049867,3502,Burglary.,03/22/2015,19:30,5700 block Bunkerhill St,Highland Park,5,,
+OFFENSE 2.0,15049406,9999,9999 - (Misc. Incident): Shots Fired,03/22/2015,01:48,700 block Eathan Ave,Brookline,6,,
+OFFENSE 2.0,15049419,9488,False  Burglar Alarm,03/22/2015,01:57,1800 block Dormont Ave,Banksville,6,,
+OFFENSE 2.0,15049443,3304,Criminal Mischief.,03/22/2015,02:20,900 block Rossmore Ave,Brookline,6,,
+ARREST,15038376,4303,Concealing  Death of a Child Born out of Wedlock.,03/22/2015,02:30,Westfield St & Sebring Ave,Beechview,6,31,M
+ARREST,15038376,3334,Turning Movements and Required Signals.,03/22/2015,02:30,Westfield St & Sebring Ave,Beechview,6,31,M
+ARREST,15038376,3714,Careless Driving,03/22/2015,02:30,Westfield St & Sebring Ave,Beechview,6,31,M
+ARREST,15038376,3733,Fleeing or Attempting to Elude Police Officer,03/22/2015,02:30,Westfield St & Sebring Ave,Beechview,6,31,M
+ARREST,15038376,3323,Stop Signs and Yield Signs.,03/22/2015,02:30,Westfield St & Sebring Ave,Beechview,6,31,M
+ARREST,15038376,1543,Driving While Operating Privilege is Suspended or Revoked.,03/22/2015,02:30,Westfield St & Sebring Ave,Beechview,6,31,M
+ARREST,15038376,5105,Hindering Apprehension or Prosecution.,03/22/2015,02:30,Westfield St & Sebring Ave,Beechview,6,31,M
+OFFENSE 2.0,15049458,9488,False  Burglar Alarm,03/22/2015,02:49,3700 block Merle St,Windgap,6,,
+OFFENSE 2.0,15049501,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,03/22/2015,04:19,Motor St & Glen Mawr St,Sheraden,6,,
+OFFENSE 2.0,15049501,4581,Restraint Systems.,03/22/2015,04:19,Motor St & Glen Mawr St,Sheraden,6,,
+OFFENSE 2.0,15049501,1311,Registration Card to be Signed and Exhibited on Demand.,03/22/2015,04:19,Motor St & Glen Mawr St,Sheraden,6,,
+OFFENSE 2.0,15049501,1501,Drivers Required to be Licensed.,03/22/2015,04:19,Motor St & Glen Mawr St,Sheraden,6,,
+OFFENSE 2.0,15049501,1543,Driving While Operating Privilege is Suspended or Revoked.,03/22/2015,04:19,Motor St & Glen Mawr St,Sheraden,6,,
+OFFENSE 2.0,15049501,1786,Required Financial Responsibility.,03/22/2015,04:19,Motor St & Glen Mawr St,Sheraden,6,,
+OFFENSE 2.0,15049501,3802(a)(1),DUI - General Impairment,03/22/2015,04:19,Motor St & Glen Mawr St,Sheraden,6,,
+OFFENSE 2.0,15049501,3714,Careless Driving,03/22/2015,04:19,Motor St & Glen Mawr St,Sheraden,6,,
+ARREST,15049501,4581,Restraint Systems.,03/22/2015,04:42,Motor St & Glen Mawr St,Sheraden,6,52,F
+ARREST,15049501,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,03/22/2015,04:42,Motor St & Glen Mawr St,Sheraden,6,52,F
+ARREST,15049501,3714,Careless Driving,03/22/2015,04:42,Motor St & Glen Mawr St,Sheraden,6,52,F
+ARREST,15049501,1786,Required Financial Responsibility.,03/22/2015,04:42,Motor St & Glen Mawr St,Sheraden,6,52,F
+ARREST,15049501,1543,Driving While Operating Privilege is Suspended or Revoked.,03/22/2015,04:42,Motor St & Glen Mawr St,Sheraden,6,52,F
+ARREST,15049501,1501,Drivers Required to be Licensed.,03/22/2015,04:42,Motor St & Glen Mawr St,Sheraden,6,52,F
+ARREST,15049501,1311,Registration Card to be Signed and Exhibited on Demand.,03/22/2015,04:42,Motor St & Glen Mawr St,Sheraden,6,52,F
+ARREST,15049501,3802(a)(1),DUI - General Impairment,03/22/2015,04:42,Motor St & Glen Mawr St,Sheraden,6,52,F
+OFFENSE 2.0,15049563,2701,Simple Assault.,03/22/2015,05:00,1100 block Mc Kenna Ave,Westwood,6,,
+OFFENSE 2.0,15049860,3304,Criminal Mischief.,03/22/2015,07:00,1700 block Eben St,Brookline,6,,
+OFFENSE 2.0,15049860,3934,Theft from Vehicle,03/22/2015,07:00,1700 block Eben St,Brookline,6,,
+OFFENSE 2.0,15049541,3934,Theft from Vehicle,03/22/2015,08:00,2100 block Moredale St,Brookline,6,,
+OFFENSE 2.0,15049892,3934,Theft from Vehicle,03/22/2015,08:00,1700 block Eben St,Brookline,6,,
+OFFENSE 2.0,15049603,3304,Criminal Mischief.,03/22/2015,08:30,1500 block Chelton Ave,Brookline,6,,
+OFFENSE 2.0,15049550,3934,Theft from Vehicle,03/22/2015,08:33,2000 block Moredale St,Brookline,6,,
+OFFENSE 2.0,15049769,3934,Theft from Vehicle,03/22/2015,09:00,2200 block Whited St,Brookline,6,,
+OFFENSE 2.0,15049558,3934,Theft from Vehicle,03/22/2015,09:01,1700 block Hallowell St,Brookline,6,,
+OFFENSE 2.0,15049585,3304,Criminal Mischief.,03/22/2015,09:30,1400 block Chelton Ave,Brookline,6,,
+OFFENSE 2.0,15049805,2709,Harassment (Non-Specific),03/22/2015,12:00,3800 block Chartiers Ave,Windgap,6,,
+OFFENSE 2.0,15049785,3701,Robbery.,03/22/2015,17:24,2900 block Chartiers Ave,Sheraden,6,,
+OFFENSE 2.0,15049835,13(a)(32),Paraphernalia - Use or Possession,03/22/2015,18:53,1000 block Brookline Blvd,Brookline,6,,
+OFFENSE 2.0,15049835,13(a)(16),Possession of Controlled Substance,03/22/2015,18:53,1000 block Brookline Blvd,Brookline,6,,
+ARREST,15049835,13(a)(32),Paraphernalia - Use or Possession,03/22/2015,19:00,1000 block Brookline Blvd,Brookline,6,34,M
+ARREST,15049835,13(a)(16),Possession of Controlled Substance,03/22/2015,19:00,1000 block Brookline Blvd,Brookline,6,34,M
+OFFENSE 2.0,15049797,9489,Found Property,03/22/2015,19:00,600 block Bellaire Ave,Brookline,6,,
+OFFENSE 2.0,15049896,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,03/22/2015,21:21,700 block Fordham St,Brookline,6,,
+ARREST,15049896,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,03/22/2015,21:21,700 block Fordham St,Brookline,6,48,M
