@@ -1,0 +1,165 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,15077261,9488,False  Burglar Alarm,05/03/2015,00:40,800 block Allegheny Ave,Allegheny West,1,,
+OFFENSE 2.0,15077387,3304,Criminal Mischief.,05/03/2015,03:35,2900 block Brighton Rd,Marshall-Shadeland,1,,
+OFFENSE 2.0,15077387,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,05/03/2015,03:35,2900 block Brighton Rd,Marshall-Shadeland,1,,
+OFFENSE 2.0,15077425,9488,False  Burglar Alarm,05/03/2015,06:30,700 block Arch St,Allegheny Center,1,,
+OFFENSE 2.0,15077449,9488,False  Burglar Alarm,05/03/2015,08:11,400 block North Shore Dr,Allegheny Center,1,,
+OFFENSE 2.0,15077498,3304,Criminal Mischief.,05/03/2015,10:30,800 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,15077637,3304,Criminal Mischief.,05/03/2015,15:00,1800 block Davis Ave,Brighton Heights,1,,
+OFFENSE 2.0,15077647,3921(a),Theft by Unlawful Taking or Disposition - Movable item,05/03/2015,15:49,2800 block Shadeland Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,15077655,3924,Theft of Property Lost  Mislaid or Delivered by Mistake.,05/03/2015,16:37,200 block North Shore Dr,North Shore,1,,
+OFFENSE 2.0,15071698,9504,Lost Property,05/03/2015,17:30,2800 block California Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,15077879,029,Missing Juvenile,05/03/2015,23:00,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,15077240,601.08(a),Alcohol or Liquor Consumption on Streets or Sidewalks,05/03/2015,00:02,1500 block E Carson St,South Side Flats,2,,
+OFFENSE 2.0,15077286,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,05/03/2015,01:24,3100 block Liberty Ave,Polish Hill,2,,
+OFFENSE 2.0,15077286,5104,Resisting Arrest or Other Law Enforcement.,05/03/2015,01:24,3100 block Liberty Ave,Polish Hill,2,,
+OFFENSE 2.0,15077286,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,05/03/2015,01:24,3100 block Liberty Ave,Polish Hill,2,,
+OFFENSE 2.0,15077286,13(a)(16),Possession of Controlled Substance,05/03/2015,01:24,3100 block Liberty Ave,Polish Hill,2,,
+ARREST,15077286,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,05/03/2015,01:24,3100 block Liberty Ave,Polish Hill,2,30,M
+ARREST,15077286,5104,Resisting Arrest or Other Law Enforcement.,05/03/2015,01:24,3100 block Liberty Ave,Polish Hill,2,30,M
+ARREST,15077286,4910,Tampering with or Fabricating Physical Evidence.,05/03/2015,01:24,3100 block Liberty Ave,Polish Hill,2,30,M
+ARREST,15077286,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,05/03/2015,01:24,3100 block Liberty Ave,Polish Hill,2,30,M
+ARREST,15077286,13(a)(16),Possession of Controlled Substance,05/03/2015,01:24,3100 block Liberty Ave,Polish Hill,2,30,M
+OFFENSE 2.0,15077286,4910,Tampering with or Fabricating Physical Evidence.,05/03/2015,01:24,3100 block Liberty Ave,Polish Hill,2,,
+OFFENSE 2.0,15077235,9490,Missing Persons (18 and Over),05/03/2015,03:45,100 block 6th St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15077526,9501,Bench Warrant,05/03/2015,12:50,900 block Second Ave,Bluff,2,,
+ARREST,15077526,9501,Bench Warrant,05/03/2015,12:50,900 block Second Ave,Bluff,2,32,M
+OFFENSE 2.0,15077654,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,05/03/2015,16:05,700 block Mercer St,Crawford-Roberts,2,,
+OFFENSE 2.0,15077703,2709,Harassment (Non-Specific),05/03/2015,17:25,2100 block White Hill Dr,Bedford Dwellings,2,,
+OFFENSE 2.0,15077720,9501,Bench Warrant,05/03/2015,17:57,1400 block Centre Ave,Golden Triangle/Civic Arena,2,,
+ARREST,15077720,9501,Bench Warrant,05/03/2015,18:05,1400 block Centre Ave,Golden Triangle/Civic Arena,2,44,F
+OFFENSE 2.0,15077743,3743,Accidents Involving Damage to Attended Veh. or Property,05/03/2015,18:37,Butler St & 36th St,Lower Lawrenceville,2,,
+OFFENSE 2.0,15077799,907,Possessing Instruments of Crime.,05/03/2015,20:10,Centre Ave & Vera Cruz Way,Middle Hill,2,,
+OFFENSE 2.0,15077799,5505,Public Drunkenness,05/03/2015,20:10,Centre Ave & Vera Cruz Way,Middle Hill,2,,
+OFFENSE 2.0,15077799,2702,Aggravated Assault.,05/03/2015,20:10,Centre Ave & Vera Cruz Way,Middle Hill,2,,
+OFFENSE 2.0,15077799,2701,Simple Assault.,05/03/2015,20:10,Centre Ave & Vera Cruz Way,Middle Hill,2,,
+ARREST,15077799,907,Possessing Instruments of Crime.,05/03/2015,20:10,Centre Ave & Vera Cruz Way,Middle Hill,2,45,M
+ARREST,15077799,2701,Simple Assault.,05/03/2015,20:10,Centre Ave & Vera Cruz Way,Middle Hill,2,45,M
+ARREST,15077799,2702,Aggravated Assault.,05/03/2015,20:10,Centre Ave & Vera Cruz Way,Middle Hill,2,45,M
+OFFENSE 2.0,15077262,9999,9999 - (Misc. Incident): ,05/03/2015,00:26,1700 block Leolyn St,Carrick,3,,
+ARREST,15077254,13(a)(16),Possession of Controlled Substance,05/03/2015,00:30,1700 block Saw Mill Run Blvd,Carrick,3,40,F
+ARREST,15077254,13(a)(32),Paraphernalia - Use or Possession,05/03/2015,00:30,1700 block Saw Mill Run Blvd,Carrick,3,40,F
+OFFENSE 2.0,15077254,13(a)(16),Possession of Controlled Substance,05/03/2015,00:30,1700 block Saw Mill Run Blvd,Carrick,3,,
+OFFENSE 2.0,15077254,13(a)(32),Paraphernalia - Use or Possession,05/03/2015,00:30,1700 block Saw Mill Run Blvd,Carrick,3,,
+OFFENSE 2.0,15077278,2702,Aggravated Assault.,05/03/2015,00:51,1100 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15077278,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,05/03/2015,00:51,1100 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15077278,5505,Public Drunkenness,05/03/2015,00:51,1100 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15077278,5507,Obstructing Highways and Passages.,05/03/2015,00:51,1100 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15077278,601.16,Public Urination And Defecation,05/03/2015,00:51,1100 block E Carson St,South Side Flats,3,,
+ARREST,15077278,2702,Aggravated Assault.,05/03/2015,00:51,1100 block E Carson St,South Side Flats,3,,M
+ARREST,15077278,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,05/03/2015,00:51,1100 block E Carson St,South Side Flats,3,,M
+ARREST,15077278,5505,Public Drunkenness,05/03/2015,00:51,1100 block E Carson St,South Side Flats,3,,M
+ARREST,15077278,5507,Obstructing Highways and Passages.,05/03/2015,00:51,1100 block E Carson St,South Side Flats,3,,M
+ARREST,15077278,601.16,Public Urination And Defecation,05/03/2015,00:51,1100 block E Carson St,South Side Flats,3,,M
+OFFENSE 2.0,15077275,5505,Public Drunkenness,05/03/2015,00:55,S 20th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15077672,3921,Theft by Unlawful Taking or Disposition.,05/03/2015,01:30,1400 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15077337,3802(a)(1),DUI - General Impairment,05/03/2015,02:15,Mary Jane St & Harcum Way,South Side Slopes,3,,
+OFFENSE 2.0,15077334,2702,Aggravated Assault.,05/03/2015,02:16,100 block S 18th St,South Side Flats,3,,
+OFFENSE 2.0,15077334,2705,Recklessly Endangering Another Person.,05/03/2015,02:16,100 block S 18th St,South Side Flats,3,,
+OFFENSE 2.0,15077334,2701,Simple Assault.,05/03/2015,02:16,100 block S 18th St,South Side Flats,3,,
+ARREST,15077334,2705,Recklessly Endangering Another Person.,05/03/2015,02:16,100 block S 18th St,South Side Flats,3,23,M
+ARREST,15077334,2701,Simple Assault.,05/03/2015,02:16,100 block S 18th St,South Side Flats,3,23,M
+ARREST,15077334,2702,Aggravated Assault.,05/03/2015,02:16,100 block S 18th St,South Side Flats,3,29,M
+ARREST,15077342,5505,Public Drunkenness,05/03/2015,02:17,S 16th St & E Carson St,South Side Flats,3,22,M
+ARREST,15077342,5507,Obstructing Highways and Passages.,05/03/2015,02:17,S 16th St & E Carson St,South Side Flats,3,22,M
+ARREST,15077342,5503,Disorderly Conduct.,05/03/2015,02:17,S 16th St & E Carson St,South Side Flats,3,22,M
+OFFENSE 2.0,15077331,9999,9999 - (Misc. Incident): daughter struck by father,05/03/2015,02:20,200 block Cairo St,Mount Washington,3,,
+OFFENSE 2.0,15077342,5507,Obstructing Highways and Passages.,05/03/2015,02:40,S 16th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15077342,5505,Public Drunkenness,05/03/2015,02:40,S 16th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15077342,5503,Disorderly Conduct.,05/03/2015,02:40,S 16th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15077368,9999,9999 - (Misc. Incident): ,05/03/2015,02:54,800 block Windom St,South Side Slopes,3,,
+OFFENSE 2.0,15077413,3701,Robbery.,05/03/2015,05:07,Minooka St & Giller St,Carrick,3,,
+OFFENSE 2.0,15077413,3702,Robbery of Motor Vehicle.,05/03/2015,05:07,Minooka St & Giller St,Carrick,3,,
+ARREST,15077441,13(a)(16),Possession of Controlled Substance,05/03/2015,07:38,2400 block Patterson St,South Side Slopes,3,24,M
+ARREST,15077441,13(a)(32),Paraphernalia - Use or Possession,05/03/2015,07:38,2400 block Patterson St,South Side Slopes,3,24,M
+OFFENSE 2.0,15077441,13(a)(16),Possession of Controlled Substance,05/03/2015,07:40,2400 block Patterson St,South Side Slopes,3,,
+OFFENSE 2.0,15077441,13(a)(32),Paraphernalia - Use or Possession,05/03/2015,07:40,2400 block Patterson St,South Side Slopes,3,,
+OFFENSE 2.0,15077659,2702,Aggravated Assault.,05/03/2015,16:14,1600 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15077751,2701,Simple Assault.,05/03/2015,18:31,Mc Lain St & Allen St,Allentown,3,,
+OFFENSE 2.0,15077804,2709,Harassment (Non-Specific),05/03/2015,19:30,Becks Run Rd,Carrick,3,,
+OFFENSE 2.0,15077814,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,05/03/2015,20:43,Bailey Ave,Mount Washington,3,,
+OFFENSE 2.0,15077822,2709(a)(3),Harassment No Legitimate Purpose,05/03/2015,20:53,2500 block Waterman Ave,Carrick,3,,
+OFFENSE 2.0,15077873,4303,General Lighting Requirements.,05/03/2015,22:40,S 21st St & Josephine St,South Side Slopes,3,,
+OFFENSE 2.0,15077873,13(a)(31),Marijuana: Possession Small Amount,05/03/2015,22:40,S 21st St & Josephine St,South Side Slopes,3,,
+OFFENSE 2.0,15077873,1543,Driving While Operating Privilege is Suspended or Revoked.,05/03/2015,22:40,S 21st St & Josephine St,South Side Slopes,3,,
+ARREST,15077873,13(a)(31),Marijuana: Possession Small Amount,05/03/2015,22:50,S 21st St & Josephine St,South Side Slopes,3,46,M
+ARREST,15077873,1543,Driving While Operating Privilege is Suspended or Revoked.,05/03/2015,22:50,S 21st St & Josephine St,South Side Slopes,3,46,M
+ARREST,15077873,4303,General Lighting Requirements.,05/03/2015,22:50,S 21st St & Josephine St,South Side Slopes,3,46,M
+ARREST,15074629,2701,Simple Assault.,05/03/2015,23:11,400 block Kathleen St,Mount Washington,3,36,M
+OFFENSE 2.0,15077250,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,05/03/2015,00:10,5600 block Ellsworth Ave,Shadyside,4,,
+OFFENSE 2.0,15077250,3802(a)(1),DUI - General Impairment,05/03/2015,00:10,5600 block Ellsworth Ave,Shadyside,4,,
+OFFENSE 2.0,15077250,3745,Accidents Involving Damage to Unattended Veh.or Prop.,05/03/2015,00:10,5600 block Ellsworth Ave,Shadyside,4,,
+OFFENSE 2.0,15077250,1501,Drivers Required to be Licensed.,05/03/2015,00:10,5600 block Ellsworth Ave,Shadyside,4,,
+OFFENSE 2.0,15077250,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,05/03/2015,00:10,5600 block Ellsworth Ave,Shadyside,4,,
+OFFENSE 2.0,15077250,3809(a),Restriction on Alcoholic Beverages in Vehicle,05/03/2015,00:10,5600 block Ellsworth Ave,Shadyside,4,,
+ARREST,15077250,3809(a),Restriction on Alcoholic Beverages in Vehicle,05/03/2015,00:33,5600 block Ellsworth Ave,Shadyside,4,20,M
+ARREST,15077250,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,05/03/2015,00:33,5600 block Ellsworth Ave,Shadyside,4,20,M
+ARREST,15077250,3802(a)(1),DUI - General Impairment,05/03/2015,00:33,5600 block Ellsworth Ave,Shadyside,4,20,M
+ARREST,15077250,1501,Drivers Required to be Licensed.,05/03/2015,00:33,5600 block Ellsworth Ave,Shadyside,4,20,M
+ARREST,15077250,3745,Accidents Involving Damage to Unattended Veh.or Prop.,05/03/2015,00:33,5600 block Ellsworth Ave,Shadyside,4,20,M
+ARREST,15077250,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,05/03/2015,00:33,5600 block Ellsworth Ave,Shadyside,4,20,M
+OFFENSE 2.0,15077285,3743,Accidents Involving Damage to Attended Veh. or Property,05/03/2015,00:55,Baum Blvd & N Craig St,North Oakland,4,,
+OFFENSE 2.0,15077283,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,05/03/2015,01:02,E Carson St & Glennwood Brg,Hays,4,,
+OFFENSE 2.0,15077283,3802(a)(1),DUI - General Impairment,05/03/2015,01:02,E Carson St & Glennwood Brg,Hays,4,,
+OFFENSE 2.0,15077283,3736,Reckless Driving,05/03/2015,01:02,E Carson St & Glennwood Brg,Hays,4,,
+ARREST,15077283,3802(a)(1),DUI - General Impairment,05/03/2015,01:14,E Carson St & Glennwood Brg,Hays,4,24,F
+ARREST,15077283,3736,Reckless Driving,05/03/2015,01:14,E Carson St & Glennwood Brg,Hays,4,24,F
+ARREST,15077283,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,05/03/2015,01:14,E Carson St & Glennwood Brg,Hays,4,24,F
+ARREST,15072014,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,05/03/2015,02:30,5th Ave & Morewood Ave,Shadyside,4,33,M
+ARREST,15072014,3802(a)(1),DUI - General Impairment,05/03/2015,02:30,5th Ave & Morewood Ave,Shadyside,4,33,M
+ARREST,15072014,3112,Traffic-Control Signals.,05/03/2015,02:30,5th Ave & Morewood Ave,Shadyside,4,33,M
+ARREST,15072014,3736,Reckless Driving,05/03/2015,02:30,5th Ave & Morewood Ave,Shadyside,4,33,M
+OFFENSE 2.0,15077555,9497,Aided Case,05/03/2015,12:25,400 block E Elizabeth St,Hazelwood,4,,
+OFFENSE 2.0,15077576,3929,Retail Theft.,05/03/2015,12:44,3700 block Forbes Ave,Central Oakland,4,,
+OFFENSE 2.0,15077689,13(a)(31),Marijuana: Possession Small Amount,05/03/2015,17:10,5800 block Pierce St,Shadyside,4,,
+OFFENSE 2.0,15077689,13(a)(32),Paraphernalia - Use or Possession,05/03/2015,17:10,5800 block Pierce St,Shadyside,4,,
+ARREST,15077689,13(a)(31),Marijuana: Possession Small Amount,05/03/2015,17:25,5800 block Pierce St,Shadyside,4,22,M
+ARREST,15077689,13(a)(32),Paraphernalia - Use or Possession,05/03/2015,17:25,5800 block Pierce St,Shadyside,4,22,M
+OFFENSE 2.0,15077733,3921(a),Theft by Unlawful Taking or Disposition - Movable item,05/03/2015,17:30,2100 block Wightman St,Squirrel Hill South,4,,
+OFFENSE 2.0,15077310,2701,Simple Assault.,05/03/2015,01:50,N Braddock Ave & Hamilton Ave,Homewood South,5,,
+OFFENSE 2.0,15077310,3701,Robbery.,05/03/2015,01:50,N Braddock Ave & Hamilton Ave,Homewood South,5,,
+OFFENSE 2.0,15077310,2901,Kidnapping.,05/03/2015,01:50,N Braddock Ave & Hamilton Ave,Homewood South,5,,
+OFFENSE 2.0,15077310,2706,Terroristic Threats.,05/03/2015,01:50,N Braddock Ave & Hamilton Ave,Homewood South,5,,
+OFFENSE 2.0,15077319,1786,Required Financial Responsibility.,05/03/2015,01:52,Frankstown Ave & N Lang Ave,Homewood North,5,,
+OFFENSE 2.0,15077319,3743,Accidents Involving Damage to Attended Veh. or Property,05/03/2015,01:52,Frankstown Ave & N Lang Ave,Homewood North,5,,
+OFFENSE 2.0,15077319,1301,Registration and Certificate of Title Required.,05/03/2015,01:52,Frankstown Ave & N Lang Ave,Homewood North,5,,
+OFFENSE 2.0,15077319,1543,Driving While Operating Privilege is Suspended or Revoked.,05/03/2015,01:52,Frankstown Ave & N Lang Ave,Homewood North,5,,
+OFFENSE 2.0,15077319,1785,Proof of Financial Responsibility Following Accident.,05/03/2015,01:52,Frankstown Ave & N Lang Ave,Homewood North,5,,
+OFFENSE 2.0,15077341,9999,9999 - (Misc. Incident): 9999 - (Misc. Incident): ,05/03/2015,02:17,4800 block Liberty Ave,Bloomfield,5,,
+OFFENSE 2.0,15077358,8106,Shots Fired,05/03/2015,02:42,400 block Paulson Ave,Larimer,5,,
+OFFENSE 2.0,15077367,6106,Firearms not to be Carried without a License.,05/03/2015,03:02,2100 block Park Hill Dr,East Hills,5,,
+OFFENSE 2.0,15077367,3925,Receiving Stolen Property.,05/03/2015,03:02,2100 block Park Hill Dr,East Hills,5,,
+OFFENSE 2.0,15077360,2709(a),Harassment.,05/03/2015,03:11,5100 block Schenley Ave,Garfield,5,,
+OFFENSE 2.0,15077360,3304,Criminal Mischief.,05/03/2015,03:11,5100 block Schenley Ave,Garfield,5,,
+ARREST,15077367,3925,Receiving Stolen Property.,05/03/2015,03:22,2100 block Park Hill Dr,East Hills,5,26,M
+ARREST,15077367,6106,Firearms not to be Carried without a License.,05/03/2015,03:22,2100 block Park Hill Dr,East Hills,5,26,M
+OFFENSE 2.0,15077380,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,05/03/2015,03:24,8300 block Bricelyn St,East Hills,5,,
+OFFENSE 2.0,15077399,2701,Simple Assault.,05/03/2015,04:20,600 block Wilkinsburg Ave,East Hills,5,,
+OFFENSE 2.0,15077423,3304,Criminal Mischief.,05/03/2015,05:00,400 block N Beatty St,East Liberty,5,,
+ARREST,15077399,2701,Simple Assault.,05/03/2015,05:00,600 block Wilkinsburg Ave,East Hills,5,31,M
+OFFENSE 2.0,15077432,9501,Bench Warrant,05/03/2015,06:35,8400 block Dersam St,East Hills,5,,
+ARREST,15077432,9501,Bench Warrant,05/03/2015,06:35,8400 block Dersam St,East Hills,5,49,M
+OFFENSE 2.0,15077446,3926(a)(4),Theft of services; ACQUISITION OF SERVICES - refusal to pay or offer to pay for a service (hotels and restaurants),05/03/2015,08:05,900 block Freeport Rd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15777802,3921(a),Theft by Unlawful Taking or Disposition - Movable item,05/03/2015,13:00,4800 block Friendship Ave,Bloomfield,5,,
+OFFENSE 2.0,15777802,4106,Access Device Fraud,05/03/2015,13:00,4800 block Friendship Ave,Bloomfield,5,,
+OFFENSE 2.0,15077630,2701,Simple Assault.,05/03/2015,13:45,7300 block Butler St,Morningside,5,,
+OFFENSE 2.0,15077668,3502,Burglary.,05/03/2015,16:20,300 block S Negley Ave,East Liberty,5,,
+OFFENSE 2.0,15077229,5503(a)(2),DISORDERLY CONDUCT - UNREASONABLE NOISE,05/03/2015,00:07,800 block Brookline Blvd,Brookline,6,,
+OFFENSE 2.0,15077229,5505,Public Drunkenness,05/03/2015,00:07,800 block Brookline Blvd,Brookline,6,,
+OFFENSE 2.0,15077266,029,Missing Juvenile,05/03/2015,00:31,1000 block Woodlow St,Crafton Heights,6,,
+OFFENSE 2.0,15077266,029,Missing Juvenile,05/03/2015,02:15,1000 block Woodlow St,Crafton Heights,6,,
+OFFENSE 2.0,15077348,2701,Simple Assault.,05/03/2015,02:28,3100 block Landis St,Sheraden,6,,
+OFFENSE 2.0,15077374,3304,Criminal Mischief.,05/03/2015,02:49,2000 block Moredale St,Brookline,6,,
+OFFENSE 2.0,15077378,2701,Simple Assault.,05/03/2015,03:21,900 block Woodlow St,Crafton Heights,6,,
+ARREST,15077378,2701,Simple Assault.,05/03/2015,03:37,900 block Woodlow St,Crafton Heights,6,31,M
+OFFENSE 2.0,15077460,9488,False  Burglar Alarm,05/03/2015,08:44,2000 block West Liberty Ave,Brookline,6,,
+OFFENSE 2.0,15077531,9488,False  Burglar Alarm,05/03/2015,11:46,1500 block Breining St,Overbrook,6,,
+OFFENSE 2.0,15077658,3304,Criminal Mischief.,05/03/2015,12:00,2600 block Pioneer Ave,Brookline,6,,
+OFFENSE 2.0,15077614,9497,Aided Case,05/03/2015,14:30,1100 block Dagmar Ave,Beechview,6,,
+ARREST,15077770,13(a)(31),Marijuana: Possession Small Amount,05/03/2015,19:21,Wabash St,West End,6,22,M
+ARREST,15077770,3714,Careless Driving,05/03/2015,19:21,Wabash St,West End,6,22,M
+OFFENSE 2.0,15077770,13(a)(31),Marijuana: Possession Small Amount,05/03/2015,19:32,Wabash St,West End,6,,
+OFFENSE 2.0,15077770,3714,Careless Driving,05/03/2015,19:32,Wabash St,West End,6,,
+OFFENSE 2.0,15077798,1501,Drivers Required to be Licensed.,05/03/2015,20:00,1500 block Princess Ave,Beechview,6,,
+OFFENSE 2.0,15077798,1786,Required Financial Responsibility.,05/03/2015,20:00,1500 block Princess Ave,Beechview,6,,
+OFFENSE 2.0,15077869,3745,Accidents Involving Damage to Unattended Veh.or Prop.,05/03/2015,22:31,3100 block Fadette St,Sheraden,6,,
