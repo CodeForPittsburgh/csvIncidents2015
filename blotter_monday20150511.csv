@@ -1,0 +1,173 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,15083090,3304,Criminal Mischief.,05/11/2015,00:14,2700 block Leland St,Perry South,1,,
+OFFENSE 2.0,15083070,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,05/11/2015,00:16,2700 block Veteran St,Perry South,1,,
+OFFENSE 2.0,15083113,2701,Simple Assault.,05/11/2015,01:27,700 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,15083113,2702,Aggravated Assault.,05/11/2015,01:27,700 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,15083083,9497,Aided Case,05/11/2015,01:30,7th St Brg E & Federal St S,North Shore,1,,
+OFFENSE 2.0,15083121,3502,Burglary.,05/11/2015,01:40,1500 block Federal St N,Fineview,1,,
+OFFENSE 2.0,15083121,3304,Criminal Mischief.,05/11/2015,01:40,1500 block Federal St N,Fineview,1,,
+OFFENSE 2.0,15083158,9498,302 (Mental),05/11/2015,03:30,3600 block Baytree St,Perry North,1,,
+OFFENSE 2.0,15083178,13(a)(31),Marijuana: Possession Small Amount,05/11/2015,04:03,1400 block Nixon St,Manchester,1,,
+OFFENSE 2.0,15083178,1543,Driving While Operating Privilege is Suspended or Revoked.,05/11/2015,04:03,1400 block Nixon St,Manchester,1,,
+ARREST,15083178,1543,Driving While Operating Privilege is Suspended or Revoked.,05/11/2015,04:10,1400 block Nixon St,Manchester,1,24,M
+ARREST,15083178,13(a)(31),Marijuana: Possession Small Amount,05/11/2015,04:10,1400 block Nixon St,Manchester,1,24,M
+OFFENSE 2.0,15083205,3503(a),Criminal Trespass,05/11/2015,06:30,1500 block Saturn Way,Central Northside,1,,
+OFFENSE 2.0,15083205,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,05/11/2015,06:30,1500 block Saturn Way,Central Northside,1,,
+OFFENSE 2.0,15083227,029,Missing Juvenile,05/11/2015,07:47,300 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,15083303,3304,Criminal Mischief.,05/11/2015,09:20,1300 block Diana St,Spring Hill-City View,1,,
+OFFENSE 2.0,15083920,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,05/11/2015,09:30,3100 block Brighton Rd,Marshall-Shadeland,1,,
+ARREST,15078780,3701,Robbery.,05/11/2015,10:00,500 block E Ohio St,East Allegheny,1,57,M
+ARREST,15074094,2706,Terroristic Threats.,05/11/2015,10:30,1600 block Lowrie St,Troy Hill-Herrs Island,1,23,M
+OFFENSE 2.0,15083357,9497,Aided Case,05/11/2015,11:40,Isabella St,North Shore,1,,
+OFFENSE 2.0,15083386,2702,Aggravated Assault.,05/11/2015,12:08,James St & Knoll St,Central Northside,1,,
+OFFENSE 2.0,15083386,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),05/11/2015,12:08,James St & Knoll St,Central Northside,1,,
+OFFENSE 2.0,15083386,6106,Firearms not to be Carried without a License.,05/11/2015,12:08,James St & Knoll St,Central Northside,1,,
+OFFENSE 2.0,15083386,1543,Driving While Operating Privilege is Suspended or Revoked.,05/11/2015,12:08,James St & Knoll St,Central Northside,1,,
+ARREST,15083386,6106,Firearms not to be Carried without a License.,05/11/2015,12:10,James St & Knoll St,Central Northside,1,32,M
+ARREST,15083386,1543,Driving While Operating Privilege is Suspended or Revoked.,05/11/2015,12:10,James St & Knoll St,Central Northside,1,32,M
+ARREST,15083386,2702,Aggravated Assault.,05/11/2015,12:10,James St & Knoll St,Central Northside,1,32,M
+ARREST,15083386,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),05/11/2015,12:10,James St & Knoll St,Central Northside,1,32,M
+OFFENSE 2.0,15083451,9488,False  Burglar Alarm,05/11/2015,14:09,400 block Lockhart St,East Allegheny,1,,
+OFFENSE 2.0,15083479,9999,9999 - (Misc. Incident): Non-reportable Accident Involving A Company Vehicle,05/11/2015,15:12,Allegheny Ave & Ridge Ave,Chateau,1,,
+OFFENSE 2.0,15083491,9498,302 (Mental),05/11/2015,15:35,2300 block Perrysville Ave,Perry South,1,,
+ARREST,15073041,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,05/11/2015,16:15,100 block Fountain St,Central Northside,1,29,M
+ARREST,15073041,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,05/11/2015,16:15,100 block Fountain St,Central Northside,1,29,M
+OFFENSE 2.0,15083638,3921(a),Theft by Unlawful Taking or Disposition - Movable item,05/11/2015,18:30,Allegheny Ctr,Allegheny Center,1,,
+OFFENSE 2.0,15083669,9488,False  Burglar Alarm,05/11/2015,19:30,700 block W Commons,Allegheny Center,1,,
+OFFENSE 2.0,15083742,9488,False  Burglar Alarm,05/11/2015,21:09,2600 block N Charles St,Perry South,1,,
+OFFENSE 2.0,15083084,2701,Simple Assault.,05/11/2015,00:20,1900 block 5th Ave,Bluff,2,,
+ARREST,15083157,5902(a)(2),Prostitution - Loitering for purpose of,05/11/2015,03:00,Jumonville St & Watson St,Bluff,2,53,F
+ARREST,15083157,13(a)(32),Paraphernalia - Use or Possession,05/11/2015,03:00,Jumonville St & Watson St,Bluff,2,53,F
+OFFENSE 2.0,15083157,5902(a)(2),Prostitution - Loitering for purpose of,05/11/2015,03:39,Jumonville St & Watson St,Bluff,2,,
+OFFENSE 2.0,15083157,13(a)(32),Paraphernalia - Use or Possession,05/11/2015,03:39,Jumonville St & Watson St,Bluff,2,,
+OFFENSE 2.0,15083221,3304,Criminal Mischief.,05/11/2015,06:35,200 block WICK St,Crawford-Roberts,2,,
+OFFENSE 2.0,15083221,3934,Theft from Vehicle,05/11/2015,06:35,200 block WICK St,Crawford-Roberts,2,,
+OFFENSE 2.0,15083267,3304,Criminal Mischief.,05/11/2015,08:00,Seneca St,Bluff,2,,
+OFFENSE 2.0,15083267,3934,Theft from Vehicle,05/11/2015,08:00,Seneca St,Bluff,2,,
+OFFENSE 2.0,15083260,3502,Burglary.,05/11/2015,08:00,600 block Commonwealth Pl,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15083293,3502,Burglary.,05/11/2015,08:45,400 block Grant St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15083268,2701,Simple Assault.,05/11/2015,08:55,Centre Ave & Washington Pl,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15083305,9999,9999 - (Misc. Incident): ,05/11/2015,09:50,Fort Pitt Blvd & Market St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15083339,3701,Robbery.,05/11/2015,10:55,600 block Stanwix St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15083346,4106,Access Device Fraud,05/11/2015,11:00,2900 block BEDFORD Ave,Bedford Dwellings,2,,
+OFFENSE 2.0,15083346,4120,Identity Theft,05/11/2015,11:00,2900 block BEDFORD Ave,Bedford Dwellings,2,,
+OFFENSE 2.0,15083435,3921,Theft by Unlawful Taking or Disposition.,05/11/2015,11:40,2500 block BEDFORD Ave,Bedford Dwellings,2,,
+ARREST,15039849,9501,Bench Warrant,05/11/2015,11:56,Centre Ave & Francis St,Middle Hill,2,22,
+OFFENSE 2.0,15083392,029,Missing Juvenile,05/11/2015,12:30,1400 block Forbes Ave,Bluff,2,,
+OFFENSE 2.0,15083459,3742,Accidents Involving Death or Personal Injury,05/11/2015,14:24,Penn Ave & 24th St,Strip District,2,,
+ARREST,15083459,3742,Accidents Involving Death or Personal Injury,05/11/2015,14:50,Penn Ave & 24th St,Strip District,2,63,M
+OFFENSE 2.0,15083551,3304,Criminal Mischief.,05/11/2015,16:50,Webster Ave & Mercer St,Crawford-Roberts,2,,
+OFFENSE 2.0,15083571,5505,Public Drunkenness,05/11/2015,17:19,700 block Penn Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15083560,2707.1,Discharge of a Firearm into Occupied Structure,05/11/2015,17:20,2400 block Bedford Ave,Bedford Dwellings,2,,
+OFFENSE 2.0,15083560,3304,Criminal Mischief.,05/11/2015,17:20,2400 block Bedford Ave,Bedford Dwellings,2,,
+OFFENSE 2.0,15083604,602.04,Panhandling and Prohibited Conduct,05/11/2015,18:06,I-376 Ramp & Commonwealth Pl,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15083837,901,Criminal Attempt,05/11/2015,19:30,3500 block Spring Way,Lower Lawrenceville,2,,
+ARREST,15083800,3802(a)(1),DUI - General Impairment,05/11/2015,22:30,Liberty Ave & Herron Ave,Lower Lawrenceville,2,37,F
+OFFENSE 2.0,15083800,3802(a)(1),DUI - General Impairment,05/11/2015,22:30,Liberty Ave & Herron Ave,Lower Lawrenceville,2,,
+ARREST,15083800,3112,Traffic-Control Signals.,05/11/2015,22:30,Liberty Ave & Herron Ave,Lower Lawrenceville,2,37,F
+ARREST,15083800,3334,Turning Movements and Required Signals.,05/11/2015,22:30,Liberty Ave & Herron Ave,Lower Lawrenceville,2,37,F
+OFFENSE 2.0,15083800,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,05/11/2015,22:30,Liberty Ave & Herron Ave,Lower Lawrenceville,2,,
+ARREST,15083800,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,05/11/2015,22:30,Liberty Ave & Herron Ave,Lower Lawrenceville,2,37,F
+OFFENSE 2.0,15083800,3112,Traffic-Control Signals.,05/11/2015,22:30,Liberty Ave & Herron Ave,Lower Lawrenceville,2,,
+OFFENSE 2.0,15083800,3334,Turning Movements and Required Signals.,05/11/2015,22:30,Liberty Ave & Herron Ave,Lower Lawrenceville,2,,
+OFFENSE 2.0,15083839,2709(a)(4),Harassment Communicates Prohibited Acts,05/11/2015,23:59,2600 block Webster Ave,Bedford Dwellings,2,,
+OFFENSE 2.0,15083839,2706,Terroristic Threats.,05/11/2015,23:59,2600 block Webster Ave,Bedford Dwellings,2,,
+ARREST,14171703,2701,Simple Assault.,05/11/2015,00:40,Beltzhoover Ave,Allentown,3,36,F
+ARREST,15083107,2701,Simple Assault.,05/11/2015,01:19,400 block E Warrington Ave,Beltzhoover,3,19,F
+OFFENSE 2.0,15083107,2701,Simple Assault.,05/11/2015,01:19,400 block E Warrington Ave,Beltzhoover,3,,
+OFFENSE 2.0,15083152,2702,Aggravated Assault.,05/11/2015,02:41,200 block Kohlmeyers Ln,Mount Washington,3,,
+ARREST,15083152,2702,Aggravated Assault.,05/11/2015,03:02,200 block Kohlmeyers Ln,Mount Washington,3,20,M
+OFFENSE 2.0,15083180,9496,Dead on Arrival (DOA),05/11/2015,04:00,200 block Meredith St,Carrick,3,,
+OFFENSE 2.0,15083237,3304,Criminal Mischief.,05/11/2015,06:00,S 22nd St & Sarah St,South Side Flats,3,,
+OFFENSE 2.0,15083237,3934,Theft from Vehicle,05/11/2015,06:00,S 22nd St & Sarah St,South Side Flats,3,,
+OFFENSE 2.0,15083223,3304,Criminal Mischief.,05/11/2015,07:30,Muriel St & S 16th St,South Side Flats,3,,
+OFFENSE 2.0,15083223,3934,Theft from Vehicle,05/11/2015,07:30,Muriel St & S 16th St,South Side Flats,3,,
+OFFENSE 2.0,15083238,3304,Criminal Mischief.,05/11/2015,07:40,Muriel St & S 16th St,South Side Flats,3,,
+OFFENSE 2.0,15083230,3743,Accidents Involving Damage to Attended Veh. or Property,05/11/2015,07:55,Becks Run Rd & E Agnew Ave,Carrick,3,,
+OFFENSE 2.0,15083285,2709.1,Stalking Conduct or Repeatedly Acts Including Follows,05/11/2015,08:30,1300 block Grandview Ave,Duquesne Heights,3,,
+OFFENSE 2.0,15083354,3921,Theft by Unlawful Taking or Disposition.,05/11/2015,09:30,Jane St & S 18th St,South Side Flats,3,,
+OFFENSE 2.0,15083321,3304,Criminal Mischief.,05/11/2015,09:45,100 block Laughlin Ave,Carrick,3,,
+OFFENSE 2.0,15083284,9496,Dead on Arrival (DOA),05/11/2015,10:40,800 block Boggs Ave,Mount Washington,3,,
+OFFENSE 2.0,15083396,3304,Criminal Mischief.,05/11/2015,11:00,1500 block Muriel St,South Side Flats,3,,
+ARREST,15082795,9501,Bench Warrant,05/11/2015,13:03,700 block Hargrove St,Mount Washington,3,31,M
+OFFENSE 2.0,15082795,9501,Bench Warrant,05/11/2015,13:03,700 block Hargrove St,Mount Washington,3,,
+OFFENSE 2.0,15083630,2701,Simple Assault.,05/11/2015,13:25,1100 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,15083477,3934,Theft from Vehicle,05/11/2015,14:10,400 block Althea St,Beltzhoover,3,,
+OFFENSE 2.0,15083453,13(a)(16),Possession of Controlled Substance,05/11/2015,14:14,W Warrington Ave & Saw Mill Run Blvd,Mount Washington,3,,
+ARREST,15083453,13(a)(16),Possession of Controlled Substance,05/11/2015,14:14,W Warrington Ave & Saw Mill Run Blvd,Mount Washington,3,54,M
+ARREST,15028914,9015,Failure To Appear/Arrest on Attachment Order,05/11/2015,15:00,Arlington Ave & Industry St,West Oakland,3,43,M
+ARREST,14208291,903,Criminal Conspiracy.,05/11/2015,16:18,1700 block E Carson St,Bluff,3,35,F
+ARREST,14208291,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,05/11/2015,16:18,1700 block E Carson St,Bluff,3,35,F
+OFFENSE 2.0,15083574,2709,Harassment (Non-Specific),05/11/2015,16:30,Grandview Ave & Bigham St,Mount Washington,3,,
+OFFENSE 2.0,15083707,2706,Terroristic Threats.,05/11/2015,19:12,Harwood St,Mount Washington,3,,
+ARREST,15083731,3736,Reckless Driving,05/11/2015,21:00,Mountain Ave & Fisher St,St. Clair,3,21,M
+ARREST,15083731,3733,Fleeing or Attempting to Elude Police Officer,05/11/2015,21:00,Mountain Ave & Fisher St,St. Clair,3,21,M
+ARREST,15083731,3714,Careless Driving,05/11/2015,21:00,Mountain Ave & Fisher St,St. Clair,3,21,M
+ARREST,15083731,3334,Turning Movements and Required Signals.,05/11/2015,21:00,Mountain Ave & Fisher St,St. Clair,3,21,M
+ARREST,15083731,3323,Stop Signs and Yield Signs.,05/11/2015,21:00,Mountain Ave & Fisher St,St. Clair,3,21,M
+OFFENSE 2.0,15083731,3736,Reckless Driving,05/11/2015,21:15,Mountain Ave & Fisher St,St. Clair,3,,
+OFFENSE 2.0,15083731,3733,Fleeing or Attempting to Elude Police Officer,05/11/2015,21:15,Mountain Ave & Fisher St,St. Clair,3,,
+OFFENSE 2.0,15083731,3714,Careless Driving,05/11/2015,21:15,Mountain Ave & Fisher St,St. Clair,3,,
+OFFENSE 2.0,15083731,3323,Stop Signs and Yield Signs.,05/11/2015,21:15,Mountain Ave & Fisher St,St. Clair,3,,
+OFFENSE 2.0,15083731,3334,Turning Movements and Required Signals.,05/11/2015,21:15,Mountain Ave & Fisher St,St. Clair,3,,
+ARREST,15075069,2706,Terroristic Threats.,05/11/2015,21:30,Plymouth St & Well St,Duquesne Heights,3,20,M
+ARREST,15075069,2709,Harassment (Non-Specific),05/11/2015,21:30,Plymouth St & Well St,Duquesne Heights,3,20,M
+ARREST,15075069,902,Criminal Solicitation.,05/11/2015,21:30,Plymouth St & Well St,Duquesne Heights,3,20,M
+ARREST,15075069,2705,Recklessly Endangering Another Person.,05/11/2015,21:30,Plymouth St & Well St,Duquesne Heights,3,20,M
+ARREST,15075069,2701(a)(3),Simple Assault - Attempts by Physical Menace ,05/11/2015,21:30,Plymouth St & Well St,Duquesne Heights,3,20,M
+OFFENSE 2.0,15083139,2702,Aggravated Assault.,05/11/2015,02:13,200 block Glenwood Ave,Hazelwood,4,,
+OFFENSE 2.0,15083198,3502,Burglary.,05/11/2015,05:55,5000 block Gloster St,Hazelwood,4,,
+OFFENSE 2.0,15083257,3304,Criminal Mischief.,05/11/2015,08:00,500 block Greenfield Ave,Greenfield,4,,
+OFFENSE 2.0,15083395,3921,Theft by Unlawful Taking or Disposition.,05/11/2015,08:30,100 block N Linden Ave,Point Breeze North,4,,
+OFFENSE 2.0,15083486,1786,Required Financial Responsibility.,05/11/2015,09:55,Penn Ave & N Braddock Ave,Point Breeze North,4,,
+OFFENSE 2.0,15083316,2705,Recklessly Endangering Another Person.,05/11/2015,10:20,3500 block Forbes Ave,Central Oakland,4,,
+OFFENSE 2.0,15083316,3802(a)(1),DUI - General Impairment,05/11/2015,10:20,3500 block Forbes Ave,Central Oakland,4,,
+OFFENSE 2.0,15083316,3743,Accidents Involving Damage to Attended Veh. or Property,05/11/2015,10:20,3500 block Forbes Ave,Central Oakland,4,,
+OFFENSE 2.0,15083316,2702,Aggravated Assault.,05/11/2015,10:20,3500 block Forbes Ave,Central Oakland,4,,
+OFFENSE 2.0,15083316,1543,Driving While Operating Privilege is Suspended or Revoked.,05/11/2015,10:20,3500 block Forbes Ave,Central Oakland,4,,
+ARREST,15083316,2705,Recklessly Endangering Another Person.,05/11/2015,10:45,3500 block Forbes Ave,Central Oakland,4,34,F
+ARREST,15083316,3743,Accidents Involving Damage to Attended Veh. or Property,05/11/2015,10:45,3500 block Forbes Ave,Central Oakland,4,34,F
+ARREST,15083316,3802(a)(1),DUI - General Impairment,05/11/2015,10:45,3500 block Forbes Ave,Central Oakland,4,34,F
+ARREST,15083316,2702,Aggravated Assault.,05/11/2015,10:45,3500 block Forbes Ave,Central Oakland,4,34,F
+ARREST,15083316,1543,Driving While Operating Privilege is Suspended or Revoked.,05/11/2015,10:45,3500 block Forbes Ave,Central Oakland,4,34,F
+OFFENSE 2.0,15083347,3304,Criminal Mischief.,05/11/2015,11:00,200 block N Dithridge St,North Oakland,4,,
+OFFENSE 2.0,15083438,3502,Burglary.,05/11/2015,11:00,3200 block Parkview Ave,South Oakland,4,,
+ARREST,15080625,3701,Robbery.,05/11/2015,13:30,700 block Greenfield Ave,Bluff,4,22,M
+OFFENSE 2.0,15083763,2701,Simple Assault.,05/11/2015,21:19,600 block Loretta St,Greenfield,4,,
+ARREST,15083763,2701,Simple Assault.,05/11/2015,21:30,600 block Loretta St,Greenfield,4,46,M
+OFFENSE 2.0,15083108,5505,Public Drunkenness,05/11/2015,01:52,6400 block Penn Ave,Larimer,5,,
+OFFENSE 2.0,15083186,029,Missing Juvenile,05/11/2015,04:00,7600 block Kelly St,Homewood South,5,,
+OFFENSE 2.0,15083393,3745,Accidents Involving Damage to Unattended Veh.or Prop.,05/11/2015,07:00,600 block Paulson Ave,Larimer,5,,
+OFFENSE 2.0,15083214,029,Missing Juvenile,05/11/2015,07:30,5400 block Penn Ave,Bloomfield,5,,
+OFFENSE 2.0,15083242,9129,Miscellaneous Investigation,05/11/2015,08:13,S Negley Ave & Centre Ave,Shadyside,5,,
+ARREST,14215578,6106,Firearms not to be Carried without a License.,05/11/2015,08:30,5500 block Black St,Garfield,5,19,F
+ARREST,14215578,901,Criminal Attempt,05/11/2015,08:30,5500 block Black St,Garfield,5,19,F
+ARREST,14215578,2702,Aggravated Assault.,05/11/2015,08:30,5500 block Black St,Garfield,5,19,F
+OFFENSE 2.0,15083288,3304,Criminal Mischief.,05/11/2015,08:31,5100 block Columbo St,Garfield,5,,
+ARREST,14182362,2701,Simple Assault.,05/11/2015,11:00,7200 block Campania Ave,Lincoln-Lemington-Belmar,5,56,M
+ARREST,15078509,3929,Retail Theft.,05/11/2015,11:17,900 block Freeport Rd,Lincoln-Lemington-Belmar,5,35,M
+OFFENSE 2.0,15083440,3928,Unauthorized Use of Automobile and Other Vehicles.,05/11/2015,12:00,300 block N Negley Ave,Garfield,5,,
+ARREST,15083575,13(a)(31),Marijuana: Possession Small Amount,05/11/2015,17:35,7200 block Race St,Homewood North,5,37,M
+OFFENSE 2.0,15083575,13(a)(31),Marijuana: Possession Small Amount,05/11/2015,17:37,7200 block Race St,Homewood North,5,,
+OFFENSE 2.0,15083611,9017,Found Drugs,05/11/2015,18:06,7100 block Highland Dr,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15083735,9489,Found Property,05/11/2015,19:00,1400 block Washington Blvd,Highland Park,5,,
+OFFENSE 2.0,15083192,2701,Simple Assault.,05/11/2015,05:14,1000 block Woodlow St,Crafton Heights,6,,
+OFFENSE 2.0,15083226,3502,Burglary.,05/11/2015,07:25,2700 block Bergman St,Sheraden,6,,
+ARREST,15083261,9501,Bench Warrant,05/11/2015,08:50,1600 block Broadway Ave,Beechview,6,36,F
+OFFENSE 2.0,15083261,9501,Bench Warrant,05/11/2015,08:50,1600 block Broadway Ave,Beechview,6,,
+OFFENSE 2.0,15083289,9488,False  Burglar Alarm,05/11/2015,09:26,1400 block Methyl St,Beechview,6,,
+OFFENSE 2.0,15083298,9488,False  Burglar Alarm,05/11/2015,09:52,2400 block Pioneer Ave,Brookline,6,,
+OFFENSE 2.0,15083355,9999,9999 - (Misc. Incident): ,05/11/2015,10:00,2400 block Noblestown Rd,Oakwood,6,,
+OFFENSE 2.0,15083340,3929,Retail Theft.,05/11/2015,10:41,2200 block Noblestown Rd,Westwood,6,,
+OFFENSE 2.0,15083518,9489,Found Property,05/11/2015,16:05,500 block Stadium St,Sheraden,6,,
+OFFENSE 2.0,15083664,9999,9999 - (Misc. Incident): D.O.A.,05/11/2015,19:00,500 block Ridgemont Dr,Ridgemont,6,,
+ARREST,15083680,1301,Registration and Certificate of Title Required.,05/11/2015,19:46,200 block Cape May Ave,Beechview,6,19,F
+ARREST,15083680,1786,Required Financial Responsibility.,05/11/2015,19:46,200 block Cape May Ave,Beechview,6,19,F
+ARREST,15083680,13(a)(31),Marijuana: Possession Small Amount,05/11/2015,19:46,200 block Cape May Ave,Beechview,6,19,F
+OFFENSE 2.0,15083680,1786,Required Financial Responsibility.,05/11/2015,20:05,200 block Cape May Ave,Beechview,6,,
+OFFENSE 2.0,15083680,1301,Registration and Certificate of Title Required.,05/11/2015,20:05,200 block Cape May Ave,Beechview,6,,
+OFFENSE 2.0,15083680,13(a)(31),Marijuana: Possession Small Amount,05/11/2015,20:05,200 block Cape May Ave,Beechview,6,,
+OFFENSE 2.0,15083728,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,05/11/2015,20:11,2500 block West Liberty Ave,Beechview,6,,
+OFFENSE 2.0,15083737,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,05/11/2015,21:06,3300 block Allendale St,Sheraden,6,,
+ARREST,15083737,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,05/11/2015,21:30,3300 block Allendale St,Sheraden,6,54,M
+ARREST,14196465,9015,Failure To Appear/Arrest on Attachment Order,05/11/2015,22:40,800 block Brookline Blvd,Bluff,6,33,M
