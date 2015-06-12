@@ -1,0 +1,126 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,15105129,3921(a),Theft by Unlawful Taking or Disposition - Movable item,06/11/2015,05:00,300 block Penfort St,Northview Heights,1,,
+OFFENSE 2.0,15105142,3928,Unauthorized Use of Automobile and Other Vehicles.,06/11/2015,06:15,3000 block Shadeland Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,15105226,4106,Access Device Fraud,06/11/2015,08:00,3200 block Mc Clure Ave,Brighton Heights,1,,
+OFFENSE 2.0,15105184,9497,Aided Case,06/11/2015,08:14,1400 block Beaver Ave,Chateau,1,,
+OFFENSE 2.0,15105378,3304,Criminal Mischief.,06/11/2015,10:00,3000 block Brighton Rd,Marshall-Shadeland,1,,
+OFFENSE 2.0,15105469,2709,Harassment (Non-Specific),06/11/2015,10:00,Perry View Ave,Perry North,1,,
+ARREST,15029534,9015,Failure To Appear/Arrest on Attachment Order,06/11/2015,11:10,1600 block Sandusky Ct,Fineview,1,25,M
+ARREST,15029534,9015,Failure To Appear/Arrest on Attachment Order,06/11/2015,11:15,1600 block Sandusky Ct,Fineview,1,30,M
+OFFENSE 2.0,15105365,3929,Retail Theft.,06/11/2015,12:50,300 block Cedar Ave,Allegheny Center,1,,
+OFFENSE 2.0,15105372,9497,Aided Case,06/11/2015,13:23,800 block Mt. Pleasant,Northview Heights,1,,
+OFFENSE 2.0,15105404,9488,False  Burglar Alarm,06/11/2015,14:35,900 block Western Ave,Allegheny West,1,,
+OFFENSE 2.0,15105496,2709,Harassment (Non-Specific),06/11/2015,16:47,1100 block Pemberton St,Brighton Heights,1,,
+ARREST,15105540,13(a)(16),Possession of Controlled Substance,06/11/2015,17:29,Fountain St & Boyle St,Central Northside,1,41,M
+OFFENSE 2.0,15105540,13(a)(16),Possession of Controlled Substance,06/11/2015,17:29,Fountain St & Boyle St,Central Northside,1,,
+OFFENSE 2.0,15105429,3922,Theft by Deception.,06/11/2015,00:01,3300 block Ajax St,Upper Hill,2,,
+OFFENSE 2.0,15105090,5902(a)(2),Prostitution - Loitering for purpose of,06/11/2015,02:50,5TH Ave & Gist St,Bluff,2,,
+ARREST,15105090,5902(a)(2),Prostitution - Loitering for purpose of,06/11/2015,02:50,5TH Ave & Gist St,Bluff,2,32,F
+OFFENSE 2.0,15105547,3745,Accidents Involving Damage to Unattended Veh.or Prop.,06/11/2015,08:00,38th St & Butler St,Lower Lawrenceville,2,,
+OFFENSE 2.0,15105206,3929,Retail Theft.,06/11/2015,08:45,4700 block Butler St,Central Lawrenceville,2,,
+OFFENSE 2.0,15105206,903,Criminal Conspiracy.,06/11/2015,08:45,4700 block Butler St,Central Lawrenceville,2,,
+OFFENSE 2.0,15105240,3745,Accidents Involving Damage to Unattended Veh.or Prop.,06/11/2015,09:35,3300 block Penn Ave,Lower Lawrenceville,2,,
+OFFENSE 2.0,15105324,13(a)(16),Possession of Controlled Substance,06/11/2015,12:13,100 block 6th St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15105327,2709,Harassment (Non-Specific),06/11/2015,12:24,300 block 44th St,Central Lawrenceville,2,,
+ARREST,15105324,13(a)(16),Possession of Controlled Substance,06/11/2015,12:30,100 block 6th St,Golden Triangle/Civic Arena,2,39,M
+OFFENSE 2.0,15105557,3745,Accidents Involving Damage to Unattended Veh.or Prop.,06/11/2015,16:10,38th St & Butler St,Lower Lawrenceville,2,,
+OFFENSE 2.0,15105665,3743,Accidents Involving Damage to Attended Veh. or Property,06/11/2015,20:08,Stanton Ave & Dresden Way,Central Lawrenceville,2,,
+OFFENSE 2.0,15105673,2701,Simple Assault.,06/11/2015,20:15,1500 block 5th Ave,Bluff,2,,
+OFFENSE 2.0,15105635,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,06/11/2015,20:35,1400 block Forbes Ave,Bluff,2,,
+OFFENSE 2.0,15105716,3928,Unauthorized Use of Automobile and Other Vehicles.,06/11/2015,00:01,Brownsville Rd & Mathews Ave,Knoxville,3,,
+OFFENSE 2.0,15105083,2701,Simple Assault.,06/11/2015,02:15,300 block E Warrington Ave,Beltzhoover,3,,
+OFFENSE 2.0,15105083,3304,Criminal Mischief.,06/11/2015,02:15,300 block E Warrington Ave,Beltzhoover,3,,
+OFFENSE 2.0,15105107,3503(a),Criminal Trespass,06/11/2015,03:15,2100 block Sarah St,South Side Flats,3,,
+OFFENSE 2.0,15105159,3934,Theft from Vehicle,06/11/2015,06:30,2600 block Sarah St,South Side Flats,3,,
+OFFENSE 2.0,15105187,3304,Criminal Mischief.,06/11/2015,06:45,100 block Jeanette St,Mount Washington,3,,
+OFFENSE 2.0,15105187,3934,Theft from Vehicle,06/11/2015,06:45,100 block Jeanette St,Mount Washington,3,,
+OFFENSE 2.0,15105183,3934,Theft from Vehicle,06/11/2015,08:00,S 11th St,South Side Flats,3,,
+OFFENSE 2.0,15105183,3304,Criminal Mischief.,06/11/2015,08:00,S 11th St,South Side Flats,3,,
+OFFENSE 2.0,15105301,3304,Criminal Mischief.,06/11/2015,10:15,2700 block Berg St,South Side Slopes,3,,
+OFFENSE 2.0,15105301,2709,Harassment (Non-Specific),06/11/2015,10:15,2700 block Berg St,South Side Slopes,3,,
+OFFENSE 2.0,15105271,13(a)(32),Paraphernalia - Use or Possession,06/11/2015,11:00,Becks Run Rd & Wagner St,St. Clair,3,,
+OFFENSE 2.0,15105271,1543,Driving While Operating Privilege is Suspended or Revoked.,06/11/2015,11:00,Becks Run Rd & Wagner St,St. Clair,3,,
+ARREST,15105271,1543,Driving While Operating Privilege is Suspended or Revoked.,06/11/2015,11:15,Becks Run Rd & Wagner St,St. Clair,3,53,M
+ARREST,15105271,13(a)(32),Paraphernalia - Use or Possession,06/11/2015,11:15,Becks Run Rd & Wagner St,St. Clair,3,53,M
+ARREST,15069756,9015,Failure To Appear/Arrest on Attachment Order,06/11/2015,11:30,Estella Ave & Freeland St,Bluff,3,38,M
+ARREST,14012164,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,06/11/2015,12:45,2200 block Valera St,Bluff,3,43,M
+OFFENSE 2.0,15105359,9999,9999 - (Misc. Incident): ,06/11/2015,13:10,100 block S 18th St,South Side Flats,3,,
+OFFENSE 2.0,15105400,3929,Retail Theft.,06/11/2015,14:15,1100 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,15105400,13(a)(32),Paraphernalia - Use or Possession,06/11/2015,14:15,1100 block Brownsville Rd,Carrick,3,,
+ARREST,15105400,3929,Retail Theft.,06/11/2015,14:20,1100 block Brownsville Rd,Carrick,3,19,F
+ARREST,15105400,13(a)(32),Paraphernalia - Use or Possession,06/11/2015,14:20,1100 block Brownsville Rd,Carrick,3,19,F
+OFFENSE 2.0,15105457,3921,Theft by Unlawful Taking or Disposition.,06/11/2015,14:50,1400 block Grandview Ave,Duquesne Heights,3,,
+OFFENSE 2.0,15105494,9999,9999 - (Misc. Incident): ,06/11/2015,16:30,2300 block E Carson St,South Side Flats,3,,
+ARREST,15102470,1543,Driving While Operating Privilege is Suspended or Revoked.,06/11/2015,17:00,200 block Natchez St,Mount Washington,3,19,M
+ARREST,15102470,3925,Receiving Stolen Property.,06/11/2015,17:00,200 block Natchez St,Mount Washington,3,19,M
+OFFENSE 2.0,15105658,3502,Burglary.,06/11/2015,18:00,700 block Carnival Way,Allentown,3,,
+OFFENSE 2.0,15105667,3304,Criminal Mischief.,06/11/2015,18:30,1700 block Mary St,South Side Flats,3,,
+OFFENSE 2.0,15105668,3922,Theft by Deception.,06/11/2015,19:45,1900 block Stt Paul St,South Side Slopes,3,,
+OFFENSE 2.0,15105598,5511,Cruelty to Animals.,06/11/2015,19:45,3200 block S Water St,South Side Flats,3,,
+OFFENSE 2.0,15105125,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,06/11/2015,05:00,4400 block Browns Hill Rd,Squirrel Hill South,4,,
+OFFENSE 2.0,15105495,3921,Theft by Unlawful Taking or Disposition.,06/11/2015,05:30,7700 block Waverly St,Point Breeze,4,,
+OFFENSE 2.0,15105158,3934,Theft from Vehicle,06/11/2015,06:30,4300 block Gladstone St,Greenfield,4,,
+OFFENSE 2.0,15105169,3934,Theft from Vehicle,06/11/2015,07:00,300 block Bigelow St,Hazelwood,4,,
+OFFENSE 2.0,15105502,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,06/11/2015,08:15,Forbes Ave & S Braddock Ave,Point Breeze,4,,
+OFFENSE 2.0,15105502,473.05 (b),Dogs on Courts & Playgrounds Prohibited - Must be on Leash,06/11/2015,08:15,Forbes Ave & S Braddock Ave,Point Breeze,4,,
+OFFENSE 2.0,15105502,3304,Criminal Mischief.,06/11/2015,08:15,Forbes Ave & S Braddock Ave,Point Breeze,4,,
+OFFENSE 2.0,15105502,3701,Robbery.,06/11/2015,08:15,Forbes Ave & S Braddock Ave,Point Breeze,4,,
+OFFENSE 2.0,15105311,3743,Accidents Involving Damage to Attended Veh. or Property,06/11/2015,12:05,S Braddock Ave & Penn Ave,Point Breeze,4,,
+OFFENSE 2.0,15105423,4101,Forgery.,06/11/2015,15:00,4600 block Centre Ave,North Oakland,4,,
+OFFENSE 2.0,15105430,4106,Access Device Fraud,06/11/2015,15:25,6900 block Thomas St,Point Breeze North,4,,
+OFFENSE 2.0,15105430,4120,Identity Theft,06/11/2015,15:25,6900 block Thomas St,Point Breeze North,4,,
+OFFENSE 2.0,15105485,3745,Accidents Involving Damage to Unattended Veh.or Prop.,06/11/2015,16:20,4700 block Browns Hill Rd,Squirrel Hill South,4,,
+OFFENSE 2.0,15105539,9999,9999 - (Misc. Incident): ,06/11/2015,17:30,3100 block Ward St,South Oakland,4,,
+ARREST,15098802,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,06/11/2015,20:20,7200 block Thomas Blvd,Point Breeze North,4,56,M
+OFFENSE 2.0,15105758,2706,Terroristic Threats.,06/11/2015,22:30,5000 block Lytle St,Hazelwood,4,,
+OFFENSE 2.0,15105758,5503,Disorderly Conduct.,06/11/2015,22:30,5000 block Lytle St,Hazelwood,4,,
+OFFENSE 2.0,15105758,5505,Public Drunkenness,06/11/2015,22:30,5000 block Lytle St,Hazelwood,4,,
+ARREST,15105758,2706,Terroristic Threats.,06/11/2015,22:30,5000 block Lytle St,Hazelwood,4,48,M
+ARREST,15105758,5503,Disorderly Conduct.,06/11/2015,22:30,5000 block Lytle St,Hazelwood,4,48,M
+ARREST,15105758,5505,Public Drunkenness,06/11/2015,22:30,5000 block Lytle St,Hazelwood,4,48,M
+OFFENSE 2.0,15105743,9999,9999 - (Misc. Incident): ,06/11/2015,22:45,5500 block Wilkins Ave,Squirrel Hill North,4,,
+OFFENSE 2.0,15105017,3701,Robbery.,06/11/2015,00:22,7100 block Bennett St,Homewood South,5,,
+OFFENSE 2.0,15105017,903,Criminal Conspiracy.,06/11/2015,00:22,7100 block Bennett St,Homewood South,5,,
+OFFENSE 2.0,15105132,3921(a),Theft by Unlawful Taking or Disposition - Movable item,06/11/2015,05:30,5500 block Baywood St,East Liberty,5,,
+OFFENSE 2.0,15105173,2709,Harassment (Non-Specific),06/11/2015,06:00,7200 block Race St,Homewood North,5,,
+OFFENSE 2.0,15105221,901,Criminal Attempt,06/11/2015,09:00,1200 block King Ave,Highland Park,5,,
+OFFENSE 2.0,15105221,3304,Criminal Mischief.,06/11/2015,09:00,1200 block King Ave,Highland Park,5,,
+OFFENSE 2.0,15105291,9999,9999 - (Misc. Incident): Juvenile Transport to Shuman Center,06/11/2015,10:53,Lowell St & Frankstown Ave,Larimer,5,,
+OFFENSE 2.0,15105428,2709,Harassment (Non-Specific),06/11/2015,14:50,6200 block Auburn St,Larimer,5,,
+ARREST,15105435,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),06/11/2015,15:00,Auburn St & Lowell St,Larimer,5,37,M
+ARREST,15105435,13(a)(16),Possession of Controlled Substance,06/11/2015,15:00,Auburn St & Lowell St,Larimer,5,42,M
+OFFENSE 2.0,15105435,6106,Firearms not to be Carried without a License.,06/11/2015,15:00,Auburn St & Lowell St,Larimer,5,,
+OFFENSE 2.0,15105435,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),06/11/2015,15:00,Auburn St & Lowell St,Larimer,5,,
+OFFENSE 2.0,15105435,13(a)(30),Possession w/ Intent to Del. Controlled Substance,06/11/2015,15:00,Auburn St & Lowell St,Larimer,5,,
+OFFENSE 2.0,15105435,13(a)(16),Possession of Controlled Substance,06/11/2015,15:00,Auburn St & Lowell St,Larimer,5,,
+ARREST,15105435,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),06/11/2015,15:00,Auburn St & Lowell St,Larimer,5,42,M
+ARREST,15105435,6106,Firearms not to be Carried without a License.,06/11/2015,15:00,Auburn St & Lowell St,Larimer,5,42,M
+ARREST,15105435,13(a)(30),Possession w/ Intent to Del. Controlled Substance,06/11/2015,15:00,Auburn St & Lowell St,Larimer,5,42,M
+OFFENSE 2.0,15105433,3922,Theft by Deception.,06/11/2015,15:00,5100 block Penn Ave,Garfield,5,,
+OFFENSE 2.0,15105437,3304,Criminal Mischief.,06/11/2015,15:12,100 block N Negley Ave,Garfield,5,,
+OFFENSE 2.0,15105479,9489,Found Property,06/11/2015,16:15,1400 block Washington Blvd,Highland Park,5,,
+OFFENSE 2.0,15105707,029,Missing Juvenile,06/11/2015,16:30,900 block N Negley Ave,Highland Park,5,,
+OFFENSE 2.0,15105474,9489,Found Property,06/11/2015,16:35,Penn Ave & N Highland Ave,East Liberty,5,,
+OFFENSE 2.0,15105538,9999,9999 - (Misc. Incident): 9999 - (Misc. Incident): ,06/11/2015,17:30,300 block N Evaline St,Garfield,5,,
+OFFENSE 2.0,15105546,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,06/11/2015,17:36,2200 block Wilner Dr,East Hills,5,,
+OFFENSE 2.0,15105546,2706,Terroristic Threats.,06/11/2015,17:36,2200 block Wilner Dr,East Hills,5,,
+OFFENSE 2.0,15105611,9490,Missing Persons (18 and Over),06/11/2015,18:53,2500 block Park Hill Dr,East Hills,5,,
+OFFENSE 2.0,15105708,4914,False Identification to Law Enforcement Authorities,06/11/2015,21:04,Bennett St & Tokay St,East Hills,5,,
+OFFENSE 2.0,15105708,9501,Bench Warrant,06/11/2015,21:04,Bennett St & Tokay St,East Hills,5,,
+OFFENSE 2.0,15105708,13(a)(31),Marijuana: Possession Small Amount,06/11/2015,21:04,Bennett St & Tokay St,East Hills,5,,
+ARREST,15105708,9501,Bench Warrant,06/11/2015,21:10,Bennett St & Tokay St,East Hills,5,21,F
+ARREST,15105708,4914,False Identification to Law Enforcement Authorities,06/11/2015,21:10,Bennett St & Tokay St,East Hills,5,21,F
+ARREST,15105708,13(a)(31),Marijuana: Possession Small Amount,06/11/2015,21:10,Bennett St & Tokay St,East Hills,5,21,F
+OFFENSE 2.0,15105413,9999,9999 - (Misc. Incident): ,06/11/2015,00:01,2000 block Pioneer Ave,Brookline,6,,
+OFFENSE 2.0,15105004,9488,False  Burglar Alarm,06/11/2015,00:05,Weirton St,East Carnegie,6,,
+OFFENSE 2.0,15105039,9488,False  Burglar Alarm,06/11/2015,01:04,2900 block Sheraden Blvd,Sheraden,6,,
+OFFENSE 2.0,15105101,9488,False  Burglar Alarm,06/11/2015,03:31,1500 block Broadway Ave,Beechview,6,,
+OFFENSE 2.0,15105666,3304,Criminal Mischief.,06/11/2015,06:00,500 block Berwin Ave,Brookline,6,,
+OFFENSE 2.0,15105688,3304,Criminal Mischief.,06/11/2015,06:00,500 block Berwin Ave,Brookline,6,,
+OFFENSE 2.0,15105527,3304,Criminal Mischief.,06/11/2015,07:00,500 block Berwin Ave,Brookline,6,,
+OFFENSE 2.0,15105197,3304,Criminal Mischief.,06/11/2015,07:30,700 block Brookline Blvd,Brookline,6,,
+OFFENSE 2.0,15105287,9999,9999 - (Misc. Incident): ,06/11/2015,10:45,900 block Dunster St,Brookline,6,,
+OFFENSE 2.0,15105590,3304,Criminal Mischief.,06/11/2015,13:30,600 block Berwin Ave,Brookline,6,,
+OFFENSE 2.0,15105604,2709(a),Harassment.,06/11/2015,17:39,600 block Linda Dr,Brookline,6,,
+OFFENSE 2.0,15105659,2701,Simple Assault.,06/11/2015,20:00,1200 block Tweed St,Sheraden,6,,
+ARREST,15105659,2701,Simple Assault.,06/11/2015,20:30,1200 block Tweed St,Sheraden,6,29,F
