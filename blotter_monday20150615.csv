@@ -1,0 +1,134 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,15107959,9488,False  Burglar Alarm,06/15/2015,01:01,700 block Arch St,Allegheny Center,1,,
+OFFENSE 2.0,15107984,3503,Criminal Trespass,06/15/2015,02:17,1700 block Belleau Dr,Fineview,1,,
+OFFENSE 2.0,15107984,2701,Simple Assault.,06/15/2015,02:17,1700 block Belleau Dr,Fineview,1,,
+OFFENSE 2.0,15108476,3304,Criminal Mischief.,06/15/2015,02:30,Chestnut St & Carpenter Way,North Shore,1,,
+OFFENSE 2.0,15108003,9488,False  Burglar Alarm,06/15/2015,03:21,700 block Arch St,Allegheny Center,1,,
+OFFENSE 2.0,15108061,3304,Criminal Mischief.,06/15/2015,07:00,700 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,15108301,3921(a),Theft by Unlawful Taking or Disposition - Movable item,06/15/2015,07:00,600 block Pressley St,East Allegheny,1,,
+OFFENSE 2.0,15108301,2701,Simple Assault.,06/15/2015,07:00,600 block Pressley St,East Allegheny,1,,
+OFFENSE 2.0,15108061,3921,Theft by Unlawful Taking or Disposition.,06/15/2015,07:00,700 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,15108117,3934,Theft from Vehicle,06/15/2015,09:10,1100 block New Hampshire Dr,Marshall-Shadeland,1,,
+OFFENSE 2.0,15108125,3921(a),Theft by Unlawful Taking or Disposition - Movable item,06/15/2015,09:45,3600 block Fleming Ave,Brighton Heights,1,,
+OFFENSE 2.0,15108164,3503(a),Criminal Trespass,06/15/2015,10:30,100 block Hazlett St,Northview Heights,1,,
+OFFENSE 2.0,15108210,2709,Harassment (Non-Specific),06/15/2015,12:00,300 block Cedar Ave,East Allegheny,1,,
+OFFENSE 2.0,15108200,3742,Accidents Involving Death or Personal Injury,06/15/2015,12:08,Federal St S & South Commons,Allegheny Center,1,,
+OFFENSE 2.0,15108276,9488,False  Burglar Alarm,06/15/2015,14:27,Waldorf St,Perry North,1,,
+OFFENSE 2.0,15108383,4106,Access Device Fraud,06/15/2015,15:00,1400 block WOODLAND Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,15108317,9497,Aided Case,06/15/2015,15:45,East Ohio St & E Common,Allegheny Center,1,,
+OFFENSE 2.0,15108329,3929,Retail Theft.,06/15/2015,16:02,600 block East Ohio St,East Allegheny,1,,
+OFFENSE 2.0,15108360,13(a)(16),Possession of Controlled Substance,06/15/2015,16:30,900 block Chestnut St,East Allegheny,1,,
+OFFENSE 2.0,15108414,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,06/15/2015,16:30,1200 block Federal St N,Central Northside,1,,
+ARREST,15108360,13(a)(16),Possession of Controlled Substance,06/15/2015,16:31,900 block Chestnut St,East Allegheny,1,51,M
+OFFENSE 2.0,15108355,1543,Driving While Operating Privilege is Suspended or Revoked.,06/15/2015,16:39,Cedar Ave & Suismon St,Allegheny Center,1,,
+OFFENSE 2.0,15108355,9501,Bench Warrant,06/15/2015,16:39,Cedar Ave & Suismon St,Allegheny Center,1,,
+OFFENSE 2.0,15108355,1372,Unauthorized Transfer or Use of Registration.,06/15/2015,16:39,Cedar Ave & Suismon St,Allegheny Center,1,,
+ARREST,15108355,9501,Bench Warrant,06/15/2015,16:45,Cedar Ave & Suismon St,Allegheny Center,1,30,M
+OFFENSE 2.0,15108420,2709,Harassment (Non-Specific),06/15/2015,17:00,3500 block Sirius St,Summer Hill,1,,
+OFFENSE 2.0,15108489,3701,Robbery.,06/15/2015,19:15,1300 block federal St N,Central Northside,1,,
+OFFENSE 2.0,15108490,2709(a),Harassment.,06/15/2015,20:00,600 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,15108514,9488,False  Burglar Alarm,06/15/2015,20:15,1400 block Spring Garden Ave,Spring Garden,1,,
+OFFENSE 2.0,15107941,3745,Accidents Involving Damage to Unattended Veh.or Prop.,06/15/2015,00:20,5th Ave & Magee St,Bluff,2,,
+OFFENSE 2.0,15108218,3921(a),Theft by Unlawful Taking or Disposition - Movable item,06/15/2015,06:00,Fort Pitt Blvd,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15108070,3502,Burglary.,06/15/2015,08:07,200 block 37th St,Lower Lawrenceville,2,,
+OFFENSE 2.0,15108215,9999,9999 - (Misc. Incident): ,06/15/2015,11:20,1300 block Forbes Ave,Bluff,2,,
+OFFENSE 2.0,15108239,3928,Unauthorized Use of Automobile and Other Vehicles.,06/15/2015,13:30,1300 block 5th Ave,Bluff,2,,
+OFFENSE 2.0,15108556,9489,Found Property,06/15/2015,21:10,2000 block Centre Ave,Crawford-Roberts,2,,
+OFFENSE 2.0,15107970,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,06/15/2015,01:35,300 block E Warrington Ave,Beltzhoover,3,,
+OFFENSE 2.0,15107991,9123,Miscellaneous Fire Other Investigation to Continue,06/15/2015,02:40,Briggs St,Overbrook,3,,
+OFFENSE 2.0,15108074,2701,Simple Assault.,06/15/2015,03:00,2400 block Arlington Ave,Arlington,3,,
+OFFENSE 2.0,15108021,3502,Burglary.,06/15/2015,04:15,400 block Drycove St,Bon Air,3,,
+OFFENSE 2.0,15108080,3502,Burglary.,06/15/2015,06:00,400 block Conniston Ave,Bon Air,3,,
+OFFENSE 2.0,15108084,9130,Graffiti Investigation,06/15/2015,08:31,S 20th St,South Side Flats,3,,
+OFFENSE 2.0,15108090,9488,False  Burglar Alarm,06/15/2015,08:36,1400 block E Saw Mill Run Blvd,Sheraden,3,,
+OFFENSE 2.0,15108128,9999,9999 - (Misc. Incident): vehicle damage due to tree,06/15/2015,09:38,Madeline St & Becks Run Rd,Carrick,3,,
+OFFENSE 2.0,15108119,2705,Recklessly Endangering Another Person.,06/15/2015,09:43,100 block Shiloh St,Mount Washington,3,,
+OFFENSE 2.0,15108162,13(a)(31),Marijuana: Possession Small Amount,06/15/2015,11:07,1100 block Brownsville Rd,Carrick,3,,
+ARREST,15108162,13(a)(31),Marijuana: Possession Small Amount,06/15/2015,11:10,1100 block Brownsville Rd,Carrick,3,25,M
+OFFENSE 2.0,15108198,3928,Unauthorized Use of Automobile and Other Vehicles.,06/15/2015,12:00,100 block Rochelle St,Knoxville,3,,
+OFFENSE 2.0,15108170,3304,Criminal Mischief.,06/15/2015,12:00,800 block Stewart Ave,Carrick,3,,
+OFFENSE 2.0,15108245,3929,Retail Theft.,06/15/2015,13:20,2000 block Wharton St,South Side Flats,3,,
+ARREST,15097513,2705,Recklessly Endangering Another Person.,06/15/2015,17:00,200 block Plymouth St,Golden Triangle/Civic Arena,3,17,M
+ARREST,15097513,607.03,Discharging Firearm or Airgun,06/15/2015,17:00,200 block Plymouth St,Golden Triangle/Civic Arena,3,17,M
+ARREST,15097513,3304,Criminal Mischief.,06/15/2015,17:00,200 block Plymouth St,Golden Triangle/Civic Arena,3,17,M
+OFFENSE 2.0,15108516,2702,Aggravated Assault.,06/15/2015,20:17,Sylvania Ave & Curtin Ave,Beltzhoover,3,,
+OFFENSE 2.0,15108617,3701,Robbery.,06/15/2015,23:21,1700 block Wharton St,South Side Flats,3,,
+OFFENSE 2.0,15108406,9999,9999 - (Misc. Incident): ,06/15/2015,02:00,300 block Johnston Ave,Hazelwood,4,,
+OFFENSE 2.0,15108148,3934,Theft from Vehicle,06/15/2015,06:45,200 block Carron St,Shadyside,4,,
+OFFENSE 2.0,15108082,3934,Theft from Vehicle,06/15/2015,08:28,4200 block Minnesota St,Greenfield,4,,
+OFFENSE 2.0,15108107,3921(a),Theft by Unlawful Taking or Disposition - Movable item,06/15/2015,09:00,2300 block Pittock St,Squirrel Hill South,4,,
+OFFENSE 2.0,15108319,3745,Accidents Involving Damage to Unattended Veh.or Prop.,06/15/2015,12:45,5600 block Wilkins Ave,Squirrel Hill North,4,,
+OFFENSE 2.0,15108333,3929,Retail Theft.,06/15/2015,16:00,5500 block Centre Ave,Shadyside,4,,
+OFFENSE 2.0,15108333,4914,False Identification to Law Enforcement Authorities,06/15/2015,16:00,5500 block Centre Ave,Shadyside,4,,
+OFFENSE 2.0,15108333,9999,9999 - (Misc. Incident): Out-of-State Warrant (Non-Extraditable),06/15/2015,16:00,5500 block Centre Ave,Shadyside,4,,
+ARREST,15108333,3929,Retail Theft.,06/15/2015,16:53,5500 block Centre Ave,Shadyside,4,48,M
+ARREST,15108333,9999,9999 - (Misc. Incident): Out-of-State Warrant (Non-Extraditable),06/15/2015,16:53,5500 block Centre Ave,Shadyside,4,48,M
+ARREST,15108333,4914,False Identification to Law Enforcement Authorities,06/15/2015,16:53,5500 block Centre Ave,Shadyside,4,48,M
+OFFENSE 2.0,15108379,3502,Burglary.,06/15/2015,17:00,500 block Undercliff Rd,Point Breeze,4,,
+OFFENSE 2.0,15108472,9999,9999 - (Misc. Incident): ,06/15/2015,19:17,5th Ave & Tennyson Ave,North Oakland,4,,
+ARREST,14243519,2706,Terroristic Threats.,06/15/2015,00:40,7100 block Lemington Ave,Lincoln-Lemington-Belmar,5,22,F
+ARREST,14243519,2701(a)(3),Simple Assault - Attempts by Physical Menace ,06/15/2015,00:40,7100 block Lemington Ave,Lincoln-Lemington-Belmar,5,22,F
+ARREST,14243519,2702,Aggravated Assault.,06/15/2015,00:40,7100 block Lemington Ave,Lincoln-Lemington-Belmar,5,22,F
+ARREST,15107960,3802(a)(1),DUI - General Impairment,06/15/2015,01:20,900 block Chislett St,Morningside,5,31,F
+ARREST,15107960,3745,Accidents Involving Damage to Unattended Veh.or Prop.,06/15/2015,01:20,900 block Chislett St,Morningside,5,31,F
+ARREST,15107960,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,06/15/2015,01:20,900 block Chislett St,Morningside,5,31,F
+OFFENSE 2.0,15107960,3802(a)(1),DUI - General Impairment,06/15/2015,02:00,900 block Chislett St,Morningside,5,,
+OFFENSE 2.0,15107960,3745,Accidents Involving Damage to Unattended Veh.or Prop.,06/15/2015,02:00,900 block Chislett St,Morningside,5,,
+OFFENSE 2.0,15107960,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,06/15/2015,02:00,900 block Chislett St,Morningside,5,,
+ARREST,15036702,2701,Simple Assault.,06/15/2015,02:11,1000 block Brushton Ave,Homewood North,5,21,M
+OFFENSE 2.0,15108048,4106,Access Device Fraud,06/15/2015,06:50,800 block Freeport Rd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15108064,2709,Harassment (Non-Specific),06/15/2015,07:27,6100 block St Marie St,East Liberty,5,,
+OFFENSE 2.0,15108211,901,Criminal Attempt,06/15/2015,12:22,4900 block Parsley Way,Bloomfield,5,,
+OFFENSE 2.0,15108345,13(a)(16),Possession of Controlled Substance,06/15/2015,16:26,Broad St & N Aiken Ave,Garfield,5,,
+OFFENSE 2.0,15108345,4910,Tampering with or Fabricating Physical Evidence.,06/15/2015,16:26,Broad St & N Aiken Ave,Garfield,5,,
+OFFENSE 2.0,15108345,4914(A),False Identification to Law Enforcement,06/15/2015,16:26,Broad St & N Aiken Ave,Garfield,5,,
+OFFENSE 2.0,15108345,5104,Resisting Arrest or Other Law Enforcement.,06/15/2015,16:26,Broad St & N Aiken Ave,Garfield,5,,
+OFFENSE 2.0,15108345,5121,Escape.,06/15/2015,16:26,Broad St & N Aiken Ave,Garfield,5,,
+OFFENSE 2.0,15108345,5123,Contraband.,06/15/2015,16:26,Broad St & N Aiken Ave,Garfield,5,,
+ARREST,15108345,4914(A),False Identification to Law Enforcement,06/15/2015,16:30,Broad St & N Aiken Ave,Garfield,5,,M
+ARREST,15108345,13(a)(16),Possession of Controlled Substance,06/15/2015,16:35,Broad St & N Aiken Ave,Garfield,5,24,M
+ARREST,15108345,4910,Tampering with or Fabricating Physical Evidence.,06/15/2015,16:35,Broad St & N Aiken Ave,Garfield,5,24,M
+ARREST,15108345,5104,Resisting Arrest or Other Law Enforcement.,06/15/2015,16:35,Broad St & N Aiken Ave,Garfield,5,24,M
+ARREST,15108345,5121,Escape.,06/15/2015,16:35,Broad St & N Aiken Ave,Garfield,5,24,M
+ARREST,15108345,5123,Contraband.,06/15/2015,16:35,Broad St & N Aiken Ave,Garfield,5,24,M
+ARREST,15102223,901,Criminal Attempt,06/15/2015,17:43,7200 block Everton St,Lincoln-Lemington-Belmar,5,20,M
+ARREST,15102223,903,Criminal Conspiracy.,06/15/2015,17:43,7200 block Everton St,Lincoln-Lemington-Belmar,5,20,M
+ARREST,15102223,3701,Robbery.,06/15/2015,17:43,7200 block Everton St,Lincoln-Lemington-Belmar,5,20,M
+ARREST,15102223,3502,Burglary.,06/15/2015,17:43,7200 block Everton St,Lincoln-Lemington-Belmar,5,20,M
+ARREST,15102223,2705,Recklessly Endangering Another Person.,06/15/2015,17:43,7200 block Everton St,Lincoln-Lemington-Belmar,5,20,M
+ARREST,15102223,2702,Aggravated Assault.,06/15/2015,17:43,7200 block Everton St,Lincoln-Lemington-Belmar,5,20,M
+ARREST,15047387,607.03,Discharging Firearm or Airgun,06/15/2015,17:43,7200 block Frankstown Ave,Homewood North,5,20,M
+ARREST,15047387,3304,Criminal Mischief.,06/15/2015,17:43,7200 block Frankstown Ave,Homewood North,5,20,M
+ARREST,15047387,2705,Recklessly Endangering Another Person.,06/15/2015,17:43,7200 block Frankstown Ave,Homewood North,5,20,M
+ARREST,15047387,2702,Aggravated Assault.,06/15/2015,17:43,7200 block Frankstown Ave,Homewood North,5,20,M
+OFFENSE 2.0,15108412,4914,False Identification to Law Enforcement Authorities,06/15/2015,17:43,700 block N Lang Ave,Homewood South,5,,
+OFFENSE 2.0,15108412,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),06/15/2015,17:43,700 block N Lang Ave,Homewood South,5,,
+OFFENSE 2.0,15108412,9501,Bench Warrant,06/15/2015,17:43,700 block N Lang Ave,Homewood South,5,,
+ARREST,15108412,4914,False Identification to Law Enforcement Authorities,06/15/2015,17:43,700 block N Lang Ave,Homewood South,5,20,M
+ARREST,15108412,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),06/15/2015,17:43,700 block N Lang Ave,Homewood South,5,20,M
+ARREST,15108412,9501,Bench Warrant,06/15/2015,17:43,700 block N Lang Ave,Homewood South,5,20,M
+OFFENSE 2.0,15108462,13(a)(32),Paraphernalia - Use or Possession,06/15/2015,18:50,6200 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,15108462,3929,Retail Theft.,06/15/2015,18:50,6200 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,15108462,5123,Contraband.,06/15/2015,18:50,6200 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,15108462,9501,Bench Warrant,06/15/2015,18:50,6200 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,15108462,13(a)(16),Possession of Controlled Substance,06/15/2015,18:50,6200 block Penn Ave,East Liberty,5,,
+ARREST,15108462,13(a)(32),Paraphernalia - Use or Possession,06/15/2015,19:00,6200 block Penn Ave,East Liberty,5,32,M
+ARREST,15108462,3929,Retail Theft.,06/15/2015,19:00,6200 block Penn Ave,East Liberty,5,32,M
+ARREST,15108462,5123,Contraband.,06/15/2015,19:00,6200 block Penn Ave,East Liberty,5,32,M
+ARREST,15108462,9501,Bench Warrant,06/15/2015,19:00,6200 block Penn Ave,East Liberty,5,32,M
+ARREST,15108462,13(a)(16),Possession of Controlled Substance,06/15/2015,19:00,6200 block Penn Ave,East Liberty,5,32,M
+OFFENSE 2.0,15107935,9488,False  Burglar Alarm,06/15/2015,00:20,100 block Jillson Ave,Brookline,6,,
+OFFENSE 2.0,15108035,9999,9999 - (Misc. Incident): Heroin Overdose,06/15/2015,06:00,Alter St & Doolittle St,East Carnegie,6,,
+OFFENSE 2.0,15108047,3503,Criminal Trespass,06/15/2015,06:26,1100 block Crucible St,Crafton Heights,6,,
+OFFENSE 2.0,15108459,3934,Theft from Vehicle,06/15/2015,08:00,1200 block Woodbourne Ave,Brookline,6,,
+OFFENSE 2.0,15108174,3502,Burglary.,06/15/2015,11:00,1200 block Justine St,Crafton Heights,6,,
+OFFENSE 2.0,15108214,3502,Burglary.,06/15/2015,11:15,3700 block Allendale St,Sheraden,6,,
+OFFENSE 2.0,15108159,029,Missing Juvenile,06/15/2015,12:00,800 block Rossmore Ave,Brookline,6,,
+OFFENSE 2.0,15108191,3928,Unauthorized Use of Automobile and Other Vehicles.,06/15/2015,12:00,800 block Rossmore Ave,Brookline,6,,
+OFFENSE 2.0,15108214,9488,False  Burglar Alarm,06/15/2015,12:25,3700 block Allendale St,Sheraden,6,,
+OFFENSE 2.0,15108190,3502,Burglary.,06/15/2015,12:41,900 block Tropical Ave,Beechview,6,,
+OFFENSE 2.0,15108257,9488,False  Burglar Alarm,06/15/2015,14:00,800 block Woodlow St,Crafton Heights,6,,
+OFFENSE 2.0,15108324,4106,Access Device Fraud,06/15/2015,15:00,500 block Oaklynn Ct,Banksville,6,,
+OFFENSE 2.0,15108486,3923,Theft by Extortion.,06/15/2015,19:33,1200 block Clairhaven St,Crafton Heights,6,,
+OFFENSE 2.0,15108486,3701,Robbery.,06/15/2015,19:33,1200 block Clairhaven St,Crafton Heights,6,,
+OFFENSE 2.0,15108486,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,06/15/2015,19:33,1200 block Clairhaven St,Crafton Heights,6,,
