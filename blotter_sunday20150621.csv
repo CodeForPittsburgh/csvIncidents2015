@@ -1,0 +1,145 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,15112518,9501,Bench Warrant,06/21/2015,01:07,1000 block Allegheny Ave,Manchester,1,,
+OFFENSE 2.0,15112518,3929,Retail Theft.,06/21/2015,01:07,1000 block Allegheny Ave,Manchester,1,,
+ARREST,15112518,3929,Retail Theft.,06/21/2015,01:11,1000 block Allegheny Ave,Manchester,1,29,M
+ARREST,15112518,9501,Bench Warrant,06/21/2015,01:11,1000 block Allegheny Ave,Manchester,1,29,M
+OFFENSE 2.0,15112537,029,Missing Juvenile,06/21/2015,01:15,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,15112663,9123,Miscellaneous Fire Other Investigation to Continue,06/21/2015,04:55,1100 block Goettmann St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,15112729,9488,False  Burglar Alarm,06/21/2015,09:56,1000 block Manhattan St,Manchester,1,,
+OFFENSE 2.0,15112763,9488,False  Burglar Alarm,06/21/2015,11:50,1900 block Clayton Ave,Perry South,1,,
+OFFENSE 2.0,15112777,9501,Bench Warrant,06/21/2015,12:29,East Ohio St & James St,East Allegheny,1,,
+ARREST,15112777,9501,Bench Warrant,06/21/2015,12:29,East Ohio St & James St,East Allegheny,1,36,F
+ARREST,15113100,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,06/21/2015,17:20,400 block N Shore Dr,North Shore,1,38,M
+ARREST,15113100,5505,Public Drunkenness,06/21/2015,17:20,400 block N Shore Dr,North Shore,1,38,M
+ARREST,15113100,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,06/21/2015,17:20,400 block N Shore Dr,North Shore,1,38,M
+OFFENSE 2.0,15113100,5505,Public Drunkenness,06/21/2015,17:20,400 block N Shore Dr,North Shore,1,,
+OFFENSE 2.0,15113100,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,06/21/2015,17:20,400 block N Shore Dr,North Shore,1,,
+OFFENSE 2.0,15113100,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,06/21/2015,17:20,400 block N Shore Dr,North Shore,1,,
+OFFENSE 2.0,15112915,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,06/21/2015,17:40,100 block Riverview Ave,Perry North,1,,
+OFFENSE 2.0,15112915,2709(a),Harassment.,06/21/2015,17:40,100 block Riverview Ave,Perry North,1,,
+OFFENSE 2.0,15112953,13(a)(31),Marijuana: Possession Small Amount,06/21/2015,18:50,Carrington St & Federal St N,Central Northside,1,,
+ARREST,15112953,13(a)(31),Marijuana: Possession Small Amount,06/21/2015,18:50,Carrington St & Federal St N,Central Northside,1,21,M
+ARREST,15112953,3334,Turning Movements and Required Signals.,06/21/2015,18:50,Carrington St & Federal St N,Central Northside,1,21,M
+OFFENSE 2.0,15112953,3334,Turning Movements and Required Signals.,06/21/2015,18:50,Carrington St & Federal St N,Central Northside,1,,
+OFFENSE 2.0,15112992,2709(a),Harassment.,06/21/2015,19:40,1700 block Belleau Dr,Fineview,1,,
+OFFENSE 2.0,15112992,2706,Terroristic Threats.,06/21/2015,19:40,1700 block Belleau Dr,Fineview,1,,
+OFFENSE 2.0,15112992,9093,Indirect Criminal Contempt,06/21/2015,19:40,1700 block Belleau Dr,Fineview,1,,
+OFFENSE 2.0,15112702,3934,Theft from Vehicle,06/21/2015,01:00,Market St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15112702,3304,Criminal Mischief.,06/21/2015,01:00,Market St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15112612,4914,False Identification to Law Enforcement Authorities,06/21/2015,02:15,2100 block Forbes Ave,Bluff,2,,
+OFFENSE 2.0,15112612,13(a)(16),Possession of Controlled Substance,06/21/2015,02:15,2100 block Forbes Ave,Bluff,2,,
+ARREST,15112612,13(a)(16),Possession of Controlled Substance,06/21/2015,02:24,2100 block Forbes Ave,Bluff,2,46,F
+ARREST,15112612,4914,False Identification to Law Enforcement Authorities,06/21/2015,02:24,2100 block Forbes Ave,Bluff,2,46,F
+ARREST,15112671,9501,Bench Warrant,06/21/2015,04:30,900 block Liberty Ave,Golden Triangle/Civic Arena,2,33,M
+OFFENSE 2.0,15112671,9501,Bench Warrant,06/21/2015,05:00,900 block Liberty Ave,Golden Triangle/Civic Arena,2,,
+ARREST,15112728,5503,Disorderly Conduct.,06/21/2015,10:00,900 block Penn Ave,Golden Triangle/Civic Arena,2,51,M
+ARREST,15112728,3926.C1,THEFT OF SERVICES,06/21/2015,10:00,900 block Penn Ave,Golden Triangle/Civic Arena,2,51,M
+ARREST,15112728,5505,Public Drunkenness,06/21/2015,10:00,900 block Penn Ave,Golden Triangle/Civic Arena,2,51,M
+ARREST,15112728,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,06/21/2015,10:00,900 block Penn Ave,Golden Triangle/Civic Arena,2,51,M
+OFFENSE 2.0,15112728,5503,Disorderly Conduct.,06/21/2015,10:15,900 block Penn Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15112728,5505,Public Drunkenness,06/21/2015,10:15,900 block Penn Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15112728,3926.C1,THEFT OF SERVICES,06/21/2015,10:15,900 block Penn Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15112728,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,06/21/2015,10:15,900 block Penn Ave,Golden Triangle/Civic Arena,2,,
+ARREST,15112741,3304(a)(4),CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti  Aerosol Spray Paint  Broad Tip Marker  or Similar),06/21/2015,10:50,4600 block Butler St,Central Lawrenceville,2,25,M
+ARREST,15112741,3503(b)(1)(iii),Defiant Trespass - Fencing or Other Enclosure,06/21/2015,10:50,4600 block Butler St,Central Lawrenceville,2,25,M
+ARREST,15112741,5121,Escape.,06/21/2015,10:50,4600 block Butler St,Central Lawrenceville,2,25,M
+ARREST,15112741,907,Possessing Instruments of Crime.,06/21/2015,10:50,4600 block Butler St,Central Lawrenceville,2,25,M
+OFFENSE 2.0,15112741,5121,Escape.,06/21/2015,11:00,4600 block Butler St,Central Lawrenceville,2,,
+OFFENSE 2.0,15112741,3503(b)(1)(iii),Defiant Trespass - Fencing or Other Enclosure,06/21/2015,11:00,4600 block Butler St,Central Lawrenceville,2,,
+OFFENSE 2.0,15112741,3304,Criminal Mischief.,06/21/2015,11:00,4600 block Butler St,Central Lawrenceville,2,,
+OFFENSE 2.0,15112741,907,Possessing Instruments of Crime.,06/21/2015,11:00,4600 block Butler St,Central Lawrenceville,2,,
+OFFENSE 2.0,15112870,3745,Accidents Involving Damage to Unattended Veh.or Prop.,06/21/2015,16:15,1800 block Centre Ave,Crawford-Roberts,2,,
+OFFENSE 2.0,15112912,3502,Burglary.,06/21/2015,17:05,3900 block Liberty Ave,Lower Lawrenceville,2,,
+OFFENSE 2.0,15112903,9496,Dead on Arrival (DOA),06/21/2015,17:07,100 block 38th St,Lower Lawrenceville,2,,
+OFFENSE 2.0,15112937,13(a)(31),Marijuana: Possession Small Amount,06/21/2015,18:01,Butler St,Upper Lawrenceville,2,,
+OFFENSE 2.0,15112937,1543,Driving While Operating Privilege is Suspended or Revoked.,06/21/2015,18:01,Butler St,Upper Lawrenceville,2,,
+ARREST,15112937,13(a)(31),Marijuana: Possession Small Amount,06/21/2015,18:06,Butler St,Upper Lawrenceville,2,29,M
+ARREST,15112937,1543,Driving While Operating Privilege is Suspended or Revoked.,06/21/2015,18:06,Butler St,Upper Lawrenceville,2,29,M
+ARREST,14239839,2701,Simple Assault.,06/21/2015,22:33,600 block Hollace St,Middle Hill,2,58,M
+ARREST,15112473,13(a)(16),Possession of Controlled Substance,06/21/2015,00:01,900 block Brownsville Rd,Knoxville,3,39,F
+ARREST,15112473,13(a)(30),Possession w/ Intent to Del. Controlled Substance,06/21/2015,00:01,900 block Brownsville Rd,Knoxville,3,39,F
+ARREST,15112473,7512,Criminal Use of Communication,06/21/2015,00:01,900 block Brownsville Rd,Knoxville,3,39,F
+OFFENSE 2.0,15112581,3701,Robbery.,06/21/2015,00:31,S 27th St & Mary St,South Side Slopes,3,,
+OFFENSE 2.0,15112510,3502,Burglary.,06/21/2015,00:45,200 block Wachter St,South Side Slopes,3,,
+OFFENSE 2.0,15112509,2702,Aggravated Assault.,06/21/2015,00:50,200 block Shiloh St,Mount Washington,3,,
+OFFENSE 2.0,15112509,907,Possessing Instruments of Crime.,06/21/2015,00:50,200 block Shiloh St,Mount Washington,3,,
+OFFENSE 2.0,15112509,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,06/21/2015,00:50,200 block Shiloh St,Mount Washington,3,,
+OFFENSE 2.0,15112509,6106,Firearms not to be Carried without a License.,06/21/2015,00:50,200 block Shiloh St,Mount Washington,3,,
+OFFENSE 2.0,15112509,5503,Disorderly Conduct.,06/21/2015,00:50,200 block Shiloh St,Mount Washington,3,,
+OFFENSE 2.0,15112509,5126,Flight to Avoid Apprehension  Trial or Punishment.,06/21/2015,00:50,200 block Shiloh St,Mount Washington,3,,
+OFFENSE 2.0,15112509,3503,Criminal Trespass,06/21/2015,00:50,200 block Shiloh St,Mount Washington,3,,
+OFFENSE 2.0,15112509,2706,Terroristic Threats.,06/21/2015,00:50,200 block Shiloh St,Mount Washington,3,,
+OFFENSE 2.0,15112509,2705,Recklessly Endangering Another Person.,06/21/2015,00:50,200 block Shiloh St,Mount Washington,3,,
+OFFENSE 2.0,15112542,5505,Public Drunkenness,06/21/2015,01:30,E Carson St & S 14th St,South Side Flats,3,,
+OFFENSE 2.0,15112561,601.16,Public Urination And Defecation,06/21/2015,01:55,S 16th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15112513,5505,Public Drunkenness,06/21/2015,02:00,S 14th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15112878,3921(a),Theft by Unlawful Taking or Disposition - Movable item,06/21/2015,02:00,S 18th St & Sidney St,South Side Flats,3,,
+OFFENSE 2.0,15112559,601.16,Public Urination And Defecation,06/21/2015,02:05,S 15th St & Roland St,South Side Flats,3,,
+OFFENSE 2.0,15112572,601.16(b)(1)(a),Any Person who urinates or defecates in  on  or about any public place,06/21/2015,02:20,E Carson St & S 18th St,South Side Flats,3,,
+OFFENSE 2.0,15112597,9124,Drug Investigation,06/21/2015,02:43,200 block Wilbur St,Knoxville,3,,
+OFFENSE 2.0,15112592,9488,False  Burglar Alarm,06/21/2015,02:44,1700 block Arlington Ave,South Side Slopes,3,,
+OFFENSE 2.0,15112610,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,06/21/2015,02:58,300 block Rochelle St,Knoxville,3,,
+OFFENSE 2.0,15112630,1301,Registration and Certificate of Title Required.,06/21/2015,03:01,300 block Rochelle St,Knoxville,3,,
+OFFENSE 2.0,15112630,1543,Driving While Operating Privilege is Suspended or Revoked.,06/21/2015,03:01,300 block Rochelle St,Knoxville,3,,
+OFFENSE 2.0,15112630,3802(a)(1),DUI - General Impairment,06/21/2015,03:01,300 block Rochelle St,Knoxville,3,,
+OFFENSE 2.0,15112625,3745,Accidents Involving Damage to Unattended Veh.or Prop.,06/21/2015,03:24,400 block Rochelle St,Knoxville,3,,
+OFFENSE 2.0,15112649,3701,Robbery.,06/21/2015,03:30,S 18th St & Crosman St,South Side Slopes,3,,
+ARREST,15112630,3802(a)(2),DUI - BAC >.08% <.10%,06/21/2015,03:35,300 block Rochelle St,Knoxville,3,24,M
+ARREST,15112630,1543,Driving While Operating Privilege is Suspended or Revoked.,06/21/2015,03:35,300 block Rochelle St,Knoxville,3,24,M
+ARREST,15112630,3802(a)(1),DUI - General Impairment,06/21/2015,03:35,300 block Rochelle St,Knoxville,3,24,M
+OFFENSE 2.0,15112976,9496,Dead on Arrival (DOA),06/21/2015,15:25,2600 block Mc Cord St,South Side Slopes,3,,
+OFFENSE 2.0,15112931,3929,Retail Theft.,06/21/2015,17:54,2000 block Wharton St,South Side Flats,3,,
+OFFENSE 2.0,15112931,5104,Resisting Arrest or Other Law Enforcement.,06/21/2015,17:54,2000 block Wharton St,South Side Flats,3,,
+OFFENSE 2.0,15112931,2701,Simple Assault.,06/21/2015,17:54,2000 block Wharton St,South Side Flats,3,,
+ARREST,15112931,2701,Simple Assault.,06/21/2015,17:58,2000 block Wharton St,South Side Flats,3,34,M
+ARREST,15112931,9501,Bench Warrant,06/21/2015,17:58,2000 block Wharton St,South Side Flats,3,34,M
+ARREST,15112931,5104,Resisting Arrest or Other Law Enforcement.,06/21/2015,17:58,2000 block Wharton St,South Side Flats,3,34,M
+ARREST,15112931,3929,Retail Theft.,06/21/2015,17:58,2000 block Wharton St,South Side Flats,3,34,M
+OFFENSE 2.0,15112993,3926(a)(4),Theft of services; ACQUISITION OF SERVICES - refusal to pay or offer to pay for a service (hotels and restaurants),06/21/2015,18:45,S 17th St,South Side Flats,3,,
+OFFENSE 2.0,15113007,3934,Theft from Vehicle,06/21/2015,19:00,200 block Marland St,Knoxville,3,,
+ARREST,15112993,3926(a)(4),Theft of services; ACQUISITION OF SERVICES - refusal to pay or offer to pay for a service (hotels and restaurants),06/21/2015,19:28,S 17th St,South Side Flats,3,27,M
+ARREST,15109751,2701,Simple Assault.,06/21/2015,19:56,700 block Maytide St,Overbrook,3,31,F
+OFFENSE 2.0,15112656,9489,Found Property,06/21/2015,00:50,Mc Kee Pl & Zulema St,Central Oakland,4,,
+OFFENSE 2.0,15112550,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,06/21/2015,01:55,700 block Bellefonte St,Shadyside,4,,
+OFFENSE 2.0,15112550,601.11(a),Littering and Dumping; Any waste  dangerous or detrimental substance upon public property,06/21/2015,01:55,700 block Bellefonte St,Shadyside,4,,
+OFFENSE 2.0,15113029,3921,Theft by Unlawful Taking or Disposition.,06/21/2015,07:00,100 block Point Breeze Pl,Point Breeze North,4,,
+OFFENSE 2.0,15112689,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,06/21/2015,07:35,3500 block Forbes Ave,Central Oakland,4,,
+OFFENSE 2.0,15112689,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,06/21/2015,07:35,3500 block Forbes Ave,Central Oakland,4,,
+OFFENSE 2.0,15112812,3921(a),Theft by Unlawful Taking or Disposition - Movable item,06/21/2015,14:00,1600 block Naugle St,Lincoln Place,4,,
+OFFENSE 2.0,15112849,9999,9999 - (Misc. Incident): ,06/21/2015,14:00,300 block Meyran Ave,Central Oakland,4,,
+OFFENSE 2.0,15112851,3934,Theft from Vehicle,06/21/2015,15:45,100 block Overlook Dr,Squirrel Hill South,4,,
+OFFENSE 2.0,15112970,3934,Theft from Vehicle,06/21/2015,17:00,2300 block Tilbury Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,15112909,3304,Criminal Mischief.,06/21/2015,17:15,700 block Montclair St,Greenfield,4,,
+OFFENSE 2.0,15112909,3502,Burglary.,06/21/2015,17:15,700 block Montclair St,Greenfield,4,,
+ARREST,15112909,3304,Criminal Mischief.,06/21/2015,17:43,700 block Montclair St,Greenfield,4,20,M
+ARREST,15112909,3502,Burglary.,06/21/2015,17:43,700 block Montclair St,Greenfield,4,20,M
+OFFENSE 2.0,15113009,3921(a),Theft by Unlawful Taking or Disposition - Movable item,06/21/2015,18:00,200 block Schenley Dr,North Oakland,4,,
+OFFENSE 2.0,15113037,3502,Burglary.,06/21/2015,20:00,200 block Homestead St,Swisshelm Park,4,,
+OFFENSE 2.0,15113143,2709,Harassment (Non-Specific),06/21/2015,21:30,1900 block Murray Ave,Point Breeze,4,,
+OFFENSE 2.0,15113082,2702,Aggravated Assault.,06/21/2015,22:15,3200 block Dawson St,South Oakland,4,,
+OFFENSE 2.0,15112539,9501,Bench Warrant,06/21/2015,01:45,Hamilton Ave & Hale St,Homewood South,5,,
+ARREST,15112539,9501,Bench Warrant,06/21/2015,02:56,Hamilton Ave & Hale St,Homewood South,5,47,M
+OFFENSE 2.0,15112633,9999,9999 - (Misc. Incident): ,06/21/2015,03:38,2400 block Bracey Dr,East Hills,5,,
+OFFENSE 2.0,15112833,3304,Criminal Mischief.,06/21/2015,14:00,7600 block Bennett St,Homewood South,5,,
+OFFENSE 2.0,15112841,3304,Criminal Mischief.,06/21/2015,15:20,400 block N Highland Ave,East Liberty,5,,
+OFFENSE 2.0,15112824,029,Missing Juvenile,06/21/2015,16:30,2400 block Bracey Dr,Strip District,5,,
+OFFENSE 2.0,15112949,3745,Accidents Involving Damage to Unattended Veh.or Prop.,06/21/2015,18:20,4800 block Centre Ave,Bloomfield,5,,
+OFFENSE 2.0,15112475,9012,Non-Violent Domestic,06/21/2015,00:24,2200 block Crestview Rd,Banksville,6,,
+OFFENSE 2.0,15112611,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,06/21/2015,02:20,1500 block Chelton Ave,Brookline,6,,
+OFFENSE 2.0,15112575,5505,Public Drunkenness,06/21/2015,02:21,100 block Steuben St,Elliott,6,,
+OFFENSE 2.0,15112609,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,06/21/2015,02:57,600 block Southcrest Dr,Brookline,6,,
+OFFENSE 2.0,15112609,3304,Criminal Mischief.,06/21/2015,02:57,600 block Southcrest Dr,Brookline,6,,
+ARREST,15112611,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,06/21/2015,03:30,1500 block Chelton Ave,Brookline,6,39,M
+OFFENSE 2.0,15112645,2702,Aggravated Assault.,06/21/2015,04:07,2400 block Saranac Ave,Beechview,6,,
+ARREST,15112645,2702,Aggravated Assault.,06/21/2015,04:35,2400 block Saranac Ave,Beechview,6,29,M
+OFFENSE 2.0,15112750,9999,9999 - (Misc. Incident): ,06/21/2015,11:11,400 block Fernhill Ave,Brookline,6,,
+OFFENSE 2.0,15112846,9496,Dead on Arrival (DOA),06/21/2015,15:31,100 block Kearns Pl,Westwood,6,,
+OFFENSE 2.0,15113045,029,Missing Juvenile,06/21/2015,21:00,3000 block Merwyn Ave,Sheraden,6,,
+OFFENSE 2.0,15113048,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,06/21/2015,21:18,3700 block Merle St,Windgap,6,,
+ARREST,15113048,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,06/21/2015,21:22,3700 block Merle St,Windgap,6,56,M
+OFFENSE 2.0,15113125,2709,Harassment (Non-Specific),06/21/2015,21:30,100 block Village Rd,Fairywood,6,,
+OFFENSE 2.0,15113125,9999,9999 - (Misc. Incident): Civil Issue - Domestic Related,06/21/2015,21:30,100 block Village Rd,Fairywood,6,,
+OFFENSE 2.0,15113077,13(a)(16),Possession of Controlled Substance,06/21/2015,21:57,1400 block Hyde St,Westwood,6,,
+OFFENSE 2.0,15113077,13(a)(32),Paraphernalia - Use or Possession,06/21/2015,21:57,1400 block Hyde St,Westwood,6,,
+ARREST,15113077,13(a)(16),Possession of Controlled Substance,06/21/2015,21:57,1400 block Hyde St,Westwood,6,39,M
+ARREST,15113077,13(a)(32),Paraphernalia - Use or Possession,06/21/2015,21:57,1400 block Hyde St,Westwood,6,39,M
