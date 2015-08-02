@@ -1,0 +1,179 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,15141134,9488,False  Burglar Alarm,07/30/2015,00:57,1500 block Beaver Ave,Chateau,1,,
+OFFENSE 2.0,15141241,3304,Criminal Mischief.,07/30/2015,06:30,1300 block Fulton St,Manchester,1,,
+OFFENSE 2.0,15141393,3921,Theft by Unlawful Taking or Disposition.,07/30/2015,07:30,500 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,15141403,3934,Theft from Vehicle,07/30/2015,07:30,500 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,15141272,3745,Accidents Involving Damage to Unattended Veh.or Prop.,07/30/2015,08:00,1100 block Marshall Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,15141370,3304,Criminal Mischief.,07/30/2015,12:00,1800 block Brighton Rd,California-Kirkbride,1,,
+ARREST,15066985,2701,Simple Assault.,07/30/2015,14:15,1200 block Hamlin St,Manchester,1,42,F
+ARREST,15066985,2706,Terroristic Threats.,07/30/2015,14:15,1200 block Hamlin St,Manchester,1,42,F
+OFFENSE 2.0,15141471,3745,Accidents Involving Damage to Unattended Veh.or Prop.,07/30/2015,14:30,200 block Langley St,Perry South,1,,
+OFFENSE 2.0,15141547,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,07/30/2015,16:00,300 block North Shore Dr,North Shore,1,,
+OFFENSE 2.0,15141566,029,Missing Juvenile,07/30/2015,16:50,4000 block GRIZELLA St,Perry North,1,,
+OFFENSE 2.0,15141608,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,07/30/2015,17:25,400 block East OHIO St,East Allegheny,1,,
+ARREST,14246168,9015,Failure To Appear/Arrest on Attachment Order,07/30/2015,18:15,1100 block Grand Ave,Marshall-Shadeland,1,21,F
+OFFENSE 2.0,15141603,13(a)(32),Paraphernalia - Use or Possession,07/30/2015,18:15,Allegheny Ctr,Allegheny Center,1,,
+ARREST,15141603,13(a)(32),Paraphernalia - Use or Possession,07/30/2015,18:15,Allegheny Ctr,Allegheny Center,1,42,M
+OFFENSE 2.0,15141663,3802(a)(1),DUI - General Impairment,07/30/2015,18:50,McClure Ave & Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,15141663,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,07/30/2015,18:50,McClure Ave & Termon Ave,Brighton Heights,1,,
+ARREST,15141663,3802(a)(1),DUI - General Impairment,07/30/2015,19:05,McClure Ave & Termon Ave,Brighton Heights,1,46,M
+ARREST,15141663,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,07/30/2015,19:05,McClure Ave & Termon Ave,Brighton Heights,1,46,M
+OFFENSE 2.0,15141719,2701,Simple Assault.,07/30/2015,19:56,1500 block Brighton Rd,California-Kirkbride,1,,
+ARREST,15141719,2701,Simple Assault.,07/30/2015,20:00,1500 block Brighton Rd,California-Kirkbride,1,28,M
+OFFENSE 2.0,15141780,9501,Bench Warrant,07/30/2015,21:23,Suismon St & Middle St,East Allegheny,1,,
+OFFENSE 2.0,15141780,13(a)(32),Paraphernalia - Use or Possession,07/30/2015,21:23,Suismon St & Middle St,East Allegheny,1,,
+OFFENSE 2.0,15141763,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,07/30/2015,21:50,500 block Mt Pleasant Rd,Northview Heights,1,,
+ARREST,15141780,13(a)(32),Paraphernalia - Use or Possession,07/30/2015,21:50,Suismon St & Middle St,East Allegheny,1,28,F
+ARREST,15141780,9501,Bench Warrant,07/30/2015,21:50,Suismon St & Middle St,East Allegheny,1,28,F
+ARREST,15141780,13(a)(32),Paraphernalia - Use or Possession,07/30/2015,21:50,Suismon St & Middle St,East Allegheny,1,32,F
+ARREST,15141780,9501,Bench Warrant,07/30/2015,21:50,Suismon St & Middle St,East Allegheny,1,32,F
+OFFENSE 2.0,15141763,2701,Simple Assault.,07/30/2015,21:50,500 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,15141763,5502,Failure of Disorderly Persons to Disperse ,07/30/2015,21:50,500 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,15141763,5503,Disorderly Conduct.,07/30/2015,21:50,500 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,15141763,5505,Public Drunkenness,07/30/2015,21:50,500 block Mt Pleasant Rd,Northview Heights,1,,
+ARREST,15141763,5505,Public Drunkenness,07/30/2015,21:50,500 block Mt Pleasant Rd,Northview Heights,1,20,M
+ARREST,15141763,5503,Disorderly Conduct.,07/30/2015,21:50,500 block Mt Pleasant Rd,Northview Heights,1,20,M
+ARREST,15141763,5502,Failure of Disorderly Persons to Disperse ,07/30/2015,21:50,500 block Mt Pleasant Rd,Northview Heights,1,20,M
+ARREST,15141763,2701,Simple Assault.,07/30/2015,21:50,500 block Mt Pleasant Rd,Northview Heights,1,20,M
+ARREST,15141763,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,07/30/2015,21:50,500 block Mt Pleasant Rd,Northview Heights,1,20,M
+OFFENSE 2.0,15141118,3745,Accidents Involving Damage to Unattended Veh.or Prop.,07/30/2015,00:25,4600 block Butler St,Central Lawrenceville,2,,
+ARREST,15140593,2709.1,Stalking Conduct or Repeatedly Acts Including Follows,07/30/2015,08:00,2400 block Railroad St,Strip District,2,36,M
+ARREST,15140593,3503(b.1)(i),Simple Trespasser -- threatening or terrorizing the owner or occupant of the premises,07/30/2015,08:00,2400 block Railroad St,Strip District,2,36,M
+OFFENSE 2.0,15141310,3745,Accidents Involving Damage to Unattended Veh.or Prop.,07/30/2015,09:00,4600 block Butler St,Central Lawrenceville,2,,
+ARREST,15138330,2701,Simple Assault.,07/30/2015,10:00,900 block 2nd Ave,Bluff,2,26,M
+ARREST,15138330,4304(a)(1),Endangering Welfare of Children.,07/30/2015,10:00,900 block 2nd Ave,Bluff,2,26,M
+OFFENSE 2.0,15141400,9999,9999 - (Misc. Incident): ,07/30/2015,12:23,200 block Forbes Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15141499,9999,9999 - (Misc. Incident): ,07/30/2015,14:10,Reed St & Crawford St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15141543,3921,Theft by Unlawful Taking or Disposition.,07/30/2015,15:45,3400 block Penn Ave,Lower Lawrenceville,2,,
+OFFENSE 2.0,15141535,3502,Burglary.,07/30/2015,15:45,3400 block Ridgeway St,Polish Hill,2,,
+OFFENSE 2.0,15141647,9504,Lost Property,07/30/2015,16:35,Liberty Ave & 6th Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15141568,9123,Miscellaneous Fire Other Investigation to Continue,07/30/2015,16:53,100 block Blvd Of The Allies,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15141587,3304,Criminal Mischief.,07/30/2015,17:00,Reed St & Pride St,Crawford-Roberts,2,,
+OFFENSE 2.0,15141587,3934,Theft from Vehicle,07/30/2015,17:00,Reed St & Pride St,Crawford-Roberts,2,,
+ARREST,15084166,9015,Failure To Appear/Arrest on Attachment Order,07/30/2015,17:45,900 block Second Ave,West End,2,27,M
+OFFENSE 2.0,15141802,9489,Found Property,07/30/2015,19:00,100 block 5TH Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15141673,2706,Terroristic Threats.,07/30/2015,19:07,900 block Penn Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15141673,3929,Retail Theft.,07/30/2015,19:07,900 block Penn Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15141673,3503,Criminal Trespass,07/30/2015,19:07,900 block Penn Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15141771,3745,Accidents Involving Damage to Unattended Veh.or Prop.,07/30/2015,19:30,Kirkpatrick St & Reed St,Terrace Village,2,,
+OFFENSE 2.0,15141730,2701,Simple Assault.,07/30/2015,20:19,Chauncey Dr & Bedford Ave,Bedford Dwellings,2,,
+ARREST,14186244,903,Criminal Conspiracy.,07/30/2015,20:40,5200 block Duncan St,Upper Lawrenceville,2,28,M
+ARREST,14186244,3921,Theft by Unlawful Taking or Disposition.,07/30/2015,20:40,5200 block Duncan St,Upper Lawrenceville,2,28,M
+ARREST,14186244,3925,Receiving Stolen Property.,07/30/2015,20:40,5200 block Duncan St,Upper Lawrenceville,2,28,M
+ARREST,14184940,903,Criminal Conspiracy.,07/30/2015,20:40,5300 block Kent Way,Upper Lawrenceville,2,28,M
+ARREST,14184940,3925,Receiving Stolen Property.,07/30/2015,20:40,5300 block Kent Way,Upper Lawrenceville,2,28,M
+ARREST,14184940,3921,Theft by Unlawful Taking or Disposition.,07/30/2015,20:40,5300 block Kent Way,Upper Lawrenceville,2,28,M
+OFFENSE 2.0,15141209,9489,Found Property,07/30/2015,02:15,800 block E Warrington Ave,Allentown,3,,
+OFFENSE 2.0,15141187,3921(a),Theft by Unlawful Taking or Disposition - Movable item,07/30/2015,03:30,400 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15141202,5104,Resisting Arrest or Other Law Enforcement.,07/30/2015,03:39,200 block Virginia Ave,Mount Washington,3,,
+OFFENSE 2.0,15141202,5505,Public Drunkenness,07/30/2015,03:39,200 block Virginia Ave,Mount Washington,3,,
+OFFENSE 2.0,15141202,5507,Obstructing Highways and Passages.,07/30/2015,03:39,200 block Virginia Ave,Mount Washington,3,,
+ARREST,15141202,5104,Resisting Arrest or Other Law Enforcement.,07/30/2015,03:43,200 block Virginia Ave,Mount Washington,3,27,M
+ARREST,15141202,5505,Public Drunkenness,07/30/2015,03:43,200 block Virginia Ave,Mount Washington,3,27,M
+ARREST,15141202,5507,Obstructing Highways and Passages.,07/30/2015,03:43,200 block Virginia Ave,Mount Washington,3,27,M
+OFFENSE 2.0,15141263,3743,Accidents Involving Damage to Attended Veh. or Property,07/30/2015,07:32,Beltzhoover Ave & Mc Lain St,Allentown,3,,
+OFFENSE 2.0,15141388,3743,Accidents Involving Damage to Attended Veh. or Property,07/30/2015,09:35,Saw Mill Run Blvd & Stewart Ave,Overbrook,3,,
+OFFENSE 2.0,15141329,2701,Simple Assault.,07/30/2015,09:39,Dove Way & Grimes Ave,Knoxville,3,,
+OFFENSE 2.0,15141329,3701,Robbery.,07/30/2015,09:39,Dove Way & Grimes Ave,Knoxville,3,,
+OFFENSE 2.0,15141394,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,07/30/2015,12:30,2300 block Saw Mill Run Blvd,Overbrook,3,,
+OFFENSE 2.0,15141394,3304,Criminal Mischief.,07/30/2015,12:30,2300 block Saw Mill Run Blvd,Overbrook,3,,
+OFFENSE 2.0,15141394,2701,Simple Assault.,07/30/2015,12:30,2300 block Saw Mill Run Blvd,Overbrook,3,,
+OFFENSE 2.0,15141394,2709,Harassment (Non-Specific),07/30/2015,12:30,2300 block Saw Mill Run Blvd,Overbrook,3,,
+OFFENSE 2.0,15141514,3304,Criminal Mischief.,07/30/2015,14:00,2300 block Salisbury St,South Side Slopes,3,,
+OFFENSE 2.0,15141533,2701,Simple Assault.,07/30/2015,14:45,1200 block Amanda St,Carrick,3,,
+OFFENSE 2.0,15141551,3502,Burglary.,07/30/2015,15:00,200 block Sunnyland Ave,Carrick,3,,
+OFFENSE 2.0,15141534,3304,Criminal Mischief.,07/30/2015,16:00,Merriman St & 22nd St,Brighton Heights,3,,
+OFFENSE 2.0,15141740,13(a)(16),Possession of Controlled Substance,07/30/2015,20:10,Haberman Ave & E Warrington Ave,Beltzhoover,3,,
+OFFENSE 2.0,15141740,13(a)(32),Paraphernalia - Use or Possession,07/30/2015,20:10,Haberman Ave & E Warrington Ave,Beltzhoover,3,,
+OFFENSE 2.0,15141740,3334,Turning Movements and Required Signals.,07/30/2015,20:10,Haberman Ave & E Warrington Ave,Beltzhoover,3,,
+ARREST,15141740,13(a)(16),Possession of Controlled Substance,07/30/2015,20:10,Haberman Ave & E Warrington Ave,Beltzhoover,3,30,M
+ARREST,15141740,13(a)(32),Paraphernalia - Use or Possession,07/30/2015,20:10,Haberman Ave & E Warrington Ave,Beltzhoover,3,30,M
+ARREST,15141740,3334,Turning Movements and Required Signals.,07/30/2015,20:10,Haberman Ave & E Warrington Ave,Beltzhoover,3,30,M
+ARREST,15082087,9015,Failure To Appear/Arrest on Attachment Order,07/30/2015,23:15,Harwood St,Bluff,3,24,M
+OFFENSE 2.0,15141581,3921,Theft by Unlawful Taking or Disposition.,07/30/2015,00:01,700 block St James St,Shadyside,4,,
+ARREST,15140349,3701,Robbery.,07/30/2015,01:00,Elwood St & Maryland Ave,Shadyside,4,17,M
+ARREST,15140349,3701,Robbery.,07/30/2015,01:00,Elwood St & Maryland Ave,Shadyside,4,14,M
+ARREST,15140346,3701,Robbery.,07/30/2015,01:00,Walnut St & College Ave,Shadyside,4,,M
+ARREST,15140346,903,Criminal Conspiracy.,07/30/2015,01:00,Walnut St & College Ave,Shadyside,4,14,M
+ARREST,15140346,3701,Robbery.,07/30/2015,01:00,Walnut St & College Ave,Shadyside,4,14,M
+ARREST,15140349,2705,Recklessly Endangering Another Person.,07/30/2015,01:00,Elwood St & Maryland Ave,Shadyside,4,14,M
+ARREST,15140349,2705,Recklessly Endangering Another Person.,07/30/2015,01:00,Elwood St & Maryland Ave,Shadyside,4,17,M
+ARREST,15140346,903,Criminal Conspiracy.,07/30/2015,01:00,Walnut St & College Ave,Shadyside,4,,M
+OFFENSE 2.0,15141227,3921,Theft by Unlawful Taking or Disposition.,07/30/2015,05:00,500 block Edgerton Pl,Point Breeze,4,,
+OFFENSE 2.0,15141243,3921(a),Theft by Unlawful Taking or Disposition - Movable item,07/30/2015,06:30,2900 block Beechwood Blvd,Squirrel Hill South,4,,
+OFFENSE 2.0,15141487,3921,Theft by Unlawful Taking or Disposition.,07/30/2015,07:00,5400 block Howe St,Shadyside,4,,
+OFFENSE 2.0,15141379,3304,Criminal Mischief.,07/30/2015,08:00,5800 block Burchfield Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,15141359,4120,Identity Theft,07/30/2015,08:00,200 block Johnston Ave,Hazelwood,4,,
+OFFENSE 2.0,15141341,3745,Accidents Involving Damage to Unattended Veh.or Prop.,07/30/2015,09:00,6700 block Mc Pherson Blvd,Point Breeze North,4,,
+OFFENSE 2.0,15141420,3921,Theft by Unlawful Taking or Disposition.,07/30/2015,10:30,3400 block Juliet St,South Oakland,4,,
+OFFENSE 2.0,15141559,3701,Robbery.,07/30/2015,12:00,S Highland Ave & Ellsworth Ave,Shadyside,4,,
+OFFENSE 2.0,15141556,8106,Shots Fired,07/30/2015,16:34,Gertrude St & Glen Caladh St,Hazelwood,4,,
+OFFENSE 2.0,15141556,2702,Aggravated Assault.,07/30/2015,16:34,Gertrude St & Glen Caladh St,Hazelwood,4,,
+OFFENSE 2.0,15141556,2705,Recklessly Endangering Another Person.,07/30/2015,16:34,Gertrude St & Glen Caladh St,Hazelwood,4,,
+OFFENSE 2.0,15141556,3304,Criminal Mischief.,07/30/2015,16:34,Gertrude St & Glen Caladh St,Hazelwood,4,,
+OFFENSE 2.0,15141604,3304,Criminal Mischief.,07/30/2015,16:45,5th Ave & Robinson St,West Oakland,4,,
+OFFENSE 2.0,15141596,9490,Missing Persons (18 and Over),07/30/2015,17:00,300 block Lawn St,South Oakland,4,,
+OFFENSE 2.0,15141822,3304,Criminal Mischief.,07/30/2015,22:15,Wadsworth St & Robinson St,West Oakland,4,,
+ARREST,15141844,13(a)(16),Possession of Controlled Substance,07/30/2015,22:30,Coltart Ave & Louisa St,Central Oakland,4,25,M
+ARREST,15141844,13(a)(31)(i),Marijuana - Possess Small Amt for Personal Use,07/30/2015,22:30,Coltart Ave & Louisa St,Central Oakland,4,25,M
+ARREST,15141844,13(a)(32),Paraphernalia - Use or Possession,07/30/2015,22:30,Coltart Ave & Louisa St,Central Oakland,4,25,M
+OFFENSE 2.0,15141844,13(a)(16),Possession of Controlled Substance,07/30/2015,22:30,Coltart Ave & Louisa St,Central Oakland,4,,
+OFFENSE 2.0,15141844,13(a)(31)(i),Marijuana - Possess Small Amt for Personal Use,07/30/2015,22:30,Coltart Ave & Louisa St,Central Oakland,4,,
+OFFENSE 2.0,15141844,13(a)(32),Paraphernalia - Use or Possession,07/30/2015,22:30,Coltart Ave & Louisa St,Central Oakland,4,,
+OFFENSE 2.0,15141114,2702,Aggravated Assault.,07/30/2015,00:10,7300 block Susquehanna St,Homewood South,5,,
+ARREST,15141114,2702,Aggravated Assault.,07/30/2015,00:18,7300 block Susquehanna St,Homewood South,5,35,F
+OFFENSE 2.0,15141125,9490,Missing Persons (18 and Over),07/30/2015,00:35,6900 block Frankstown Ave,Homewood West,5,,
+OFFENSE 2.0,15141217,1501,Drivers Required to be Licensed.,07/30/2015,03:47,7300 block Hamilton Ave,Homewood South,5,,
+OFFENSE 2.0,15141217,13(a)(31),Marijuana: Possession Small Amount,07/30/2015,03:47,7300 block Hamilton Ave,Homewood South,5,,
+OFFENSE 2.0,15141217,1543,Driving While Operating Privilege is Suspended or Revoked.,07/30/2015,03:47,7300 block Hamilton Ave,Homewood South,5,,
+OFFENSE 2.0,15141217,4303,General Lighting Requirements.,07/30/2015,03:47,7300 block Hamilton Ave,Homewood South,5,,
+OFFENSE 2.0,15141217,3714,Careless Driving,07/30/2015,03:47,7300 block Hamilton Ave,Homewood South,5,,
+OFFENSE 2.0,15141217,3802(a)(1),DUI - General Impairment,07/30/2015,03:47,7300 block Hamilton Ave,Homewood South,5,,
+OFFENSE 2.0,15141217,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,07/30/2015,03:47,7300 block Hamilton Ave,Homewood South,5,,
+OFFENSE 2.0,15141219,3921,Theft by Unlawful Taking or Disposition.,07/30/2015,04:33,1100 block N Sheridan Ave,Highland Park,5,,
+OFFENSE 2.0,15141219,3304,Criminal Mischief.,07/30/2015,04:33,1100 block N Sheridan Ave,Highland Park,5,,
+OFFENSE 2.0,15141229,13(a)(32),Paraphernalia - Use or Possession,07/30/2015,05:24,4700 block Liberty Ave,Bloomfield,5,,
+OFFENSE 2.0,15141229,13(a)(16),Possession of Controlled Substance,07/30/2015,05:24,4700 block Liberty Ave,Bloomfield,5,,
+ARREST,15141217,3802(a)(1),DUI - General Impairment,07/30/2015,05:55,7300 block Hamilton Ave,Homewood South,5,37,M
+ARREST,15141217,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,07/30/2015,05:55,7300 block Hamilton Ave,Homewood South,5,37,M
+ARREST,15141217,4303,General Lighting Requirements.,07/30/2015,05:55,7300 block Hamilton Ave,Homewood South,5,37,M
+ARREST,15141217,1501,Drivers Required to be Licensed.,07/30/2015,05:55,7300 block Hamilton Ave,Homewood South,5,37,M
+ARREST,15141217,1543,Driving While Operating Privilege is Suspended or Revoked.,07/30/2015,05:55,7300 block Hamilton Ave,Homewood South,5,37,M
+ARREST,15141217,13(a)(31),Marijuana: Possession Small Amount,07/30/2015,05:55,7300 block Hamilton Ave,Homewood South,5,37,M
+ARREST,15141217,3714,Careless Driving,07/30/2015,05:55,7300 block Hamilton Ave,Homewood South,5,37,M
+ARREST,15141229,13(a)(16),Possession of Controlled Substance,07/30/2015,06:01,4700 block Liberty Ave,Bloomfield,5,35,F
+ARREST,15141229,13(a)(32),Paraphernalia - Use or Possession,07/30/2015,06:01,4700 block Liberty Ave,Bloomfield,5,35,F
+OFFENSE 2.0,15141270,3304,Criminal Mischief.,07/30/2015,07:00,500 block Cora St,Homewood South,5,,
+ARREST,14205386,2701,Simple Assault.,07/30/2015,07:50,5100 block Friendship Ave,Bloomfield,5,33,M
+ARREST,14205386,2701,Simple Assault.,07/30/2015,07:50,5100 block Friendship Ave,Bloomfield,5,33,M
+OFFENSE 2.0,15141319,3304,Criminal Mischief.,07/30/2015,09:00,1000 block Silverdale St,Homewood North,5,,
+OFFENSE 2.0,15141319,3502,Burglary.,07/30/2015,09:00,1000 block Silverdale St,Homewood North,5,,
+OFFENSE 2.0,15141526,3921,Theft by Unlawful Taking or Disposition.,07/30/2015,15:30,6100 block Jackson St,Highland Park,5,,
+OFFENSE 2.0,15141507,3929,Retail Theft.,07/30/2015,15:50,800 block Freeport Rd,Lincoln-Lemington-Belmar,5,,
+ARREST,15141507,3929,Retail Theft.,07/30/2015,16:00,800 block Freeport Rd,Lincoln-Lemington-Belmar,5,46,M
+OFFENSE 2.0,15141527,2709,Harassment (Non-Specific),07/30/2015,16:05,1100 block Duffield St,Morningside,5,,
+OFFENSE 2.0,15141569,4120,Identity Theft,07/30/2015,17:00,100 block Carver St,Larimer,5,,
+OFFENSE 2.0,15141703,3921(a),Theft by Unlawful Taking or Disposition - Movable item,07/30/2015,19:10,5000 block Baum Blvd,Bloomfield,5,,
+OFFENSE 2.0,15141703,3304,Criminal Mischief.,07/30/2015,19:10,5000 block Baum Blvd,Bloomfield,5,,
+ARREST,15133456,3502,Burglary.,07/30/2015,20:15,5300 block Rosetta St,Garfield,5,19,F
+ARREST,15133456,2701,Simple Assault.,07/30/2015,20:15,5300 block Rosetta St,Garfield,5,19,F
+ARREST,15133456,3502,Burglary.,07/30/2015,20:15,5300 block Rosetta St,Garfield,5,20,F
+ARREST,15133456,2701,Simple Assault.,07/30/2015,20:15,5300 block Rosetta St,Garfield,5,20,F
+OFFENSE 2.0,15141826,2702,Aggravated Assault.,07/30/2015,22:26,7400 block Monticello St,Homewood North,5,,
+OFFENSE 2.0,15141198,9488,False  Burglar Alarm,07/30/2015,03:29,3100 block Banksville Rd,Banksville,6,,
+OFFENSE 2.0,15141247,2701,Simple Assault.,07/30/2015,07:17,1300 block Pritchard St,Sheraden,6,,
+ARREST,15141247,2701,Simple Assault.,07/30/2015,07:20,1300 block Pritchard St,Sheraden,6,44,M
+ARREST,15141247,2701,Simple Assault.,07/30/2015,07:20,1300 block Pritchard St,Sheraden,6,22,M
+OFFENSE 2.0,15141333,9488,False  Burglar Alarm,07/30/2015,10:35,500 block Bellaire Ave,Brookline,6,,
+OFFENSE 2.0,15141345,9488,False  Burglar Alarm,07/30/2015,11:20,1300 block Arnold St,Elliott,6,,
+ARREST,15123304,3921(a),Theft by Unlawful Taking or Disposition - Movable item,07/30/2015,12:28,1900 block Plainview Ave,Brookline,6,30,F
+OFFENSE 2.0,15141423,9488,False  Burglar Alarm,07/30/2015,13:11,2800 block Chartiers Ave,Sheraden,6,,
+OFFENSE 2.0,15141627,9497,Aided Case,07/30/2015,16:00,300 block S Main St,West End,6,,
+ARREST,15141545,2701,Simple Assault.,07/30/2015,17:00,Noblestown Rd & Warriors Rd,Westwood,6,31,M
+ARREST,15141545,2705,Recklessly Endangering Another Person.,07/30/2015,17:00,Noblestown Rd & Warriors Rd,Westwood,6,31,M
+OFFENSE 2.0,15141617,3304,Criminal Mischief.,07/30/2015,17:00,1200 block Crucible St,Crafton Heights,6,,
+OFFENSE 2.0,15141545,2701,Simple Assault.,07/30/2015,17:44,Noblestown Rd & Warriors Rd,Westwood,6,,
+OFFENSE 2.0,15141545,2705,Recklessly Endangering Another Person.,07/30/2015,17:44,Noblestown Rd & Warriors Rd,Westwood,6,,
+OFFENSE 2.0,15141760,2501,Criminal Homicide.,07/30/2015,22:11,700 block Woodlow St,Crafton Heights,6,,
+OFFENSE 2.0,15141421,9094,Recovered Stolen Vehicle (OUTSIDE CITY),07/30/2015,13:19,East St,Outside City,OSC,,
+OFFENSE 2.0,15141651,9094,Recovered Stolen Vehicle (OUTSIDE CITY),07/30/2015,18:38,Penn Hills,Outside City,OSC,,
