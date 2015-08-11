@@ -1,0 +1,145 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,15149050,029,Missing Juvenile,08/10/2015,00:10,200 block Ridge Ave,Allegheny Center,1,,
+OFFENSE 2.0,15149234,3934,Theft from Vehicle,08/10/2015,00:15,100 block Federal St,North Shore,1,,
+OFFENSE 2.0,15149234,3304,Criminal Mischief.,08/10/2015,00:15,100 block Federal St,North Shore,1,,
+OFFENSE 2.0,15149072,901,Criminal Attempt,08/10/2015,00:45,800 block Chapel Way,Allegheny West,1,,
+OFFENSE 2.0,15149072,3701,Robbery.,08/10/2015,00:45,800 block Chapel Way,Allegheny West,1,,
+OFFENSE 2.0,15149096,2701,Simple Assault.,08/10/2015,01:33,3400 block Mc Clure Ave,Brighton Heights,1,,
+OFFENSE 2.0,15149096,5505,Public Drunkenness,08/10/2015,01:33,3400 block Mc Clure Ave,Brighton Heights,1,,
+ARREST,15149096,2701,Simple Assault.,08/10/2015,02:20,3400 block Mc Clure Ave,Brighton Heights,1,38,M
+ARREST,15149096,5505,Public Drunkenness,08/10/2015,02:20,3400 block Mc Clure Ave,Brighton Heights,1,37,F
+ARREST,15149096,2701,Simple Assault.,08/10/2015,02:20,3400 block Mc Clure Ave,Brighton Heights,1,37,F
+ARREST,15149096,5505,Public Drunkenness,08/10/2015,02:20,3400 block Mc Clure Ave,Brighton Heights,1,38,M
+OFFENSE 2.0,15149119,9488,False  Burglar Alarm,08/10/2015,02:40,200 block East Ohio St,Allegheny Center,1,,
+OFFENSE 2.0,15149137,2701,Simple Assault.,08/10/2015,03:25,700 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,15149137,2702,Aggravated Assault.,08/10/2015,03:25,700 block Mt Pleasant Rd,Northview Heights,1,,
+ARREST,15149137,2701,Simple Assault.,08/10/2015,03:35,700 block Mt Pleasant Rd,Northview Heights,1,32,F
+ARREST,15149137,2702,Aggravated Assault.,08/10/2015,03:35,700 block Mt Pleasant Rd,Northview Heights,1,32,F
+OFFENSE 2.0,15149171,9488,False  Burglar Alarm,08/10/2015,06:21,4000 block Franklin Rd,Perry North,1,,
+OFFENSE 2.0,15149207,3921,Theft by Unlawful Taking or Disposition.,08/10/2015,07:00,Strauss St,Perry South,1,,
+OFFENSE 2.0,15149208,9488,False  Burglar Alarm,08/10/2015,08:23,200 block Watson Blvd,Perry North,1,,
+OFFENSE 2.0,15149245,5511(c)(1),CRUELTY TO ANIMALS,08/10/2015,09:00,2300 block California Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,15149361,3745,Accidents Involving Damage to Unattended Veh.or Prop.,08/10/2015,10:30,Cemetery St & Belleau St,Fineview,1,,
+OFFENSE 2.0,15149410,2709(a),Harassment.,08/10/2015,15:00,100 block W Mc Intyre Ave,Perry South,1,,
+OFFENSE 2.0,15149439,602.04(b)(2),Aggressive Panhandling,08/10/2015,15:54,East St & East Ohio St,East Allegheny,1,,
+OFFENSE 2.0,15149439,5507,Obstructing Highways and Passages.,08/10/2015,15:54,East St & East Ohio St,East Allegheny,1,,
+OFFENSE 2.0,15149439,601.08(a),Alcohol or Liquor Consumption on Streets or Sidewalks,08/10/2015,15:54,East St & East Ohio St,East Allegheny,1,,
+OFFENSE 2.0,15149439,5505,Public Drunkenness,08/10/2015,15:54,East St & East Ohio St,East Allegheny,1,,
+OFFENSE 2.0,15149439,5503,Disorderly Conduct.,08/10/2015,15:54,East St & East Ohio St,East Allegheny,1,,
+OFFENSE 2.0,15149442,3921,Theft by Unlawful Taking or Disposition.,08/10/2015,15:55,600 block Pressley St,East Allegheny,1,,
+ARREST,15149439,601.08(a),Alcohol or Liquor Consumption on Streets or Sidewalks,08/10/2015,16:02,East St & East Ohio St,East Allegheny,1,28,M
+ARREST,15149439,602.04(b)(2),Aggressive Panhandling,08/10/2015,16:02,East St & East Ohio St,East Allegheny,1,28,M
+ARREST,15149439,5507,Obstructing Highways and Passages.,08/10/2015,16:02,East St & East Ohio St,East Allegheny,1,28,M
+ARREST,15149439,5505,Public Drunkenness,08/10/2015,16:02,East St & East Ohio St,East Allegheny,1,28,M
+ARREST,15149439,5503,Disorderly Conduct.,08/10/2015,16:02,East St & East Ohio St,East Allegheny,1,28,M
+ARREST,15122684,2701(a)(3),Simple Assault - Attempts by Physical Menace ,08/10/2015,16:30,500 block E Ohio St,East Allegheny,1,29,F
+OFFENSE 2.0,15149510,2709(a),Harassment.,08/10/2015,16:30,600 block Pressley St,East Allegheny,1,,
+OFFENSE 2.0,15149470,9999,9999 - (Misc. Incident): ,08/10/2015,16:51,3400 block Sipe St,Brighton Heights,1,,
+OFFENSE 2.0,15149515,9999,9999 - (Misc. Incident): Shell casings recovered,08/10/2015,17:34,Alpine Ave & Arch St,Central Northside,1,,
+OFFENSE 2.0,15149533,9999,9999 - (Misc. Incident): Shot Fired.,08/10/2015,18:20,Mercy St & Federal Ext N,Fineview,1,,
+ARREST,15149534,2701,Simple Assault.,08/10/2015,18:20,1800 block Davis Ave,Brighton Heights,1,51,M
+ARREST,15149534,2701,Simple Assault.,08/10/2015,18:20,1800 block Davis Ave,Brighton Heights,1,30,F
+OFFENSE 2.0,15149534,2701,Simple Assault.,08/10/2015,18:20,1800 block Davis Ave,Brighton Heights,1,,
+OFFENSE 2.0,15149576,9999,9999 - (Misc. Incident): ,08/10/2015,19:30,1000 block High St,Spring Garden,1,,
+OFFENSE 2.0,15149590,9496,Dead on Arrival (DOA),08/10/2015,19:42,1000 block Sheffield St,Manchester,1,,
+OFFENSE 2.0,15149629,2705,Recklessly Endangering Another Person.,08/10/2015,20:54,400 block Cedar Ave,East Allegheny,1,,
+OFFENSE 2.0,15149629,2702,Aggravated Assault.,08/10/2015,20:54,400 block Cedar Ave,East Allegheny,1,,
+OFFENSE 2.0,15149629,2707.1,Discharge of a Firearm into Occupied Structure,08/10/2015,20:54,400 block Cedar Ave,East Allegheny,1,,
+ARREST,15126092,3921,Theft by Unlawful Taking or Disposition.,08/10/2015,21:00,1400 block Woodland Ave,Marshall-Shadeland,1,22,M
+OFFENSE 2.0,15149098,9498,302 (Mental),08/10/2015,02:18,700 block Forbes Ave,Bluff,2,,
+ARREST,15149114,6106,Firearms not to be Carried without a License.,08/10/2015,02:40,1000 block 5th Ave,Bluff,2,31,M
+ARREST,15149114,3308,One-Way Roadways and Rotary Traffic Islands.,08/10/2015,02:40,1000 block 5th Ave,Bluff,2,31,M
+OFFENSE 2.0,15149114,6106,Firearms not to be Carried without a License.,08/10/2015,02:53,1000 block 5th Ave,Bluff,2,,
+OFFENSE 2.0,15149114,3308,One-Way Roadways and Rotary Traffic Islands.,08/10/2015,02:53,1000 block 5th Ave,Bluff,2,,
+ARREST,15120052,4101,Forgery.,08/10/2015,10:30,5100 block Natrona Way,Upper Lawrenceville,2,47,M
+ARREST,15120052,4106,Access Device Fraud,08/10/2015,10:30,5100 block Natrona Way,Upper Lawrenceville,2,47,M
+ARREST,15047269,2706,Terroristic Threats.,08/10/2015,11:40,5200 block Kent Way,Upper Lawrenceville,2,20,M
+ARREST,15047269,2702,Aggravated Assault.,08/10/2015,11:40,5200 block Kent Way,Upper Lawrenceville,2,20,M
+OFFENSE 2.0,15149340,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,08/10/2015,13:00,600 block Wood St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15149340,3929,Retail Theft.,08/10/2015,13:00,600 block Wood St,Golden Triangle/Civic Arena,2,,
+ARREST,15149340,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,08/10/2015,13:30,600 block Wood St,Golden Triangle/Civic Arena,2,56,M
+OFFENSE 2.0,15149431,9999,9999 - (Misc. Incident): ,08/10/2015,13:30,800 block Penn Ave,Golden Triangle/Civic Arena,2,,
+ARREST,15149340,3929,Retail Theft.,08/10/2015,13:30,600 block Wood St,Golden Triangle/Civic Arena,2,56,M
+OFFENSE 2.0,15149437,3921(a),Theft by Unlawful Taking or Disposition - Movable item,08/10/2015,14:00,Stanwix St & Liberty Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15140702,2701,Simple Assault.,08/10/2015,15:45,5th Ave & Liberty Ave,Golden Triangle/Civic Arena,2,,
+ARREST,15149451,3502,Burglary.,08/10/2015,17:30,2500 block Mahon St,Middle Hill,2,22,M
+OFFENSE 2.0,15149451,903,Criminal Conspiracy.,08/10/2015,17:30,2500 block Mahon St,Middle Hill,2,,
+OFFENSE 2.0,15149451,3502,Burglary.,08/10/2015,17:30,2500 block Mahon St,Middle Hill,2,,
+ARREST,15149451,903,Criminal Conspiracy.,08/10/2015,17:30,2500 block Mahon St,Middle Hill,2,22,M
+ARREST,15149451,903,Criminal Conspiracy.,08/10/2015,17:30,2500 block Mahon St,Middle Hill,2,42,F
+OFFENSE 2.0,15149557,9490,Missing Persons (18 and Over),08/10/2015,18:51,100 block Hyman Pl,Terrace Village,2,,
+OFFENSE 2.0,15149695,3304,Criminal Mischief.,08/10/2015,22:15,Robinson St & Champion Dr,Strip District,2,,
+OFFENSE 2.0,15149695,3934,Theft from Vehicle,08/10/2015,22:15,Robinson St & Champion Dr,Strip District,2,,
+OFFENSE 2.0,15149713,2709(a),Harassment.,08/10/2015,23:47,6th Ave & Smithfield St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15149584,3921,Theft by Unlawful Taking or Disposition.,08/10/2015,06:00,2800 block Josephine St,South Side Slopes,3,,
+OFFENSE 2.0,15149183,3502,Burglary.,08/10/2015,07:00,Glenbury St,Overbrook,3,,
+OFFENSE 2.0,15149255,3934,Theft from Vehicle,08/10/2015,07:45,2100 block Sidney St,South Side Flats,3,,
+OFFENSE 2.0,15149266,3502,Burglary.,08/10/2015,09:00,400 block Suncrest St,Knoxville,3,,
+OFFENSE 2.0,15149560,2706,Terroristic Threats.,08/10/2015,15:00,400 block Daytona St,Knoxville,3,,
+OFFENSE 2.0,15149498,3502,Burglary.,08/10/2015,16:30,1800 block Larkins Way,South Side Flats,3,,
+ARREST,15099886,3925,Receiving Stolen Property.,08/10/2015,19:20,100 block Michigan St,Bluff,3,28,M
+OFFENSE 2.0,15149618,2701,Simple Assault.,08/10/2015,20:31,2000 block Arlington Ave,South Side Slopes,3,,
+ARREST,15149618,2701,Simple Assault.,08/10/2015,20:51,2000 block Arlington Ave,South Side Slopes,3,20,F
+ARREST,15149618,2701,Simple Assault.,08/10/2015,20:51,2000 block Arlington Ave,South Side Slopes,3,24,M
+OFFENSE 2.0,15149191,3921,Theft by Unlawful Taking or Disposition.,08/10/2015,06:00,6900 block Blenheim Ct,Point Breeze,4,,
+ARREST,15115169,9501,Bench Warrant,08/10/2015,08:45,Gloster St & Roma Way,Hazelwood,4,32,M
+OFFENSE 2.0,15149265,9999,9999 - (Misc. Incident): ,08/10/2015,10:10,Brushton Ave & Penn Ave,Point Breeze North,4,,
+OFFENSE 2.0,15149294,9497,Aided Case,08/10/2015,11:20,3500 block Forbes Ave,Central Oakland,4,,
+ARREST,15139319,2702,Aggravated Assault.,08/10/2015,12:45,3200 block Niagara St,Bluff,4,50,F
+OFFENSE 2.0,15149375,029,Missing Juvenile,08/10/2015,13:30,300 block GREENFIELD Ave,Greenfield,4,,
+ARREST,15149389,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,08/10/2015,14:43,Shady Ave & Ellsworth Ave,Shadyside,4,25,M
+ARREST,15146418,3503(b)(1)(i),Actual Communication,08/10/2015,14:43,200 block Shady Ave,Shadyside,4,25,M
+OFFENSE 2.0,15149389,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,08/10/2015,14:43,Shady Ave & Ellsworth Ave,Shadyside,4,,
+ARREST,15146418,2709.1,Stalking Conduct or Repeatedly Acts Including Follows,08/10/2015,14:43,200 block Shady Ave,Shadyside,4,25,M
+OFFENSE 2.0,15149484,9999,9999 - (Misc. Incident): ,08/10/2015,15:00,5300 block Beeler St,Squirrel Hill North,4,,
+OFFENSE 2.0,15149415,3921(a),Theft by Unlawful Taking or Disposition - Movable item,08/10/2015,15:00,300 block N Braddock Ave,Point Breeze North,4,,
+OFFENSE 2.0,15149630,3921(a),Theft by Unlawful Taking or Disposition - Movable item,08/10/2015,15:30,5900 block Centre Ave,East Liberty,4,,
+OFFENSE 2.0,15149509,3921(a),Theft by Unlawful Taking or Disposition - Movable item,08/10/2015,17:00,1700 block Beechwood Blvd,Squirrel Hill South,4,,
+OFFENSE 2.0,15149505,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,08/10/2015,17:32,4100 block Windsor St,Greenfield,4,,
+OFFENSE 2.0,15149728,3921,Theft by Unlawful Taking or Disposition.,08/10/2015,23:30,300 block Meyran Ave,Central Oakland,4,,
+OFFENSE 2.0,15149090,3921(a),Theft by Unlawful Taking or Disposition - Movable item,08/10/2015,01:25,7400 block Finance St,Homewood South,5,,
+OFFENSE 2.0,15149112,3503,Criminal Trespass,08/10/2015,02:18,1300 block Pointview St,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15149112,2709(b),Stalking,08/10/2015,02:18,1300 block Pointview St,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15149112,5506,Loitering and Prowling at Night,08/10/2015,02:18,1300 block Pointview St,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15149112,9093,Indirect Criminal Contempt,08/10/2015,02:18,1300 block Pointview St,Lincoln-Lemington-Belmar,5,,
+ARREST,15149112,9093,Indirect Criminal Contempt,08/10/2015,02:21,1300 block Pointview St,Lincoln-Lemington-Belmar,5,42,M
+ARREST,15149112,2709(b),Stalking,08/10/2015,02:21,1300 block Pointview St,Lincoln-Lemington-Belmar,5,42,M
+ARREST,15149112,3503,Criminal Trespass,08/10/2015,02:21,1300 block Pointview St,Lincoln-Lemington-Belmar,5,42,M
+ARREST,15149112,5506,Loitering and Prowling at Night,08/10/2015,02:21,1300 block Pointview St,Lincoln-Lemington-Belmar,5,42,M
+OFFENSE 2.0,15149490,3934,Theft from Vehicle,08/10/2015,07:30,1000 block Downlook St,Stanton Heights,5,,
+OFFENSE 2.0,15149254,3921,Theft by Unlawful Taking or Disposition.,08/10/2015,09:53,5100 block Penn Ave,Garfield,5,,
+OFFENSE 2.0,15149270,13(a)(32),Paraphernalia - Use or Possession,08/10/2015,10:20,1000 block Washington Blvd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15149270,3921,Theft by Unlawful Taking or Disposition.,08/10/2015,10:20,1000 block Washington Blvd,Lincoln-Lemington-Belmar,5,,
+ARREST,15149270,13(a)(32),Paraphernalia - Use or Possession,08/10/2015,10:41,1000 block Washington Blvd,Lincoln-Lemington-Belmar,5,32,M
+ARREST,15149270,3921,Theft by Unlawful Taking or Disposition.,08/10/2015,10:41,1000 block Washington Blvd,Lincoln-Lemington-Belmar,5,32,M
+OFFENSE 2.0,15149434,901,Criminal Attempt,08/10/2015,14:20,900 block Highview St,Morningside,5,,
+OFFENSE 2.0,15149416,3743,Accidents Involving Damage to Attended Veh. or Property,08/10/2015,14:53,6200 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,15149417,3929,Retail Theft.,08/10/2015,15:23,6200 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,15149417,5104,Resisting Arrest or Other Law Enforcement.,08/10/2015,15:23,6200 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,15149417,5503,Disorderly Conduct.,08/10/2015,15:23,6200 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,15149417,13(a)(32),Paraphernalia - Use or Possession,08/10/2015,15:23,6200 block Penn Ave,East Liberty,5,,
+ARREST,15149417,5104,Resisting Arrest or Other Law Enforcement.,08/10/2015,15:23,6200 block Penn Ave,East Liberty,5,34,M
+ARREST,15149417,5503,Disorderly Conduct.,08/10/2015,15:23,6200 block Penn Ave,East Liberty,5,34,M
+ARREST,15149417,13(a)(32),Paraphernalia - Use or Possession,08/10/2015,15:23,6200 block Penn Ave,East Liberty,5,34,M
+ARREST,15149417,3929,Retail Theft.,08/10/2015,15:23,6200 block Penn Ave,East Liberty,5,34,M
+OFFENSE 2.0,15149455,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,08/10/2015,16:17,400 block N Highland Ave,East Liberty,5,,
+ARREST,15149455,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,08/10/2015,16:39,400 block N Highland Ave,East Liberty,5,38,M
+OFFENSE 2.0,15149529,6105(a)(2)(i),Persons not to possess  use  manufacture  control  sell or transfer firearms: 60 days to sell or transfer firearms,08/10/2015,18:12,7100 block Upland St,Homewood North,5,,
+OFFENSE 2.0,15149529,2705,Recklessly Endangering Another Person.,08/10/2015,18:12,7100 block Upland St,Homewood North,5,,
+OFFENSE 2.0,15149529,2702,Aggravated Assault.,08/10/2015,18:12,7100 block Upland St,Homewood North,5,,
+OFFENSE 2.0,15149529,2701,Simple Assault.,08/10/2015,18:12,7100 block Upland St,Homewood North,5,,
+OFFENSE 2.0,15149529,9093,Indirect Criminal Contempt,08/10/2015,18:12,7100 block Upland St,Homewood North,5,,
+OFFENSE 2.0,15149352,3304,Criminal Mischief.,08/10/2015,00:01,2300 block Craftmont Ave,Oakwood,6,,
+OFFENSE 2.0,15149121,9999,9999 - (Misc. Incident): ,08/10/2015,02:47,2700 block Amman St,Brookline,6,,
+OFFENSE 2.0,15149213,9999,9999 - (Misc. Incident): ,08/10/2015,09:15,1500 block Crucible St,Crafton Heights,6,,
+ARREST,15149269,9501,Bench Warrant,08/10/2015,09:50,300 block S Main St,West End,6,29,M
+OFFENSE 2.0,15149269,9501,Bench Warrant,08/10/2015,09:55,300 block S Main St,West End,6,,
+ARREST,15149299,2701,Simple Assault.,08/10/2015,11:15,Wabash St & Steuben St,West End,6,55,M
+OFFENSE 2.0,15149299,2701,Simple Assault.,08/10/2015,11:15,Wabash St & Steuben St,West End,6,,
+OFFENSE 2.0,15149311,3934,Theft from Vehicle,08/10/2015,11:30,2700 block Zephyr Ave,Sheraden,6,,
+OFFENSE 2.0,15149414,2701,Simple Assault.,08/10/2015,15:31,Bucyrus St,Elliott,6,,
+ARREST,15149414,2701,Simple Assault.,08/10/2015,15:31,Bucyrus St,Elliott,6,20,F
+OFFENSE 2.0,15149475,4120,Identity Theft,08/10/2015,16:26,1900 block Creedmoor Pl,Brookline,6,,
+OFFENSE 2.0,15149544,3502,Burglary.,08/10/2015,18:30,2100 block Whited St,Brookline,6,,
+OFFENSE 2.0,15149559,9489,Found Property,08/10/2015,19:04,Shiras Ave & Vodeli St,Beechview,6,,
+OFFENSE 2.0,15149614,5505,Public Drunkenness,08/10/2015,20:25,Brookline Blvd & Pioneer Ave,Brookline,6,,
