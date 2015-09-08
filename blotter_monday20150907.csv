@@ -1,0 +1,134 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,15170023,3934,Theft from Vehicle,09/07/2015,02:30,1500 block Orchlee St,Brighton Heights,1,,
+OFFENSE 2.0,15169861,3304,Criminal Mischief.,09/07/2015,03:40,1300 block Allegheny Ave,Manchester,1,,
+OFFENSE 2.0,15169880,9496,Dead on Arrival (DOA),09/07/2015,05:45,800 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,15169893,9488,False  Burglar Alarm,09/07/2015,06:55,1200 block Reedsdale St,Chateau,1,,
+OFFENSE 2.0,15169903,3921(a),Theft by Unlawful Taking or Disposition - Movable item,09/07/2015,07:00,600 block Pressley St,East Allegheny,1,,
+OFFENSE 2.0,15169912,3921,Theft by Unlawful Taking or Disposition.,09/07/2015,07:00,300 block E North Ave,East Allegheny,1,,
+OFFENSE 2.0,15169918,3934,Theft from Vehicle,09/07/2015,08:00,1100 block Benton Ave,Brighton Heights,1,,
+OFFENSE 2.0,15169937,3934,Theft from Vehicle,09/07/2015,09:49,1200 block Benton Ave,Brighton Heights,1,,
+OFFENSE 2.0,15170017,2702,Aggravated Assault.,09/07/2015,12:27,1400 block Chicago St,Northview Heights,1,,
+OFFENSE 2.0,15170095,3934,Theft from Vehicle,09/07/2015,15:15,1400 block Stedman St,Manchester,1,,
+OFFENSE 2.0,15170200,3921,Theft by Unlawful Taking or Disposition.,09/07/2015,16:00,1200 block Hodgkiss St,Marshall-Shadeland,1,,
+OFFENSE 2.0,15170200,3304,Criminal Mischief.,09/07/2015,16:00,1200 block Hodgkiss St,Marshall-Shadeland,1,,
+ARREST,15167513,13(a)(32),Paraphernalia - Use or Possession,09/07/2015,17:00,Solar St,Spring Hill-City View,1,28,F
+ARREST,15167513,3921(a),Theft by Unlawful Taking or Disposition - Movable item,09/07/2015,17:00,Solar St,Spring Hill-City View,1,28,F
+OFFENSE 2.0,15170208,2709,Harassment (Non-Specific),09/07/2015,17:30,700 block Mount Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,15170174,3802(a)(1),DUI - General Impairment,09/07/2015,17:45,Brighton Rd & Woods Run Ave,Brighton Heights,1,,
+OFFENSE 2.0,15170174,3745,Accidents Involving Damage to Unattended Veh.or Prop.,09/07/2015,17:45,Brighton Rd & Woods Run Ave,Brighton Heights,1,,
+OFFENSE 2.0,15170174,3702,Limitations on Backing.,09/07/2015,17:45,Brighton Rd & Woods Run Ave,Brighton Heights,1,,
+ARREST,15170174,3702,Limitations on Backing.,09/07/2015,17:45,Brighton Rd & Woods Run Ave,Brighton Heights,1,50,M
+ARREST,15170174,3745,Accidents Involving Damage to Unattended Veh.or Prop.,09/07/2015,17:45,Brighton Rd & Woods Run Ave,Brighton Heights,1,50,M
+ARREST,15170174,3802(a)(1),DUI - General Impairment,09/07/2015,17:45,Brighton Rd & Woods Run Ave,Brighton Heights,1,50,M
+OFFENSE 2.0,15170261,9488,False  Burglar Alarm,09/07/2015,19:41,600 block W Jefferson St,Central Northside,1,,
+ARREST,15144812,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,09/07/2015,21:30,3500 block Massachusetts Ave,Brighton Heights,1,29,M
+ARREST,15144812,2709(a)(4),Harassment Communicates Prohibited Acts,09/07/2015,21:30,3500 block Massachusetts Ave,Brighton Heights,1,29,M
+ARREST,15144812,3701,Robbery.,09/07/2015,21:30,3500 block Massachusetts Ave,Brighton Heights,1,29,M
+ARREST,15144258,3921,Theft by Unlawful Taking or Disposition.,09/07/2015,21:40,Reedsdale St & Art Rooney Ave,North Shore,1,24,M
+ARREST,15144258,903,Criminal Conspiracy.,09/07/2015,21:40,Reedsdale St & Art Rooney Ave,North Shore,1,24,M
+OFFENSE 2.0,15169714,2501,Criminal Homicide.,09/07/2015,01:00,Webster Ave & Mc Neil Pl,Upper Hill,2,,
+OFFENSE 2.0,15169829,3304,Criminal Mischief.,09/07/2015,02:08,1600 block Penn Ave,Strip District,2,,
+OFFENSE 2.0,15169839,3743,Accidents Involving Damage to Attended Veh. or Property,09/07/2015,02:35,Ridgeway St & Herron Ave,Bedford Dwellings,2,,
+OFFENSE 2.0,15169886,3502,Burglary.,09/07/2015,05:27,400 block 5th Ave,Golden Triangle/Civic Arena,2,,
+ARREST,15169886,3502,Burglary.,09/07/2015,06:43,400 block 5th Ave,Golden Triangle/Civic Arena,2,51,M
+OFFENSE 2.0,15169974,3745,Accidents Involving Damage to Unattended Veh.or Prop.,09/07/2015,09:20,400 block PROTECTORY Pl,Crawford-Roberts,2,,
+OFFENSE 2.0,15169984,8106,Shots Fired,09/07/2015,11:23,Oak Hill Dr & Benson Pl,Terrace Village,2,,
+OFFENSE 2.0,15169984,2705,Recklessly Endangering Another Person.,09/07/2015,11:23,Oak Hill Dr & Benson Pl,Terrace Village,2,,
+OFFENSE 2.0,15169984,2707.1,Discharge of a Firearm into Occupied Structure,09/07/2015,11:23,Oak Hill Dr & Benson Pl,Terrace Village,2,,
+OFFENSE 2.0,15169978,9488,False  Burglar Alarm,09/07/2015,12:25,600 block Wood St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15170164,9999,9999 - (Misc. Incident): Violation of Custody Order,09/07/2015,17:18,2000 block 5th Ave,Bluff,2,,
+OFFENSE 2.0,15170344,3502,Burglary.,09/07/2015,21:00,200 block 45th St,Central Lawrenceville,2,,
+OFFENSE 2.0,15170332,2707.1,Discharge of a Firearm into Occupied Structure,09/07/2015,21:25,200 block Elmore St,Terrace Village,2,,
+OFFENSE 2.0,15170332,3304,Criminal Mischief.,09/07/2015,21:25,200 block Elmore St,Terrace Village,2,,
+ARREST,15169813,5505,Public Drunkenness,09/07/2015,01:40,S 16th St & E Carson St,South Side Flats,3,20,M
+ARREST,15169813,5503,Disorderly Conduct.,09/07/2015,01:40,S 16th St & E Carson St,South Side Flats,3,20,M
+ARREST,15169813,2706,Terroristic Threats.,09/07/2015,01:40,S 16th St & E Carson St,South Side Flats,3,20,M
+ARREST,15169813,5104,Resisting Arrest or Other Law Enforcement.,09/07/2015,01:40,S 16th St & E Carson St,South Side Flats,3,20,M
+OFFENSE 2.0,15169825,5123,Contraband.,09/07/2015,02:00,S 20th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15169825,5104,Resisting Arrest or Other Law Enforcement.,09/07/2015,02:00,S 20th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15169825,4914,False Identification to Law Enforcement Authorities,09/07/2015,02:00,S 20th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15169825,13(a)(31),Marijuana: Possession Small Amount,09/07/2015,02:00,S 20th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15169825,5505,Public Drunkenness,09/07/2015,02:00,S 20th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15169825,2701,Simple Assault.,09/07/2015,02:00,S 20th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15169828,3745,Accidents Involving Damage to Unattended Veh.or Prop.,09/07/2015,02:08,1700 block Wrights Way,South Side Flats,3,,
+ARREST,15169825,5505,Public Drunkenness,09/07/2015,02:10,S 20th St & E Carson St,South Side Flats,3,21,M
+ARREST,15169825,5123,Contraband.,09/07/2015,02:10,S 20th St & E Carson St,South Side Flats,3,21,M
+ARREST,15169825,5104,Resisting Arrest or Other Law Enforcement.,09/07/2015,02:10,S 20th St & E Carson St,South Side Flats,3,21,M
+ARREST,15169825,4914,False Identification to Law Enforcement Authorities,09/07/2015,02:10,S 20th St & E Carson St,South Side Flats,3,21,M
+ARREST,15169825,2701,Simple Assault.,09/07/2015,02:10,S 20th St & E Carson St,South Side Flats,3,21,M
+ARREST,15169825,13(a)(31),Marijuana: Possession Small Amount,09/07/2015,02:10,S 20th St & E Carson St,South Side Flats,3,21,M
+ARREST,15169825,5505,Public Drunkenness,09/07/2015,02:10,S 20th St & E Carson St,South Side Flats,3,21,M
+ARREST,15169825,5104,Resisting Arrest or Other Law Enforcement.,09/07/2015,02:10,S 20th St & E Carson St,South Side Flats,3,21,M
+ARREST,15169825,4914,False Identification to Law Enforcement Authorities,09/07/2015,02:10,S 20th St & E Carson St,South Side Flats,3,21,M
+ARREST,15169825,2701,Simple Assault.,09/07/2015,02:10,S 20th St & E Carson St,South Side Flats,3,21,M
+OFFENSE 2.0,15169813,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,09/07/2015,02:27,S 16th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15169813,5505,Public Drunkenness,09/07/2015,02:27,S 16th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15169813,5503,Disorderly Conduct.,09/07/2015,02:27,S 16th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15169813,5104,Resisting Arrest or Other Law Enforcement.,09/07/2015,02:27,S 16th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15169813,2706,Terroristic Threats.,09/07/2015,02:27,S 16th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15169878,9999,9999 - (Misc. Incident): ,09/07/2015,05:53,700 block Fisher St,St. Clair,3,,
+OFFENSE 2.0,15169987,3921,Theft by Unlawful Taking or Disposition.,09/07/2015,09:00,300 block Station Square Sheraton Hotel Dr W,South Shore,3,,
+OFFENSE 2.0,15170096,029,Missing Juvenile,09/07/2015,15:00,100 block Bausman St,Knoxville,3,,
+OFFENSE 2.0,15170136,029,Missing Juvenile,09/07/2015,15:00,100 block Bausman St,Knoxville,3,,
+OFFENSE 2.0,15170158,3304,Criminal Mischief.,09/07/2015,17:05,Haberman Ave,Mount Washington,3,,
+ARREST,15170222,9501,Bench Warrant,09/07/2015,18:54,Amanda Ave,Knoxville,3,48,M
+OFFENSE 2.0,15170222,9501,Bench Warrant,09/07/2015,18:54,Amanda Ave,Knoxville,3,,
+OFFENSE 2.0,15170228,3502,Burglary.,09/07/2015,19:00,600 block Gearing Ave,Beltzhoover,3,,
+OFFENSE 2.0,15170266,3304,Criminal Mischief.,09/07/2015,19:00,400 block Ariston Ave,Carrick,3,,
+OFFENSE 2.0,15173307,3304,Criminal Mischief.,09/07/2015,20:15,E Amanda Ave,Knoxville,3,,
+OFFENSE 2.0,15170340,2701,Simple Assault.,09/07/2015,21:41,1100 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15170340,5505,Public Drunkenness,09/07/2015,21:41,1100 block E Carson St,South Side Flats,3,,
+ARREST,15170340,2701,Simple Assault.,09/07/2015,22:07,1100 block E Carson St,South Side Flats,3,29,M
+ARREST,15170340,5505,Public Drunkenness,09/07/2015,22:07,1100 block E Carson St,South Side Flats,3,29,M
+OFFENSE 2.0,15169768,3745,Accidents Involving Damage to Unattended Veh.or Prop.,09/07/2015,00:05,4700 block Old Browns Hill Rd,Squirrel Hill South,4,,
+OFFENSE 2.0,15169915,3921,Theft by Unlawful Taking or Disposition.,09/07/2015,08:00,4200 block Gladstone St,Greenfield,4,,
+OFFENSE 2.0,15169930,3502,Burglary.,09/07/2015,08:30,900 block Ivy St,Shadyside,4,,
+OFFENSE 2.0,15169954,3921,Theft by Unlawful Taking or Disposition.,09/07/2015,09:00,300 block N Craig St,North Oakland,4,,
+OFFENSE 2.0,15169964,3304,Criminal Mischief.,09/07/2015,09:30,Lawn St,South Oakland,4,,
+OFFENSE 2.0,15169964,3934,Theft from Vehicle,09/07/2015,09:30,Lawn St,South Oakland,4,,
+OFFENSE 2.0,15169947,9999,9999 - (Misc. Incident): 9999 - (Misc. Incident): ,09/07/2015,10:06,7600 block Penn Ave,Point Breeze North,4,,
+ARREST,15169947,9999,9999 - (Misc. Incident): 9999 - (Misc. Incident): ,09/07/2015,10:06,7600 block Penn Ave,Point Breeze North,4,35,M
+ARREST,15169947,9501,Bench Warrant,09/07/2015,10:06,7600 block Penn Ave,Point Breeze North,4,35,M
+OFFENSE 2.0,15169947,9501,Bench Warrant,09/07/2015,10:06,7600 block Penn Ave,Point Breeze North,4,,
+OFFENSE 2.0,15169985,3745,Accidents Involving Damage to Unattended Veh.or Prop.,09/07/2015,11:30,1300 block Beechwood Blvd,Point Breeze,4,,
+OFFENSE 2.0,15170298,3934,Theft from Vehicle,09/07/2015,12:00,5700 block Elmer St,Shadyside,4,,
+OFFENSE 2.0,15170046,4106,Access Device Fraud,09/07/2015,13:30,4600 block 5th Ave,North Oakland,4,,
+OFFENSE 2.0,15170112,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,09/07/2015,15:05,2nd Ave & Tecumseh St,Hazelwood,4,,
+OFFENSE 2.0,15170124,3934,Theft from Vehicle,09/07/2015,15:20,100 block Greenfield Ave,Greenfield,4,,
+OFFENSE 2.0,15170108,9133,Noise Complaint - No Citation,09/07/2015,15:42,300 block Ophelia St,South Oakland,4,,
+OFFENSE 2.0,15170281,3304,Criminal Mischief.,09/07/2015,19:00,300 block Spahr St,Shadyside,4,,
+OFFENSE 2.0,15170362,3928,Unauthorized Use of Automobile and Other Vehicles.,09/07/2015,22:20,4400 block Browns Hill Rd,Hazelwood,4,,
+OFFENSE 2.0,15169756,9999,9999 - (Misc. Incident): psych issues,09/07/2015,00:15,7700 block Hamilton Ave,Homewood South,5,,
+OFFENSE 2.0,15169836,2706,Terroristic Threats.,09/07/2015,02:47,5500 block Elgin St,Highland Park,5,,
+ARREST,15166347,3929,Retail Theft.,09/07/2015,06:43,6200 block Penn Ave,East Liberty,5,51,M
+OFFENSE 2.0,15169895,3304,Criminal Mischief.,09/07/2015,07:10,500 block Lowell St,Larimer,5,,
+OFFENSE 2.0,15170175,3934,Theft from Vehicle,09/07/2015,07:30,100 block Kilmer St,East Hills,5,,
+OFFENSE 2.0,15170175,3304,Criminal Mischief.,09/07/2015,07:30,100 block Kilmer St,East Hills,5,,
+ARREST,15086242,13(a)(32),Paraphernalia - Use or Possession,09/07/2015,10:06,Sterrett St & Formosa Way,Homewood South,5,35,M
+OFFENSE 2.0,15169993,3304,Criminal Mischief.,09/07/2015,12:20,Canoe Way & Ewing St,Bloomfield,5,,
+OFFENSE 2.0,15170100,029,Missing Juvenile,09/07/2015,14:05,300 block S Negley Ave,Friendship,5,,
+OFFENSE 2.0,15170117,2701,Simple Assault.,09/07/2015,15:50,1800 block Morningside Ave,Morningside,5,,
+OFFENSE 2.0,15170117,3304,Criminal Mischief.,09/07/2015,15:50,1800 block Morningside Ave,Morningside,5,,
+OFFENSE 2.0,15170160,1333,Lost  Stolen  Damaged or Illegible Registration Plate.,09/07/2015,17:11,6000 block Butler St,Stanton Heights,5,,
+OFFENSE 2.0,15170194,3745,Accidents Involving Damage to Unattended Veh.or Prop.,09/07/2015,17:40,One Wild Pl,Highland Park,5,,
+OFFENSE 2.0,15170197,3714,Careless Driving,09/07/2015,18:30,1100 block Mellon St,Highland Park,5,,
+OFFENSE 2.0,15170197,3745,Accidents Involving Damage to Unattended Veh.or Prop.,09/07/2015,18:30,1100 block Mellon St,Highland Park,5,,
+OFFENSE 2.0,15170197,3802(a)(1),DUI - General Impairment,09/07/2015,18:30,1100 block Mellon St,Highland Park,5,,
+OFFENSE 2.0,15170197,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,09/07/2015,18:30,1100 block Mellon St,Highland Park,5,,
+ARREST,15170197,3714,Careless Driving,09/07/2015,18:30,1100 block Mellon St,Highland Park,5,25,F
+ARREST,15170197,3745,Accidents Involving Damage to Unattended Veh.or Prop.,09/07/2015,18:30,1100 block Mellon St,Highland Park,5,25,F
+ARREST,15170197,3802(a)(1),DUI - General Impairment,09/07/2015,18:30,1100 block Mellon St,Highland Park,5,25,F
+ARREST,15170197,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,09/07/2015,18:30,1100 block Mellon St,Highland Park,5,25,F
+ARREST,15098417,3929(a)(3),Retail Theft; transfers merchandise from container,09/07/2015,21:25,800 block Freeport Rd,Lincoln-Lemington-Belmar,5,21,M
+OFFENSE 2.0,15170395,2702,Aggravated Assault.,09/07/2015,23:46,2500 block Park Hill Dr,East Hills,5,,
+OFFENSE 2.0,15169868,3304,Criminal Mischief.,09/07/2015,04:07,3200 block Surban Ave,Sheraden,6,,
+ARREST,15169952,9501,Bench Warrant,09/07/2015,10:11,2900 block Chartiers Ave,Sheraden,6,45,M
+ARREST,15169952,9501,Bench Warrant,09/07/2015,10:11,2900 block Chartiers Ave,Sheraden,6,49,M
+OFFENSE 2.0,15169952,9501,Bench Warrant,09/07/2015,10:11,2900 block Chartiers Ave,Sheraden,6,,
+OFFENSE 2.0,15170181,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,09/07/2015,17:45,200 block Radcliffe St,Esplen,6,,
+OFFENSE 2.0,15170195,2709(a),Harassment.,09/07/2015,18:10,2600 block Amman St,Brookline,6,,
+OFFENSE 2.0,15170237,3304,Criminal Mischief.,09/07/2015,19:11,3000 block Glen Mawr St,Sheraden,6,,
+OFFENSE 2.0,15179189,9496,Dead on Arrival (DOA),09/07/2015,19:45,2800 block Kenilworth St,Brookline,6,,
+OFFENSE 2.0,15170353,2701,Simple Assault.,09/07/2015,22:24,100 block Oakville Dr,Banksville,6,,
+OFFENSE 2.0,15170377,3743,Accidents Involving Damage to Attended Veh. or Property,09/07/2015,22:55,1800 block Fallowfield Ave,Beechview,6,,
+OFFENSE 2.0,15170385,3745,Accidents Involving Damage to Unattended Veh.or Prop.,09/07/2015,22:55,1700 block Tonopah Ave,Beechview,6,,
