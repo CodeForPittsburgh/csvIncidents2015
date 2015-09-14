@@ -1,0 +1,159 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+ARREST,15166678,2702,Aggravated Assault.,09/13/2015,01:00,200 block Bascom Ave,Perry North,1,40,M
+OFFENSE 2.0,15174211,3736,Reckless Driving,09/13/2015,01:55,Federal Ext N & Seabright St,Perry South,1,,
+OFFENSE 2.0,15174211,3303,Overtaking Vehicle on the Left.,09/13/2015,01:55,Federal Ext N & Seabright St,Perry South,1,,
+OFFENSE 2.0,15174211,3301,Driving on Right Side of Roadway.,09/13/2015,01:55,Federal Ext N & Seabright St,Perry South,1,,
+OFFENSE 2.0,15174211,7513,Restriction on Alcoholic Beverages - Open Container,09/13/2015,01:55,Federal Ext N & Seabright St,Perry South,1,,
+OFFENSE 2.0,15174211,1501,Drivers Required to be Licensed.,09/13/2015,01:55,Federal Ext N & Seabright St,Perry South,1,,
+OFFENSE 2.0,15174211,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,09/13/2015,01:55,Federal Ext N & Seabright St,Perry South,1,,
+OFFENSE 2.0,15174211,3802(a)(1),DUI - General Impairment,09/13/2015,01:55,Federal Ext N & Seabright St,Perry South,1,,
+OFFENSE 2.0,15174211,1543,Driving While Operating Privilege is Suspended or Revoked.,09/13/2015,01:55,Federal Ext N & Seabright St,Perry South,1,,
+ARREST,15174211,7513,Restriction on Alcoholic Beverages - Open Container,09/13/2015,02:00,Federal Ext N & Seabright St,Perry South,1,33,M
+ARREST,15174211,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,09/13/2015,02:00,Federal Ext N & Seabright St,Perry South,1,33,M
+ARREST,15174211,3802(a)(1),DUI - General Impairment,09/13/2015,02:00,Federal Ext N & Seabright St,Perry South,1,33,M
+ARREST,15174211,3736,Reckless Driving,09/13/2015,02:00,Federal Ext N & Seabright St,Perry South,1,33,M
+ARREST,15174211,3303,Overtaking Vehicle on the Left.,09/13/2015,02:00,Federal Ext N & Seabright St,Perry South,1,33,M
+ARREST,15174211,1501,Drivers Required to be Licensed.,09/13/2015,02:00,Federal Ext N & Seabright St,Perry South,1,33,M
+ARREST,15174211,3301,Driving on Right Side of Roadway.,09/13/2015,02:00,Federal Ext N & Seabright St,Perry South,1,33,M
+ARREST,15174211,1543,Driving While Operating Privilege is Suspended or Revoked.,09/13/2015,02:00,Federal Ext N & Seabright St,Perry South,1,33,M
+OFFENSE 2.0,15174239,1543,Driving While Operating Privilege is Suspended or Revoked.,09/13/2015,02:43,Straubs Ln & Niggel St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,15174239,901,Criminal Attempt,09/13/2015,02:43,Straubs Ln & Niggel St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,15174239,3701,Robbery.,09/13/2015,02:43,Straubs Ln & Niggel St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,15174239,2706,Terroristic Threats.,09/13/2015,02:43,Straubs Ln & Niggel St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,15174239,2702,Aggravated Assault.,09/13/2015,02:43,Straubs Ln & Niggel St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,15174239,903,Criminal Conspiracy.,09/13/2015,02:43,Straubs Ln & Niggel St,Troy Hill-Herrs Island,1,,
+ARREST,15174239,901,Criminal Attempt,09/13/2015,03:00,Straubs Ln & Niggel St,Troy Hill-Herrs Island,1,24,M
+ARREST,15174239,3701,Robbery.,09/13/2015,03:00,Straubs Ln & Niggel St,Troy Hill-Herrs Island,1,24,M
+ARREST,15174239,2706,Terroristic Threats.,09/13/2015,03:00,Straubs Ln & Niggel St,Troy Hill-Herrs Island,1,24,M
+ARREST,15174239,2702,Aggravated Assault.,09/13/2015,03:00,Straubs Ln & Niggel St,Troy Hill-Herrs Island,1,24,M
+ARREST,15174239,1543,Driving While Operating Privilege is Suspended or Revoked.,09/13/2015,03:00,Straubs Ln & Niggel St,Troy Hill-Herrs Island,1,24,M
+ARREST,15174239,903,Criminal Conspiracy.,09/13/2015,03:00,Straubs Ln & Niggel St,Troy Hill-Herrs Island,1,24,M
+OFFENSE 2.0,15174247,2701,Simple Assault.,09/13/2015,03:08,2000 block Lautner St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,15174247,2702,Aggravated Assault.,09/13/2015,03:08,2000 block Lautner St,Troy Hill-Herrs Island,1,,
+ARREST,15174247,2701,Simple Assault.,09/13/2015,03:14,2000 block Lautner St,Troy Hill-Herrs Island,1,25,M
+ARREST,15174247,2702,Aggravated Assault.,09/13/2015,03:14,2000 block Lautner St,Troy Hill-Herrs Island,1,25,M
+OFFENSE 2.0,15174294,9999,9999 - (Misc. Incident): ,09/13/2015,05:20,3600 block Brighton Rd,Brighton Heights,1,,
+ARREST,15174309,9501,Bench Warrant,09/13/2015,06:49,Ohio River Blvd & Marshall Ave Ramp,Chateau,1,26,F
+OFFENSE 2.0,15174309,9501,Bench Warrant,09/13/2015,06:49,Ohio River Blvd & Marshall Ave Ramp,Chateau,1,,
+OFFENSE 2.0,15174323,2701,Simple Assault.,09/13/2015,07:35,100 block Rhine Pl,Spring Hill-City View,1,,
+OFFENSE 2.0,15174398,3701,Robbery.,09/13/2015,09:05,1300 block Halsey Pl,Marshall-Shadeland,1,,
+OFFENSE 2.0,15174398,3502,Burglary.,09/13/2015,09:05,1300 block Halsey Pl,Marshall-Shadeland,1,,
+OFFENSE 2.0,15174543,3745,Accidents Involving Damage to Unattended Veh.or Prop.,09/13/2015,11:00,900 block Wettach St,East Allegheny,1,,
+OFFENSE 2.0,15174442,3745,Accidents Involving Damage to Unattended Veh.or Prop.,09/13/2015,12:00,Waterfront Dr,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,15174433,9489,Found Property,09/13/2015,12:22,1200 block Island Ave,California-Kirkbride,1,,
+OFFENSE 2.0,15174445,3743,Accidents Involving Damage to Attended Veh. or Property,09/13/2015,12:30,3000 block Shadeland Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,15174441,3745,Accidents Involving Damage to Unattended Veh.or Prop.,09/13/2015,12:37,3000 block Stayton St,Marshall-Shadeland,1,,
+OFFENSE 2.0,15174480,9488,False  Burglar Alarm,09/13/2015,14:03,1300 block Brighton Rd,Central Northside,1,,
+OFFENSE 2.0,15174528,3503(b)(1)(iii),Defiant Trespass - Fencing or Other Enclosure,09/13/2015,15:50,100 block Federal St S,North Shore,1,,
+OFFENSE 2.0,15174527,4910,Tampering with or Fabricating Physical Evidence.,09/13/2015,15:57,1000 block Rothpletz St,Marshall-Shadeland,1,,
+OFFENSE 2.0,15174527,13(a)(30),Possession w/ Intent to Del. Controlled Substance,09/13/2015,15:57,1000 block Rothpletz St,Marshall-Shadeland,1,,
+OFFENSE 2.0,15174527,13(a)(16),Possession of Controlled Substance,09/13/2015,15:57,1000 block Rothpletz St,Marshall-Shadeland,1,,
+OFFENSE 2.0,15174527,6106,Firearms not to be Carried without a License.,09/13/2015,15:57,1000 block Rothpletz St,Marshall-Shadeland,1,,
+OFFENSE 2.0,15174527,6110.2,Possesion of Firearm with Altered Mfg. Number,09/13/2015,15:57,1000 block Rothpletz St,Marshall-Shadeland,1,,
+OFFENSE 2.0,15174527,6110.1,Possesion of Firearm by Minor,09/13/2015,15:57,1000 block Rothpletz St,Marshall-Shadeland,1,,
+ARREST,15174527,13(a)(16),Possession of Controlled Substance,09/13/2015,16:10,1000 block Rothpletz St,Marshall-Shadeland,1,16,M
+ARREST,15174527,13(a)(30),Possession w/ Intent to Del. Controlled Substance,09/13/2015,16:10,1000 block Rothpletz St,Marshall-Shadeland,1,16,M
+ARREST,15174527,4910,Tampering with or Fabricating Physical Evidence.,09/13/2015,16:10,1000 block Rothpletz St,Marshall-Shadeland,1,16,M
+ARREST,15174527,6110.1,Possesion of Firearm by Minor,09/13/2015,16:10,1000 block Rothpletz St,Marshall-Shadeland,1,16,M
+ARREST,15174527,6106,Firearms not to be Carried without a License.,09/13/2015,16:10,1000 block Rothpletz St,Marshall-Shadeland,1,16,M
+ARREST,15174527,6110.2,Possesion of Firearm with Altered Mfg. Number,09/13/2015,16:10,1000 block Rothpletz St,Marshall-Shadeland,1,16,M
+OFFENSE 2.0,15174552,2709,Harassment (Non-Specific),09/13/2015,16:24,1800 block Lowrie St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,15174563,9488,False  Burglar Alarm,09/13/2015,16:47,1300 block Brighton Rd,Central Northside,1,,
+OFFENSE 2.0,15174565,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,09/13/2015,17:13,3800 block Brighton Rd,Brighton Heights,1,,
+OFFENSE 2.0,15174611,3304,Criminal Mischief.,09/13/2015,17:27,1200 block Itin St,Spring Hill-City View,1,,
+OFFENSE 2.0,15174584,3502,Burglary.,09/13/2015,17:27,1200 block Itin St,Spring Hill-City View,1,,
+OFFENSE 2.0,15174584,3921(a),Theft by Unlawful Taking or Disposition - Movable item,09/13/2015,17:27,1200 block Itin St,Spring Hill-City View,1,,
+OFFENSE 2.0,15174589,9489,Found Property,09/13/2015,17:35,O Hern St & Perrysville Ave,Central Northside,1,,
+OFFENSE 2.0,15174674,3921(a),Theft by Unlawful Taking or Disposition - Movable item,09/13/2015,18:30,1000 block Smithton Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,15174757,029,Missing Juvenile,09/13/2015,23:23,200 block Ridge Ave,Allegheny Center,1,,
+OFFENSE 2.0,15174159,9090,Recovered Firearm,09/13/2015,00:35,10th Street Tunl S,Bluff,2,,
+OFFENSE 2.0,15174242,9497,Aided Case,09/13/2015,02:25,Liberty Ave & 10th St,Golden Triangle/Civic Arena,2,,
+ARREST,15099002,3353,Prohibitions in Specified Places.,09/13/2015,12:04,900 block 2nd Ave,Bluff,2,28,M
+ARREST,15099002,1543,Driving While Operating Privilege is Suspended or Revoked.,09/13/2015,12:04,900 block 2nd Ave,Bluff,2,28,M
+ARREST,15099002,13(a)(31),Marijuana: Possession Small Amount,09/13/2015,12:04,900 block 2nd Ave,Bluff,2,28,M
+OFFENSE 2.0,15174494,029,Missing Juvenile,09/13/2015,14:50,2000 block Rose St,Terrace Village,2,,
+ARREST,15147894,3502,Burglary.,09/13/2015,15:30,900 block Second Ave,Golden Triangle/Civic Arena,2,37,M
+ARREST,15152285,903,Criminal Conspiracy.,09/13/2015,15:30,900 block Second Ave,Bluff,2,28,M
+ARREST,15152285,3502,Burglary.,09/13/2015,15:30,900 block Second Ave,Bluff,2,28,M
+ARREST,15152285,3921(a),Theft by Unlawful Taking or Disposition - Movable item,09/13/2015,15:30,900 block Second Ave,Bluff,2,28,M
+ARREST,15170129,3743,Accidents Involving Damage to Attended Veh. or Property,09/13/2015,16:10,600 block 1st Ave,Golden Triangle/Civic Arena,2,29,F
+OFFENSE 2.0,15170129,3743,Accidents Involving Damage to Attended Veh. or Property,09/13/2015,16:26,600 block 1st Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15174625,9093,Indirect Criminal Contempt,09/13/2015,18:30,2200 block Bedford Ave,Bedford Dwellings,2,,
+OFFENSE 2.0,15174684,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,09/13/2015,20:30,600 block Arthur St,Crawford-Roberts,2,,
+OFFENSE 2.0,15174684,3701,Robbery.,09/13/2015,20:30,600 block Arthur St,Crawford-Roberts,2,,
+OFFENSE 2.0,15174660,029,Missing Juvenile,09/13/2015,22:00,Birmingham Brg & 5th Ave,Bluff,2,,
+OFFENSE 2.0,15174739,9490,Missing Persons (18 and Over),09/13/2015,22:00,Birmingham Brg & 5th Ave,Bluff,2,,
+OFFENSE 2.0,15174151,5505,Public Drunkenness,09/13/2015,00:33,E Carson St & S 14th St,South Side Flats,3,,
+OFFENSE 2.0,15174191,3745,Accidents Involving Damage to Unattended Veh.or Prop.,09/13/2015,01:10,Bingham St & S 15th St,South Side Flats,3,,
+OFFENSE 2.0,15174210,5505,Public Drunkenness,09/13/2015,01:52,E Carson St & S 18th St,South Side Flats,3,,
+OFFENSE 2.0,15174210,601.08(a),Alcohol or Liquor Consumption on Streets or Sidewalks,09/13/2015,01:52,E Carson St & S 18th St,South Side Flats,3,,
+OFFENSE 2.0,15174459,3502,Burglary.,09/13/2015,03:00,Marne Way,Mount Washington,3,,
+OFFENSE 2.0,15174292,2701,Simple Assault.,09/13/2015,05:00,200 block Albert St,Mount Washington,3,,
+ARREST,15174292,2701,Simple Assault.,09/13/2015,05:20,200 block Albert St,Mount Washington,3,31,F
+OFFENSE 2.0,15174315,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,09/13/2015,07:03,100 block Orchard Pl,Knoxville,3,,
+OFFENSE 2.0,15174383,3934,Theft from Vehicle,09/13/2015,09:30,Craighead St,Mount Washington,3,,
+OFFENSE 2.0,15174361,3304,Criminal Mischief.,09/13/2015,09:45,100 block Bausman St,Knoxville,3,,
+OFFENSE 2.0,15174540,3502,Burglary.,09/13/2015,11:00,Briggs St,Overbrook,3,,
+OFFENSE 2.0,15174406,2702,Aggravated Assault.,09/13/2015,11:27,400 block Freeland St,Beltzhoover,3,,
+OFFENSE 2.0,15174406,2706,Terroristic Threats.,09/13/2015,11:27,400 block Freeland St,Beltzhoover,3,,
+ARREST,15174406,2702,Aggravated Assault.,09/13/2015,11:35,400 block Freeland St,Beltzhoover,3,51,M
+ARREST,15174406,2706,Terroristic Threats.,09/13/2015,11:35,400 block Freeland St,Beltzhoover,3,51,M
+OFFENSE 2.0,15174426,9496,Dead on Arrival (DOA),09/13/2015,12:00,100 block Briggs St,Overbrook,3,,
+OFFENSE 2.0,15174439,3921(a),Theft by Unlawful Taking or Disposition - Movable item,09/13/2015,12:42,400 block Bausman St,Knoxville,3,,
+OFFENSE 2.0,15174504,2701,Simple Assault.,09/13/2015,15:07,Estella Ave,Mount Washington,3,,
+ARREST,15174504,2701,Simple Assault.,09/13/2015,16:00,Estella Ave,Mount Washington,3,28,M
+OFFENSE 2.0,15174645,2709,Harassment (Non-Specific),09/13/2015,19:31,2600 block Churchview Ave,Carrick,3,,
+OFFENSE 2.0,15174710,3802(a)(1),DUI - General Impairment,09/13/2015,21:38,P J Mc Ardle Rdwy & Grandview Ave,Mount Washington,3,,
+OFFENSE 2.0,15174710,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,09/13/2015,21:38,P J Mc Ardle Rdwy & Grandview Ave,Mount Washington,3,,
+OFFENSE 2.0,15174710,3743,Accidents Involving Damage to Attended Veh. or Property,09/13/2015,21:38,P J Mc Ardle Rdwy & Grandview Ave,Mount Washington,3,,
+ARREST,15174710,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,09/13/2015,22:15,P J Mc Ardle Rdwy & Grandview Ave,Mount Washington,3,30,M
+ARREST,15174710,3743,Accidents Involving Damage to Attended Veh. or Property,09/13/2015,22:15,P J Mc Ardle Rdwy & Grandview Ave,Mount Washington,3,30,M
+ARREST,15174710,3802(a)(1),DUI - General Impairment,09/13/2015,22:15,P J Mc Ardle Rdwy & Grandview Ave,Mount Washington,3,30,M
+OFFENSE 2.0,15174740,3928,Unauthorized Use of Automobile and Other Vehicles.,09/13/2015,22:30,1400 block Sarah St,South Side Flats,3,,
+OFFENSE 2.0,15174740,4106,Access Device Fraud,09/13/2015,22:30,1400 block Sarah St,South Side Flats,3,,
+OFFENSE 2.0,15174166,3502,Burglary.,09/13/2015,01:00,600 block Copeland St,Shadyside,4,,
+OFFENSE 2.0,15174193,3502,Burglary.,09/13/2015,01:15,500 block Zulema St,Central Oakland,4,,
+OFFENSE 2.0,15174200,9133,Noise Complaint - No Citation,09/13/2015,01:52,300 block Ophelia St,South Oakland,4,,
+OFFENSE 2.0,15174570,2709,Harassment (Non-Specific),09/13/2015,02:00,4500 block Mapledale Dr,New Homestead,4,,
+OFFENSE 2.0,15174407,9501,Bench Warrant,09/13/2015,11:27,600 block Worth St,North Oakland,4,,
+OFFENSE 2.0,15174444,1-401,Engaging in Fraudulent Practices,09/13/2015,12:00,500 block N Neville St,Shadyside,4,,
+ARREST,15174407,9501,Bench Warrant,09/13/2015,12:01,600 block Worth St,North Oakland,4,42,M
+OFFENSE 2.0,15174572,3745,Accidents Involving Damage to Unattended Veh.or Prop.,09/13/2015,15:45,Terrace St & Robinson St,West Oakland,4,,
+OFFENSE 2.0,15174629,3929,Retail Theft.,09/13/2015,18:58,5500 block Centre Ave,Shadyside,4,,
+ARREST,15174629,3929,Retail Theft.,09/13/2015,19:24,5500 block Centre Ave,Shadyside,4,51,F
+OFFENSE 2.0,15174225,3733,Fleeing or Attempting to Elude Police Officer,09/13/2015,02:21,Hale St & Frankstown Ave,Homewood South,5,,
+OFFENSE 2.0,15174225,3736,Reckless Driving,09/13/2015,02:21,Hale St & Frankstown Ave,Homewood South,5,,
+ARREST,15174225,3733,Fleeing or Attempting to Elude Police Officer,09/13/2015,02:31,Hale St & Frankstown Ave,Homewood South,5,36,M
+ARREST,15174225,3736,Reckless Driving,09/13/2015,02:31,Hale St & Frankstown Ave,Homewood South,5,36,M
+OFFENSE 2.0,15174269,3802(a)(1),DUI - General Impairment,09/13/2015,03:47,4900 block Penn Ave,Garfield,5,,
+OFFENSE 2.0,15174269,5503,Disorderly Conduct.,09/13/2015,03:47,4900 block Penn Ave,Garfield,5,,
+OFFENSE 2.0,15174269,3736,Reckless Driving,09/13/2015,03:47,4900 block Penn Ave,Garfield,5,,
+ARREST,15174269,5503,Disorderly Conduct.,09/13/2015,04:00,4900 block Penn Ave,Garfield,5,34,M
+ARREST,15174269,3736,Reckless Driving,09/13/2015,04:00,4900 block Penn Ave,Garfield,5,34,M
+ARREST,15174269,3802(a)(1),DUI - General Impairment,09/13/2015,04:00,4900 block Penn Ave,Garfield,5,34,M
+OFFENSE 2.0,15174285,2701,Simple Assault.,09/13/2015,04:44,200 block S Mathilda St,Bloomfield,5,,
+ARREST,15174285,2701,Simple Assault.,09/13/2015,04:44,200 block S Mathilda St,Bloomfield,5,22,F
+OFFENSE 2.0,15174312,3743,Accidents Involving Damage to Attended Veh. or Property,09/13/2015,06:37,6600 block Butler St,Morningside,5,,
+OFFENSE 2.0,15174330,9999,9999 - (Misc. Incident): ,09/13/2015,08:20,2100 block Park Hill Dr,East Hills,5,,
+OFFENSE 2.0,15174419,029,Missing Juvenile,09/13/2015,10:00,2300 block East Hills Dr,East Hills,5,,
+ARREST,15124427,3921,Theft by Unlawful Taking or Disposition.,09/13/2015,10:16,1900 block Oakdene St & Everton St,Lincoln-Lemington-Belmar,5,29,F
+OFFENSE 2.0,15174415,3304(a)(4),CRIMINAL MISCHIEF- Intentionally Damage Property (By Graffiti  Aerosol Spray Paint  Broad Tip Marker  or Similar),09/13/2015,11:30,100 block N Highland Ave,East Liberty,5,,
+ARREST,15174497,9501,Bench Warrant,09/13/2015,14:44,Brushton Ave & Mulford St,Homewood South,5,45,F
+ARREST,15174497,9015,Failure To Appear/Arrest on Attachment Order,09/13/2015,14:44,Brushton Ave & Mulford St,Homewood South,5,45,F
+OFFENSE 2.0,15174497,9501,Bench Warrant,09/13/2015,14:44,Brushton Ave & Mulford St,Homewood South,5,,
+OFFENSE 2.0,15174497,9015,Failure To Appear/Arrest on Attachment Order,09/13/2015,14:44,Brushton Ave & Mulford St,Homewood South,5,,
+OFFENSE 2.0,15174538,9497,Aided Case,09/13/2015,15:42,7000 block Spin Way,Homewood North,5,,
+OFFENSE 2.0,15174562,3743,Accidents Involving Damage to Attended Veh. or Property,09/13/2015,16:46,Washington Blvd & Shetland St,Homewood West,5,,
+OFFENSE 2.0,15174562,13(a)(32),Paraphernalia - Use or Possession,09/13/2015,16:46,Washington Blvd & Shetland St,Homewood West,5,,
+OFFENSE 2.0,15174207,3802(a)(1),DUI - General Impairment,09/13/2015,01:47,2400 block Wenzell Ave,Beechview,6,,
+OFFENSE 2.0,15174207,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,09/13/2015,01:47,2400 block Wenzell Ave,Beechview,6,,
+OFFENSE 2.0,15174207,4303,General Lighting Requirements.,09/13/2015,01:47,2400 block Wenzell Ave,Beechview,6,,
+ARREST,15174207,4303,General Lighting Requirements.,09/13/2015,02:03,2400 block Wenzell Ave,Beechview,6,29,F
+ARREST,15174207,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,09/13/2015,02:03,2400 block Wenzell Ave,Beechview,6,29,F
+ARREST,15174207,3802(a)(1),DUI - General Impairment,09/13/2015,02:03,2400 block Wenzell Ave,Beechview,6,29,F
+OFFENSE 2.0,15174249,9488,False  Burglar Alarm,09/13/2015,03:05,900 block Chartiers Ave,Elliott,6,,
+OFFENSE 2.0,15174325,3921(a),Theft by Unlawful Taking or Disposition - Movable item,09/13/2015,07:10,1100 block Queensbury St,Westwood,6,,
+OFFENSE 2.0,15174518,2701,Simple Assault.,09/13/2015,15:41,700 block Sherwood Ave,Sheraden,6,,
+ARREST,15018926,2706,Terroristic Threats.,09/13/2015,15:45,1600 block Crucible St,Crafton Heights,6,45,M
+ARREST,15018926,3304,Criminal Mischief.,09/13/2015,15:45,1600 block Crucible St,Crafton Heights,6,45,M
+OFFENSE 2.0,15174765,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,09/13/2015,23:47,1200 block Round Top St,Crafton Heights,6,,
