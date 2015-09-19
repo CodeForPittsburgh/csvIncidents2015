@@ -1,0 +1,247 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,15177674,5104,Resisting Arrest or Other Law Enforcement.,09/18/2015,01:49,800 block Concord St,East Allegheny,1,,
+OFFENSE 2.0,15177674,901,Criminal Attempt,09/18/2015,01:49,800 block Concord St,East Allegheny,1,,
+OFFENSE 2.0,15177674,2702,Aggravated Assault.,09/18/2015,01:49,800 block Concord St,East Allegheny,1,,
+OFFENSE 2.0,15177674,4952,Intimidation of Witnesses or Victims,09/18/2015,01:49,800 block Concord St,East Allegheny,1,,
+OFFENSE 2.0,15177674,3925,Receiving Stolen Property.,09/18/2015,01:49,800 block Concord St,East Allegheny,1,,
+ARREST,15177674,901,Criminal Attempt,09/18/2015,02:09,800 block Concord St,East Allegheny,1,16,M
+ARREST,15177674,5104,Resisting Arrest or Other Law Enforcement.,09/18/2015,02:09,800 block Concord St,East Allegheny,1,16,M
+ARREST,15177674,3925,Receiving Stolen Property.,09/18/2015,02:09,800 block Concord St,East Allegheny,1,16,M
+ARREST,15177674,2702,Aggravated Assault.,09/18/2015,02:09,800 block Concord St,East Allegheny,1,16,M
+ARREST,15167378,2706,Terroristic Threats.,09/18/2015,02:09,800 block Spring Garden Ave,Troy Hill-Herrs Island,1,16,M
+ARREST,15167378,2701(a)(3),Simple Assault - Attempts by Physical Menace ,09/18/2015,02:09,800 block Spring Garden Ave,Troy Hill-Herrs Island,1,16,M
+ARREST,15167378,908,Prohibited Offensive Weapons.,09/18/2015,02:09,800 block Spring Garden Ave,Troy Hill-Herrs Island,1,16,M
+OFFENSE 2.0,15177746,9488,False  Burglar Alarm,09/18/2015,05:35,800 block Vinial St,East Allegheny,1,,
+OFFENSE 2.0,15177774,3745,Accidents Involving Damage to Unattended Veh.or Prop.,09/18/2015,07:16,2800 block Beaver Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,15177813,3304,Criminal Mischief.,09/18/2015,07:30,2000 block Straubs Ln,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,15177820,2701,Simple Assault.,09/18/2015,08:33,2100 block Straubs Ln,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,15177835,3745,Accidents Involving Damage to Unattended Veh.or Prop.,09/18/2015,08:45,Parkhurst St & Boyle St,Central Northside,1,,
+ARREST,15177847,4910,Tampering with or Fabricating Physical Evidence.,09/18/2015,09:25,1900 block Federal Ext N,Fineview,1,30,M
+OFFENSE 2.0,15177847,13(a)(16),Possession of Controlled Substance,09/18/2015,09:25,1900 block Federal Ext N,Fineview,1,,
+ARREST,15177847,13(a)(16),Possession of Controlled Substance,09/18/2015,09:25,1900 block Federal Ext N,Fineview,1,30,M
+OFFENSE 2.0,15177847,4910,Tampering with or Fabricating Physical Evidence.,09/18/2015,09:25,1900 block Federal Ext N,Fineview,1,,
+ARREST,15177820,2701,Simple Assault.,09/18/2015,09:37,2100 block Straubs Ln,Troy Hill-Herrs Island,1,44,F
+OFFENSE 2.0,15177866,13(a)(16),Possession of Controlled Substance,09/18/2015,09:55,Sandusky Ct & Henderson St,Fineview,1,,
+ARREST,15177866,13(a)(16),Possession of Controlled Substance,09/18/2015,09:55,Sandusky Ct & Henderson St,Fineview,1,49,M
+OFFENSE 2.0,15178259,9124,Drug Investigation,09/18/2015,10:00,1200 block Western Ave,Chateau,1,,
+OFFENSE 2.0,15177894,9999,9999 - (Misc. Incident): Turned in Drugs,09/18/2015,10:55,1200 block Westren Ave,Chateau,1,,
+OFFENSE 2.0,15177955,5503,Disorderly Conduct.,09/18/2015,12:20,2800 block California Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,15177955,5505,Public Drunkenness,09/18/2015,12:20,2800 block California Ave,Marshall-Shadeland,1,,
+ARREST,15177955,5503,Disorderly Conduct.,09/18/2015,12:20,2800 block California Ave,Marshall-Shadeland,1,52,M
+ARREST,15177955,5505,Public Drunkenness,09/18/2015,12:20,2800 block California Ave,Marshall-Shadeland,1,52,M
+OFFENSE 2.0,15177999,3745,Accidents Involving Damage to Unattended Veh.or Prop.,09/18/2015,12:30,1200 block Sherman Ave,Central Northside,1,,
+OFFENSE 2.0,15178006,901,Criminal Attempt,09/18/2015,13:10,1200 block Middle St,East Allegheny,1,,
+OFFENSE 2.0,15178006,3304,Criminal Mischief.,09/18/2015,13:10,1200 block Middle St,East Allegheny,1,,
+OFFENSE 2.0,15178006,3502,Burglary.,09/18/2015,13:10,1200 block Middle St,East Allegheny,1,,
+OFFENSE 2.0,15178046,3502,Burglary.,09/18/2015,13:50,1000 block Spring Garden Ave,Spring Garden,1,,
+OFFENSE 2.0,15178126,2702,Aggravated Assault.,09/18/2015,14:30,500 block Marshall Ave,Perry South,1,,
+OFFENSE 2.0,15178144,3743,Accidents Involving Damage to Attended Veh. or Property,09/18/2015,16:05,Federal St N & E Jefferson St,Central Northside,1,,
+ARREST,15178169,4303,General Lighting Requirements.,09/18/2015,16:50,Middle St & E North Ave,East Allegheny,1,19,M
+ARREST,15178169,13(a)(31),Marijuana: Possession Small Amount,09/18/2015,16:50,Middle St & E North Ave,East Allegheny,1,19,M
+OFFENSE 2.0,15178169,13(a)(31),Marijuana: Possession Small Amount,09/18/2015,16:50,Middle St & E North Ave,East Allegheny,1,,
+OFFENSE 2.0,15178169,4303,General Lighting Requirements.,09/18/2015,16:50,Middle St & E North Ave,East Allegheny,1,,
+ARREST,15178126,2702,Aggravated Assault.,09/18/2015,16:58,500 block Marshall Ave,Perry South,1,11,M
+OFFENSE 2.0,15178322,3921(a),Theft by Unlawful Taking or Disposition - Movable item,09/18/2015,18:00,300 block N shore Dr,Chateau,1,,
+OFFENSE 2.0,15178252,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,09/18/2015,18:30,Allegheny Ave & Sheffield St,Manchester,1,,
+OFFENSE 2.0,15178353,9123,Miscellaneous Fire Other Investigation to Continue,09/18/2015,21:10,7th St Brg & Isabella St,North Shore,1,,
+OFFENSE 2.0,15178382,9489,Found Property,09/18/2015,22:15,James St & Foreland St,East Allegheny,1,,
+OFFENSE 2.0,15178413,3503(a),Criminal Trespass,09/18/2015,22:51,3700 block Hiawatha St,Brighton Heights,1,,
+OFFENSE 2.0,15178413,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,09/18/2015,22:51,3700 block Hiawatha St,Brighton Heights,1,,
+OFFENSE 2.0,15178413,5506,Loitering and Prowling at Night,09/18/2015,22:51,3700 block Hiawatha St,Brighton Heights,1,,
+ARREST,15178413,3503(a),Criminal Trespass,09/18/2015,22:58,3700 block Hiawatha St,Brighton Heights,1,,
+ARREST,15178413,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,09/18/2015,22:58,3700 block Hiawatha St,Brighton Heights,1,,
+ARREST,15178413,5506,Loitering and Prowling at Night,09/18/2015,22:58,3700 block Hiawatha St,Brighton Heights,1,,
+OFFENSE 2.0,15177639,3921(a),Theft by Unlawful Taking or Disposition - Movable item,09/18/2015,00:30,1100 block Liberty Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15177705,2701,Simple Assault.,09/18/2015,01:00,1600 block Penn Ave,Strip District,2,,
+OFFENSE 2.0,15177769,2709,Harassment (Non-Specific),09/18/2015,01:30,900 block Liberty Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15177731,3921(a),Theft by Unlawful Taking or Disposition - Movable item,09/18/2015,02:05,600 block Liberty Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15177783,3934,Theft from Vehicle,09/18/2015,07:25,2600 block Webster Ave,Bedford Dwellings,2,,
+OFFENSE 2.0,15177940,3929,Retail Theft.,09/18/2015,09:37,200 block 6th St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15177924,3934,Theft from Vehicle,09/18/2015,11:28,200 block 40th St,Lower Lawrenceville,2,,
+ARREST,15160983,3921,Theft by Unlawful Taking or Disposition.,09/18/2015,13:00,900 block Second (A.C.J.) Ave,Sheraden,2,18,M
+ARREST,15160983,3502,Burglary.,09/18/2015,13:00,900 block Second (A.C.J.) Ave,Sheraden,2,18,M
+ARREST,15160983,903,Criminal Conspiracy.,09/18/2015,13:00,900 block Second (A.C.J.) Ave,Sheraden,2,18,M
+OFFENSE 2.0,15178284,3745,Accidents Involving Damage to Unattended Veh.or Prop.,09/18/2015,15:00,1st Ave & Ross St,Golden Triangle/Civic Arena,2,,
+ARREST,15176875,6106,Firearms not to be Carried without a License.,09/18/2015,15:18,3300 block Webster Ave,Upper Hill,2,31,M
+ARREST,15176875,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),09/18/2015,15:18,3300 block Webster Ave,Upper Hill,2,31,M
+ARREST,15176875,2501,Criminal Homicide.,09/18/2015,15:18,3300 block Webster Ave,Upper Hill,2,31,M
+OFFENSE 2.0,15178098,6106,Firearms not to be Carried without a License.,09/18/2015,15:18,500 block Smithfield St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15178098,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),09/18/2015,15:18,500 block Smithfield St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15178098,3925,Receiving Stolen Property.,09/18/2015,15:18,500 block Smithfield St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15178098,13(a)(31),Marijuana: Possession Small Amount,09/18/2015,15:18,500 block Smithfield St,Golden Triangle/Civic Arena,2,,
+ARREST,15178098,6106,Firearms not to be Carried without a License.,09/18/2015,15:18,500 block Smithfield St,Golden Triangle/Civic Arena,2,31,M
+ARREST,15178098,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),09/18/2015,15:18,500 block Smithfield St,Golden Triangle/Civic Arena,2,31,M
+ARREST,15178098,13(a)(31),Marijuana: Possession Small Amount,09/18/2015,15:18,500 block Smithfield St,Golden Triangle/Civic Arena,2,31,M
+OFFENSE 2.0,15178184,2709,Harassment (Non-Specific),09/18/2015,17:09,600 block Granville St,East Liberty,2,,
+OFFENSE 2.0,15178182,9497,Aided Case,09/18/2015,18:00,600 block Smithfield St,Golden Triangle/Civic Arena,2,,
+ARREST,15178231,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,09/18/2015,18:15,5th Ave & Market St,Golden Triangle/Civic Arena,2,22,M
+OFFENSE 2.0,15178231,3111,Obedience to Traffic-Control Devices.,09/18/2015,18:15,5th Ave & Market St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15178231,3736,Reckless Driving,09/18/2015,18:15,5th Ave & Market St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15178231,3802(a)(1),DUI - General Impairment,09/18/2015,18:15,5th Ave & Market St,Golden Triangle/Civic Arena,2,,
+ARREST,15178231,3736,Reckless Driving,09/18/2015,18:15,5th Ave & Market St,Golden Triangle/Civic Arena,2,22,M
+OFFENSE 2.0,15178231,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,09/18/2015,18:15,5th Ave & Market St,Golden Triangle/Civic Arena,2,,
+ARREST,15178231,3111,Obedience to Traffic-Control Devices.,09/18/2015,18:15,5th Ave & Market St,Golden Triangle/Civic Arena,2,22,M
+OFFENSE 2.0,15178188,4105(a)(1),Bad Checks,09/18/2015,18:40,200 block 5th Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15178295,4105(a)(1),Bad Checks,09/18/2015,18:40,200 block 5th Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15178293,4105(a)(1),Bad Checks,09/18/2015,18:40,200 block 5th Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15178294,4105(a)(1),Bad Checks,09/18/2015,18:40,200 block 5th Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15178279,8106,Shots Fired,09/18/2015,19:15,400 block Eckstein Pl,Terrace Village,2,,
+OFFENSE 2.0,15178307,3701,Robbery.,09/18/2015,20:09,Blvd Of The Allies & Stanwix St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15178307,2701,Simple Assault.,09/18/2015,20:09,Blvd Of The Allies & Stanwix St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15178392,3921,Theft by Unlawful Taking or Disposition.,09/18/2015,21:00,2500 block Webster Ave,Bedford Dwellings,2,,
+OFFENSE 2.0,15178404,13(a)(16),Possession of Controlled Substance,09/18/2015,22:20,300 block Blvd Of The Allies,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15178404,5123,Contraband.,09/18/2015,22:20,300 block Blvd Of The Allies,Golden Triangle/Civic Arena,2,,
+ARREST,15178404,5123,Contraband.,09/18/2015,22:30,300 block Blvd Of The Allies,Golden Triangle/Civic Arena,2,29,M
+ARREST,15178404,13(a)(16),Possession of Controlled Substance,09/18/2015,22:30,300 block Blvd Of The Allies,Golden Triangle/Civic Arena,2,29,M
+OFFENSE 2.0,15178012,3934,Theft from Vehicle,09/18/2015,00:01,2300 block Saw Mill Run Blvd,Overbrook,3,,
+OFFENSE 2.0,15178010,3934,Theft from Vehicle,09/18/2015,00:01,2300 block Saw Mill Run Blvd,Overbrook,3,,
+OFFENSE 2.0,15177653,3921,Theft by Unlawful Taking or Disposition.,09/18/2015,01:04,100 block Rochelle St,Knoxville,3,,
+OFFENSE 2.0,15177672,8106,Shots Fired,09/18/2015,01:45,2000 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15177827,3934,Theft from Vehicle,09/18/2015,07:20,300 block Parallel Ave,Carrick,3,,
+OFFENSE 2.0,15177948,3934,Theft from Vehicle,09/18/2015,07:45,100 block The Boulevard,Carrick,3,,
+OFFENSE 2.0,15177910,9093,Indirect Criminal Contempt,09/18/2015,11:05,800 block Estella Ave,Beltzhoover,3,,
+OFFENSE 2.0,15177920,3929,Retail Theft.,09/18/2015,11:22,200 block Virginia Ave,Mount Washington,3,,
+OFFENSE 2.0,15178078,3934,Theft from Vehicle,09/18/2015,11:30,200 block Southern Ave,Mount Washington,3,,
+ARREST,15177910,9093,Indirect Criminal Contempt,09/18/2015,11:35,800 block Estella Ave,Beltzhoover,3,53,M
+OFFENSE 2.0,15178159,2709,Harassment (Non-Specific),09/18/2015,11:50,600 block Boggs Ave,Mount Washington,3,,
+OFFENSE 2.0,15177937,4101,Forgery.,09/18/2015,12:00,1800 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,15177977,4120,Identity Theft,09/18/2015,12:00,1600 block Oakhurst St,Carrick,3,,
+OFFENSE 2.0,15177977,901,Criminal Attempt,09/18/2015,12:00,1600 block Oakhurst St,Carrick,3,,
+OFFENSE 2.0,15178118,901,Criminal Attempt,09/18/2015,16:00,700 block Southern Ave,Mount Washington,3,,
+OFFENSE 2.0,15178118,3502,Burglary.,09/18/2015,16:00,700 block Southern Ave,Mount Washington,3,,
+OFFENSE 2.0,15178164,13(a)(31),Marijuana: Possession Small Amount,09/18/2015,16:40,1900 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,15178164,13(a)(16),Possession of Controlled Substance,09/18/2015,16:40,1900 block Brownsville Rd,Carrick,3,,
+ARREST,15178164,13(a)(31),Marijuana: Possession Small Amount,09/18/2015,16:41,1900 block Brownsville Rd,Carrick,3,19,M
+ARREST,15178164,13(a)(16),Possession of Controlled Substance,09/18/2015,16:41,1900 block Brownsville Rd,Carrick,3,19,M
+ARREST,15178164,13(a)(31),Marijuana: Possession Small Amount,09/18/2015,16:41,1900 block Brownsville Rd,Carrick,3,19,M
+OFFENSE 2.0,15178234,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,09/18/2015,18:06,200 block Rochelle St,Knoxville,3,,
+ARREST,15133989,3502,Burglary.,09/18/2015,18:50,1800 block E Carson St,Golden Triangle/Civic Arena,3,41,M
+ARREST,15133989,3921,Theft by Unlawful Taking or Disposition.,09/18/2015,18:50,1800 block E Carson St,Golden Triangle/Civic Arena,3,41,M
+OFFENSE 2.0,15178260,9093,Indirect Criminal Contempt,09/18/2015,18:51,800 block Industry St,Allentown,3,,
+OFFENSE 2.0,15178920,607.03,Discharging Firearm or Airgun,09/18/2015,19:29,2300 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,15178920,3302,Causing or Risking Catastrophe.,09/18/2015,19:29,2300 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,15178920,3304,Criminal Mischief.,09/18/2015,19:29,2300 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,15178920,2705,Recklessly Endangering Another Person.,09/18/2015,19:29,2300 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,15178920,3301,Arson ,09/18/2015,19:29,2300 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,15178318,3921(a),Theft by Unlawful Taking or Disposition - Movable item,09/18/2015,19:30,1700 block Wharton St,South Side Flats,3,,
+OFFENSE 2.0,15178301,3922,Theft by Deception.,09/18/2015,19:50,200 block Augusta St,Duquesne Heights,3,,
+OFFENSE 2.0,15178301,4120,Identity Theft,09/18/2015,19:50,200 block Augusta St,Duquesne Heights,3,,
+OFFENSE 2.0,15178301,4106,Access Device Fraud,09/18/2015,19:50,200 block Augusta St,Duquesne Heights,3,,
+OFFENSE 2.0,15178320,3921,Theft by Unlawful Taking or Disposition.,09/18/2015,20:00,2100 block Arlington Ave,Arlington,3,,
+OFFENSE 2.0,15178320,3503,Criminal Trespass,09/18/2015,20:00,2100 block Arlington Ave,Arlington,3,,
+ARREST,15178920,3301,Arson ,09/18/2015,21:15,2300 block Brownsville Rd,Carrick,3,34,M
+ARREST,15178920,2705,Recklessly Endangering Another Person.,09/18/2015,21:15,2300 block Brownsville Rd,Carrick,3,34,M
+ARREST,15178920,607.03,Discharging Firearm or Airgun,09/18/2015,21:15,2300 block Brownsville Rd,Carrick,3,34,M
+ARREST,15178920,3302,Causing or Risking Catastrophe.,09/18/2015,21:15,2300 block Brownsville Rd,Carrick,3,34,M
+ARREST,15178920,3304,Criminal Mischief.,09/18/2015,21:15,2300 block Brownsville Rd,Carrick,3,34,M
+ARREST,15178372,13(a)(16),Possession of Controlled Substance,09/18/2015,21:42,West End Cir & West End Brg,South Shore,3,27,M
+ARREST,15178372,13(a)(31),Marijuana: Possession Small Amount,09/18/2015,21:42,West End Cir & West End Brg,South Shore,3,27,M
+OFFENSE 2.0,15178372,1501,Drivers Required to be Licensed.,09/18/2015,21:42,West End Cir & West End Brg,South Shore,3,,
+OFFENSE 2.0,15178372,13(a)(32),Paraphernalia - Use or Possession,09/18/2015,21:42,West End Cir & West End Brg,South Shore,3,,
+OFFENSE 2.0,15178372,13(a)(31),Marijuana: Possession Small Amount,09/18/2015,21:42,West End Cir & West End Brg,South Shore,3,,
+OFFENSE 2.0,15178372,13(a)(16),Possession of Controlled Substance,09/18/2015,21:42,West End Cir & West End Brg,South Shore,3,,
+ARREST,15178372,3334,Turning Movements and Required Signals.,09/18/2015,21:42,West End Cir & West End Brg,South Shore,3,31,F
+ARREST,15178372,1501,Drivers Required to be Licensed.,09/18/2015,21:42,West End Cir & West End Brg,South Shore,3,31,F
+ARREST,15178372,13(a)(32),Paraphernalia - Use or Possession,09/18/2015,21:42,West End Cir & West End Brg,South Shore,3,31,F
+OFFENSE 2.0,15178372,3334,Turning Movements and Required Signals.,09/18/2015,21:42,West End Cir & West End Brg,South Shore,3,,
+ARREST,15178372,13(a)(16),Possession of Controlled Substance,09/18/2015,21:42,West End Cir & West End Brg,South Shore,3,31,F
+ARREST,15178372,13(a)(31),Marijuana: Possession Small Amount,09/18/2015,21:42,West End Cir & West End Brg,South Shore,3,31,F
+ARREST,15176713,2702,Aggravated Assault.,09/18/2015,22:19,1600 block St Patrick St,South Side Slopes,3,22,M
+OFFENSE 2.0,15176713,2702,Aggravated Assault.,09/18/2015,22:19,1600 block St Patrick St,South Side Slopes,3,,
+OFFENSE 2.0,15177636,2701(a)(3),Simple Assault - Attempts by Physical Menace ,09/18/2015,00:34,Darragh St & Terrace St,West Oakland,4,,
+OFFENSE 2.0,15177636,2701,Simple Assault.,09/18/2015,00:34,Darragh St & Terrace St,West Oakland,4,,
+OFFENSE 2.0,15177636,13(a)(30),Possession w/ Intent to Del. Controlled Substance,09/18/2015,00:34,Darragh St & Terrace St,West Oakland,4,,
+OFFENSE 2.0,15177636,13(a)(16),Possession of Controlled Substance,09/18/2015,00:34,Darragh St & Terrace St,West Oakland,4,,
+OFFENSE 2.0,15177636,2702,Aggravated Assault.,09/18/2015,00:34,Darragh St & Terrace St,West Oakland,4,,
+OFFENSE 2.0,15177636,2902,Unlawful Restraint.,09/18/2015,00:34,Darragh St & Terrace St,West Oakland,4,,
+ARREST,15177636,2701,Simple Assault.,09/18/2015,01:00,Darragh St & Terrace St,West Oakland,4,20,M
+ARREST,15177636,13(a)(32),Paraphernalia - Use or Possession,09/18/2015,01:00,Darragh St & Terrace St,West Oakland,4,20,M
+ARREST,15177636,13(a)(30),Possession w/ Intent to Del. Controlled Substance,09/18/2015,01:00,Darragh St & Terrace St,West Oakland,4,20,M
+ARREST,15177636,13(a)(16),Possession of Controlled Substance,09/18/2015,01:00,Darragh St & Terrace St,West Oakland,4,20,M
+ARREST,15177636,2701(a)(3),Simple Assault - Attempts by Physical Menace ,09/18/2015,01:00,Darragh St & Terrace St,West Oakland,4,20,M
+ARREST,15177636,6110.2,Possesion of Firearm with Altered Mfg. Number,09/18/2015,01:00,Darragh St & Terrace St,West Oakland,4,20,M
+ARREST,15177636,3925,Receiving Stolen Property.,09/18/2015,01:00,Darragh St & Terrace St,West Oakland,4,20,M
+ARREST,15177636,2902,Unlawful Restraint.,09/18/2015,01:00,Darragh St & Terrace St,West Oakland,4,20,M
+ARREST,15177636,2702,Aggravated Assault.,09/18/2015,01:00,Darragh St & Terrace St,West Oakland,4,20,M
+ARREST,15177636,13(a)(16),Possession of Controlled Substance,09/18/2015,04:48,Darragh St & Terrace St,West Oakland,4,19,M
+ARREST,15177636,13(a)(32),Paraphernalia - Use or Possession,09/18/2015,04:48,Darragh St & Terrace St,West Oakland,4,19,M
+OFFENSE 2.0,15177971,3934,Theft from Vehicle,09/18/2015,06:00,900 block Milton St,Regent Square,4,,
+OFFENSE 2.0,15177969,3934,Theft from Vehicle,09/18/2015,07:30,6600 block Woodwell St,Squirrel Hill North,4,,
+OFFENSE 2.0,15177782,3745,Accidents Involving Damage to Unattended Veh.or Prop.,09/18/2015,07:30,4300 block Saline St,Squirrel Hill South,4,,
+OFFENSE 2.0,15177135,602.04(b)(2),Aggressive Panhandling,09/18/2015,09:30,4500 block 5th Ave,North Oakland,4,,
+OFFENSE 2.0,15177986,9496,Dead on Arrival (DOA),09/18/2015,13:08,5400 block Fredanna St,Lincoln Place,4,,
+OFFENSE 2.0,15177650,9502,Police Pursuit,09/18/2015,01:05,Brushton Ave & Frankstown Ave,Homewood South,5,,
+ARREST,15177458,2702,Aggravated Assault.,09/18/2015,02:20,N Lang Ave & Upland St,Homewood North,5,32,M
+OFFENSE 2.0,15177865,3934,Theft from Vehicle,09/18/2015,07:10,7800 block Susquehanna St,Homewood South,5,,
+OFFENSE 2.0,15177853,029,Missing Juvenile,09/18/2015,07:30,300 block Mayflower St,Larimer,5,,
+OFFENSE 2.0,15177785,9999,9999 - (Misc. Incident): ,09/18/2015,07:49,7300 block Idlewild St,Homewood North,5,,
+OFFENSE 2.0,15177812,3921,Theft by Unlawful Taking or Disposition.,09/18/2015,07:50,800 block Farragut St,Highland Park,5,,
+OFFENSE 2.0,15177917,9488,False  Burglar Alarm,09/18/2015,11:19,3000 block Fadette St,Ridgemont,5,,
+OFFENSE 2.0,15177928,029,Missing Juvenile,09/18/2015,11:35,1300 block Paulson Ave,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15178280,2904,Interference with Custody of Children.,09/18/2015,15:00,1700 block Laporte Ave,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15178087,2709,Harassment (Non-Specific),09/18/2015,15:00,500 block Haverhill St,East Hills,5,,
+OFFENSE 2.0,15178302,029,Missing Juvenile,09/18/2015,15:30,900 block N Negley Ave,Highland Park,5,,
+ARREST,15178095,5505,Public Drunkenness,09/18/2015,15:49,4800 block Friendship Ave,Bloomfield,5,49,F
+ARREST,15178095,5503,Disorderly Conduct.,09/18/2015,15:49,4800 block Friendship Ave,Bloomfield,5,49,F
+ARREST,15178095,2706,Terroristic Threats.,09/18/2015,15:49,4800 block Friendship Ave,Bloomfield,5,49,F
+OFFENSE 2.0,15178095,5505,Public Drunkenness,09/18/2015,15:49,4800 block Friendship Ave,Bloomfield,5,,
+OFFENSE 2.0,15178095,5503,Disorderly Conduct.,09/18/2015,15:49,4800 block Friendship Ave,Bloomfield,5,,
+OFFENSE 2.0,15178095,2706,Terroristic Threats.,09/18/2015,15:49,4800 block Friendship Ave,Bloomfield,5,,
+OFFENSE 2.0,15178095,2702,Aggravated Assault.,09/18/2015,15:49,4800 block Friendship Ave,Bloomfield,5,,
+ARREST,15178095,2702,Aggravated Assault.,09/18/2015,15:49,4800 block Friendship Ave,Bloomfield,5,49,F
+OFFENSE 2.0,15178114,2701,Simple Assault.,09/18/2015,15:50,7400 block Monticello St,Homewood North,5,,
+OFFENSE 2.0,15178114,2706,Terroristic Threats.,09/18/2015,15:50,7400 block Monticello St,Homewood North,5,,
+OFFENSE 2.0,15178186,3304,Criminal Mischief.,09/18/2015,16:00,7200 block Formosa Way,Homewood South,5,,
+OFFENSE 2.0,15178168,3926.C1,THEFT OF SERVICES,09/18/2015,16:48,1600 block Duffield St,Morningside,5,,
+OFFENSE 2.0,15178339,3922,Theft by Deception.,09/18/2015,16:54,5500 block Centre Ave,Friendship,5,,
+OFFENSE 2.0,15178254,13(a)(32),Paraphernalia - Use or Possession,09/18/2015,18:32,4500 block Panama Way,Bloomfield,5,,
+ARREST,15178254,13(a)(32),Paraphernalia - Use or Possession,09/18/2015,18:35,4500 block Panama Way,Bloomfield,5,35,M
+OFFENSE 2.0,15178344,3743,Accidents Involving Damage to Attended Veh. or Property,09/18/2015,20:50,900 block Freeport Rd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15178364,029,Missing Juvenile,09/18/2015,21:00,900 block N Negley Ave,Highland Park,5,,
+OFFENSE 2.0,15178434,1301,Registration and Certificate of Title Required.,09/18/2015,23:35,Oakwood St & Inglenook Pl,Homewood South,5,,
+OFFENSE 2.0,15178434,1501,Drivers Required to be Licensed.,09/18/2015,23:35,Oakwood St & Inglenook Pl,Homewood South,5,,
+OFFENSE 2.0,15178434,1786,Required Financial Responsibility.,09/18/2015,23:35,Oakwood St & Inglenook Pl,Homewood South,5,,
+OFFENSE 2.0,15178434,3112,Traffic-Control Signals.,09/18/2015,23:35,Oakwood St & Inglenook Pl,Homewood South,5,,
+OFFENSE 2.0,15178434,3303,Overtaking Vehicle on the Left.,09/18/2015,23:35,Oakwood St & Inglenook Pl,Homewood South,5,,
+OFFENSE 2.0,15178434,3310,Following Too Closely.,09/18/2015,23:35,Oakwood St & Inglenook Pl,Homewood South,5,,
+OFFENSE 2.0,15178434,3323,Stop Signs and Yield Signs.,09/18/2015,23:35,Oakwood St & Inglenook Pl,Homewood South,5,,
+OFFENSE 2.0,15178434,3334,Turning Movements and Required Signals.,09/18/2015,23:35,Oakwood St & Inglenook Pl,Homewood South,5,,
+OFFENSE 2.0,15178434,3361, Driving Vehicle at Safe Speed.,09/18/2015,23:35,Oakwood St & Inglenook Pl,Homewood South,5,,
+OFFENSE 2.0,15178434,3733,Fleeing or Attempting to Elude Police Officer,09/18/2015,23:35,Oakwood St & Inglenook Pl,Homewood South,5,,
+OFFENSE 2.0,15178434,3736,Reckless Driving,09/18/2015,23:35,Oakwood St & Inglenook Pl,Homewood South,5,,
+ARREST,15178434,1301,Registration and Certificate of Title Required.,09/18/2015,23:35,Oakwood St & Inglenook Pl,Homewood South,5,26,M
+ARREST,15178434,1501,Drivers Required to be Licensed.,09/18/2015,23:35,Oakwood St & Inglenook Pl,Homewood South,5,26,M
+ARREST,15178434,1786,Required Financial Responsibility.,09/18/2015,23:35,Oakwood St & Inglenook Pl,Homewood South,5,26,M
+ARREST,15178434,3112,Traffic-Control Signals.,09/18/2015,23:35,Oakwood St & Inglenook Pl,Homewood South,5,26,M
+ARREST,15178434,3303,Overtaking Vehicle on the Left.,09/18/2015,23:35,Oakwood St & Inglenook Pl,Homewood South,5,26,M
+ARREST,15178434,3310,Following Too Closely.,09/18/2015,23:35,Oakwood St & Inglenook Pl,Homewood South,5,26,M
+ARREST,15178434,3323,Stop Signs and Yield Signs.,09/18/2015,23:35,Oakwood St & Inglenook Pl,Homewood South,5,26,M
+ARREST,15178434,3334,Turning Movements and Required Signals.,09/18/2015,23:35,Oakwood St & Inglenook Pl,Homewood South,5,26,M
+ARREST,15178434,3361, Driving Vehicle at Safe Speed.,09/18/2015,23:35,Oakwood St & Inglenook Pl,Homewood South,5,26,M
+ARREST,15178434,3733,Fleeing or Attempting to Elude Police Officer,09/18/2015,23:35,Oakwood St & Inglenook Pl,Homewood South,5,26,M
+ARREST,15178434,3736,Reckless Driving,09/18/2015,23:35,Oakwood St & Inglenook Pl,Homewood South,5,26,M
+OFFENSE 2.0,15177635,2701,Simple Assault.,09/18/2015,00:30,3100 block Ashlyn St,Sheraden,6,,
+OFFENSE 2.0,15177637,9999,9999 - (Misc. Incident): juvenile reported missing (entered in NCIC by East Pittsburgh),09/18/2015,00:45,200 block Hollywood St,Crafton Heights,6,,
+OFFENSE 2.0,15177647,9488,False  Burglar Alarm,09/18/2015,00:52,2600 block West Liberty Ave,Brookline,6,,
+OFFENSE 2.0,15177715,2701,Simple Assault.,09/18/2015,03:28,800 block Woodlow St,Crafton Heights,6,,
+ARREST,15177715,2701,Simple Assault.,09/18/2015,03:48,800 block Woodlow St,Crafton Heights,6,25,M
+OFFENSE 2.0,15178097,3304,Criminal Mischief.,09/18/2015,06:00,2400 block Woodward Ave,Brookline,6,,
+OFFENSE 2.0,15177801,3934,Theft from Vehicle,09/18/2015,06:30,900 block Norwich Ave,Brookline,6,,
+OFFENSE 2.0,15177784,3934,Theft from Vehicle,09/18/2015,07:15,900 block Fordham St,Brookline,6,,
+OFFENSE 2.0,15177892,3745,Accidents Involving Damage to Unattended Veh.or Prop.,09/18/2015,09:00,1000 block Fordham St,Brookline,6,,
+OFFENSE 2.0,15178002,3743,Accidents Involving Damage to Attended Veh. or Property,09/18/2015,12:45,West End Cir & Steuben St,West End,6,,
+ARREST,15178067,13(a)(16),Possession of Controlled Substance,09/18/2015,14:39,Sheraden Blvd & Sherwood Ave,Sheraden,6,27,M
+ARREST,15178067,13(a)(32),Paraphernalia - Use or Possession,09/18/2015,14:39,Sheraden Blvd & Sherwood Ave,Sheraden,6,27,M
+OFFENSE 2.0,15178067,13(a)(32),Paraphernalia - Use or Possession,09/18/2015,14:40,Sheraden Blvd & Sherwood Ave,Sheraden,6,,
+OFFENSE 2.0,15178067,13(a)(16),Possession of Controlled Substance,09/18/2015,14:40,Sheraden Blvd & Sherwood Ave,Sheraden,6,,
+OFFENSE 2.0,15178140,3745,Accidents Involving Damage to Unattended Veh.or Prop.,09/18/2015,16:23,2600 block Pioneer Ave,Brookline,6,,
+ARREST,15178181,13(a)(16),Possession of Controlled Substance,09/18/2015,17:09,Mc Knight St & Greentree Rd,West End,6,27,M
+ARREST,15178181,13(a)(32),Paraphernalia - Use or Possession,09/18/2015,17:09,Mc Knight St & Greentree Rd,West End,6,27,M
+OFFENSE 2.0,15178194,2709(a)(3),Harassment No Legitimate Purpose,09/18/2015,17:15,1300 block Colescott St,Westwood,6,,
+OFFENSE 2.0,15178181,13(a)(16),Possession of Controlled Substance,09/18/2015,17:45,Mc Knight St & Greentree Rd,West End,6,,
+OFFENSE 2.0,15178181,13(a)(32),Paraphernalia - Use or Possession,09/18/2015,17:45,Mc Knight St & Greentree Rd,West End,6,,
+OFFENSE 2.0,15178235,3304,Criminal Mischief.,09/18/2015,18:05,3200 block Huxley St,Sheraden,6,,
+OFFENSE 2.0,15178235,2701,Simple Assault.,09/18/2015,18:05,3200 block Huxley St,Sheraden,6,,
+OFFENSE 2.0,15178297,9488,False  Burglar Alarm,09/18/2015,19:51,500 block Berkshire Ave,Brookline,6,,
+ARREST,15064776,3928,Unauthorized Use of Automobile and Other Vehicles.,09/18/2015,09:30,Rockview Pl,East Allegheny,OSC,44,M
+OFFENSE 2.0,15178121,9999,9999 - (Misc. Incident): Recover stolen vehicle outside,09/18/2015,16:00,1600 block E High St,Outside County,OSC,,
