@@ -1,0 +1,201 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,15201109,9488,False  Burglar Alarm,10/20/2015,01:00,3800 block Perrysville Ave,Perry North,1,,
+OFFENSE 2.0,15201176,3714,Careless Driving,10/20/2015,01:02,W Burgess St & Wilson Ave,Perry South,1,,
+OFFENSE 2.0,15201176,4914,False Identification to Law Enforcement Authorities,10/20/2015,01:02,W Burgess St & Wilson Ave,Perry South,1,,
+OFFENSE 2.0,15201176,3334,Turning Movements and Required Signals.,10/20/2015,01:02,W Burgess St & Wilson Ave,Perry South,1,,
+OFFENSE 2.0,15201176,1543,Driving While Operating Privilege is Suspended or Revoked.,10/20/2015,01:02,W Burgess St & Wilson Ave,Perry South,1,,
+ARREST,15201176,4914,False Identification to Law Enforcement Authorities,10/20/2015,01:02,W Burgess St & Wilson Ave,Perry South,1,25,F
+ARREST,15201176,3714,Careless Driving,10/20/2015,01:02,W Burgess St & Wilson Ave,Perry South,1,25,F
+ARREST,15201176,3334,Turning Movements and Required Signals.,10/20/2015,01:02,W Burgess St & Wilson Ave,Perry South,1,25,F
+ARREST,15201176,1543,Driving While Operating Privilege is Suspended or Revoked.,10/20/2015,01:02,W Burgess St & Wilson Ave,Perry South,1,25,F
+ARREST,15201209,9501,Bench Warrant,10/20/2015,01:46,James St & E North Ave,Central Northside,1,30,F
+OFFENSE 2.0,15201209,9501,Bench Warrant,10/20/2015,01:46,James St & E North Ave,Central Northside,1,,
+OFFENSE 2.0,15201261,2709,Harassment (Non-Specific),10/20/2015,03:38,300 block Cedar Ave,East Allegheny,1,,
+OFFENSE 2.0,15201261,2701,Simple Assault.,10/20/2015,03:38,300 block Cedar Ave,East Allegheny,1,,
+OFFENSE 2.0,15201317,9488,False  Burglar Alarm,10/20/2015,08:24,700 block West Commons,Allegheny Center,1,,
+OFFENSE 2.0,15201373,13(a)(32),Paraphernalia - Use or Possession,10/20/2015,09:30,Boyle St & Hemlock St,Central Northside,1,,
+ARREST,15201373,13(a)(32),Paraphernalia - Use or Possession,10/20/2015,09:30,Boyle St & Hemlock St,Central Northside,1,35,F
+OFFENSE 2.0,15201453,2709,Harassment (Non-Specific),10/20/2015,10:00,600 block Chester Ave,Perry South,1,,
+OFFENSE 2.0,15200450,9488,False  Burglar Alarm,10/20/2015,12:00,1400 block Juniata St,Manchester,1,,
+OFFENSE 2.0,15201512,2709.A1,HARASSMENT SUBJECT OTHER TO PHYSICAL CONTACT,10/20/2015,13:00,3300 block Preble Ave,Chateau,1,,
+OFFENSE 2.0,15201465,9497,Aided Case,10/20/2015,13:10,400 block N Taylor Ave,Central Northside,1,,
+OFFENSE 2.0,15201507,13(a)(16),Possession of Controlled Substance,10/20/2015,13:20,E North Ave,Allegheny Center,1,,
+OFFENSE 2.0,15201507,13(a)(32),Paraphernalia - Use or Possession,10/20/2015,13:20,E North Ave,Allegheny Center,1,,
+ARREST,15201507,13(a)(16),Possession of Controlled Substance,10/20/2015,13:30,E North Ave,Allegheny Center,1,29,M
+ARREST,15201507,13(a)(32),Paraphernalia - Use or Possession,10/20/2015,13:30,E North Ave,Allegheny Center,1,29,M
+OFFENSE 2.0,15201520,9488,False  Burglar Alarm,10/20/2015,13:52,1200 block Sheffield St,Manchester,1,,
+ARREST,15201594,13(a)(30)*,Delivery of Controlled Substance,10/20/2015,16:05,400 block Avery St,East Allegheny,1,20,M
+ARREST,15201594,903,Criminal Conspiracy.,10/20/2015,16:05,400 block Avery St,East Allegheny,1,20,M
+ARREST,15201594,7512,Criminal Use of Communication,10/20/2015,16:05,400 block Avery St,East Allegheny,1,20,M
+ARREST,15201594,13(a)(30),Possession w/ Intent to Del. Controlled Substance,10/20/2015,16:05,400 block Avery St,East Allegheny,1,20,M
+ARREST,15201594,13(a)(16),Possession of Controlled Substance,10/20/2015,16:05,400 block Avery St,East Allegheny,1,20,M
+OFFENSE 2.0,15201594,903,Criminal Conspiracy.,10/20/2015,16:05,400 block Avery St,East Allegheny,1,,
+OFFENSE 2.0,15201594,7512,Criminal Use of Communication,10/20/2015,16:05,400 block Avery St,East Allegheny,1,,
+OFFENSE 2.0,15201594,13(a)(31),Marijuana: Possession Small Amount,10/20/2015,16:05,400 block Avery St,East Allegheny,1,,
+OFFENSE 2.0,15201594,13(a)(30)*,Delivery of Controlled Substance,10/20/2015,16:05,400 block Avery St,East Allegheny,1,,
+OFFENSE 2.0,15201594,13(a)(30),Possession w/ Intent to Del. Controlled Substance,10/20/2015,16:05,400 block Avery St,East Allegheny,1,,
+OFFENSE 2.0,15201594,13(a)(16),Possession of Controlled Substance,10/20/2015,16:05,400 block Avery St,East Allegheny,1,,
+ARREST,15201594,13(a)(30),Possession w/ Intent to Del. Controlled Substance,10/20/2015,16:05,400 block Avery St,East Allegheny,1,18,M
+ARREST,15201594,13(a)(16),Possession of Controlled Substance,10/20/2015,16:05,400 block Avery St,East Allegheny,1,18,M
+OFFENSE 2.0,15201600,5507,Obstructing Highways and Passages.,10/20/2015,16:16,East St & East Ohio St,East Allegheny,1,,
+ARREST,15201600,5507,Obstructing Highways and Passages.,10/20/2015,16:16,East St & East Ohio St,East Allegheny,1,53,M
+ARREST,15126984,9015,Failure To Appear/Arrest on Attachment Order,10/20/2015,16:16,East St & East Ohio St,East Allegheny,1,53,M
+OFFENSE 2.0,15201772,4304(a)(1),Endangering Welfare of Children.,10/20/2015,19:47,300 block N Taylor Ave,Central Northside,1,,
+OFFENSE 2.0,15201772,2701,Simple Assault.,10/20/2015,19:47,300 block N Taylor Ave,Central Northside,1,,
+OFFENSE 2.0,15201772,2705,Recklessly Endangering Another Person.,10/20/2015,19:47,300 block N Taylor Ave,Central Northside,1,,
+ARREST,15201594,7512,Criminal Use of Communication,10/20/2015,20:07,400 block Avery St,East Allegheny,1,20,M
+ARREST,15201594,13(a)(31),Marijuana: Possession Small Amount,10/20/2015,20:07,400 block Avery St,East Allegheny,1,20,M
+ARREST,15201594,13(a)(30)*,Delivery of Controlled Substance,10/20/2015,20:07,400 block Avery St,East Allegheny,1,20,M
+ARREST,15201594,13(a)(30),Possession w/ Intent to Del. Controlled Substance,10/20/2015,20:07,400 block Avery St,East Allegheny,1,20,M
+ARREST,15201594,13(a)(16),Possession of Controlled Substance,10/20/2015,20:07,400 block Avery St,East Allegheny,1,20,M
+ARREST,15201594,903,Criminal Conspiracy.,10/20/2015,20:07,400 block Avery St,East Allegheny,1,20,M
+OFFENSE 2.0,15201801,3802(d)(2),DUI - Drug - Impaired Ability,10/20/2015,20:22,1200 block Marshall Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,15201801,3802(a)(1),DUI - General Impairment,10/20/2015,20:22,1200 block Marshall Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,15201798,3304,Criminal Mischief.,10/20/2015,21:05,800 block Allegheny Ave,Chateau,1,,
+ARREST,15201834,13(a)(30),Possession w/ Intent to Del. Controlled Substance,10/20/2015,21:28,Stayton St & Brighton Rd,Marshall-Shadeland,1,46,M
+ARREST,15201834,907,Possessing Instruments of Crime.,10/20/2015,21:28,Stayton St & Brighton Rd,Marshall-Shadeland,1,46,M
+OFFENSE 2.0,15201834,13(a)(16),Possession of Controlled Substance,10/20/2015,21:28,Stayton St & Brighton Rd,Marshall-Shadeland,1,,
+OFFENSE 2.0,15201834,13(a)(30),Possession w/ Intent to Del. Controlled Substance,10/20/2015,21:28,Stayton St & Brighton Rd,Marshall-Shadeland,1,,
+OFFENSE 2.0,15201834,907,Possessing Instruments of Crime.,10/20/2015,21:28,Stayton St & Brighton Rd,Marshall-Shadeland,1,,
+ARREST,15201834,13(a)(16),Possession of Controlled Substance,10/20/2015,21:28,Stayton St & Brighton Rd,Marshall-Shadeland,1,46,M
+ARREST,15163468,9015,Failure To Appear/Arrest on Attachment Order,10/20/2015,23:23,East Ohio St & Middle St,East Allegheny,1,37,F
+OFFENSE 2.0,15201348,3743,Accidents Involving Damage to Attended Veh. or Property,10/20/2015,08:30,400 block 6th Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15201412,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,10/20/2015,10:45,100 block Forbes Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15201602,3502,Burglary.,10/20/2015,12:20,3300 block Webster Ave,Upper Hill,2,,
+OFFENSE 2.0,15201621,3921,Theft by Unlawful Taking or Disposition.,10/20/2015,13:00,300 block Wood St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15201418,13(a)(16),Possession of Controlled Substance,10/20/2015,13:30,40th St & Butler St,Lower Lawrenceville,2,,
+OFFENSE 2.0,15201418,6106,Firearms not to be Carried without a License.,10/20/2015,13:30,40th St & Butler St,Lower Lawrenceville,2,,
+OFFENSE 2.0,15201418,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),10/20/2015,13:30,40th St & Butler St,Lower Lawrenceville,2,,
+ARREST,15201412,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,10/20/2015,13:48,100 block Forbes Ave,Golden Triangle/Civic Arena,2,46,M
+ARREST,15177940,3929,Retail Theft.,10/20/2015,14:03,100 block Forbes Ave,Golden Triangle/Civic Arena,2,46,M
+ARREST,15152314,9015,Failure To Appear/Arrest on Attachment Order,10/20/2015,14:08,100 block Forbes Ave,East Allegheny,2,46,M
+ARREST,15137859,2709,Harassment (Non-Specific),10/20/2015,14:30,600 block 1st Ave,Golden Triangle/Civic Arena,2,67,M
+ARREST,15201418,6106,Firearms not to be Carried without a License.,10/20/2015,15:05,40th St & Butler St,Lower Lawrenceville,2,24,M
+ARREST,15201418,13(a)(16),Possession of Controlled Substance,10/20/2015,15:05,40th St & Butler St,Lower Lawrenceville,2,24,M
+ARREST,15201418,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),10/20/2015,15:05,40th St & Butler St,Lower Lawrenceville,2,24,M
+OFFENSE 2.0,15201601,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,10/20/2015,15:43,100 block Forbes Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15201577,3701,Robbery.,10/20/2015,15:46,500 block Grant St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15201634,9501,Bench Warrant,10/20/2015,16:56,300 block Blvd Of The Allies,Golden Triangle/Civic Arena,2,,
+ARREST,15201634,9501,Bench Warrant,10/20/2015,16:56,300 block Blvd Of The Allies,Golden Triangle/Civic Arena,2,32,F
+OFFENSE 2.0,15201765,3304,Criminal Mischief.,10/20/2015,17:25,400 block Cherry Way,Golden Triangle/Civic Arena,2,,
+ARREST,15201663,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),10/20/2015,17:35,Finland St & Milwaukee St,Upper Hill,2,23,M
+ARREST,15201663,6106,Firearms not to be Carried without a License.,10/20/2015,17:35,Finland St & Milwaukee St,Upper Hill,2,23,M
+ARREST,15201663,4914,False Identification to Law Enforcement Authorities,10/20/2015,17:35,Finland St & Milwaukee St,Upper Hill,2,23,M
+ARREST,15201663,4303,General Lighting Requirements.,10/20/2015,17:35,Finland St & Milwaukee St,Upper Hill,2,23,M
+ARREST,15201663,1543,Driving While Operating Privilege is Suspended or Revoked.,10/20/2015,17:35,Finland St & Milwaukee St,Upper Hill,2,23,M
+OFFENSE 2.0,15201663,1543,Driving While Operating Privilege is Suspended or Revoked.,10/20/2015,17:35,Finland St & Milwaukee St,Upper Hill,2,,
+OFFENSE 2.0,15201663,4303,General Lighting Requirements.,10/20/2015,17:35,Finland St & Milwaukee St,Upper Hill,2,,
+OFFENSE 2.0,15201663,4914,False Identification to Law Enforcement Authorities,10/20/2015,17:35,Finland St & Milwaukee St,Upper Hill,2,,
+OFFENSE 2.0,15201663,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),10/20/2015,17:35,Finland St & Milwaukee St,Upper Hill,2,,
+OFFENSE 2.0,15201663,6106,Firearms not to be Carried without a License.,10/20/2015,17:35,Finland St & Milwaukee St,Upper Hill,2,,
+OFFENSE 2.0,15201694,3301,Arson ,10/20/2015,17:36,3300 block Webster Ave,Upper Hill,2,,
+ARREST,15166563,13(a)(16),Possession of Controlled Substance,10/20/2015,18:30,900 block Second Ave,Elliott,2,25,M
+ARREST,15166563,13(a)(32),Paraphernalia - Use or Possession,10/20/2015,18:30,900 block Second Ave,Elliott,2,25,M
+ARREST,15166563,1543,Driving While Operating Privilege is Suspended or Revoked.,10/20/2015,18:30,900 block Second Ave,Elliott,2,25,M
+ARREST,15166563,4703,Operation of Vehicle without Official Certif. of Inspection,10/20/2015,18:30,900 block Second Ave,Elliott,2,25,M
+ARREST,15195919,4304(a)(1),Endangering Welfare of Children.,10/20/2015,18:34,600 block fIRST Ave,Golden Triangle/Civic Arena,2,47,M
+ARREST,15195919,2701(b)(2),Simple Assault -  Child Under 12 / Adult 21 Or Older,10/20/2015,18:34,600 block fIRST Ave,Golden Triangle/Civic Arena,2,47,M
+OFFENSE 2.0,15195919,2701(b)(2),Simple Assault -  Child Under 12 / Adult 21 Or Older,10/20/2015,18:38,600 block fIRST Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15195919,4304(a)(1),Endangering Welfare of Children.,10/20/2015,18:38,600 block fIRST Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15201778,3921(a),Theft by Unlawful Taking or Disposition - Movable item,10/20/2015,18:45,2600 block Centre Ave,Middle Hill,2,,
+OFFENSE 2.0,15201802,3304,Criminal Mischief.,10/20/2015,19:25,200 block Burrows St,Terrace Village,2,,
+OFFENSE 2.0,15201876,3735.1,Aggravated Assault While DUI,10/20/2015,22:30,Centre Ave & Washington Pl,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15201585,2709(a),Harassment.,10/20/2015,00:01,1800 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,15201262,3503,Criminal Trespass,10/20/2015,03:40,100 block Fernleaf St,Arlington,3,,
+OFFENSE 2.0,15201342,3502,Burglary.,10/20/2015,06:00,400 block Bradley St,Duquesne Heights,3,,
+OFFENSE 2.0,15201327,3502,Burglary.,10/20/2015,06:00,400 block Bradley St,Duquesne Heights,3,,
+OFFENSE 2.0,15201344,9496,Dead on Arrival (DOA),10/20/2015,08:44,400 block Meritt Ave,Overbrook,3,,
+OFFENSE 2.0,15201557,3928,Unauthorized Use of Automobile and Other Vehicles.,10/20/2015,15:15,400 block Sunnyland Ave,Overbrook,3,,
+OFFENSE 2.0,15201567,9123,Miscellaneous Fire Other Investigation to Continue,10/20/2015,15:26,E Sycamore St,Mount Washington,3,,
+OFFENSE 2.0,15201633,3502,Burglary.,10/20/2015,16:50,900 block Climax St,Allentown,3,,
+OFFENSE 2.0,15201642,3502,Burglary.,10/20/2015,17:00,Sharon St,South Side Slopes,3,,
+OFFENSE 2.0,15201716,13(a)(32),Paraphernalia - Use or Possession,10/20/2015,18:17,100 block Linnview Ave,Carrick,3,,
+OFFENSE 2.0,15201716,13(a)(16),Possession of Controlled Substance,10/20/2015,18:17,100 block Linnview Ave,Carrick,3,,
+ARREST,15201716,13(a)(32),Paraphernalia - Use or Possession,10/20/2015,19:00,100 block Linnview Ave,Carrick,3,26,M
+ARREST,15201716,13(a)(32),Paraphernalia - Use or Possession,10/20/2015,19:00,100 block Linnview Ave,Carrick,3,33,M
+ARREST,15201716,13(a)(16),Possession of Controlled Substance,10/20/2015,19:00,100 block Linnview Ave,Carrick,3,33,M
+ARREST,15201716,13(a)(16),Possession of Controlled Substance,10/20/2015,19:00,100 block Linnview Ave,Carrick,3,26,M
+ARREST,15201782,9501,Bench Warrant,10/20/2015,19:34,2600 block S 18th St,South Side Slopes,3,25,M
+ARREST,15201782,9501,Bench Warrant,10/20/2015,19:34,2600 block S 18th St,South Side Slopes,3,23,F
+ARREST,15201782,13(a)(32),Paraphernalia - Use or Possession,10/20/2015,19:34,2600 block S 18th St,South Side Slopes,3,25,M
+OFFENSE 2.0,15201789,9999,9999 - (Misc. Incident): suspicious person,10/20/2015,20:00,200 block Parkfield St,Carrick,3,,
+ARREST,15198199,1786,Required Financial Responsibility.,10/20/2015,20:45,500 block Becks Run Rd,Golden Triangle/Civic Arena,3,23,M
+ARREST,15198199,3743,Accidents Involving Damage to Attended Veh. or Property,10/20/2015,20:45,500 block Becks Run Rd,Golden Triangle/Civic Arena,3,23,M
+ARREST,15201823,4910,Tampering with or Fabricating Physical Evidence.,10/20/2015,21:07,900 block Industry St,Allentown,3,21,M
+ARREST,15201823,5123,Contraband.,10/20/2015,21:07,900 block Industry St,Allentown,3,21,M
+ARREST,15201823,5506,Loitering and Prowling at Night,10/20/2015,21:07,900 block Industry St,Allentown,3,21,M
+OFFENSE 2.0,15201823,13(a)(16),Possession of Controlled Substance,10/20/2015,21:07,900 block Industry St,Allentown,3,,
+OFFENSE 2.0,15201823,13(a)(32),Paraphernalia - Use or Possession,10/20/2015,21:07,900 block Industry St,Allentown,3,,
+ARREST,15201823,3503(b)(1)(iii),Defiant Trespass - Fencing or Other Enclosure,10/20/2015,21:07,900 block Industry St,Allentown,3,21,M
+ARREST,15201823,13(a)(32),Paraphernalia - Use or Possession,10/20/2015,21:07,900 block Industry St,Allentown,3,21,M
+ARREST,15201823,13(a)(16),Possession of Controlled Substance,10/20/2015,21:07,900 block Industry St,Allentown,3,21,M
+OFFENSE 2.0,15201823,5123,Contraband.,10/20/2015,21:07,900 block Industry St,Allentown,3,,
+OFFENSE 2.0,15201823,4910,Tampering with or Fabricating Physical Evidence.,10/20/2015,21:07,900 block Industry St,Allentown,3,,
+OFFENSE 2.0,15201823,3503(b)(1)(iii),Defiant Trespass - Fencing or Other Enclosure,10/20/2015,21:07,900 block Industry St,Allentown,3,,
+OFFENSE 2.0,15201823,5506,Loitering and Prowling at Night,10/20/2015,21:07,900 block Industry St,Allentown,3,,
+ARREST,15201144,4303,General Lighting Requirements.,10/20/2015,00:01,Bates St,South Oakland,4,22,F
+ARREST,15201144,4910,Tampering with or Fabricating Physical Evidence.,10/20/2015,00:01,Bates St,South Oakland,4,28,M
+ARREST,15201144,13(a)(31),Marijuana: Possession Small Amount,10/20/2015,00:01,Bates St,South Oakland,4,28,M
+ARREST,15201144,908,Prohibited Offensive Weapons.,10/20/2015,00:01,Bates St,South Oakland,4,22,F
+ARREST,15201144,13(a)(32),Paraphernalia - Use or Possession,10/20/2015,00:01,Bates St,South Oakland,4,22,F
+ARREST,15201038,2706,Terroristic Threats.,10/20/2015,00:55,5100 block 2nd Ave,Hazelwood,4,17,M
+ARREST,15201038,2702,Aggravated Assault.,10/20/2015,00:55,5100 block 2nd Ave,Hazelwood,4,17,M
+OFFENSE 2.0,15201565,9504,Lost Property,10/20/2015,07:00,3600 block Blvd Of The Allies,Central Oakland,4,,
+OFFENSE 2.0,15201396,9497,Aided Case,10/20/2015,09:42,5800 block Forbes Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,15201456,3304,Criminal Mischief.,10/20/2015,12:00,500 block S Richland St,Point Breeze,4,,
+OFFENSE 2.0,15201638,3922,Theft by Deception.,10/20/2015,14:20,100 block Atwood St,Central Oakland,4,,
+OFFENSE 2.0,15201678,3745,Accidents Involving Damage to Unattended Veh.or Prop.,10/20/2015,17:30,500 block East End Ave,Point Breeze,4,,
+ARREST,15201688,13(a)(16),Possession of Controlled Substance,10/20/2015,18:00,Penn Ave & East End Ave,Point Breeze North,4,31,F
+ARREST,15201688,13(a)(32),Paraphernalia - Use or Possession,10/20/2015,18:00,Penn Ave & East End Ave,Point Breeze North,4,22,F
+ARREST,15201688,13(a)(32),Paraphernalia - Use or Possession,10/20/2015,18:00,Penn Ave & East End Ave,Point Breeze North,4,31,F
+ARREST,15201688,9501,Bench Warrant,10/20/2015,18:00,Penn Ave & East End Ave,Point Breeze North,4,30,M
+ARREST,15201688,9501,Bench Warrant,10/20/2015,18:00,Penn Ave & East End Ave,Point Breeze North,4,32,M
+OFFENSE 2.0,15201688,9501,Bench Warrant,10/20/2015,18:05,Penn Ave & East End Ave,Point Breeze North,4,,
+OFFENSE 2.0,15201688,13(a)(32),Paraphernalia - Use or Possession,10/20/2015,18:05,Penn Ave & East End Ave,Point Breeze North,4,,
+OFFENSE 2.0,15201688,13(a)(16),Possession of Controlled Substance,10/20/2015,18:05,Penn Ave & East End Ave,Point Breeze North,4,,
+OFFENSE 2.0,15201771,9999,9999 - (Misc. Incident): Put Down Injured Deer,10/20/2015,19:43,600 block Mifflin Rd,New Homestead,4,,
+OFFENSE 2.0,15201780,2701,Simple Assault.,10/20/2015,00:10,100 block N.St.Clair St,East Liberty,5,,
+OFFENSE 2.0,15201157,2701,Simple Assault.,10/20/2015,00:21,300 block N Euclid Ave,East Liberty,5,,
+ARREST,15201157,2701,Simple Assault.,10/20/2015,00:49,300 block N Euclid Ave,East Liberty,5,42,M
+OFFENSE 2.0,15201258,2701,Simple Assault.,10/20/2015,03:24,2300 block Park Hill Dr,East Hills,5,,
+ARREST,15201258,2701,Simple Assault.,10/20/2015,03:30,2300 block Park Hill Dr,East Hills,5,35,M
+OFFENSE 2.0,15201320,3745,Accidents Involving Damage to Unattended Veh.or Prop.,10/20/2015,07:45,5500 block Avondale Pl,Highland Park,5,,
+OFFENSE 2.0,15201366,3304,Criminal Mischief.,10/20/2015,08:50,500 block Singer Pl,East Hills,5,,
+OFFENSE 2.0,15201358,3745,Accidents Involving Damage to Unattended Veh.or Prop.,10/20/2015,09:01,8200 block Nimick Pl,East Hills,5,,
+OFFENSE 2.0,15201395,3743,Accidents Involving Damage to Attended Veh. or Property,10/20/2015,09:15,N Negley Ave & Stanton Ave,Highland Park,5,,
+OFFENSE 2.0,15201391,9999,9999 - (Misc. Incident): 9999 - (Misc. Incident): Locked garage door opened,10/20/2015,09:30,7300 block Mt Vernon St,Homewood North,5,,
+OFFENSE 2.0,15201599,9498,302 (Mental),10/20/2015,16:17,200 block S Negley Ave,East Liberty,5,,
+ARREST,15186596,3929,Retail Theft.,10/20/2015,16:24,5600 block Baum Blvd,Friendship,5,46,M
+OFFENSE 2.0,15201767,9123,Miscellaneous Fire Other Investigation to Continue,10/20/2015,19:36,6100 block Meadow St,Larimer,5,,
+OFFENSE 2.0,15201773,9999,9999 - (Misc. Incident): ,10/20/2015,20:00,2100 block Park Hill Dr,East Hills,5,,
+OFFENSE 2.0,15201732,3502,Burglary.,10/20/2015,20:00,800 block S Millvale Ave,Bloomfield,5,,
+OFFENSE 2.0,15201732,3921(a),Theft by Unlawful Taking or Disposition - Movable item,10/20/2015,20:00,800 block S Millvale Ave,Bloomfield,5,,
+OFFENSE 2.0,15201845,9999,9999 - (Misc. Incident): ,10/20/2015,21:20,7200 block Idlewild St,Homewood North,5,,
+OFFENSE 2.0,15201235,3702,Robbery of Motor Vehicle.,10/20/2015,01:10,100 block Steuben St,West End,6,,
+OFFENSE 2.0,15201235,3701,Robbery.,10/20/2015,01:10,100 block Steuben St,West End,6,,
+OFFENSE 2.0,15201210,9488,False  Burglar Alarm,10/20/2015,01:46,2200 block Pauline Ave,Beechview,6,,
+OFFENSE 2.0,15201276,13(a)(16),Possession of Controlled Substance,10/20/2015,04:31,800 block Rossmore Ave,Brookline,6,,
+ARREST,15201276,13(a)(16),Possession of Controlled Substance,10/20/2015,04:45,800 block Rossmore Ave,Brookline,6,18,M
+OFFENSE 2.0,15201452,3924,Theft of Property Lost  Mislaid or Delivered by Mistake.,10/20/2015,09:30,Pioneer Ave & Berwin Ave,Brookline,6,,
+OFFENSE 2.0,15201424,2709,Harassment (Non-Specific),10/20/2015,11:00,600 block Hillsboro St,Sheraden,6,,
+OFFENSE 2.0,15201428,2709,Harassment (Non-Specific),10/20/2015,11:00,600 block Hillsboro St,Sheraden,6,,
+ARREST,15201447,13(a)(16),Possession of Controlled Substance,10/20/2015,11:38,Broadhead Fording Rd & Village Rd,Fairywood,6,30,M
+OFFENSE 2.0,15201447,13(a)(32),Paraphernalia - Use or Possession,10/20/2015,11:38,Broadhead Fording Rd & Village Rd,Fairywood,6,,
+OFFENSE 2.0,15201447,13(a)(16),Possession of Controlled Substance,10/20/2015,11:38,Broadhead Fording Rd & Village Rd,Fairywood,6,,
+ARREST,15167259,9015,Failure To Appear/Arrest on Attachment Order,10/20/2015,11:38,Broadhead Fording Rd & Village Rd,Fairywood,6,30,M
+ARREST,15201447,13(a)(32),Paraphernalia - Use or Possession,10/20/2015,11:38,Broadhead Fording Rd & Village Rd,Fairywood,6,30,M
+OFFENSE 2.0,15201572,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,10/20/2015,15:37,Chartiers Ave & Hillsboro St,Sheraden,6,,
+OFFENSE 2.0,15201653,13(a)(32),Paraphernalia - Use or Possession,10/20/2015,17:21,1600 block Summerdale St,Windgap,6,,
+ARREST,15201653,13(a)(32),Paraphernalia - Use or Possession,10/20/2015,17:30,1600 block Summerdale St,Windgap,6,23,M
+OFFENSE 2.0,15201698,9999,9999 - (Misc. Incident): Property Dispute,10/20/2015,18:10,1600 block Suburban Ave,Beechview,6,,
+OFFENSE 2.0,15201754,3714,Careless Driving,10/20/2015,18:43,Wabash St & Mc Cartney St,West End,6,,
+OFFENSE 2.0,15201754,13(a)(32),Paraphernalia - Use or Possession,10/20/2015,18:43,Wabash St & Mc Cartney St,West End,6,,
+OFFENSE 2.0,15201754,1543,Driving While Operating Privilege is Suspended or Revoked.,10/20/2015,18:43,Wabash St & Mc Cartney St,West End,6,,
+OFFENSE 2.0,15201754,3322,Vehicle Turning Left.,10/20/2015,18:43,Wabash St & Mc Cartney St,West End,6,,
+ARREST,15201754,13(a)(32),Paraphernalia - Use or Possession,10/20/2015,19:00,Wabash St & Mc Cartney St,West End,6,28,M
+ARREST,15201754,3714,Careless Driving,10/20/2015,19:00,Wabash St & Mc Cartney St,West End,6,28,M
+ARREST,15201754,3322,Vehicle Turning Left.,10/20/2015,19:00,Wabash St & Mc Cartney St,West End,6,28,M
+ARREST,15201754,1543,Driving While Operating Privilege is Suspended or Revoked.,10/20/2015,19:00,Wabash St & Mc Cartney St,West End,6,28,M
+OFFENSE 2.0,15201335,3925,Receiving Stolen Property.,10/20/2015,08:30,600 block Rodi Rd,Outside City,OSC,,
+ARREST,15201335,3925,Receiving Stolen Property.,10/20/2015,08:35,600 block Rodi Rd,Outside City,OSC,39,F
+ARREST,15157019,9015,Failure To Appear/Arrest on Attachment Order,10/20/2015,11:00,100 block W Cherry Ave,South Side Slopes,OSC,22,F

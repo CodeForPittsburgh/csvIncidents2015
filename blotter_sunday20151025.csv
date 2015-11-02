@@ -1,0 +1,104 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,15204871,2705,Recklessly Endangering Another Person.,10/25/2015,00:21,800 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,15204871,2702,Aggravated Assault.,10/25/2015,00:21,800 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,15204871,2701,Simple Assault.,10/25/2015,00:21,800 block Mt Pleasant Rd,Northview Heights,1,,
+ARREST,15204871,2701,Simple Assault.,10/25/2015,00:23,800 block Mt Pleasant Rd,Northview Heights,1,12,F
+ARREST,15204871,2702,Aggravated Assault.,10/25/2015,00:23,800 block Mt Pleasant Rd,Northview Heights,1,12,F
+ARREST,15204871,2705,Recklessly Endangering Another Person.,10/25/2015,00:23,800 block Mt Pleasant Rd,Northview Heights,1,12,F
+OFFENSE 2.0,15204937,5503,Disorderly Conduct.,10/25/2015,01:51,Allegheny Ave & Western Ave,Manchester,1,,
+OFFENSE 2.0,15204969,3503(b)(1)(iii),Fencing or Enclosure,10/25/2015,02:27,100 block Federal St S,North Shore,1,,
+OFFENSE 2.0,15205135,3502,Burglary.,10/25/2015,10:55,1100 block High St,Spring Garden,1,,
+OFFENSE 2.0,15205197,2701,Simple Assault.,10/25/2015,13:02,300 block Cedar Ave,East Allegheny,1,,
+OFFENSE 2.0,15205197,3929,Retail Theft.,10/25/2015,13:02,300 block Cedar Ave,East Allegheny,1,,
+OFFENSE 2.0,15205197,5503,Disorderly Conduct.,10/25/2015,13:02,300 block Cedar Ave,East Allegheny,1,,
+OFFENSE 2.0,15205197,5505,Public Drunkenness,10/25/2015,13:02,300 block Cedar Ave,East Allegheny,1,,
+ARREST,15205197,5503,Disorderly Conduct.,10/25/2015,13:15,300 block Cedar Ave,East Allegheny,1,34,M
+ARREST,15205197,3929,Retail Theft.,10/25/2015,13:15,300 block Cedar Ave,East Allegheny,1,34,M
+ARREST,15205197,2701,Simple Assault.,10/25/2015,13:15,300 block Cedar Ave,East Allegheny,1,34,M
+ARREST,15205197,5505,Public Drunkenness,10/25/2015,13:15,300 block Cedar Ave,East Allegheny,1,34,M
+OFFENSE 2.0,15205274,3304,Criminal Mischief.,10/25/2015,15:00,700 block Moravian Way,East Allegheny,1,,
+OFFENSE 2.0,15205318,9093,Indirect Criminal Contempt,10/25/2015,16:33,300 block North Shore Dr,North Shore,1,,
+ARREST,15205318,9093,Indirect Criminal Contempt,10/25/2015,16:33,300 block North Shore Dr,North Shore,1,33,F
+OFFENSE 2.0,15205463,2702,Aggravated Assault.,10/25/2015,21:03,800 block Kirkbride St,California-Kirkbride,1,,
+OFFENSE 2.0,15205463,2705,Recklessly Endangering Another Person.,10/25/2015,21:03,800 block Kirkbride St,California-Kirkbride,1,,
+OFFENSE 2.0,15205463,2706,Terroristic Threats.,10/25/2015,21:03,800 block Kirkbride St,California-Kirkbride,1,,
+ARREST,15205463,2705,Recklessly Endangering Another Person.,10/25/2015,21:21,800 block Kirkbride St,California-Kirkbride,1,54,M
+ARREST,15205463,2702,Aggravated Assault.,10/25/2015,21:21,800 block Kirkbride St,California-Kirkbride,1,54,M
+ARREST,15205463,2706,Terroristic Threats.,10/25/2015,21:21,800 block Kirkbride St,California-Kirkbride,1,54,M
+OFFENSE 2.0,15205495,13(a)(16),Possession of Controlled Substance,10/25/2015,22:10,Federal St N & W North Ave,Allegheny Center,1,,
+OFFENSE 2.0,15205495,13(a)(31),Marijuana: Possession Small Amount,10/25/2015,22:10,Federal St N & W North Ave,Allegheny Center,1,,
+OFFENSE 2.0,15205495,13(a)(32),Paraphernalia - Use or Possession,10/25/2015,22:10,Federal St N & W North Ave,Allegheny Center,1,,
+OFFENSE 2.0,15205495,3112,Traffic-Control Signals.,10/25/2015,22:10,Federal St N & W North Ave,Allegheny Center,1,,
+ARREST,15205495,13(a)(31),Marijuana: Possession Small Amount,10/25/2015,22:15,Federal St N & W North Ave,Allegheny Center,1,18,M
+ARREST,15205495,13(a)(32),Paraphernalia - Use or Possession,10/25/2015,22:15,Federal St N & W North Ave,Allegheny Center,1,18,M
+ARREST,15205495,13(a)(16),Possession of Controlled Substance,10/25/2015,22:15,Federal St N & W North Ave,Allegheny Center,1,18,F
+ARREST,15205495,3112,Traffic-Control Signals.,10/25/2015,22:15,Federal St N & W North Ave,Allegheny Center,1,18,F
+OFFENSE 2.0,15204855,9497,Aided Case,10/25/2015,00:31,Stanwix St & Penn Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15205040,2702,Aggravated Assault.,10/25/2015,03:20,1400 block Locust St,Bluff,2,,
+OFFENSE 2.0,15205040,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,10/25/2015,03:20,1400 block Locust St,Bluff,2,,
+OFFENSE 2.0,15205042,607.03,Discharging Firearm or Airgun,10/25/2015,05:21,Miltenberger St,Bluff,2,,
+OFFENSE 2.0,15205042,6110.1,Possesion of Firearm by Minor,10/25/2015,05:21,Miltenberger St,Bluff,2,,
+ARREST,15205042,6110.1,Possesion of Firearm by Minor,10/25/2015,05:50,Miltenberger St,Bluff,2,16,M
+ARREST,15205042,607.03,Discharging Firearm or Airgun,10/25/2015,05:50,Miltenberger St,Bluff,2,22,M
+ARREST,15205042,6110.1,Possesion of Firearm by Minor,10/25/2015,05:50,Miltenberger St,Bluff,2,22,M
+ARREST,15205042,607.03,Discharging Firearm or Airgun,10/25/2015,05:50,Miltenberger St,Bluff,2,17,M
+ARREST,15205042,6110.1,Possesion of Firearm by Minor,10/25/2015,05:50,Miltenberger St,Bluff,2,17,M
+ARREST,15205042,607.03,Discharging Firearm or Airgun,10/25/2015,05:50,Miltenberger St,Bluff,2,16,M
+OFFENSE 2.0,15205266,9094,Recovered Stolen Vehicle (OUTSIDE CITY),10/25/2015,15:50,Liberty Ave & 39th St,Lower Lawrenceville,2,,
+OFFENSE 2.0,15204887,5104,Resisting Arrest or Other Law Enforcement.,10/25/2015,00:43,Saw Mill Run Blvd & Library Rd,Overbrook,3,,
+OFFENSE 2.0,15204887,1543,Driving While Operating Privilege is Suspended or Revoked.,10/25/2015,00:43,Saw Mill Run Blvd & Library Rd,Overbrook,3,,
+OFFENSE 2.0,15204887,3802(a)(1),DUI - General Impairment,10/25/2015,00:43,Saw Mill Run Blvd & Library Rd,Overbrook,3,,
+ARREST,15204887,1543,Driving While Operating Privilege is Suspended or Revoked.,10/25/2015,00:50,Saw Mill Run Blvd & Library Rd,Overbrook,3,30,F
+ARREST,15204887,5104,Resisting Arrest or Other Law Enforcement.,10/25/2015,00:50,Saw Mill Run Blvd & Library Rd,Overbrook,3,30,F
+ARREST,15204887,3802(a)(1),DUI - General Impairment,10/25/2015,00:50,Saw Mill Run Blvd & Library Rd,Overbrook,3,30,F
+OFFENSE 2.0,15204860,5505,Public Drunkenness,10/25/2015,01:35,1400 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15204968,3745,Accidents Involving Damage to Unattended Veh.or Prop.,10/25/2015,02:27,100 block S 22nd St,South Side Flats,3,,
+OFFENSE 2.0,15204970,601.16,Public Urination And Defecation,10/25/2015,02:35,S 15th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15205051,2701,Simple Assault.,10/25/2015,05:55,400 block Kathleen St,Mount Washington,3,,
+OFFENSE 2.0,15205048,9999,9999 - (Misc. Incident): ,10/25/2015,06:05,100 block Bausman St,Knoxville,3,,
+ARREST,15205051,2701,Simple Assault.,10/25/2015,06:07,400 block Kathleen St,Mount Washington,3,29,M
+ARREST,15205051,2701,Simple Assault.,10/25/2015,06:07,400 block Kathleen St,Mount Washington,3,33,F
+OFFENSE 2.0,15205138,3304,Criminal Mischief.,10/25/2015,11:12,S 27th St & Jane St,South Side Flats,3,,
+OFFENSE 2.0,15205315,3929,Retail Theft.,10/25/2015,12:45,2600 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15205277,9999,9999 - (Misc. Incident): OVERDOSE,10/25/2015,16:02,200 block Orchard Pl,Knoxville,3,,
+OFFENSE 2.0,15205308,3304,Criminal Mischief.,10/25/2015,17:05,1100 block Wingate St,Carrick,3,,
+OFFENSE 2.0,15205424,2709(a)(3),Harassment No Legitimate Purpose,10/25/2015,20:03,300 block Sweetbriar St,Duquesne Heights,3,,
+OFFENSE 2.0,15205480,9093,Indirect Criminal Contempt,10/25/2015,21:33,200 block Seward St,Duquesne Heights,3,,
+OFFENSE 2.0,15205480,2701,Simple Assault.,10/25/2015,21:33,200 block Seward St,Duquesne Heights,3,,
+ARREST,15205480,2701,Simple Assault.,10/25/2015,21:49,200 block Seward St,Duquesne Heights,3,52,F
+ARREST,15205480,9093,Indirect Criminal Contempt,10/25/2015,21:49,200 block Seward St,Duquesne Heights,3,52,F
+OFFENSE 2.0,15204868,601.04 (c) (2),Loudspeakers  etc 0700-2200 >75dB(c) 2200-0700 >75 dB(c),10/25/2015,00:15,Boundary St,Central Oakland,4,,
+OFFENSE 2.0,15204878,5505,Public Drunkenness,10/25/2015,00:38,College Ave & Alder St,Shadyside,4,,
+OFFENSE 2.0,15204902,9999,9999 - (Misc. Incident): ,10/25/2015,01:03,3400 block Forbes Ave,Central Oakland,4,,
+OFFENSE 2.0,15204902,5503,Disorderly Conduct.,10/25/2015,01:03,3400 block Forbes Ave,Central Oakland,4,,
+OFFENSE 2.0,15204952,3503(b)(1)(i),Actual Communication,10/25/2015,01:15,200 block Atwood St,Central Oakland,4,,
+OFFENSE 2.0,15204952,5503,Disorderly Conduct.,10/25/2015,01:15,200 block Atwood St,Central Oakland,4,,
+ARREST,15204947,2701,Simple Assault.,10/25/2015,02:30,700 block Saline St,Greenfield,4,33,M
+ARREST,15204947,2701,Simple Assault.,10/25/2015,02:30,700 block Saline St,Greenfield,4,35,F
+OFFENSE 2.0,15204947,2701,Simple Assault.,10/25/2015,03:05,700 block Saline St,Greenfield,4,,
+OFFENSE 2.0,15205301,3745,Accidents Involving Damage to Unattended Veh.or Prop.,10/25/2015,09:00,3400 block Orpwood St,South Oakland,4,,
+OFFENSE 2.0,15205082,9497,Aided Case,10/25/2015,09:00,5500 block Kentucky Ave,Shadyside,4,,
+OFFENSE 2.0,15205220,3304,Criminal Mischief.,10/25/2015,12:45,7000 block Forward Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,15205477,3701,Robbery.,10/25/2015,21:30,Bellefonte St & Kentucky Ave,Shadyside,4,,
+OFFENSE 2.0,15204999,9489,Found Property,10/25/2015,01:35,Baum Sq & S Beatty St,East Liberty,5,,
+OFFENSE 2.0,15205213,3304,Criminal Mischief.,10/25/2015,02:00,1300 block Paulson Ave,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15204948,3304,Criminal Mischief.,10/25/2015,02:04,6400 block Apple Ave,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15205109,029,Missing Juvenile,10/25/2015,09:52,8300 block Bricelyn St,East Hills,5,,
+OFFENSE 2.0,15205157,2709(a),Harassment.,10/25/2015,12:00,600 block Turrett St,Larimer,5,,
+OFFENSE 2.0,15205255,3745,Accidents Involving Damage to Unattended Veh.or Prop.,10/25/2015,14:57,900 block Freeport Rd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15204928,9999,9999 - (Misc. Incident): ,10/25/2015,01:35,Greentree Rd & Woodville Ave,West End,6,,
+OFFENSE 2.0,15204983,3714,Careless Driving,10/25/2015,02:57,West Liberty Ave & Pioneer Ave,Brookline,6,,
+OFFENSE 2.0,15204983,3802(a)(1),DUI - General Impairment,10/25/2015,02:57,West Liberty Ave & Pioneer Ave,Brookline,6,,
+ARREST,15204983,3714,Careless Driving,10/25/2015,03:29,West Liberty Ave & Pioneer Ave,Brookline,6,27,M
+ARREST,15204983,3802(a)(1),DUI - General Impairment,10/25/2015,03:29,West Liberty Ave & Pioneer Ave,Brookline,6,27,M
+OFFENSE 2.0,15205106,3304,Criminal Mischief.,10/25/2015,04:10,600 block Brookline Blvd,Brookline,6,,
+OFFENSE 2.0,15205134,3304,Criminal Mischief.,10/25/2015,04:15,600 block Brookline Blvd,Brookline,6,,
+OFFENSE 2.0,15205081,3502,Burglary.,10/25/2015,08:00,1100 block Carnahan Rd,Banksville,6,,
+OFFENSE 2.0,15205092,3934,Theft from Vehicle,10/25/2015,08:30,900 block Norwich Ave,Brookline,6,,
+OFFENSE 2.0,15205158,2701,Simple Assault.,10/25/2015,11:30,1000 block Woodlow St,Crafton Heights,6,,
+ARREST,15205158,2701,Simple Assault.,10/25/2015,11:45,1000 block Woodlow St,Crafton Heights,6,33,M
+OFFENSE 2.0,15205233,3745,Accidents Involving Damage to Unattended Veh.or Prop.,10/25/2015,13:50,Noblestown Rd & Baldwick Rd,Oakwood,6,,
+OFFENSE 2.0,15205252,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,10/25/2015,14:20,600 block S Main St,West End,6,,
+OFFENSE 2.0,15205227,9497,Aided Case,10/25/2015,15:40,1800 block Ringwalt St,Beechview,6,,
+OFFENSE 2.0,15205437,3921(a),Theft by Unlawful Taking or Disposition - Movable item,10/25/2015,20:13,1000 block Emporia St,Sheraden,6,,
+OFFENSE 2.0,15205527,9488,False  Burglar Alarm,10/25/2015,23:50,1000 block Banksville Ave,Banksville,6,,
