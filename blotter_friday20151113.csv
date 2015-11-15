@@ -1,0 +1,178 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,15217962,5505,Public Drunkenness,11/13/2015,02:05,100 block Anderson St,North Shore,1,,
+OFFENSE 2.0,15217984,029,Missing Juvenile,11/13/2015,02:49,2500 block Maple Ave,Perry South,1,,
+ARREST,15217990,3304,Criminal Mischief.,11/13/2015,03:05,800 block Middle St,East Allegheny,1,53,M
+OFFENSE 2.0,15217990,5506,Loitering and Prowling at Night,11/13/2015,03:05,800 block Middle St,East Allegheny,1,,
+OFFENSE 2.0,15217990,5104,Resisting Arrest or Other Law Enforcement.,11/13/2015,03:05,800 block Middle St,East Allegheny,1,,
+OFFENSE 2.0,15217990,3503(a),Criminal Trespass,11/13/2015,03:05,800 block Middle St,East Allegheny,1,,
+ARREST,15217990,3503(a),Criminal Trespass,11/13/2015,03:05,800 block Middle St,East Allegheny,1,53,M
+ARREST,15217990,5104,Resisting Arrest or Other Law Enforcement.,11/13/2015,03:05,800 block Middle St,East Allegheny,1,53,M
+ARREST,15217990,5506,Loitering and Prowling at Night,11/13/2015,03:05,800 block Middle St,East Allegheny,1,53,M
+OFFENSE 2.0,15217990,3304,Criminal Mischief.,11/13/2015,03:05,800 block Middle St,East Allegheny,1,,
+OFFENSE 2.0,15218027,9488,False  Burglar Alarm,11/13/2015,05:04,600 block East Ohio St,East Allegheny,1,,
+OFFENSE 2.0,15218085,3921,Theft by Unlawful Taking or Disposition.,11/13/2015,06:00,1700 block Letche Ave,Fineview,1,,
+OFFENSE 2.0,15218155,2709(a)(5),Harassment Communicates Repeatedly in Anonymous Manner,11/13/2015,10:48,2100 block Lowrie St,Troy Hill-Herrs Island,1,,
+ARREST,15204412,4906,False Reports to Law Enforcement Authorities.,11/13/2015,11:12,Mina St & Bessie Ave,Spring Hill-City View,1,28,M
+OFFENSE 2.0,15218204,9501,Bench Warrant,11/13/2015,12:19,1500 block Federal St N,Central Northside,1,,
+ARREST,15218204,9501,Bench Warrant,11/13/2015,12:25,1500 block Federal St N,Central Northside,1,44,M
+OFFENSE 2.0,15218207,9488,False  Burglar Alarm,11/13/2015,12:31,100 block Harbison Pl,Brighton Heights,1,,
+OFFENSE 2.0,15218341,3921,Theft by Unlawful Taking or Disposition.,11/13/2015,17:00,Reedsdale St & Art Rooney Ave,North Shore,1,,
+OFFENSE 2.0,15218413,4101,Forgery.,11/13/2015,17:35,400 block East Ohio St,East Allegheny,1,,
+OFFENSE 2.0,15218388,029,Missing Juvenile,11/13/2015,18:30,2000 block Termon Ave,Brighton Heights,1,,
+ARREST,15218450,13(a)(31),Marijuana: Possession Small Amount,11/13/2015,19:30,2600 block Beaver Ave,Marshall-Shadeland,1,18,F
+OFFENSE 2.0,15218450,3736,Reckless Driving,11/13/2015,19:30,2600 block Beaver Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,15218450,3316(a),use of interactive wireless communications devices for text-based communications while operating motor vehicles prohibited,11/13/2015,19:30,2600 block Beaver Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,15218450,13(a)(32),Paraphernalia - Use or Possession,11/13/2015,19:30,2600 block Beaver Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,15218450,13(a)(16),Possession of Controlled Substance,11/13/2015,19:30,2600 block Beaver Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,15218450,13(a)(30),Possession w/ Intent to Del. Controlled Substance,11/13/2015,19:30,2600 block Beaver Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,15218450,13(a)(31),Marijuana: Possession Small Amount,11/13/2015,19:30,2600 block Beaver Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,15218463,9017,Found Drugs,11/13/2015,20:05,300 block Cedar Ave,East Allegheny,1,,
+OFFENSE 2.0,15218500,3926(a)(1),Theft of Services; Cable  Gas  Taxi  Bill  Tab  etc.,11/13/2015,21:00,geranium St,Perry South,1,,
+OFFENSE 2.0,15218496,3921(a),Theft by Unlawful Taking or Disposition - Movable item,11/13/2015,21:15,500 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,15218550,029,Missing Juvenile,11/13/2015,22:30,200 block Ridge Ave,Allegheny Center,1,,
+ARREST,15217955,13(a)(31),Marijuana: Possession Small Amount,11/13/2015,01:46,Forbes Ave & Moultrie St,Bluff,2,31,F
+ARREST,15217955,1501,Drivers Required to be Licensed.,11/13/2015,01:46,Forbes Ave & Moultrie St,Bluff,2,31,F
+ARREST,15217955,3714,Careless Driving,11/13/2015,01:46,Forbes Ave & Moultrie St,Bluff,2,31,F
+ARREST,15217955,4107(b)(2),Vehicle Equipment Standards,11/13/2015,01:46,Forbes Ave & Moultrie St,Bluff,2,31,F
+OFFENSE 2.0,15217955,13(a)(31),Marijuana: Possession Small Amount,11/13/2015,02:13,Forbes Ave & Moultrie St,Bluff,2,,
+OFFENSE 2.0,15217955,1501,Drivers Required to be Licensed.,11/13/2015,02:13,Forbes Ave & Moultrie St,Bluff,2,,
+OFFENSE 2.0,15217955,4107(b)(2),Vehicle Equipment Standards,11/13/2015,02:13,Forbes Ave & Moultrie St,Bluff,2,,
+OFFENSE 2.0,15217955,3714,Careless Driving,11/13/2015,02:13,Forbes Ave & Moultrie St,Bluff,2,,
+OFFENSE 2.0,15217992,9497,Aided Case,11/13/2015,03:07,Herron Ave & Milwaukee St,Middle Hill,2,,
+OFFENSE 2.0,15218076,4304(a)(1),Endangering Welfare of Children.,11/13/2015,07:35,2400 block Chauncey Dr,Bedford Dwellings,2,,
+OFFENSE 2.0,15218076,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,11/13/2015,07:35,2400 block Chauncey Dr,Bedford Dwellings,2,,
+ARREST,15218076,4304(a)(1),Endangering Welfare of Children.,11/13/2015,08:01,2400 block Chauncey Dr,Bedford Dwellings,2,47,M
+ARREST,15218076,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,11/13/2015,08:01,2400 block Chauncey Dr,Bedford Dwellings,2,47,M
+ARREST,15173311,13(a)(12),Obtaining Cont. Subst. by Fraudulent Means,11/13/2015,08:31,600 block 1st Ave,Golden Triangle/Civic Arena,2,30,F
+ARREST,15173311,4101,Forgery.,11/13/2015,08:31,600 block 1st Ave,Golden Triangle/Civic Arena,2,30,F
+ARREST,15173311,901,Criminal Attempt,11/13/2015,08:31,600 block 1st Ave,Golden Triangle/Civic Arena,2,30,F
+OFFENSE 2.0,15218111,13(a)(16),Possession of Controlled Substance,11/13/2015,08:40,600 block 1st Ave,Golden Triangle/Civic Arena,2,,
+ARREST,15218111,13(a)(16),Possession of Controlled Substance,11/13/2015,09:00,600 block 1st Ave,Golden Triangle/Civic Arena,2,31,F
+OFFENSE 2.0,15218286,4304(a)(1),Endangering Welfare of Children.,11/13/2015,15:40,2600 block Centre Ave,Terrace Village,2,,
+ARREST,15218286,4304(a)(1),Endangering Welfare of Children.,11/13/2015,15:40,2600 block Centre Ave,Terrace Village,2,21,F
+ARREST,15218320,9501,Bench Warrant,11/13/2015,16:20,Fort Pitt Blvd & Smithfield St,Golden Triangle/Civic Arena,2,43,M
+OFFENSE 2.0,15218320,9501,Bench Warrant,11/13/2015,16:20,Fort Pitt Blvd & Smithfield St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15218330,2702,Aggravated Assault.,11/13/2015,16:28,Webster Ave & Duff St,Middle Hill,2,,
+OFFENSE 2.0,15218330,3701,Robbery.,11/13/2015,16:28,Webster Ave & Duff St,Middle Hill,2,,
+OFFENSE 2.0,15218356,9490,Missing Persons (18 and Over),11/13/2015,17:27,2000 block Webster Ave,Middle Hill,2,,
+OFFENSE 2.0,15218426,3929,Retail Theft.,11/13/2015,19:15,3900 block Butler St,Lower Lawrenceville,2,,
+ARREST,15215041,3929,Retail Theft.,11/13/2015,20:01,4700 block Plummer St,Central Lawrenceville,2,57,M
+OFFENSE 2.0,15215041,3929,Retail Theft.,11/13/2015,20:01,4700 block Plummer St,Central Lawrenceville,2,,
+ARREST,15159702,9015,Failure To Appear/Arrest on Attachment Order,11/13/2015,21:27,600 block 1st Ave,Golden Triangle/Civic Arena,2,27,M
+OFFENSE 2.0,15218520,2701,Simple Assault.,11/13/2015,21:56,900 block Penn Ave,Golden Triangle/Civic Arena,2,,
+ARREST,15218520,2701,Simple Assault.,11/13/2015,21:56,900 block Penn Ave,Golden Triangle/Civic Arena,2,27,F
+OFFENSE 2.0,15218242,3921,Theft by Unlawful Taking or Disposition.,11/13/2015,00:01,S 16th St,South Side Flats,3,,
+ARREST,15177808,2701,Simple Assault.,11/13/2015,00:30,200 block Moore Ave,Knoxville,3,38,M
+ARREST,15177808,4304(a)(1),Endangering Welfare of Children.,11/13/2015,00:30,200 block Moore Ave,Knoxville,3,38,M
+OFFENSE 2.0,15217983,5901,Open Lewdness.,11/13/2015,02:51,Michigan St & Montooth St,Beltzhoover,3,,
+OFFENSE 2.0,15217983,601.16,Public Urination And Defecation,11/13/2015,02:51,Michigan St & Montooth St,Beltzhoover,3,,
+OFFENSE 2.0,15217983,5507,Obstructing Highways and Passages.,11/13/2015,02:51,Michigan St & Montooth St,Beltzhoover,3,,
+OFFENSE 2.0,15217983,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,11/13/2015,02:51,Michigan St & Montooth St,Beltzhoover,3,,
+OFFENSE 2.0,15217983,3802(a)(1),DUI - General Impairment,11/13/2015,02:51,Michigan St & Montooth St,Beltzhoover,3,,
+ARREST,15217983,5507,Obstructing Highways and Passages.,11/13/2015,03:10,Michigan St & Montooth St,Beltzhoover,3,58,M
+ARREST,15217983,5901,Open Lewdness.,11/13/2015,03:10,Michigan St & Montooth St,Beltzhoover,3,58,M
+ARREST,15217983,601.16,Public Urination And Defecation,11/13/2015,03:10,Michigan St & Montooth St,Beltzhoover,3,58,M
+ARREST,15217983,3802(a)(1),DUI - General Impairment,11/13/2015,03:10,Michigan St & Montooth St,Beltzhoover,3,58,M
+ARREST,15217983,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,11/13/2015,03:10,Michigan St & Montooth St,Beltzhoover,3,58,M
+OFFENSE 2.0,15218140,9496,Dead on Arrival (DOA),11/13/2015,06:00,200 block E Warrington Ave,Beltzhoover,3,,
+OFFENSE 2.0,15218095,3921,Theft by Unlawful Taking or Disposition.,11/13/2015,08:28,100 block Thielman Ave,Carrick,3,,
+OFFENSE 2.0,15218095,4106,Access Device Fraud,11/13/2015,08:28,100 block Thielman Ave,Carrick,3,,
+OFFENSE 2.0,15218376,3921,Theft by Unlawful Taking or Disposition.,11/13/2015,09:00,S 16th St,South Side Flats,3,,
+OFFENSE 2.0,15218264,9124,Drug Investigation,11/13/2015,12:00,800 block E Warrington Ave,Allentown,3,,
+OFFENSE 2.0,15218275,3921,Theft by Unlawful Taking or Disposition.,11/13/2015,13:00,Greenbush St,Mount Washington,3,,
+OFFENSE 2.0,15218321,607.03,Discharging Firearm or Airgun,11/13/2015,16:20,Montooth St & Taft Ave,Beltzhoover,3,,
+OFFENSE 2.0,15218321,2702,Aggravated Assault.,11/13/2015,16:20,Montooth St & Taft Ave,Beltzhoover,3,,
+OFFENSE 2.0,15217928,3743,Accidents Involving Damage to Attended Veh. or Property,11/13/2015,00:05,400 block Semple St,Central Oakland,4,,
+OFFENSE 2.0,15217934,3929,Retail Theft.,11/13/2015,00:45,200 block Atwood St,Central Oakland,4,,
+ARREST,15217934,3929,Retail Theft.,11/13/2015,01:04,200 block Atwood St,Central Oakland,4,55,M
+OFFENSE 2.0,15217964,3929,Retail Theft.,11/13/2015,02:08,4600 block Centre Ave,North Oakland,4,,
+ARREST,15215251,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,11/13/2015,03:00,Renova St & Gate Lodge Way,Hazelwood,4,18,F
+OFFENSE 2.0,15218129,9496,Dead on Arrival (DOA),11/13/2015,09:30,200 block N Dithridge St,North Oakland,4,,
+OFFENSE 2.0,15218161,3929,Retail Theft.,11/13/2015,11:00,5500 block Centre Ave,Friendship,4,,
+ARREST,15218161,3929,Retail Theft.,11/13/2015,11:05,5500 block Centre Ave,Friendship,4,65,F
+OFFENSE 2.0,15218208,9999,9999 - (Misc. Incident): 9999 - (Misc. Incident): ,11/13/2015,12:00,400 block Atwood St,Central Oakland,4,,
+OFFENSE 2.0,15218315,3304,Criminal Mischief.,11/13/2015,14:00,3600 block Bates St,Central Oakland,4,,
+OFFENSE 2.0,15218302,3745,Accidents Involving Damage to Unattended Veh.or Prop.,11/13/2015,14:00,5700 block Forbes Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,15218294,3921,Theft by Unlawful Taking or Disposition.,11/13/2015,15:10,2700 block Murray Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,15218294,2709,Harassment (Non-Specific),11/13/2015,15:10,2700 block Murray Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,15218346,3921,Theft by Unlawful Taking or Disposition.,11/13/2015,15:30,5900 block Penn Cir S,East Liberty,4,,
+OFFENSE 2.0,15218306,2705,Recklessly Endangering Another Person.,11/13/2015,15:40,Beacon St & Bartlett St,Squirrel Hill South,4,,
+OFFENSE 2.0,15218306,3714,Careless Driving,11/13/2015,15:40,Beacon St & Bartlett St,Squirrel Hill South,4,,
+ARREST,15208005,3925,Receiving Stolen Property.,11/13/2015,19:00,3800 block Bigelow Blvd,North Oakland,4,23,F
+ARREST,15208005,4101,Forgery.,11/13/2015,19:00,3800 block Bigelow Blvd,North Oakland,4,23,F
+OFFENSE 2.0,15218575,3502,Burglary.,11/13/2015,22:30,100 block N Bellefield Ave,North Oakland,4,,
+ARREST,15217920,9501,Bench Warrant,11/13/2015,00:03,200 block Fern St,Garfield,5,31,M
+OFFENSE 2.0,15044081,2702,Aggravated Assault.,11/13/2015,01:36,East Hills Dr & Wilner Dr,East Hills,5,,
+OFFENSE 2.0,15068483,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,11/13/2015,01:37,East Hills Dr & Wilner Dr,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15217950,3921(a),Theft by Unlawful Taking or Disposition - Movable item,11/13/2015,01:38,2300 block East Hills Dr,East Hills,5,,
+OFFENSE 2.0,15217950,3925,Receiving Stolen Property.,11/13/2015,01:38,2300 block East Hills Dr,East Hills,5,,
+OFFENSE 2.0,15217950,9501,Bench Warrant,11/13/2015,01:38,2300 block East Hills Dr,East Hills,5,,
+ARREST,15217950,1543,Driving While Operating Privilege is Suspended or Revoked.,11/13/2015,01:38,2300 block East Hills Dr,East Hills,5,21,M
+ARREST,15217950,2705,Recklessly Endangering Another Person.,11/13/2015,01:38,2300 block East Hills Dr,East Hills,5,21,M
+ARREST,15217950,3733,Fleeing or Attempting to Elude Police Officer,11/13/2015,01:38,2300 block East Hills Dr,East Hills,5,21,M
+ARREST,15217950,3736,Reckless Driving,11/13/2015,01:38,2300 block East Hills Dr,East Hills,5,21,M
+ARREST,15107347,3921,Theft by Unlawful Taking or Disposition.,11/13/2015,01:38,East Hills Dr & Eastgate Dr,Homewood North,5,21,F
+ARREST,15217950,3925,Receiving Stolen Property.,11/13/2015,01:38,2300 block East Hills Dr,East Hills,5,21,M
+ARREST,15217950,3921(a),Theft by Unlawful Taking or Disposition - Movable item,11/13/2015,01:38,2300 block East Hills Dr,East Hills,5,21,F
+ARREST,15217950,3925,Receiving Stolen Property.,11/13/2015,01:38,2300 block East Hills Dr,East Hills,5,21,F
+OFFENSE 2.0,15134465,3502,Burglary.,11/13/2015,01:38,East Hills Dr & Eastgate Dr,Northview Heights,5,,
+ARREST,15134465,3502,Burglary.,11/13/2015,01:38,East Hills Dr & Eastgate Dr,Northview Heights,5,27,F
+ARREST,15068483,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,11/13/2015,01:38,East Hills Dr & Wilner Dr,Lincoln-Lemington-Belmar,5,21,F
+ARREST,15044081,2702,Aggravated Assault.,11/13/2015,01:38,East Hills Dr & Wilner Dr,East Hills,5,21,F
+OFFENSE 2.0,15217950,3802(a)(1),DUI - General Impairment,11/13/2015,01:38,2300 block East Hills Dr,East Hills,5,,
+OFFENSE 2.0,15217950,3733,Fleeing or Attempting to Elude Police Officer,11/13/2015,01:38,2300 block East Hills Dr,East Hills,5,,
+OFFENSE 2.0,15217950,2705,Recklessly Endangering Another Person.,11/13/2015,01:38,2300 block East Hills Dr,East Hills,5,,
+ARREST,15217950,3802(a)(1),DUI - General Impairment,11/13/2015,01:38,2300 block East Hills Dr,East Hills,5,21,M
+OFFENSE 2.0,15107347,2701(a)(3),Simple Assault - Attempts by Physical Menace ,11/13/2015,01:38,East Hills Dr & Eastgate Dr,Homewood North,5,,
+OFFENSE 2.0,15107347,3921,Theft by Unlawful Taking or Disposition.,11/13/2015,01:38,East Hills Dr & Eastgate Dr,Homewood North,5,,
+ARREST,15107347,2701(a)(3),Simple Assault - Attempts by Physical Menace ,11/13/2015,01:38,East Hills Dr & Eastgate Dr,Homewood North,5,21,F
+ARREST,14228535,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,11/13/2015,01:40,5600 block Stanton Ave,East Liberty,5,53,F
+OFFENSE 2.0,15218036,3921(a),Theft by Unlawful Taking or Disposition - Movable item,11/13/2015,05:30,500 block N Fairmount St,Garfield,5,,
+OFFENSE 2.0,15218096,3745,Accidents Involving Damage to Unattended Veh.or Prop.,11/13/2015,07:30,4400 block Stanton Ave,Stanton Heights,5,,
+OFFENSE 2.0,15218080,3928,Unauthorized Use of Automobile and Other Vehicles.,11/13/2015,08:06,2200 block Wilner Dr,East Hills,5,,
+OFFENSE 2.0,15218186,3502,Burglary.,11/13/2015,11:47,5300 block Rosetta St,Garfield,5,,
+ARREST,15079369,2702,Aggravated Assault.,11/13/2015,11:51,Kincaid St & N Aiken Ave,Garfield,5,50,M
+ARREST,15218186,3502,Burglary.,11/13/2015,11:51,5300 block Rosetta St,Garfield,5,51,M
+ARREST,15202343,3701,Robbery.,11/13/2015,13:31,5500 block Hays St,Highland Park,5,18,M
+ARREST,15218260,3929,Retail Theft.,11/13/2015,14:15,900 block Freeport Rd,Homewood West,5,50,F
+OFFENSE 2.0,15218260,3929,Retail Theft.,11/13/2015,14:15,900 block Freeport Rd,Homewood West,5,,
+ARREST,15218317,9501,Bench Warrant,11/13/2015,14:30,1200 block Mohler St,Homewood North,5,22,M
+OFFENSE 2.0,15218303,2709(a),Harassment.,11/13/2015,15:08,7300 block Finance St,Homewood South,5,,
+OFFENSE 2.0,15218342,3745,Accidents Involving Damage to Unattended Veh.or Prop.,11/13/2015,16:12,7100 block Hamilton Ave,Homewood South,5,,
+OFFENSE 2.0,15218317,9501,Bench Warrant,11/13/2015,16:12,1200 block Mohler St,Homewood North,5,,
+OFFENSE 2.0,15218317,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),11/13/2015,16:12,1200 block Mohler St,Homewood North,5,,
+OFFENSE 2.0,15218317,3925,Receiving Stolen Property.,11/13/2015,16:12,1200 block Mohler St,Homewood North,5,,
+OFFENSE 2.0,15218317,6106,Firearms not to be Carried without a License.,11/13/2015,16:12,1200 block Mohler St,Homewood North,5,,
+ARREST,15218317,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),11/13/2015,16:25,1200 block Mohler St,Homewood North,5,17,M
+ARREST,15218317,3925,Receiving Stolen Property.,11/13/2015,16:25,1200 block Mohler St,Homewood North,5,17,M
+ARREST,15218317,13(a)(32),Paraphernalia - Use or Possession,11/13/2015,16:25,1200 block Mohler St,Homewood North,5,17,M
+ARREST,15218317,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),11/13/2015,16:25,1200 block Mohler St,Homewood North,5,19,M
+ARREST,15218317,6110.1,Possesion of Firearm by Minor,11/13/2015,16:25,1200 block Mohler St,Homewood North,5,17,M
+ARREST,15218317,3925,Receiving Stolen Property.,11/13/2015,16:25,1200 block Mohler St,Homewood North,5,19,M
+ARREST,15218317,13(a)(32),Paraphernalia - Use or Possession,11/13/2015,16:25,1200 block Mohler St,Homewood North,5,19,M
+ARREST,15218317,6106,Firearms not to be Carried without a License.,11/13/2015,16:25,1200 block Mohler St,Homewood North,5,17,M
+OFFENSE 2.0,15218457,3921(a),Theft by Unlawful Taking or Disposition - Movable item,11/13/2015,18:00,1200 block Mohler St,Homewood North,5,,
+ARREST,15204888,3304,Criminal Mischief.,11/13/2015,21:00,2500 block Park Hill Dr,East Hills,5,37,M
+ARREST,15204888,3701,Robbery.,11/13/2015,21:00,2500 block Park Hill Dr,East Hills,5,37,M
+OFFENSE 2.0,15218141,9999,9999 - (Misc. Incident): ,11/13/2015,10:20,2300 block Candace St,Beechview,6,,
+ARREST,15218141,13(a)(30),Possession w/ Intent to Del. Controlled Substance,11/13/2015,14:20,2300 block Candace St,Beechview,6,30,M
+ARREST,15218141,13(a)(32),Paraphernalia - Use or Possession,11/13/2015,14:20,2300 block Candace St,Beechview,6,30,M
+ARREST,15218141,3925,Receiving Stolen Property.,11/13/2015,14:20,2300 block Candace St,Beechview,6,30,M
+ARREST,15218141,4304(a)(1),Endangering Welfare of Children.,11/13/2015,14:20,2300 block Candace St,Beechview,6,30,M
+ARREST,15218141,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),11/13/2015,14:20,2300 block Candace St,Beechview,6,30,M
+ARREST,15218141,9501,Bench Warrant,11/13/2015,14:20,2300 block Candace St,Beechview,6,30,M
+ARREST,15218141,13(a)(16),Possession of Controlled Substance,11/13/2015,14:20,2300 block Candace St,Beechview,6,30,M
+OFFENSE 2.0,15218389,13(a)(16),Possession of Controlled Substance,11/13/2015,18:16,Chartiers Ave & Hillsboro St,Sheraden,6,,
+OFFENSE 2.0,15218389,13(a)(32),Paraphernalia - Use or Possession,11/13/2015,18:16,Chartiers Ave & Hillsboro St,Sheraden,6,,
+OFFENSE 2.0,15218389,4303,General Lighting Requirements.,11/13/2015,18:16,Chartiers Ave & Hillsboro St,Sheraden,6,,
+OFFENSE 2.0,15218389,4703,Operation of Vehicle without Official Certif. of Inspection,11/13/2015,18:16,Chartiers Ave & Hillsboro St,Sheraden,6,,
+ARREST,15218389,13(a)(32),Paraphernalia - Use or Possession,11/13/2015,18:16,Chartiers Ave & Hillsboro St,Sheraden,6,26,F
+ARREST,15218389,13(a)(32),Paraphernalia - Use or Possession,11/13/2015,18:16,Chartiers Ave & Hillsboro St,Sheraden,6,30,F
+ARREST,15218389,4703,Operation of Vehicle without Official Certif. of Inspection,11/13/2015,18:16,Chartiers Ave & Hillsboro St,Sheraden,6,30,F
+ARREST,15218389,13(a)(16),Possession of Controlled Substance,11/13/2015,18:16,Chartiers Ave & Hillsboro St,Sheraden,6,26,F
+ARREST,15218389,4303,General Lighting Requirements.,11/13/2015,18:16,Chartiers Ave & Hillsboro St,Sheraden,6,30,F
+OFFENSE 2.0,15218441,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,11/13/2015,18:45,1400 block Tyndall St,Sheraden,6,,
+OFFENSE 2.0,15218441,3922,Theft by Deception.,11/13/2015,18:45,1400 block Tyndall St,Sheraden,6,,
+ARREST,15217024,4703,Operation of Vehicle without Official Certif. of Inspection,11/13/2015,14:50,100 block Giffin Ave,South Side Flats,OSC,29,M
+ARREST,15217024,1543,Driving While Operating Privilege is Suspended or Revoked.,11/13/2015,14:50,100 block Giffin Ave,South Side Flats,OSC,29,M
+ARREST,15217024,5121,Escape.,11/13/2015,14:50,100 block Giffin Ave,South Side Flats,OSC,29,M
