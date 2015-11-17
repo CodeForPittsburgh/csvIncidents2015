@@ -1,0 +1,134 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,15219304,9488,False  Burglar Alarm,11/15/2015,00:12,3200 block Brighton Rd,Marshall-Shadeland,1,,
+OFFENSE 2.0,15219365,029,Missing Juvenile,11/15/2015,01:39,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,15219369,2705,Recklessly Endangering Another Person.,11/15/2015,01:45,California Ave & A St,California-Kirkbride,1,,
+OFFENSE 2.0,15219369,3304,Criminal Mischief.,11/15/2015,01:45,California Ave & A St,California-Kirkbride,1,,
+OFFENSE 2.0,15219369,2707.1,Discharge of a Firearm into Occupied Structure,11/15/2015,01:45,California Ave & A St,California-Kirkbride,1,,
+OFFENSE 2.0,15219421,1501,Drivers Required to be Licensed.,11/15/2015,03:13,Marshall Ave & Ohio River Blvd Ramp,California-Kirkbride,1,,
+OFFENSE 2.0,15219421,3743,Accidents Involving Damage to Attended Veh. or Property,11/15/2015,03:13,Marshall Ave & Ohio River Blvd Ramp,California-Kirkbride,1,,
+OFFENSE 2.0,15219556,3921,Theft by Unlawful Taking or Disposition.,11/15/2015,10:15,Children's Way,Brookline,1,,
+OFFENSE 2.0,15219615,3934,Theft from Vehicle,11/15/2015,11:30,Ridge Ave & Arch St,Allegheny Center,1,,
+ARREST,15219592,13(a)(31),Marijuana: Possession Small Amount,11/15/2015,11:50,Ridge Ave,Chateau,1,52,F
+ARREST,15219592,13(a)(31),Marijuana: Possession Small Amount,11/15/2015,11:50,Ridge Ave,Chateau,1,27,M
+ARREST,15219592,13(a)(31),Marijuana: Possession Small Amount,11/15/2015,11:50,Ridge Ave,Chateau,1,30,M
+OFFENSE 2.0,15219592,13(a)(31),Marijuana: Possession Small Amount,11/15/2015,11:50,Ridge Ave,Chateau,1,,
+OFFENSE 2.0,15219609,9497,Aided Case,11/15/2015,12:40,800 block Marshall Ave,Perry South,1,,
+OFFENSE 2.0,15219700,3743,Accidents Involving Damage to Attended Veh. or Property,11/15/2015,15:52,Western Ave & Bidwell St,Manchester,1,,
+OFFENSE 2.0,15219728,2705,Recklessly Endangering Another Person.,11/15/2015,16:45,1000 block California Ave,California-Kirkbride,1,,
+OFFENSE 2.0,15219728,3304(a)(1),CRIMINAL MISCHIEF-Prop Damage By Fire  Explosives  or Other Dangerous Means,11/15/2015,16:45,1000 block California Ave,California-Kirkbride,1,,
+OFFENSE 2.0,15219730,2701,Simple Assault.,11/15/2015,16:51,1300 block Chicago St,Northview Heights,1,,
+ARREST,15219730,2701,Simple Assault.,11/15/2015,17:00,1300 block Chicago St,Northview Heights,1,37,M
+OFFENSE 2.0,15219790,9490,Missing Persons (18 and Over),11/15/2015,18:30,100 block Art Rooney Ave,North Shore,1,,
+ARREST,15217871,3743,Accidents Involving Damage to Attended Veh. or Property,11/15/2015,19:07,California Ave & Termon Ave,Brighton Heights,1,43,M
+OFFENSE 2.0,15219818,3701,Robbery.,11/15/2015,19:47,Federal St N & Citron Way,Central Northside,1,,
+OFFENSE 2.0,15219864,9999,9999 - (Misc. Incident): ,11/15/2015,21:35,200 block North Shore Dr,North Shore,1,,
+OFFENSE 2.0,15219910,9488,False  Burglar Alarm,11/15/2015,23:48,400 block East Commons,Allegheny Center,1,,
+ARREST,15219353,4914,False Identification to Law Enforcement Authorities,11/15/2015,02:00,2600 block Penn Ave,Strip District,2,30,M
+ARREST,15219353,5104,Resisting Arrest or Other Law Enforcement.,11/15/2015,02:00,2600 block Penn Ave,Strip District,2,30,M
+ARREST,15219353,7513,Restriction on Alcoholic Beverages - Open Container,11/15/2015,02:00,2600 block Penn Ave,Strip District,2,30,M
+OFFENSE 2.0,15219394,3733,Fleeing or Attempting to Elude Police Officer,11/15/2015,02:22,Penn Ave & 7th St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15219353,4914,False Identification to Law Enforcement Authorities,11/15/2015,02:52,2600 block Penn Ave,Strip District,2,,
+OFFENSE 2.0,15219353,5104,Resisting Arrest or Other Law Enforcement.,11/15/2015,02:52,2600 block Penn Ave,Strip District,2,,
+OFFENSE 2.0,15219353,7513,Restriction on Alcoholic Beverages - Open Container,11/15/2015,02:52,2600 block Penn Ave,Strip District,2,,
+OFFENSE 2.0,15219737,3934,Theft from Vehicle,11/15/2015,16:56,200 block 4th Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15219775,3934,Theft from Vehicle,11/15/2015,18:00,200 block Blvd Of The Allies,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15219811,3921(a),Theft by Unlawful Taking or Disposition - Movable item,11/15/2015,18:40,6th Ave & Liberty Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15219810,3745,Accidents Involving Damage to Unattended Veh.or Prop.,11/15/2015,19:15,20th St & Penn Ave,Strip District,2,,
+ARREST,15208188,2706,Terroristic Threats.,11/15/2015,20:00,600 block 1st Ave,Homewood South,2,24,M
+ARREST,15208188,2701,Simple Assault.,11/15/2015,20:00,600 block 1st Ave,Homewood South,2,24,M
+ARREST,15208188,2901,Kidnapping.,11/15/2015,20:00,600 block 1st Ave,Homewood South,2,24,M
+ARREST,15208188,2902,Unlawful Restraint.,11/15/2015,20:00,600 block 1st Ave,Homewood South,2,24,M
+OFFENSE 2.0,15219821,3802(a)(1),DUI - General Impairment,11/15/2015,20:30,9th St & Exchange Way,Golden Triangle/Civic Arena,2,,
+ARREST,15219821,3802(a)(1),DUI - General Impairment,11/15/2015,22:33,9th St & Exchange Way,Golden Triangle/Civic Arena,2,37,F
+OFFENSE 2.0,15219884,3929,Retail Theft.,11/15/2015,22:35,3800 block Butler St,Lower Lawrenceville,2,,
+ARREST,15219295,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,11/15/2015,00:10,1600 block E Carson St,South Side Flats,3,20,F
+OFFENSE 2.0,15219295,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,11/15/2015,00:10,1600 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15219295,5505,Public Drunkenness,11/15/2015,00:10,1600 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15219295,5104,Resisting Arrest or Other Law Enforcement.,11/15/2015,00:10,1600 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15219295,4914,False Identification to Law Enforcement Authorities,11/15/2015,00:10,1600 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15219295,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,11/15/2015,00:10,1600 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15219295,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,11/15/2015,00:10,1600 block E Carson St,South Side Flats,3,,
+ARREST,15219295,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,11/15/2015,00:10,1600 block E Carson St,South Side Flats,3,20,F
+ARREST,15219295,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,11/15/2015,00:10,1600 block E Carson St,South Side Flats,3,20,F
+ARREST,15219295,4914,False Identification to Law Enforcement Authorities,11/15/2015,00:10,1600 block E Carson St,South Side Flats,3,20,F
+ARREST,15219295,5104,Resisting Arrest or Other Law Enforcement.,11/15/2015,00:10,1600 block E Carson St,South Side Flats,3,20,F
+ARREST,15219295,5505,Public Drunkenness,11/15/2015,00:10,1600 block E Carson St,South Side Flats,3,20,F
+OFFENSE 2.0,15219360,7513,Restriction on Alcoholic Beverages - Open Container,11/15/2015,01:10,S 16th St & Bingham St,South Side Flats,3,,
+OFFENSE 2.0,15219349,601.16,Public Urination And Defecation,11/15/2015,01:15,S 15th St & Roland St,South Side Flats,3,,
+OFFENSE 2.0,15219401,3743,Accidents Involving Damage to Attended Veh. or Property,11/15/2015,01:40,S 18th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15219323,601.16,Public Urination And Defecation,11/15/2015,01:40,S 17th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15219388,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,11/15/2015,02:00,S 14th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15219388,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,11/15/2015,02:00,S 14th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15219385,5503,Disorderly Conduct.,11/15/2015,02:05,1300 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15219403,9999,9999 - (Misc. Incident): ,11/15/2015,03:25,800 block Climax St,Allentown,3,,
+OFFENSE 2.0,15219430,5505,Public Drunkenness,11/15/2015,03:37,100 block S 23rd St,South Side Flats,3,,
+OFFENSE 2.0,15219430,3503(a),Criminal Trespass,11/15/2015,03:37,100 block S 23rd St,South Side Flats,3,,
+ARREST,15219430,5505,Public Drunkenness,11/15/2015,03:55,100 block S 23rd St,South Side Flats,3,27,M
+ARREST,15219430,3503(a),Criminal Trespass,11/15/2015,03:55,100 block S 23rd St,South Side Flats,3,27,M
+OFFENSE 2.0,15219483,9999,9999 - (Misc. Incident): 9999 - (Misc. Incident): Possible Stolen Vehicle,11/15/2015,08:16,Spring St & Cologne St,Arlington,3,,
+OFFENSE 2.0,15219623,9489,Found Property,11/15/2015,13:00,S 16th St,South Side Flats,3,,
+OFFENSE 2.0,15219657,2702,Aggravated Assault.,11/15/2015,13:55,100 block Zara St,Knoxville,3,,
+ARREST,15219657,2702,Aggravated Assault.,11/15/2015,14:30,100 block Zara St,Knoxville,3,58,M
+OFFENSE 2.0,15219763,3745,Accidents Involving Damage to Unattended Veh.or Prop.,11/15/2015,16:00,S 11th St,South Side Flats,3,,
+OFFENSE 2.0,15219733,2702,Aggravated Assault.,11/15/2015,16:49,200 block Rochelle St,Knoxville,3,,
+OFFENSE 2.0,15219733,5511,Cruelty to Animals.,11/15/2015,16:49,200 block Rochelle St,Knoxville,3,,
+ARREST,15200980,2701,Simple Assault.,11/15/2015,18:40,200 block Virginia Ave,Mount Washington,3,15,M
+OFFENSE 2.0,15219809,3925,Receiving Stolen Property.,11/15/2015,19:30,Wachter St & S 18th St,South Side Slopes,3,,
+OFFENSE 2.0,15219809,1501,Drivers Required to be Licensed.,11/15/2015,19:30,Wachter St & S 18th St,South Side Slopes,3,,
+ARREST,15219809,3925,Receiving Stolen Property.,11/15/2015,19:30,Wachter St & S 18th St,South Side Slopes,3,19,M
+ARREST,15219809,1501,Drivers Required to be Licensed.,11/15/2015,19:30,Wachter St & S 18th St,South Side Slopes,3,19,M
+OFFENSE 2.0,15219815,2701,Simple Assault.,11/15/2015,19:33,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15219815,2702,Aggravated Assault.,11/15/2015,19:33,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15219815,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,11/15/2015,19:33,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15219815,5104,Resisting Arrest or Other Law Enforcement.,11/15/2015,19:33,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15219815,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,11/15/2015,19:33,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15219815,5505,Public Drunkenness,11/15/2015,19:33,1500 block E Carson St,South Side Flats,3,,
+ARREST,15219815,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,11/15/2015,19:39,1500 block E Carson St,South Side Flats,3,,M
+ARREST,15219815,5505,Public Drunkenness,11/15/2015,19:39,1500 block E Carson St,South Side Flats,3,,M
+ARREST,15219815,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,11/15/2015,19:39,1500 block E Carson St,South Side Flats,3,,M
+ARREST,15219815,5104,Resisting Arrest or Other Law Enforcement.,11/15/2015,19:39,1500 block E Carson St,South Side Flats,3,,M
+ARREST,15219815,2702,Aggravated Assault.,11/15/2015,19:39,1500 block E Carson St,South Side Flats,3,,M
+ARREST,15219815,2701,Simple Assault.,11/15/2015,19:39,1500 block E Carson St,South Side Flats,3,,M
+OFFENSE 2.0,15219881,3701,Robbery.,11/15/2015,22:37,300 block Virginia Ave,Mount Washington,3,,
+OFFENSE 2.0,15219313,3702,Robbery of Motor Vehicle.,11/15/2015,00:26,Terrace St & Buffalo St,West Oakland,4,,
+OFFENSE 2.0,15219313,3701,Robbery.,11/15/2015,00:26,Terrace St & Buffalo St,West Oakland,4,,
+OFFENSE 2.0,15219425,9489,Found Property,11/15/2015,02:00,5400 block Walnut St,Golden Triangle/Civic Arena,4,,
+OFFENSE 2.0,15219381,3929,Retail Theft.,11/15/2015,02:04,4600 block Centre Ave,North Oakland,4,,
+OFFENSE 2.0,15219449,3701,Robbery.,11/15/2015,03:00,Boundary St,North Oakland,4,,
+OFFENSE 2.0,15219438,9999,9999 - (Misc. Incident): Animal Non Dangerous,11/15/2015,04:01,2nd Ave & Winston St,Hazelwood,4,,
+OFFENSE 2.0,15219512,3742,Accidents Involving Death or Personal Injury,11/15/2015,09:38,5100 block Roma Way,Hazelwood,4,,
+OFFENSE 2.0,15219512,3736,Reckless Driving,11/15/2015,09:38,5100 block Roma Way,Hazelwood,4,,
+OFFENSE 2.0,15219512,2705,Recklessly Endangering Another Person.,11/15/2015,09:38,5100 block Roma Way,Hazelwood,4,,
+OFFENSE 2.0,15219626,2709(b),Stalking,11/15/2015,13:01,Forbes Ave & Morewood Ave,Squirrel Hill North,4,,
+OFFENSE 2.0,15219626,2709(a)(2),Harassment by Following Person in Public Place(s),11/15/2015,13:01,Forbes Ave & Morewood Ave,Squirrel Hill North,4,,
+OFFENSE 2.0,15219819,3502,Burglary.,11/15/2015,19:00,4000 block Murray Ave,Greenfield,4,,
+OFFENSE 2.0,15219858,1543,Driving While Operating Privilege is Suspended or Revoked.,11/15/2015,21:20,4600 block Chatsworth Ave,Hazelwood,4,,
+OFFENSE 2.0,15219858,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,11/15/2015,21:20,4600 block Chatsworth Ave,Hazelwood,4,,
+OFFENSE 2.0,15219858,3928,Unauthorized Use of Automobile and Other Vehicles.,11/15/2015,21:20,4600 block Chatsworth Ave,Hazelwood,4,,
+ARREST,15219858,1543,Driving While Operating Privilege is Suspended or Revoked.,11/15/2015,21:45,4600 block Chatsworth Ave,Hazelwood,4,33,M
+ARREST,15219858,3928,Unauthorized Use of Automobile and Other Vehicles.,11/15/2015,21:45,4600 block Chatsworth Ave,Hazelwood,4,33,M
+ARREST,15219858,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,11/15/2015,21:45,4600 block Chatsworth Ave,Hazelwood,4,33,M
+OFFENSE 2.0,15219937,3921(a),Theft by Unlawful Taking or Disposition - Movable item,11/15/2015,22:30,5000 block Langhorn St,Hazelwood,4,,
+OFFENSE 2.0,15219427,5503(a)(2),DISORDERLY CONDUCT - UNREASONABLE NOISE,11/15/2015,03:26,5000 block Centre Ave,Bloomfield,5,,
+OFFENSE 2.0,15219427,5123,Contraband.,11/15/2015,03:26,5000 block Centre Ave,Bloomfield,5,,
+OFFENSE 2.0,15219427,5104,Resisting Arrest or Other Law Enforcement.,11/15/2015,03:26,5000 block Centre Ave,Bloomfield,5,,
+OFFENSE 2.0,15219427,2702,Aggravated Assault.,11/15/2015,03:26,5000 block Centre Ave,Bloomfield,5,,
+OFFENSE 2.0,15219427,5505,Public Drunkenness,11/15/2015,03:26,5000 block Centre Ave,Bloomfield,5,,
+OFFENSE 2.0,15219427,13(a)(31),Marijuana: Possession Small Amount,11/15/2015,03:26,5000 block Centre Ave,Bloomfield,5,,
+ARREST,15219427,5104,Resisting Arrest or Other Law Enforcement.,11/15/2015,03:28,5000 block Centre Ave,Bloomfield,5,31,M
+ARREST,15219427,5503(a)(2),DISORDERLY CONDUCT - UNREASONABLE NOISE,11/15/2015,03:28,5000 block Centre Ave,Bloomfield,5,31,M
+ARREST,15219427,5123,Contraband.,11/15/2015,03:28,5000 block Centre Ave,Bloomfield,5,31,M
+ARREST,15219427,5505,Public Drunkenness,11/15/2015,03:28,5000 block Centre Ave,Bloomfield,5,31,M
+ARREST,15219427,2702,Aggravated Assault.,11/15/2015,03:28,5000 block Centre Ave,Bloomfield,5,31,M
+ARREST,15219427,13(a)(31),Marijuana: Possession Small Amount,11/15/2015,03:28,5000 block Centre Ave,Bloomfield,5,31,M
+OFFENSE 2.0,15219439,3701,Robbery.,11/15/2015,04:04,6400 block Hamilton Ave,Larimer,5,,
+ARREST,15081439,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,11/15/2015,04:35,1200 block Paulson Ave,Lincoln-Lemington-Belmar,5,32,F
+ARREST,15081439,3921(a),Theft by Unlawful Taking or Disposition - Movable item,11/15/2015,04:35,1200 block Paulson Ave,Lincoln-Lemington-Belmar,5,32,F
+OFFENSE 2.0,15219450,9999,9999 - (Misc. Incident): ,11/15/2015,04:57,6900 block Wiltsie St,Lincoln-Lemington-Belmar,5,,
+ARREST,15219854,9501,Bench Warrant,11/15/2015,21:38,Paul Scuillo Memorial Field Park,South Side Slopes,5,38,M
+OFFENSE 2.0,15219854,9501,Bench Warrant,11/15/2015,21:38,Paul Scuillo Memorial Field Park,South Side Slopes,5,,
+OFFENSE 2.0,15219406,9490,Missing Persons (18 and Over),11/15/2015,02:47,1400 block Milan Ave,Brookline,6,,
+OFFENSE 2.0,15219406,9490,Missing Persons (18 and Over),11/15/2015,08:00,1400 block Milan Ave,Brookline,6,,
+OFFENSE 2.0,15219528,8106,Shots Fired,11/15/2015,10:01,200 block Steuben St,West End,6,,
+OFFENSE 2.0,15219766,2706,Terroristic Threats.,11/15/2015,18:15,2700 block Stafford St,Sheraden,6,,
+OFFENSE 2.0,15219729,9094,Recovered Stolen Vehicle (OUTSIDE CITY),11/15/2015,17:45,unknown,Outside County,OSC,,
