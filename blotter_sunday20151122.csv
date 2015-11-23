@@ -1,0 +1,175 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,15224233,3928,Unauthorized Use of Automobile and Other Vehicles.,11/22/2015,00:30,3600 block Mexico St,Brighton Heights,1,,
+OFFENSE 2.0,15224231,9488,False  Burglar Alarm,11/22/2015,00:35,1200 block Western Ave,Chateau,1,,
+OFFENSE 2.0,15224317,3802(a)(1),DUI - General Impairment,11/22/2015,01:57,General Robinson St E & River Ave,North Shore,1,,
+ARREST,15224317,3802(a)(1),DUI - General Impairment,11/22/2015,02:25,General Robinson St E & River Ave,North Shore,1,26,M
+OFFENSE 2.0,15224352,3745,Accidents Involving Damage to Unattended Veh.or Prop.,11/22/2015,02:42,2100 block Brighton Rd,California-Kirkbride,1,,
+OFFENSE 2.0,15224352,3802(a)(1),DUI - General Impairment,11/22/2015,02:42,2100 block Brighton Rd,California-Kirkbride,1,,
+ARREST,15224352,3802(a)(1),DUI - General Impairment,11/22/2015,03:00,2100 block Brighton Rd,California-Kirkbride,1,37,M
+OFFENSE 2.0,15224282,6301,Corruption of Minors.,11/22/2015,03:00,Woessner Ave,Spring Hill-City View,1,,
+OFFENSE 2.0,15224282,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,11/22/2015,03:00,Woessner Ave,Spring Hill-City View,1,,
+ARREST,15224352,3745,Accidents Involving Damage to Unattended Veh.or Prop.,11/22/2015,03:00,2100 block Brighton Rd,California-Kirkbride,1,37,M
+OFFENSE 2.0,15224282,6310.7,Sell/Furn. Non-Alcohol Beverage to Minors,11/22/2015,03:00,Woessner Ave,Spring Hill-City View,1,,
+OFFENSE 2.0,15224383,3921,Theft by Unlawful Taking or Disposition.,11/22/2015,03:47,1500 block Davis Ave,Brighton Heights,1,,
+OFFENSE 2.0,15224395,9488,False  Burglar Alarm,11/22/2015,05:45,2600 block N Charles St,Perry South,1,,
+OFFENSE 2.0,15224401,3304,Criminal Mischief.,11/22/2015,06:03,1700 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,15224413,9488,False  Burglar Alarm,11/22/2015,07:19,1400 block Juniata St,Manchester,1,,
+OFFENSE 2.0,15224511,3929,Retail Theft.,11/22/2015,12:07,600 block East Ohio St,East Allegheny,1,,
+OFFENSE 2.0,15224601,2701,Simple Assault.,11/22/2015,16:06,1200 block Itin St,Spring Hill-City View,1,,
+ARREST,15224601,2701,Simple Assault.,11/22/2015,16:15,1200 block Itin St,Spring Hill-City View,1,30,M
+OFFENSE 2.0,15224721,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,11/22/2015,19:15,800 block Peralta St,East Allegheny,1,,
+OFFENSE 2.0,15224718,3304,Criminal Mischief.,11/22/2015,19:30,500 block Mt Pleasant Rd,Northview Heights,1,,
+ARREST,15224721,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,11/22/2015,19:30,800 block Peralta St,East Allegheny,1,51,F
+OFFENSE 2.0,15224759,029,Missing Juvenile,11/22/2015,22:48,200 block Ridge Ave,Allegheny Center,1,,
+OFFENSE 2.0,15224226,3743,Accidents Involving Damage to Attended Veh. or Property,11/22/2015,00:15,7th St & Penn Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15224311,5505,Public Drunkenness,11/22/2015,02:10,Penn Ave & 21st St,Strip District,2,,
+OFFENSE 2.0,15224355,1501(A),Valid Driver's License Required,11/22/2015,02:46,Liberty Ave & 26th St,Strip District,2,,
+OFFENSE 2.0,15224355,3714,Careless Driving,11/22/2015,02:46,Liberty Ave & 26th St,Strip District,2,,
+OFFENSE 2.0,15224355,3802(a)(1),DUI - General Impairment,11/22/2015,02:46,Liberty Ave & 26th St,Strip District,2,,
+ARREST,15224355,3802(a)(1),DUI - General Impairment,11/22/2015,02:55,Liberty Ave & 26th St,Strip District,2,21,M
+ARREST,15224355,3714,Careless Driving,11/22/2015,02:55,Liberty Ave & 26th St,Strip District,2,21,M
+ARREST,15224355,1501(A),Valid Driver's License Required,11/22/2015,02:55,Liberty Ave & 26th St,Strip District,2,21,M
+OFFENSE 2.0,15224356,3745,Accidents Involving Damage to Unattended Veh.or Prop.,11/22/2015,02:56,100 block Locarna Way,Central Lawrenceville,2,,
+OFFENSE 2.0,15224360,607.03,Discharging Firearm or Airgun,11/22/2015,03:15,600 block Wandless St,Middle Hill,2,,
+OFFENSE 2.0,15224583,3304,Criminal Mischief.,11/22/2015,04:30,900 block Penn Ave,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15224496,3304,Criminal Mischief.,11/22/2015,09:30,3400 block Ligonier St,Lower Lawrenceville,2,,
+ARREST,15216900,3921(a),Theft by Unlawful Taking or Disposition - Movable item,11/22/2015,10:00,900 block 2nd Ave,Squirrel Hill North,2,33,M
+ARREST,15175855,3925,Receiving Stolen Property.,11/22/2015,12:45,900 block Second Ave,Bloomfield,2,43,M
+ARREST,15175855,4106,Access Device Fraud,11/22/2015,12:45,900 block Second Ave,Bloomfield,2,43,M
+ARREST,15213113,2701,Simple Assault.,11/22/2015,14:10,600 block 1st Ave,Perry South,2,25,M
+ARREST,15213113,2702,Aggravated Assault.,11/22/2015,14:10,600 block 1st Ave,Perry South,2,25,M
+OFFENSE 2.0,15224652,3934,Theft from Vehicle,11/22/2015,17:15,1100 block Liberty Ave,Golden Triangle/Civic Arena,2,,
+ARREST,15224634,9093,Indirect Criminal Contempt,11/22/2015,17:21,3300 block Webster Ave,Upper Hill,2,22,M
+OFFENSE 2.0,15224634,2709(a),Harassment.,11/22/2015,17:21,3300 block Webster Ave,Upper Hill,2,,
+OFFENSE 2.0,15224634,9093,Indirect Criminal Contempt,11/22/2015,17:21,3300 block Webster Ave,Upper Hill,2,,
+OFFENSE 2.0,15224225,3743,Accidents Involving Damage to Attended Veh. or Property,11/22/2015,00:07,Maytide St & Saw Mill Run Blvd,Carrick,3,,
+OFFENSE 2.0,15224258,13(a)(32),Paraphernalia - Use or Possession,11/22/2015,00:50,1200 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15224258,13(a)(31),Marijuana: Possession Small Amount,11/22/2015,00:50,1200 block E Carson St,South Side Flats,3,,
+ARREST,15224258,13(a)(32),Paraphernalia - Use or Possession,11/22/2015,00:50,1200 block E Carson St,South Side Flats,3,24,F
+ARREST,15224258,13(a)(31),Marijuana: Possession Small Amount,11/22/2015,00:50,1200 block E Carson St,South Side Flats,3,24,F
+OFFENSE 2.0,15224624,5503,Disorderly Conduct.,11/22/2015,00:58,S 15th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15224279,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,11/22/2015,01:20,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15224279,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,11/22/2015,01:20,1500 block E Carson St,South Side Flats,3,,
+ARREST,15224283,13(a)(16),Possession of Controlled Substance,11/22/2015,01:25,Roland St & S 15th St,South Side Flats,3,25,M
+OFFENSE 2.0,15224289,5503,Disorderly Conduct.,11/22/2015,01:28,1700 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15224289,2702,Aggravated Assault.,11/22/2015,01:28,1700 block E Carson St,South Side Flats,3,,
+ARREST,15224289,5503,Disorderly Conduct.,11/22/2015,01:29,1700 block E Carson St,South Side Flats,3,20,F
+ARREST,15224289,2702,Aggravated Assault.,11/22/2015,01:29,1700 block E Carson St,South Side Flats,3,20,F
+OFFENSE 2.0,15224283,13(a)(16),Possession of Controlled Substance,11/22/2015,01:30,Roland St & S 15th St,South Side Flats,3,,
+OFFENSE 2.0,15224339,3745,Accidents Involving Damage to Unattended Veh.or Prop.,11/22/2015,01:48,Stewart Ave & Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,15224339,3731,Driving Under Influence of Alcohol or Controlled Substance,11/22/2015,01:48,Stewart Ave & Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,15224312,601.16,Public Urination And Defecation,11/22/2015,01:50,1400 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15224300,9999,9999 - (Misc. Incident): missing juvenile,11/22/2015,02:00,200 block Knox Ave,Knoxville,3,,
+OFFENSE 2.0,15224327,9999,9999 - (Misc. Incident): ,11/22/2015,02:12,1600 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15224334,601.16,Public Urination And Defecation,11/22/2015,02:18,S 12th St & Bedford Sq,South Side Flats,3,,
+ARREST,15224339,3731,Driving Under Influence of Alcohol or Controlled Substance,11/22/2015,02:19,Stewart Ave & Brownsville Rd,Carrick,3,34,F
+ARREST,15224339,3745,Accidents Involving Damage to Unattended Veh.or Prop.,11/22/2015,02:19,Stewart Ave & Brownsville Rd,Carrick,3,34,F
+OFFENSE 2.0,15224346,3802(a)(1),DUI - General Impairment,11/22/2015,02:36,E Carson St & S 14th St,South Side Flats,3,,
+OFFENSE 2.0,15224346,13(a)(31),Marijuana: Possession Small Amount,11/22/2015,02:36,E Carson St & S 14th St,South Side Flats,3,,
+OFFENSE 2.0,15224346,1543,Driving While Operating Privilege is Suspended or Revoked.,11/22/2015,02:36,E Carson St & S 14th St,South Side Flats,3,,
+ARREST,15224346,1543,Driving While Operating Privilege is Suspended or Revoked.,11/22/2015,02:40,E Carson St & S 14th St,South Side Flats,3,21,M
+ARREST,15224346,13(a)(31),Marijuana: Possession Small Amount,11/22/2015,02:40,E Carson St & S 14th St,South Side Flats,3,21,M
+ARREST,15224346,3802(a)(1),DUI - General Impairment,11/22/2015,02:40,E Carson St & S 14th St,South Side Flats,3,21,M
+OFFENSE 2.0,15224411,9489,Found Property,11/22/2015,07:15,S 12th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15224421,9497,Aided Case,11/22/2015,07:55,100 block Birmingham Ave,Carrick,3,,
+OFFENSE 2.0,15224442,3921,Theft by Unlawful Taking or Disposition.,11/22/2015,08:00,2700 block Burham St,South Side Slopes,3,,
+OFFENSE 2.0,15224627,3934,Theft from Vehicle,11/22/2015,09:00,100 block Wynoka St,Carrick,3,,
+OFFENSE 2.0,15224441,3921,Theft by Unlawful Taking or Disposition.,11/22/2015,09:09,400 block Moore Ave,Knoxville,3,,
+OFFENSE 2.0,15224464,9488,False  Burglar Alarm,11/22/2015,10:10,1200 block Bingham St,South Side Flats,3,,
+ARREST,15215847,3921,Theft by Unlawful Taking or Disposition.,11/22/2015,11:30,900 block E Carson St,Bluff,3,30,M
+ARREST,15215847,3502,Burglary.,11/22/2015,11:30,900 block E Carson St,Bluff,3,30,M
+ARREST,15215847,3925,Receiving Stolen Property.,11/22/2015,11:30,900 block E Carson St,Bluff,3,30,M
+OFFENSE 2.0,15224500,3745,Accidents Involving Damage to Unattended Veh.or Prop.,11/22/2015,11:50,200 block Cowan St,Duquesne Heights,3,,
+OFFENSE 2.0,15224618,2709(a),Harassment.,11/22/2015,12:00,1900 block St Paul St,South Side Slopes,3,,
+ARREST,15210299,3304,Criminal Mischief.,11/22/2015,16:08,200 block Kramer Way,Mount Washington,3,21,M
+OFFENSE 2.0,15224709,3921,Theft by Unlawful Taking or Disposition.,11/22/2015,19:00,200 block Zara St,Knoxville,3,,
+OFFENSE 2.0,15224752,3304,Criminal Mischief.,11/22/2015,20:30,200 block Conniston Ave,Bon Air,3,,
+OFFENSE 2.0,15224757,2701,Simple Assault.,11/22/2015,20:57,Pasadena St,Mount Washington,3,,
+ARREST,15224757,2701,Simple Assault.,11/22/2015,21:25,Pasadena St,Mount Washington,3,24,F
+OFFENSE 2.0,15224536,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,11/22/2015,00:01,4000 block Forbes Ave,North Oakland,4,,
+OFFENSE 2.0,15224655,2709(a)(3),Harassment No Legitimate Purpose,11/22/2015,01:10,Beelen St,West Oakland,4,,
+OFFENSE 2.0,15224316,9999,9999 - (Misc. Incident): 9999 - (Misc. Incident): Emancipated individual,11/22/2015,01:15,5800 block Northumberland St,Squirrel Hill North,4,,
+OFFENSE 2.0,15224600,3921(a),Theft by Unlawful Taking or Disposition - Movable item,11/22/2015,01:47,200 block Atwood St,Central Oakland,4,,
+OFFENSE 2.0,15224348,3736,Reckless Driving,11/22/2015,02:37,6600 block Forbes Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,15224348,3802(a)(1),DUI - General Impairment,11/22/2015,02:37,6600 block Forbes Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,15224350,3929,Retail Theft.,11/22/2015,02:38,4600 block Centre Ave,North Oakland,4,,
+OFFENSE 2.0,15224481,2709(a),Harassment.,11/22/2015,10:48,5200 block 2 nd Ave,Hazelwood,4,,
+OFFENSE 2.0,15224512,4120,Identity Theft,11/22/2015,12:00,5100 block Beeler St,Squirrel Hill North,4,,
+OFFENSE 2.0,15224615,9504,Lost Property,11/22/2015,12:00,1800 block Murray Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,15224512,3921(a),Theft by Unlawful Taking or Disposition - Movable item,11/22/2015,12:00,5100 block Beeler St,Squirrel Hill North,4,,
+OFFENSE 2.0,15224517,9999,9999 - (Misc. Incident): ,11/22/2015,12:35,5400 block Pocussett St,Squirrel Hill South,4,,
+OFFENSE 2.0,15224522,3929,Retail Theft.,11/22/2015,12:46,200 block Atwood St,Central Oakland,4,,
+OFFENSE 2.0,15224530,3304,Criminal Mischief.,11/22/2015,13:00,200 block N Bellefield Ave,North Oakland,4,,
+OFFENSE 2.0,15224579,3921(a),Theft by Unlawful Taking or Disposition - Movable item,11/22/2015,14:30,6900 block Reynolds St,Point Breeze,4,,
+OFFENSE 2.0,15224629,3934,Theft from Vehicle,11/22/2015,16:42,700 block Hazelwood Ave,Hazelwood,4,,
+OFFENSE 2.0,15224675,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,11/22/2015,17:15,700 block Culloden Way,Shadyside,4,,
+ARREST,15224680,3802(a)(1),DUI - General Impairment,11/22/2015,18:14,S Dallas Ave & Forbes Ave,Squirrel Hill North,4,33,M
+OFFENSE 2.0,15224680,3802(a)(2),DUI - BAC >.08% <.10%,11/22/2015,18:14,S Dallas Ave & Forbes Ave,Squirrel Hill North,4,,
+ARREST,15224680,3802(a)(2),DUI - BAC >.08% <.10%,11/22/2015,18:14,S Dallas Ave & Forbes Ave,Squirrel Hill North,4,33,M
+OFFENSE 2.0,15224680,3802(a)(1),DUI - General Impairment,11/22/2015,18:14,S Dallas Ave & Forbes Ave,Squirrel Hill North,4,,
+OFFENSE 2.0,15224218,4304(a)(1),Endangering Welfare of Children.,11/22/2015,00:25,7300 block Frankstown Ave,Homewood North,5,,
+ARREST,15224218,4304(a)(1),Endangering Welfare of Children.,11/22/2015,00:25,7300 block Frankstown Ave,Homewood North,5,30,F
+OFFENSE 2.0,15224452,3304,Criminal Mischief.,11/22/2015,08:00,4600 block Lorigan St,Bloomfield,5,,
+OFFENSE 2.0,15224651,3921,Theft by Unlawful Taking or Disposition.,11/22/2015,11:00,7100 block Monticello St,Homewood North,5,,
+OFFENSE 2.0,15224491,3743,Accidents Involving Damage to Attended Veh. or Property,11/22/2015,11:25,Washington Blvd & Allegheny River Blvd,Highland Park,5,,
+OFFENSE 2.0,15224506,901,Criminal Attempt,11/22/2015,11:45,600 block N Murtland St,Homewood West,5,,
+OFFENSE 2.0,15224617,3304,Criminal Mischief.,11/22/2015,16:29,4700 block Lorigan St,Bloomfield,5,,
+OFFENSE 2.0,15224657,3323,Stop Signs and Yield Signs.,11/22/2015,17:23,East Liberty Blvd & Sheridan Ave,East Liberty,5,,
+OFFENSE 2.0,15224657,3733,Fleeing or Attempting to Elude Police Officer,11/22/2015,17:23,East Liberty Blvd & Sheridan Ave,East Liberty,5,,
+OFFENSE 2.0,15224696,3743,Accidents Involving Damage to Attended Veh. or Property,11/22/2015,18:25,5th Ave & Frankstown Ave,Homewood West,5,,
+OFFENSE 2.0,15224724,3304,Criminal Mischief.,11/22/2015,19:24,100 block N Highland Ave,East Liberty,5,,
+OFFENSE 2.0,15224727,2701,Simple Assault.,11/22/2015,19:32,7900 block Inglenook Pl,Homewood South,5,,
+OFFENSE 2.0,15224772,9999,9999 - (Misc. Incident): ,11/22/2015,21:31,5600 block Stanton Ave,Highland Park,5,,
+OFFENSE 2.0,15224776,2701,Simple Assault.,11/22/2015,21:55,5400 block Rosetta St,Garfield,5,,
+ARREST,15224776,2701,Simple Assault.,11/22/2015,22:30,5400 block Rosetta St,Garfield,5,71,F
+OFFENSE 2.0,15224245,4107(b)(2),Vehicle Equipment Standards,11/22/2015,00:31,Chartiers Ave & Nittany St,Elliott,6,,
+OFFENSE 2.0,15224245,3802(a)(1),DUI - General Impairment,11/22/2015,00:31,Chartiers Ave & Nittany St,Elliott,6,,
+OFFENSE 2.0,15224245,3112,Traffic-Control Signals.,11/22/2015,00:31,Chartiers Ave & Nittany St,Elliott,6,,
+ARREST,15224245,4107(b)(2),Vehicle Equipment Standards,11/22/2015,00:43,Chartiers Ave & Nittany St,Elliott,6,39,F
+ARREST,15224245,3802(a)(1),DUI - General Impairment,11/22/2015,00:43,Chartiers Ave & Nittany St,Elliott,6,39,F
+ARREST,15224245,3112,Traffic-Control Signals.,11/22/2015,00:43,Chartiers Ave & Nittany St,Elliott,6,39,F
+OFFENSE 2.0,15224270,3743,Accidents Involving Damage to Attended Veh. or Property,11/22/2015,01:50,1400 block Brookline Blvd,Brookline,6,,
+OFFENSE 2.0,15224270,3736,Reckless Driving,11/22/2015,01:50,1400 block Brookline Blvd,Brookline,6,,
+OFFENSE 2.0,15224270,9501,Bench Warrant,11/22/2015,01:50,1400 block Brookline Blvd,Brookline,6,,
+OFFENSE 2.0,15224270,3802(d)(3),DUI - Alcohol and Drug Combined - Impaired Ability,11/22/2015,01:50,1400 block Brookline Blvd,Brookline,6,,
+OFFENSE 2.0,15224270,1786,Required Financial Responsibility.,11/22/2015,01:50,1400 block Brookline Blvd,Brookline,6,,
+OFFENSE 2.0,15224270,1543,Driving While Operating Privilege is Suspended or Revoked.,11/22/2015,01:50,1400 block Brookline Blvd,Brookline,6,,
+ARREST,15224270,1543,Driving While Operating Privilege is Suspended or Revoked.,11/22/2015,01:50,1400 block Brookline Blvd,Brookline,6,56,M
+ARREST,15224270,1786,Required Financial Responsibility.,11/22/2015,01:50,1400 block Brookline Blvd,Brookline,6,56,M
+ARREST,15224270,3736,Reckless Driving,11/22/2015,01:50,1400 block Brookline Blvd,Brookline,6,56,M
+ARREST,15224270,3743,Accidents Involving Damage to Attended Veh. or Property,11/22/2015,01:50,1400 block Brookline Blvd,Brookline,6,56,M
+ARREST,15224270,3802(d)(3),DUI - Alcohol and Drug Combined - Impaired Ability,11/22/2015,01:50,1400 block Brookline Blvd,Brookline,6,56,M
+ARREST,15224270,9501,Bench Warrant,11/22/2015,01:50,1400 block Brookline Blvd,Brookline,6,56,M
+OFFENSE 2.0,15224191,029,Missing Juvenile,11/22/2015,01:55,1300 block Breining St,Brookline,6,,
+OFFENSE 2.0,15224516,3304,Criminal Mischief.,11/22/2015,02:30,3900 block Village Rd,Fairywood,6,,
+OFFENSE 2.0,15224423,3304,Criminal Mischief.,11/22/2015,07:30,3100 block Landis St,Sheraden,6,,
+OFFENSE 2.0,15224478,9488,False  Burglar Alarm,11/22/2015,10:39,1100 block Mc Neilly Ave,Brookline,6,,
+OFFENSE 2.0,15224480,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,11/22/2015,10:45,2400 block Glen Mawr St,Sheraden,6,,
+ARREST,15224480,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,11/22/2015,11:07,2400 block Glen Mawr St,Sheraden,6,18,M
+OFFENSE 2.0,15224497,9488,False  Burglar Alarm,11/22/2015,11:43,2400 block Mc Neilly Ave,Brookline,6,,
+OFFENSE 2.0,15224505,3304,Criminal Mischief.,11/22/2015,12:00,3900 block Village Rd,Fairywood,6,,
+OFFENSE 2.0,15224555,1543,Driving While Operating Privilege is Suspended or Revoked.,11/22/2015,14:13,Mackinaw Ave & Los Angeles Ave,Beechview,6,,
+OFFENSE 2.0,15224555,3809(a),Restriction on Alcoholic Beverages in Vehicle,11/22/2015,14:13,Mackinaw Ave & Los Angeles Ave,Beechview,6,,
+OFFENSE 2.0,15224555,3802(a)(1),DUI - General Impairment,11/22/2015,14:13,Mackinaw Ave & Los Angeles Ave,Beechview,6,,
+ARREST,15224555,3802(a)(1),DUI - General Impairment,11/22/2015,14:29,Mackinaw Ave & Los Angeles Ave,Beechview,6,,M
+ARREST,15224555,1543,Driving While Operating Privilege is Suspended or Revoked.,11/22/2015,14:29,Mackinaw Ave & Los Angeles Ave,Beechview,6,,M
+ARREST,15224555,3809(a),Restriction on Alcoholic Beverages in Vehicle,11/22/2015,14:29,Mackinaw Ave & Los Angeles Ave,Beechview,6,,M
+OFFENSE 2.0,15224708,2902,Unlawful Restraint.,11/22/2015,19:45,400 block Stadium St,Sheraden,6,,
+OFFENSE 2.0,15224708,2701,Simple Assault.,11/22/2015,19:45,400 block Stadium St,Sheraden,6,,
+OFFENSE 2.0,15224708,3701,Robbery.,11/22/2015,19:45,400 block Stadium St,Sheraden,6,,
+OFFENSE 2.0,15224708,9501,Bench Warrant,11/22/2015,19:45,400 block Stadium St,Sheraden,6,,
+ARREST,15224708,2701,Simple Assault.,11/22/2015,20:00,400 block Stadium St,Sheraden,6,23,M
+ARREST,15224708,2902,Unlawful Restraint.,11/22/2015,20:00,400 block Stadium St,Sheraden,6,23,M
+ARREST,15224708,3701,Robbery.,11/22/2015,20:00,400 block Stadium St,Sheraden,6,23,M
+ARREST,15224708,9501,Bench Warrant,11/22/2015,20:00,400 block Stadium St,Sheraden,6,23,M
+ARREST,15210809,2701(a)(3),Simple Assault - Attempts by Physical Menace ,11/22/2015,20:00,400 block Stadium St,Sheraden,6,23,M
+ARREST,15210809,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,11/22/2015,20:00,400 block Stadium St,Sheraden,6,23,M
+OFFENSE 2.0,15224736,3802(d)(3),DUI - Alcohol and Drug Combined - Impaired Ability,11/22/2015,20:00,Potomac Ave & Banksville Rd,Banksville,6,,
+OFFENSE 2.0,15224736,3743,Accidents Involving Damage to Attended Veh. or Property,11/22/2015,20:00,Potomac Ave & Banksville Rd,Banksville,6,,
+OFFENSE 2.0,15224736,3742,Accidents Involving Death or Personal Injury,11/22/2015,20:00,Potomac Ave & Banksville Rd,Banksville,6,,
+ARREST,15224736,3742,Accidents Involving Death or Personal Injury,11/22/2015,20:30,Potomac Ave & Banksville Rd,Banksville,6,52,M
+ARREST,15224736,3743,Accidents Involving Damage to Attended Veh. or Property,11/22/2015,20:30,Potomac Ave & Banksville Rd,Banksville,6,52,M
+ARREST,15224736,3802(d)(3),DUI - Alcohol and Drug Combined - Impaired Ability,11/22/2015,20:30,Potomac Ave & Banksville Rd,Banksville,6,52,M
+OFFENSE 2.0,15224649,3112,Traffic-Control Signals.,11/22/2015,17:34,4100 block Steubenville Pike,Outside City,OSC,,
+ARREST,15224649,9501,Bench Warrant,11/22/2015,17:34,4100 block Steubenville Pike,Outside City,OSC,47,M
+OFFENSE 2.0,15224649,9501,Bench Warrant,11/22/2015,17:34,4100 block Steubenville Pike,Outside City,OSC,,
