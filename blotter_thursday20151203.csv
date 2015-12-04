@@ -1,0 +1,111 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,15230967,9488,False  Burglar Alarm,12/03/2015,00:21,600 block East Ohio St,East Allegheny,1,,
+OFFENSE 2.0,15231044,9488,False  Burglar Alarm,12/03/2015,03:20,400 block East Commons,Allegheny Center,1,,
+OFFENSE 2.0,15231108,3743,Accidents Involving Damage to Attended Veh. or Property,12/03/2015,07:56,3600 block Fleming Ave,Brighton Heights,1,,
+OFFENSE 2.0,15231105,9488,False  Burglar Alarm,12/03/2015,08:02,100 block W North Ave,Central Northside,1,,
+OFFENSE 2.0,15231131,3304,Criminal Mischief.,12/03/2015,08:30,300 block Kennedy Ave,Perry South,1,,
+OFFENSE 2.0,15231171,9488,False  Burglar Alarm,12/03/2015,10:34,1400 block Hamlin St,Manchester,1,,
+ARREST,15228598,2701,Simple Assault.,12/03/2015,13:18,2100 block Rhine St,Spring Hill-City View,1,43,F
+OFFENSE 2.0,15231367,029,Missing Juvenile,12/03/2015,17:00,1200 block Benton Ave,Brighton Heights,1,,
+OFFENSE 2.0,15231342,2702,Aggravated Assault.,12/03/2015,17:07,1300 block Federal St N,Central Northside,1,,
+OFFENSE 2.0,15231342,3929,Retail Theft.,12/03/2015,17:07,1300 block Federal St N,Central Northside,1,,
+OFFENSE 2.0,15231431,13(a)(31),Marijuana: Possession Small Amount,12/03/2015,18:39,Perrysville Ave & Portman Ave,Perry North,1,,
+OFFENSE 2.0,15231431,13(a)(32),Paraphernalia - Use or Possession,12/03/2015,18:39,Perrysville Ave & Portman Ave,Perry North,1,,
+OFFENSE 2.0,15231431,5902(a)(1),Prostitution ,12/03/2015,18:39,Perrysville Ave & Portman Ave,Perry North,1,,
+ARREST,15231431,13(a)(31),Marijuana: Possession Small Amount,12/03/2015,18:39,Perrysville Ave & Portman Ave,Perry North,1,19,F
+ARREST,15231431,13(a)(32),Paraphernalia - Use or Possession,12/03/2015,18:39,Perrysville Ave & Portman Ave,Perry North,1,19,F
+ARREST,15231431,5902(a)(1),Prostitution ,12/03/2015,18:39,Perrysville Ave & Portman Ave,Perry North,1,19,F
+ARREST,15231431,907,Possessing Instruments of Crime.,12/03/2015,18:39,Perrysville Ave & Portman Ave,Perry North,1,19,F
+OFFENSE 2.0,15231431,907,Possessing Instruments of Crime.,12/03/2015,18:39,Perrysville Ave & Portman Ave,Perry North,1,,
+ARREST,15228847,2709.1,Stalking Conduct or Repeatedly Acts Including Follows,12/03/2015,18:50,1700 block Spring Garden Ave,Spring Garden,1,31,M
+ARREST,15228847,2709(a)(2),Harassment by Following Person in Public Place(s),12/03/2015,18:50,1700 block Spring Garden Ave,Spring Garden,1,31,M
+ARREST,15228847,4906,False Reports to Law Enforcement Authorities.,12/03/2015,18:50,1700 block Spring Garden Ave,Spring Garden,1,31,M
+OFFENSE 2.0,15231410,2701,Simple Assault.,12/03/2015,19:00,E North Ave,Allegheny Center,1,,
+OFFENSE 2.0,15231410,5503,Disorderly Conduct.,12/03/2015,19:00,E North Ave,Allegheny Center,1,,
+OFFENSE 2.0,15231023,3502,Burglary.,12/03/2015,02:16,1700 block Penn Ave,Strip District,2,,
+OFFENSE 2.0,15231243,3934,Theft from Vehicle,12/03/2015,06:00,5300 block Holmes St,Upper Lawrenceville,2,,
+OFFENSE 2.0,15231295,3934,Theft from Vehicle,12/03/2015,07:00,200 block 46th St,Central Lawrenceville,2,,
+OFFENSE 2.0,15231103,3921(a),Theft by Unlawful Taking or Disposition - Movable item,12/03/2015,07:36,2700 block Penn Ave,Strip District,2,,
+OFFENSE 2.0,15231103,3743,Accidents Involving Damage to Attended Veh. or Property,12/03/2015,07:36,2700 block Penn Ave,Strip District,2,,
+OFFENSE 2.0,15231103,3925,Receiving Stolen Property.,12/03/2015,07:36,2700 block Penn Ave,Strip District,2,,
+OFFENSE 2.0,15231119,9999,9999 - (Misc. Incident): ,12/03/2015,07:56,400 block Forbes Ave,Golden Triangle/Civic Arena,2,,
+ARREST,15231103,3743,Accidents Involving Damage to Attended Veh. or Property,12/03/2015,10:04,2700 block Penn Ave,Strip District,2,37,F
+ARREST,15231103,3925,Receiving Stolen Property.,12/03/2015,10:04,2700 block Penn Ave,Strip District,2,37,F
+ARREST,15223423,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,12/03/2015,10:21,600 block Liberty Ave,Golden Triangle/Civic Arena,2,16,F
+ARREST,15142111,13(a)(30),Possession w/ Intent to Del. Controlled Substance,12/03/2015,11:30,2000 block Centre Ave,Crawford-Roberts,2,25,M
+ARREST,15142111,13(a)(30)*,Delivery of Controlled Substance,12/03/2015,11:30,2000 block Centre Ave,Crawford-Roberts,2,25,M
+ARREST,15142111,13(a)(16),Possession of Controlled Substance,12/03/2015,11:30,2000 block Centre Ave,Crawford-Roberts,2,25,M
+OFFENSE 2.0,15231225,3701,Robbery.,12/03/2015,12:44,3200 block Smallman St,Strip District,2,,
+OFFENSE 2.0,15231347,3921,Theft by Unlawful Taking or Disposition.,12/03/2015,14:45,47th St & Butler St,Central Lawrenceville,2,,
+OFFENSE 2.0,15231556,5505,Public Drunkenness,12/03/2015,23:33,1700 block Penn Ave,Strip District,2,,
+OFFENSE 2.0,15230961,3736,Reckless Driving,12/03/2015,00:16,Liberty Tunl & West Liberty Ave,Beltzhoover,3,,
+OFFENSE 2.0,15230961,3802(a)(1),DUI - General Impairment,12/03/2015,00:16,Liberty Tunl & West Liberty Ave,Beltzhoover,3,,
+ARREST,15230961,3802(a)(1),DUI - General Impairment,12/03/2015,00:16,Liberty Tunl & West Liberty Ave,Beltzhoover,3,44,M
+ARREST,15230961,3736,Reckless Driving,12/03/2015,00:16,Liberty Tunl & West Liberty Ave,Beltzhoover,3,44,M
+OFFENSE 2.0,15231019,3743,Accidents Involving Damage to Attended Veh. or Property,12/03/2015,02:00,Shiloh St & Virginia Ave,Mount Washington,3,,
+OFFENSE 2.0,15231124,9496,Dead on Arrival (DOA),12/03/2015,08:47,300 block Meritt Ave,Carrick,3,,
+ARREST,15227866,2501,Criminal Homicide.,12/03/2015,10:50,1800 block Brownsville Rd,Carrick,3,25,M
+OFFENSE 2.0,15231194,3926.C1,THEFT OF SERVICES,12/03/2015,11:10,800 block Saw Mill Run Blvd,Bon Air,3,,
+OFFENSE 2.0,15231209,4101,Forgery.,12/03/2015,11:30,800 block E Warrington Ave,Allentown,3,,
+OFFENSE 2.0,15231237,9999,9999 - (Misc. Incident): ,12/03/2015,12:45,1700 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15231266,13(a)(30),Possession w/ Intent to Del. Controlled Substance,12/03/2015,13:36,600 block Lillian St,Allentown,3,,
+ARREST,15231266,7512,Criminal Use of Communication,12/03/2015,13:36,600 block Lillian St,Allentown,3,44,M
+ARREST,15231266,13(a)(30),Possession w/ Intent to Del. Controlled Substance,12/03/2015,13:36,600 block Lillian St,Allentown,3,44,M
+ARREST,15231266,13(a)(16),Possession of Controlled Substance,12/03/2015,13:36,600 block Lillian St,Allentown,3,44,M
+OFFENSE 2.0,15231266,7512,Criminal Use of Communication,12/03/2015,13:36,600 block Lillian St,Allentown,3,,
+OFFENSE 2.0,15231266,13(a)(16),Possession of Controlled Substance,12/03/2015,13:36,600 block Lillian St,Allentown,3,,
+ARREST,15226166,5506,Loitering and Prowling at Night,12/03/2015,14:25,S 14th St,Golden Triangle/Civic Arena,3,18,M
+ARREST,15226166,9501,Bench Warrant,12/03/2015,14:25,S 14th St,Golden Triangle/Civic Arena,3,18,M
+ARREST,15226166,5505,Public Drunkenness,12/03/2015,14:25,S 14th St,Golden Triangle/Civic Arena,3,18,M
+OFFENSE 2.0,15231311,9999,9999 - (Misc. Incident): ,12/03/2015,14:30,2500 block Jane St,South Side Flats,3,,
+OFFENSE 2.0,15231339,2701,Simple Assault.,12/03/2015,16:55,100 block Knox Ave,Knoxville,3,,
+ARREST,15231339,2701,Simple Assault.,12/03/2015,17:15,100 block Knox Ave,Knoxville,3,59,M
+OFFENSE 2.0,15231400,3701,Robbery.,12/03/2015,18:50,S 1st St & E Carson St,South Shore,3,,
+OFFENSE 2.0,15231429,3929,Retail Theft.,12/03/2015,19:31,2000 block Wharton St,South Side Flats,3,,
+OFFENSE 2.0,15231429,9501,Bench Warrant,12/03/2015,19:31,2000 block Wharton St,South Side Flats,3,,
+OFFENSE 2.0,15231434,029,Missing Juvenile,12/03/2015,19:40,600 block Delmont Ave,Beltzhoover,3,,
+OFFENSE 2.0,15231512,029,Missing Juvenile,12/03/2015,19:40,600 block Delmont Ave,Beltzhoover,3,,
+OFFENSE 2.0,15231511,029,Missing Juvenile,12/03/2015,19:40,600 block Delmont Ave,Beltzhoover,3,,
+ARREST,15231429,9501,Bench Warrant,12/03/2015,20:47,2000 block Wharton St,South Side Flats,3,42,M
+OFFENSE 2.0,15231483,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,12/03/2015,21:07,1800 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,15230969,9498,302 (Mental),12/03/2015,00:16,5600 block Forbes Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,15231014,5505,Public Drunkenness,12/03/2015,02:06,Ivy St & Walnut St,Shadyside,4,,
+ARREST,15227574,3921(a),Theft by Unlawful Taking or Disposition - Movable item,12/03/2015,11:05,7500 block Penn Ave,Lincoln-Lemington-Belmar,4,51,F
+ARREST,15227574,1543,Driving While Operating Privilege is Suspended or Revoked.,12/03/2015,11:05,7500 block Penn Ave,Lincoln-Lemington-Belmar,4,51,F
+OFFENSE 2.0,15227574,3921(a),Theft by Unlawful Taking or Disposition - Movable item,12/03/2015,11:15,7500 block Penn Ave,Lincoln-Lemington-Belmar,4,,
+OFFENSE 2.0,15231212,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,12/03/2015,12:09,4900 block 2nd Ave,Hazelwood,4,,
+ARREST,15231212,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,12/03/2015,12:30,4900 block 2nd Ave,Hazelwood,4,32,M
+OFFENSE 2.0,15231250,9124,Drug Investigation,12/03/2015,13:47,5700 block Howe St,Shadyside,4,,
+OFFENSE 2.0,15231286,3304,Criminal Mischief.,12/03/2015,14:30,100 block Hazelwood Ave,Hazelwood,4,,
+OFFENSE 2.0,15231294,4106,Access Device Fraud,12/03/2015,15:00,5100 block 2nd Ave,Hazelwood,4,,
+OFFENSE 2.0,15231282,2709,Harassment (Non-Specific),12/03/2015,15:00,Winterburn Ave & Neeb St,Greenfield,4,,
+OFFENSE 2.0,15231279,3925,Receiving Stolen Property.,12/03/2015,15:45,400 block N Lexington St,Point Breeze North,4,,
+OFFENSE 2.0,15231279,9489,Found Property,12/03/2015,15:45,400 block N Lexington St,Point Breeze North,4,,
+OFFENSE 2.0,15231334,9999,9999 - (Misc. Incident): ,12/03/2015,17:30,6400 block Forbes Ave,Squirrel Hill North,4,,
+OFFENSE 2.0,15231397,3924,Theft of Property Lost  Mislaid or Delivered by Mistake.,12/03/2015,18:15,400 block S Craig St,North Oakland,4,,
+OFFENSE 2.0,15231458,3304,Criminal Mischief.,12/03/2015,19:00,Marlborough Ave & Shady Ave,Squirrel Hill North,4,,
+OFFENSE 2.0,15231061,3921(a),Theft by Unlawful Taking or Disposition - Movable item,12/03/2015,05:00,2500 block Park Hill Dr,East Hills,5,,
+OFFENSE 2.0,15231093,3502,Burglary.,12/03/2015,06:45,500 block Mellon St,East Liberty,5,,
+OFFENSE 2.0,15231093,901,Criminal Attempt,12/03/2015,06:45,500 block Mellon St,East Liberty,5,,
+OFFENSE 2.0,15231219,3745,Accidents Involving Damage to Unattended Veh.or Prop.,12/03/2015,07:30,7200 block Kelly St,Homewood South,5,,
+OFFENSE 2.0,15231368,9489,Found Property,12/03/2015,16:00,7100 block Upland St,Homewood North,5,,
+OFFENSE 2.0,15231351,9496,Dead on Arrival (DOA),12/03/2015,17:30,6900 block Greenwood St,Morningside,5,,
+OFFENSE 2.0,15231373,5126,Flight to Avoid Apprehension  Trial or Punishment.,12/03/2015,17:51,Brushton Ave & Frankstown Ave,Homewood South,5,,
+OFFENSE 2.0,15231373,9501,Bench Warrant,12/03/2015,17:51,Brushton Ave & Frankstown Ave,Homewood South,5,,
+OFFENSE 2.0,15231373,13(a)(16),Possession of Controlled Substance,12/03/2015,17:51,Brushton Ave & Frankstown Ave,Homewood South,5,,
+OFFENSE 2.0,15231382,13(a)(32),Paraphernalia - Use or Possession,12/03/2015,17:55,Swan Way & Greenwood St,Morningside,5,,
+OFFENSE 2.0,15231382,4304(a)(1),Endangering Welfare of Children.,12/03/2015,17:55,Swan Way & Greenwood St,Morningside,5,,
+ARREST,15231373,13(a)(16),Possession of Controlled Substance,12/03/2015,17:55,Brushton Ave & Frankstown Ave,Homewood South,5,26,M
+ARREST,15226188,3925,Receiving Stolen Property.,12/03/2015,17:55,6900 block Kelly St,Homewood West,5,20,M
+ARREST,15231373,9501,Bench Warrant,12/03/2015,17:55,Brushton Ave & Frankstown Ave,Homewood South,5,26,M
+ARREST,15231373,5126,Flight to Avoid Apprehension  Trial or Punishment.,12/03/2015,17:55,Brushton Ave & Frankstown Ave,Homewood South,5,26,M
+ARREST,15231382,13(a)(32),Paraphernalia - Use or Possession,12/03/2015,18:30,Swan Way & Greenwood St,Morningside,5,32,F
+ARREST,15231382,4304(a)(1),Endangering Welfare of Children.,12/03/2015,18:30,Swan Way & Greenwood St,Morningside,5,32,F
+OFFENSE 2.0,15231094,3745,Accidents Involving Damage to Unattended Veh.or Prop.,12/03/2015,07:15,1000 block Berkshire Ave,Brookline,6,,
+OFFENSE 2.0,15231100,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,12/03/2015,07:43,1100 block Brookline Blvd,Brookline,6,,
+OFFENSE 2.0,15231122,3934,Theft from Vehicle,12/03/2015,08:10,1600 block Belasco Ave,Beechview,6,,
+OFFENSE 2.0,15231175,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,12/03/2015,10:40,500 block Lorenz Ave,Elliott,6,,
+OFFENSE 2.0,15231288,9496,Dead on Arrival (DOA),12/03/2015,16:41,2800 block Bellingham Ave,Banksville,6,,
+OFFENSE 2.0,15231489,9093,Indirect Criminal Contempt,12/03/2015,20:40,300 block Stratmore St,Crafton Heights,6,,
+OFFENSE 2.0,15231453,029,Missing Juvenile,12/03/2015,21:00,500 block Motor St,Sheraden,6,,
+OFFENSE 2.0,15231330,4120,Identity Theft,12/03/2015,13:35,1500 block Avon Pl,Outside County,OSC,,
