@@ -1,0 +1,137 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,15244103,029,Missing Juvenile,12/23/2015,02:00,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,15244108,3304,Criminal Mischief.,12/23/2015,02:15,2800 block Spring Garden Ave,Spring Garden,1,,
+OFFENSE 2.0,15244108,2702,Aggravated Assault.,12/23/2015,02:15,2800 block Spring Garden Ave,Spring Garden,1,,
+OFFENSE 2.0,15244184,3502,Burglary.,12/23/2015,06:30,2100 block Clayton Ave,Perry South,1,,
+OFFENSE 2.0,15244253,3502,Burglary.,12/23/2015,07:00,1200 block Pemberton St,Brighton Heights,1,,
+OFFENSE 2.0,15244209,3921,Theft by Unlawful Taking or Disposition.,12/23/2015,08:00,Langley St & Perrysville Ave,Perry South,1,,
+OFFENSE 2.0,15244190,9488,False  Burglar Alarm,12/23/2015,08:13,100 block W McIntyre Ave,Perry South,1,,
+OFFENSE 2.0,15244342,2709,Harassment (Non-Specific),12/23/2015,12:00,Kenwood Ave,Perry South,1,,
+OFFENSE 2.0,15244421,3745,Accidents Involving Damage to Unattended Veh.or Prop.,12/23/2015,12:00,1900 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,15244337,8104,CLASS 1 - Suspicious Package or Device,12/23/2015,12:22,Roberto Clemente Brg,North Shore,1,,
+OFFENSE 2.0,15244353,9488,False  Burglar Alarm,12/23/2015,12:55,300 block North Shore Dr,North Shore,1,,
+OFFENSE 2.0,15244443,2701(b)(1),Simple Assault - Fight or Scuffle Entered by Mutual Consent,12/23/2015,15:00,Woodland Ave & Shadeland Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,15244517,3921,Theft by Unlawful Taking or Disposition.,12/23/2015,15:25,1200 block N Franklin St,Manchester,1,,
+OFFENSE 2.0,15244471,9497,Aided Case,12/23/2015,16:21,2600 block Perrysville Ave,Perry South,1,,
+OFFENSE 2.0,15244475,3304,Criminal Mischief.,12/23/2015,16:27,200 block Jacksonia St,Central Northside,1,,
+OFFENSE 2.0,15244537,3502,Burglary.,12/23/2015,17:30,800 block Phineas St,East Allegheny,1,,
+OFFENSE 2.0,15244532,2701,Simple Assault.,12/23/2015,17:40,3500 block California Ave,Brighton Heights,1,,
+ARREST,15123682,9015,Failure To Appear/Arrest on Attachment Order,12/23/2015,19:25,3200 block Central Ave,Marshall-Shadeland,1,22,M
+OFFENSE 2.0,15123682,9015,Failure To Appear/Arrest on Attachment Order,12/23/2015,19:25,3200 block Central Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,15244614,3304,Criminal Mischief.,12/23/2015,19:45,1100 block Morrison St,California-Kirkbride,1,,
+OFFENSE 2.0,15244645,9999,9999 - (Misc. Incident): ,12/23/2015,20:00,1400 block Woods Run Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,15244096,4912,Impersonating a Public Servant.,12/23/2015,01:55,600 block William Penn Pl,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15244096,4914,False Identification to Law Enforcement Authorities,12/23/2015,01:55,600 block William Penn Pl,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15244096,907,Possessing Instruments of Crime.,12/23/2015,01:55,600 block William Penn Pl,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15244096,3304,Criminal Mischief.,12/23/2015,01:55,600 block William Penn Pl,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15244096,3502,Burglary.,12/23/2015,01:55,600 block William Penn Pl,Golden Triangle/Civic Arena,2,,
+ARREST,15244096,3304,Criminal Mischief.,12/23/2015,01:57,600 block William Penn Pl,Golden Triangle/Civic Arena,2,28,M
+ARREST,15244096,3502,Burglary.,12/23/2015,01:57,600 block William Penn Pl,Golden Triangle/Civic Arena,2,28,M
+ARREST,15244096,4912,Impersonating a Public Servant.,12/23/2015,01:57,600 block William Penn Pl,Golden Triangle/Civic Arena,2,28,M
+ARREST,15244096,907,Possessing Instruments of Crime.,12/23/2015,01:57,600 block William Penn Pl,Golden Triangle/Civic Arena,2,28,M
+ARREST,15244096,4914,False Identification to Law Enforcement Authorities,12/23/2015,01:57,600 block William Penn Pl,Golden Triangle/Civic Arena,2,28,M
+OFFENSE 2.0,15244118,3745,Accidents Involving Damage to Unattended Veh.or Prop.,12/23/2015,02:37,100 block 46th St,Central Lawrenceville,2,,
+OFFENSE 2.0,15244090,9093,Indirect Criminal Contempt,12/23/2015,03:00,2100 block Rose St,Middle Hill,2,,
+ARREST,15244090,9093,Indirect Criminal Contempt,12/23/2015,03:45,2100 block Rose St,Middle Hill,2,19,M
+OFFENSE 2.0,15244241,3502,Burglary.,12/23/2015,07:00,400 block Blvd Of The Allies,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15195051,9015,Failure To Appear/Arrest on Attachment Order,12/23/2015,09:12,600 block 1st Ave,Chateau,2,,
+ARREST,15195051,9015,Failure To Appear/Arrest on Attachment Order,12/23/2015,09:20,600 block 1st Ave,Chateau,2,59,M
+OFFENSE 2.0,15244284,3745,Accidents Involving Damage to Unattended Veh.or Prop.,12/23/2015,10:15,100 block 18th St,Strip District,2,,
+OFFENSE 2.0,15244345,2709,Harassment (Non-Specific),12/23/2015,12:30,1800 block Bedford Ave,Golden Triangle/Civic Arena,2,,
+ARREST,15235674,2701,Simple Assault.,12/23/2015,13:30,600 block 1st Ave,Squirrel Hill North,2,30,M
+ARREST,15235674,3701,Robbery.,12/23/2015,13:30,600 block 1st Ave,Squirrel Hill North,2,30,M
+OFFENSE 2.0,15244455,2709(a),Harassment.,12/23/2015,15:00,100 block Market St,Golden Triangle/Civic Arena,2,,
+ARREST,15242179,3743,Accidents Involving Damage to Attended Veh. or Property,12/23/2015,20:51,600 block 1st Ave,Golden Triangle/Civic Arena,2,40,M
+OFFENSE 2.0,15244642,9497,Aided Case,12/23/2015,21:11,11th St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15244681,3921(a),Theft by Unlawful Taking or Disposition - Movable item,12/23/2015,22:30,600 block Watt St,Middle Hill,2,,
+OFFENSE 2.0,15244099,3304,Criminal Mischief.,12/23/2015,01:30,200 block Shiloh St,Mount Washington,3,,
+OFFENSE 2.0,15244162,3502,Burglary.,12/23/2015,05:10,200 block Orchard Pl,Knoxville,3,,
+OFFENSE 2.0,15244165,5505,Public Drunkenness,12/23/2015,05:27,2000 block Wharton St,South Side Flats,3,,
+OFFENSE 2.0,15244165,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,12/23/2015,05:27,2000 block Wharton St,South Side Flats,3,,
+OFFENSE 2.0,15244165,9501,Bench Warrant,12/23/2015,05:27,2000 block Wharton St,South Side Flats,3,,
+ARREST,15244165,9501,Bench Warrant,12/23/2015,05:42,2000 block Wharton St,South Side Flats,3,40,M
+ARREST,15244165,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,12/23/2015,05:42,2000 block Wharton St,South Side Flats,3,40,M
+ARREST,15244165,5505,Public Drunkenness,12/23/2015,05:42,2000 block Wharton St,South Side Flats,3,40,M
+OFFENSE 2.0,15244212,3743,Accidents Involving Damage to Attended Veh. or Property,12/23/2015,08:35,Saw Mill Run Blvd & Midwood Ave,Overbrook,3,,
+OFFENSE 2.0,15244229,9496,Dead on Arrival (DOA),12/23/2015,08:40,200 block lelia St,Mount Washington,3,,
+OFFENSE 2.0,15244236,3934,Theft from Vehicle,12/23/2015,09:00,2600 block Jane St,South Side Flats,3,,
+OFFENSE 2.0,15244244,3743,Accidents Involving Damage to Attended Veh. or Property,12/23/2015,09:25,Beltzhoover Ave & Ceres Way,Allentown,3,,
+OFFENSE 2.0,15244265,3304,Criminal Mischief.,12/23/2015,10:00,1900 block Waite St,Arlington,3,,
+OFFENSE 2.0,15244291,2904,Interference with Custody of Children.,12/23/2015,10:55,100 block Charles St,Knoxville,3,,
+OFFENSE 2.0,15244291,2909,Concealment of Whereabouts of a Child.,12/23/2015,10:55,100 block Charles St,Knoxville,3,,
+OFFENSE 2.0,15244291,4958(b1),Intimidation  Retaliation  Obstruction Child Abuse cases - (b1) Obstruction,12/23/2015,10:55,100 block Charles St,Knoxville,3,,
+OFFENSE 2.0,15244291,6301,Corruption of Minors.,12/23/2015,10:55,100 block Charles St,Knoxville,3,,
+ARREST,15244291,2904,Interference with Custody of Children.,12/23/2015,11:15,100 block Charles St,Knoxville,3,28,F
+ARREST,15244291,2909,Concealment of Whereabouts of a Child.,12/23/2015,11:15,100 block Charles St,Knoxville,3,28,F
+ARREST,15244291,4958(b1),Intimidation  Retaliation  Obstruction Child Abuse cases - (b1) Obstruction,12/23/2015,11:15,100 block Charles St,Knoxville,3,28,F
+ARREST,15244291,6301,Corruption of Minors.,12/23/2015,11:15,100 block Charles St,Knoxville,3,28,F
+ARREST,15239834,2706,Terroristic Threats.,12/23/2015,11:30,300 block Michigan St,Allentown,3,52,M
+ARREST,15238621,2701,Simple Assault.,12/23/2015,14:30,400 block Kathleen St,Mount Washington,3,37,M
+ARREST,15244575,13(a)(31),Marijuana: Possession Small Amount,12/23/2015,18:46,600 block Brownsville Rd,Knoxville,3,25,F
+ARREST,15244575,1501,Drivers Required to be Licensed.,12/23/2015,18:46,600 block Brownsville Rd,Knoxville,3,25,F
+ARREST,15244575,4303,General Lighting Requirements.,12/23/2015,18:46,600 block Brownsville Rd,Knoxville,3,25,F
+OFFENSE 2.0,15244575,13(a)(31),Marijuana: Possession Small Amount,12/23/2015,18:46,600 block Brownsville Rd,Knoxville,3,,
+OFFENSE 2.0,15244575,1501,Drivers Required to be Licensed.,12/23/2015,18:46,600 block Brownsville Rd,Knoxville,3,,
+OFFENSE 2.0,15244575,4303,General Lighting Requirements.,12/23/2015,18:46,600 block Brownsville Rd,Knoxville,3,,
+OFFENSE 2.0,15244073,5503(a)(2),DISORDERLY CONDUCT - UNREASONABLE NOISE,12/23/2015,00:58,5500 block Phillips Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,15244073,5503(a)(3),DISORDERLY CONDUCT - OBSCENE LANG/GEST,12/23/2015,00:58,5500 block Phillips Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,15244464,3934,Theft from Vehicle,12/23/2015,06:00,4200 block Lydia St,Greenfield,4,,
+OFFENSE 2.0,15244183,3921,Theft by Unlawful Taking or Disposition.,12/23/2015,06:30,4000 block Hoosac St,Greenfield,4,,
+OFFENSE 2.0,15244204,3934,Theft from Vehicle,12/23/2015,07:30,3900 block Lydia St,Greenfield,4,,
+OFFENSE 2.0,15244271,3934,Theft from Vehicle,12/23/2015,08:00,3300 block Dawson St,South Oakland,4,,
+OFFENSE 2.0,15244308,3745,Accidents Involving Damage to Unattended Veh.or Prop.,12/23/2015,10:30,5700 block Elwood St,Shadyside,4,,
+OFFENSE 2.0,15244394,3502,Burglary.,12/23/2015,13:55,800 block Ivy St,Shadyside,4,,
+OFFENSE 2.0,15244393,9999,9999 - (Misc. Incident): Suspicious Package,12/23/2015,15:35,5700 block Beacon St,Squirrel Hill South,4,,
+OFFENSE 2.0,15244590,9999,9999 - (Misc. Incident): ,12/23/2015,17:50,E Carson St & Glenwood Brg,Hays,4,,
+OFFENSE 2.0,15244628,9498,302 (Mental),12/23/2015,20:10,300 block N Braddock Ave,Point Breeze North,4,,
+OFFENSE 2.0,15244668,3304,Criminal Mischief.,12/23/2015,21:52,4300 block Gladstone St,Hazelwood,4,,
+OFFENSE 2.0,15244085,4304(a)(1),Endangering Welfare of Children.,12/23/2015,01:20,2200 block Wilner Dr,East Hills,5,,
+OFFENSE 2.0,15244098,2705,Recklessly Endangering Another Person.,12/23/2015,01:56,7900 block Tacoma St,Homewood South,5,,
+OFFENSE 2.0,15244098,2707.1,Discharge of a Firearm into Occupied Structure,12/23/2015,01:56,7900 block Tacoma St,Homewood South,5,,
+OFFENSE 2.0,15244240,9489,Found Property,12/23/2015,08:00,Highview St & Stanton Ave,Morningside,5,,
+OFFENSE 2.0,15244274,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,12/23/2015,08:45,200 block S Negley Ave,East Liberty,5,,
+ARREST,15240455,3928,Unauthorized Use of Automobile and Other Vehicles.,12/23/2015,08:59,1100 block Montezuma St,Lincoln-Lemington-Belmar,5,31,M
+OFFENSE 2.0,15244225,029,Missing Juvenile,12/23/2015,09:50,1500 block Broadhead St,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15244286,3502,Burglary.,12/23/2015,09:50,7500 block susquehanna St,Homewood South,5,,
+ARREST,15244248,9501,Bench Warrant,12/23/2015,09:55,6800 block Frankstown Ave,Homewood West,5,32,F
+ARREST,15244248,3503,Criminal Trespass,12/23/2015,09:55,6800 block Frankstown Ave,Homewood West,5,44,F
+ARREST,15244248,3503,Criminal Trespass,12/23/2015,09:55,6800 block Frankstown Ave,Homewood West,5,32,F
+ARREST,15244248,3503,Criminal Trespass,12/23/2015,09:55,6800 block Frankstown Ave,Homewood West,5,58,M
+ARREST,15244248,13(a)(16),Possession of Controlled Substance,12/23/2015,09:55,6800 block Frankstown Ave,Homewood West,5,58,M
+OFFENSE 2.0,15244248,9501,Bench Warrant,12/23/2015,09:55,6800 block Frankstown Ave,Homewood West,5,,
+OFFENSE 2.0,15244248,3503,Criminal Trespass,12/23/2015,09:55,6800 block Frankstown Ave,Homewood West,5,,
+OFFENSE 2.0,15244248,13(a)(16),Possession of Controlled Substance,12/23/2015,09:55,6800 block Frankstown Ave,Homewood West,5,,
+ARREST,15233124,9015,Failure To Appear/Arrest on Attachment Order,12/23/2015,09:55,6800 block Frankstown Ave,Homewood West,5,58,M
+OFFENSE 2.0,15244316,3934,Theft from Vehicle,12/23/2015,11:00,1200 block Duffield St,Stanton Heights,5,,
+OFFENSE 2.0,15244430,3304,Criminal Mischief.,12/23/2015,15:00,4900 block Rosetta St,Garfield,5,,
+ARREST,14188059,2701,Simple Assault.,12/23/2015,15:45,100 block N Beatty St,East Liberty,5,27,F
+OFFENSE 2.0,15244470,3304,Criminal Mischief.,12/23/2015,16:00,5300 block Stanton Ave,Morningside,5,,
+OFFENSE 2.0,15244439,9999,9999 - (Misc. Incident): check the wellfare of a Vicki Palyok. Upon reaching the residence and knocking on the door PALYOK claim,12/23/2015,16:06,7200 block Everton St,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15244536,3701,Robbery.,12/23/2015,17:40,6400 block Frankstown Ave,Larimer,5,,
+OFFENSE 2.0,15244594,9489,Found Property,12/23/2015,19:30,6300 block Penn Ave,East Liberty,5,,
+ARREST,15244624,3925,Receiving Stolen Property.,12/23/2015,20:30,South Mathilda St & Paper Way,Bloomfield,5,20,M
+ARREST,15244624,3745,Accidents Involving Damage to Unattended Veh.or Prop.,12/23/2015,20:30,South Mathilda St & Paper Way,Bloomfield,5,20,M
+ARREST,15244624,5121,Escape.,12/23/2015,20:30,South Mathilda St & Paper Way,Bloomfield,5,20,M
+ARREST,15244624,9094,Recovered Stolen Vehicle (OUTSIDE CITY),12/23/2015,20:30,South Mathilda St & Paper Way,Bloomfield,5,20,M
+OFFENSE 2.0,15244624,1501,Drivers Required to be Licensed.,12/23/2015,20:30,South Mathilda St & Paper Way,Bloomfield,5,,
+OFFENSE 2.0,15244624,3745,Accidents Involving Damage to Unattended Veh.or Prop.,12/23/2015,20:30,South Mathilda St & Paper Way,Bloomfield,5,,
+OFFENSE 2.0,15244624,3925,Receiving Stolen Property.,12/23/2015,20:30,South Mathilda St & Paper Way,Bloomfield,5,,
+ARREST,15244624,1501,Drivers Required to be Licensed.,12/23/2015,20:30,South Mathilda St & Paper Way,Bloomfield,5,20,M
+OFFENSE 2.0,15244624,5121,Escape.,12/23/2015,20:30,South Mathilda St & Paper Way,Bloomfield,5,,
+OFFENSE 2.0,15244624,9094,Recovered Stolen Vehicle (OUTSIDE CITY),12/23/2015,20:30,South Mathilda St & Paper Way,Bloomfield,5,,
+OFFENSE 2.0,15244117,4952,Intimidation of Witnesses or Victims,12/23/2015,01:55,Whited St & Saw Mill Run Blvd,Brookline,6,,
+OFFENSE 2.0,15244117,1543,Driving While Operating Privilege is Suspended or Revoked.,12/23/2015,01:55,Whited St & Saw Mill Run Blvd,Brookline,6,,
+OFFENSE 2.0,15244117,2701(a)(3),Simple Assault - Attempts by Physical Menace ,12/23/2015,01:55,Whited St & Saw Mill Run Blvd,Brookline,6,,
+OFFENSE 2.0,15244117,2709(a)(4),Harassment Communicates Prohibited Acts,12/23/2015,01:55,Whited St & Saw Mill Run Blvd,Brookline,6,,
+ARREST,15244254,2701(a)(3),Simple Assault - Attempts by Physical Menace ,12/23/2015,09:53,1000 block Woodlow St,Crafton Heights,6,37,M
+ARREST,15244254,2904,Interference with Custody of Children.,12/23/2015,09:53,1000 block Woodlow St,Crafton Heights,6,37,M
+OFFENSE 2.0,15244254,2904,Interference with Custody of Children.,12/23/2015,09:53,1000 block Woodlow St,Crafton Heights,6,,
+OFFENSE 2.0,15244254,2701(a)(3),Simple Assault - Attempts by Physical Menace ,12/23/2015,09:53,1000 block Woodlow St,Crafton Heights,6,,
+OFFENSE 2.0,15244339,9999,9999 - (Misc. Incident): ,12/23/2015,11:55,3000 block Pioneer Ave,Brookline,6,,
+OFFENSE 2.0,15244399,029,Missing Juvenile,12/23/2015,13:53,3100 block Landis St,Sheraden,6,,
+OFFENSE 2.0,15244460,9999,9999 - (Misc. Incident): overdose,12/23/2015,16:10,3100 block Chartiers Ave,Sheraden,6,,
+OFFENSE 2.0,15244512,3503(b.1),Criminal Trespass - Simple Trespasser,12/23/2015,17:00,3000 block Landis St,Sheraden,6,,
+OFFENSE 2.0,15244512,4914,False Identification to Law Enforcement Authorities,12/23/2015,17:00,3000 block Landis St,Sheraden,6,,
+ARREST,15244512,4914,False Identification to Law Enforcement Authorities,12/23/2015,17:20,3000 block Landis St,Sheraden,6,14,M
+ARREST,15244512,3503(b.1),Criminal Trespass - Simple Trespasser,12/23/2015,17:20,3000 block Landis St,Sheraden,6,14,M
+OFFENSE 2.0,15244544,9490,Missing Persons (18 and Over),12/23/2015,17:55,800 block Idlewood Ave,East Carnegie,6,,
