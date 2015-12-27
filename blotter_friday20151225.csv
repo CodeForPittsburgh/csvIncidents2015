@@ -1,0 +1,65 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+ARREST,15245554,13(a)(32),Paraphernalia - Use or Possession,12/25/2015,17:45,1000 block Western Ave,Chateau,1,23,M
+ARREST,15245554,13(a)(16),Possession of Controlled Substance,12/25/2015,17:45,1000 block Western Ave,Chateau,1,23,M
+ARREST,15245554,5101,Obstructing Admin. of Law ,12/25/2015,17:47,1000 block Western Ave,Chateau,1,56,M
+OFFENSE 2.0,15245554,13(a)(16),Possession of Controlled Substance,12/25/2015,17:47,1000 block Western Ave,Chateau,1,,
+OFFENSE 2.0,15245554,13(a)(32),Paraphernalia - Use or Possession,12/25/2015,17:47,1000 block Western Ave,Chateau,1,,
+OFFENSE 2.0,15245554,3334,Turning Movements and Required Signals.,12/25/2015,17:47,1000 block Western Ave,Chateau,1,,
+OFFENSE 2.0,15245554,5101,Obstructing Admin. of Law ,12/25/2015,17:47,1000 block Western Ave,Chateau,1,,
+ARREST,15245554,5104,Resisting Arrest or Other Law Enforcement.,12/25/2015,17:47,1000 block Western Ave,Chateau,1,56,M
+ARREST,15245554,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,12/25/2015,17:47,1000 block Western Ave,Chateau,1,56,M
+OFFENSE 2.0,15245554,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,12/25/2015,17:47,1000 block Western Ave,Chateau,1,,
+OFFENSE 2.0,15245554,5104,Resisting Arrest or Other Law Enforcement.,12/25/2015,17:47,1000 block Western Ave,Chateau,1,,
+OFFENSE 2.0,15245584,9123,Miscellaneous Fire Other Investigation to Continue,12/25/2015,19:17,1300 block Adams St,Manchester,1,,
+OFFENSE 2.0,15245587,9999,9999 - (Misc. Incident): ,12/25/2015,19:25,31st St Brg & River Ave,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,15245648,029,Missing Juvenile,12/25/2015,23:00,200 block Ridge Ave,Allegheny Center,1,,
+OFFENSE 2.0,15245329,3304,Criminal Mischief.,12/25/2015,00:58,200 block Elmore St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15245416,9999,9999 - (Misc. Incident): ,12/25/2015,07:18,100 block Washington Pl,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15245509,5104,Resisting Arrest or Other Law Enforcement.,12/25/2015,15:20,2200 block Bloomer Way,Middle Hill,2,,
+ARREST,15245509,5104,Resisting Arrest or Other Law Enforcement.,12/25/2015,15:20,2200 block Bloomer Way,Middle Hill,2,26,F
+ARREST,15245509,5503,Disorderly Conduct.,12/25/2015,15:20,2200 block Bloomer Way,Middle Hill,2,26,F
+OFFENSE 2.0,15245509,5503,Disorderly Conduct.,12/25/2015,15:20,2200 block Bloomer Way,Middle Hill,2,,
+ARREST,15245509,2702,Aggravated Assault.,12/25/2015,15:20,2200 block Bloomer Way,Middle Hill,2,26,F
+OFFENSE 2.0,15245509,2702,Aggravated Assault.,12/25/2015,15:20,2200 block Bloomer Way,Middle Hill,2,,
+ARREST,15245565,9501,Bench Warrant,12/25/2015,18:24,40th St & Butler St,Lower Lawrenceville,2,32,M
+ARREST,15245565,13(a)(32),Paraphernalia - Use or Possession,12/25/2015,18:24,40th St & Butler St,Lower Lawrenceville,2,32,M
+ARREST,15245565,13(a)(16),Possession of Controlled Substance,12/25/2015,18:24,40th St & Butler St,Lower Lawrenceville,2,32,M
+OFFENSE 2.0,15245565,13(a)(32),Paraphernalia - Use or Possession,12/25/2015,18:30,40th St & Butler St,Lower Lawrenceville,2,,
+OFFENSE 2.0,15245565,9501,Bench Warrant,12/25/2015,18:30,40th St & Butler St,Lower Lawrenceville,2,,
+OFFENSE 2.0,15245565,13(a)(16),Possession of Controlled Substance,12/25/2015,18:30,40th St & Butler St,Lower Lawrenceville,2,,
+OFFENSE 2.0,15245308,029,Missing Juvenile,12/25/2015,00:15,2600 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,15245316,9999,9999 - (Misc. Incident): ,12/25/2015,00:23,500 block Overbrook Blvd,Overbrook,3,,
+OFFENSE 2.0,15245374,3921,Theft by Unlawful Taking or Disposition.,12/25/2015,03:30,S 12th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15245402,2701,Simple Assault.,12/25/2015,05:25,1500 block Nobles Ln,Carrick,3,,
+OFFENSE 2.0,15245402,2705,Recklessly Endangering Another Person.,12/25/2015,05:25,1500 block Nobles Ln,Carrick,3,,
+OFFENSE 2.0,15245402,4304(a)(1),Endangering Welfare of Children.,12/25/2015,05:25,1500 block Nobles Ln,Carrick,3,,
+ARREST,15245402,2705,Recklessly Endangering Another Person.,12/25/2015,05:35,1500 block Nobles Ln,Carrick,3,30,F
+ARREST,15245402,2701,Simple Assault.,12/25/2015,05:35,1500 block Nobles Ln,Carrick,3,30,F
+ARREST,15245402,4304(a)(1),Endangering Welfare of Children.,12/25/2015,05:35,1500 block Nobles Ln,Carrick,3,30,F
+OFFENSE 2.0,15245523,3502,Burglary.,12/25/2015,15:50,2200 block Almont St,Carrick,3,,
+OFFENSE 2.0,15245538,3304(a)(1),CRIMINAL MISCHIEF-Prop Damage By Fire  Explosives  or Other Dangerous Means,12/25/2015,16:05,Arlington Ave & Sterling St,Arlington,3,,
+OFFENSE 2.0,15245538,2707.1,Discharge of a Firearm into Occupied Structure,12/25/2015,16:05,Arlington Ave & Sterling St,Arlington,3,,
+OFFENSE 2.0,15245538,2705,Recklessly Endangering Another Person.,12/25/2015,16:05,Arlington Ave & Sterling St,Arlington,3,,
+OFFENSE 2.0,15245538,2702,Aggravated Assault.,12/25/2015,16:05,Arlington Ave & Sterling St,Arlington,3,,
+OFFENSE 2.0,15245553,4304(a)(1),Endangering Welfare of Children.,12/25/2015,17:30,2600 block Brownsville Rd,Carrick,3,,
+OFFENSE 2.0,15245569,3502,Burglary.,12/25/2015,18:35,100 block Eureka St,Allentown,3,,
+OFFENSE 2.0,15245586,3502,Burglary.,12/25/2015,19:15,2300 block Almont St,Carrick,3,,
+OFFENSE 2.0,15245550,3502,Burglary.,12/25/2015,00:01,5400 block Glenwood Ave,Hazelwood,4,,
+OFFENSE 2.0,15245459,3934,Theft from Vehicle,12/25/2015,03:00,800 block Monteiro St,Greenfield,4,,
+OFFENSE 2.0,15245459,901,Criminal Attempt,12/25/2015,03:00,800 block Monteiro St,Greenfield,4,,
+OFFENSE 2.0,15245536,5503,Disorderly Conduct.,12/25/2015,16:52,2nd Ave & Flowers Ave,Hazelwood,4,,
+OFFENSE 2.0,15245536,5505,Public Drunkenness,12/25/2015,16:52,2nd Ave & Flowers Ave,Hazelwood,4,,
+OFFENSE 2.0,15245600,9123,Miscellaneous Fire Other Investigation to Continue,12/25/2015,19:59,2200 block Wightman St,Squirrel Hill South,4,,
+OFFENSE 2.0,15240844,13(a)(31),Marijuana: Possession Small Amount,12/25/2015,00:12,Fletcher Way & Collier St,Larimer,5,,
+ARREST,15240844,13(a)(31),Marijuana: Possession Small Amount,12/25/2015,00:12,Fletcher Way & Collier St,Larimer,5,23,M
+ARREST,15240844,3112,Traffic-Control Signals.,12/25/2015,00:12,Fletcher Way & Collier St,Larimer,5,23,M
+ARREST,15240844,3925,Receiving Stolen Property.,12/25/2015,00:12,Fletcher Way & Collier St,Larimer,5,23,M
+OFFENSE 2.0,15240844,3112,Traffic-Control Signals.,12/25/2015,00:12,Fletcher Way & Collier St,Larimer,5,,
+OFFENSE 2.0,15240844,3925,Receiving Stolen Property.,12/25/2015,00:12,Fletcher Way & Collier St,Larimer,5,,
+OFFENSE 2.0,15245322,3934,Theft from Vehicle,12/25/2015,00:35,100 block Carver St,Larimer,5,,
+OFFENSE 2.0,15245517,9496,Dead on Arrival (DOA),12/25/2015,15:33,Meadow St & Lenora St,Larimer,5,,
+OFFENSE 2.0,15245549,3304,Criminal Mischief.,12/25/2015,16:00,5200 block Stanton Ave,Stanton Heights,5,,
+OFFENSE 2.0,15245609,2701,Simple Assault.,12/25/2015,20:37,1000 block Brushton Ave,Homewood North,5,,
+ARREST,15245609,2701,Simple Assault.,12/25/2015,20:42,1000 block Brushton Ave,Homewood North,5,31,F
+ARREST,15245609,2701,Simple Assault.,12/25/2015,20:42,1000 block Brushton Ave,Homewood North,5,26,F
+OFFENSE 2.0,15245311,2701(a)(1),Simple Assault - Intent.  Know.  Reckless.Cause Bod. Injury,12/25/2015,00:05,1800 block Brett St,Westwood,6,,

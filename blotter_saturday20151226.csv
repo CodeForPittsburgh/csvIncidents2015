@@ -1,0 +1,123 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,15245663,9488,False  Burglar Alarm,12/26/2015,00:04,2300 block Brighton Rd,Perry South,1,,
+OFFENSE 2.0,15245692,029,Missing Juvenile,12/26/2015,02:00,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,15245754,9488,False  Burglar Alarm,12/26/2015,05:13,800 block Allegheny Ave,Chateau,1,,
+OFFENSE 2.0,15245758,9496,Dead on Arrival (DOA),12/26/2015,06:06,1200 block Juniata St,Manchester,1,,
+OFFENSE 2.0,15245768,3928,Unauthorized Use of Automobile and Other Vehicles.,12/26/2015,07:15,1000 block Goehring St,East Allegheny,1,,
+OFFENSE 2.0,15245778,9488,False  Burglar Alarm,12/26/2015,08:19,400 block East Ohio St,East Allegheny,1,,
+OFFENSE 2.0,15245784,3921,Theft by Unlawful Taking or Disposition.,12/26/2015,08:36,E North Ave,Allegheny Center,1,,
+OFFENSE 2.0,15245882,3304,Criminal Mischief.,12/26/2015,09:45,300 block Cedar Ave,Allegheny Center,1,,
+OFFENSE 2.0,15245836,3745,Accidents Involving Damage to Unattended Veh.or Prop.,12/26/2015,11:17,3500 block Fleming Ave,Brighton Heights,1,,
+OFFENSE 2.0,15245836,3928,Unauthorized Use of Automobile and Other Vehicles.,12/26/2015,11:17,3500 block Fleming Ave,Brighton Heights,1,,
+OFFENSE 2.0,15245836,3714,Careless Driving,12/26/2015,11:17,3500 block Fleming Ave,Brighton Heights,1,,
+OFFENSE 2.0,15245836,1501,Drivers Required to be Licensed.,12/26/2015,11:17,3500 block Fleming Ave,Brighton Heights,1,,
+OFFENSE 2.0,15245852,5507,Obstructing Highways and Passages.,12/26/2015,11:47,Ohio River Blvd & Brighton Heights Blvd,Brighton Heights,1,,
+ARREST,15245836,3745,Accidents Involving Damage to Unattended Veh.or Prop.,12/26/2015,12:07,3500 block Fleming Ave,Brighton Heights,1,15,M
+ARREST,15245836,3928,Unauthorized Use of Automobile and Other Vehicles.,12/26/2015,12:07,3500 block Fleming Ave,Brighton Heights,1,15,M
+ARREST,15245836,1501,Drivers Required to be Licensed.,12/26/2015,12:07,3500 block Fleming Ave,Brighton Heights,1,15,M
+ARREST,15245836,3714,Careless Driving,12/26/2015,12:07,3500 block Fleming Ave,Brighton Heights,1,15,M
+OFFENSE 2.0,15245861,9496,Dead on Arrival (DOA),12/26/2015,12:08,3400 block Mexico St,Brighton Heights,1,,
+OFFENSE 2.0,15245899,9489,Found Property,12/26/2015,13:25,Federal Ext N & Lafayette Ave,Fineview,1,,
+OFFENSE 2.0,15245946,3745,Accidents Involving Damage to Unattended Veh.or Prop.,12/26/2015,15:05,3400 block Shadeland Ave,Brighton Heights,1,,
+OFFENSE 2.0,15246073,029,Missing Juvenile,12/26/2015,16:00,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,15245963,3745,Accidents Involving Damage to Unattended Veh.or Prop.,12/26/2015,16:27,1300 block Damas St,Spring Hill-City View,1,,
+OFFENSE 2.0,15245969,13(a)(16),Possession of Controlled Substance,12/26/2015,16:46,W North Ave & Brighton Rd,Allegheny West,1,,
+OFFENSE 2.0,15245969,13(a)(30),Possession w/ Intent to Del. Controlled Substance,12/26/2015,16:46,W North Ave & Brighton Rd,Allegheny West,1,,
+OFFENSE 2.0,15245969,1501,Drivers Required to be Licensed.,12/26/2015,16:46,W North Ave & Brighton Rd,Allegheny West,1,,
+OFFENSE 2.0,15245969,4524,Windshield Obstructions and Wipers.,12/26/2015,16:46,W North Ave & Brighton Rd,Allegheny West,1,,
+OFFENSE 2.0,15245969,4703,Operation of Vehicle without Official Certif. of Inspection,12/26/2015,16:46,W North Ave & Brighton Rd,Allegheny West,1,,
+OFFENSE 2.0,15245970,9490,Missing Persons (18 and Over),12/26/2015,16:49,1700 block Termon Ave,Brighton Heights,1,,
+ARREST,15245969,1501,Drivers Required to be Licensed.,12/26/2015,17:05,W North Ave & Brighton Rd,Allegheny West,1,16,M
+ARREST,15245969,4524,Windshield Obstructions and Wipers.,12/26/2015,17:05,W North Ave & Brighton Rd,Allegheny West,1,16,M
+ARREST,15245969,4703,Operation of Vehicle without Official Certif. of Inspection,12/26/2015,17:05,W North Ave & Brighton Rd,Allegheny West,1,16,M
+ARREST,15245969,13(a)(16),Possession of Controlled Substance,12/26/2015,17:05,W North Ave & Brighton Rd,Allegheny West,1,16,M
+ARREST,15245969,13(a)(30),Possession w/ Intent to Del. Controlled Substance,12/26/2015,17:05,W North Ave & Brighton Rd,Allegheny West,1,16,M
+OFFENSE 2.0,15246001,3502,Burglary.,12/26/2015,18:00,2600 block Perrysville Ave,Perry South,1,,
+OFFENSE 2.0,15246001,3921,Theft by Unlawful Taking or Disposition.,12/26/2015,18:00,2600 block Perrysville Ave,Perry South,1,,
+OFFENSE 2.0,15246108,9490,Missing Persons (18 and Over),12/26/2015,22:00,4000 block Ohio River Blvd,Brighton Heights,1,,
+ARREST,15226000,3921(a),Theft by Unlawful Taking or Disposition - Movable item,12/26/2015,08:30,600 block First Ave,Lincoln-Lemington-Belmar,2,22,M
+ARREST,15221493,9015,Failure To Appear/Arrest on Attachment Order,12/26/2015,10:00,2400 block Wylie Ave,Northview Heights,2,,M
+OFFENSE 2.0,15246011,3743,Accidents Involving Damage to Attended Veh. or Property,12/26/2015,17:50,Crosstown Blvd Ramp & Crosstown Blvd,Bluff,2,,
+OFFENSE 2.0,15245668,2701,Simple Assault.,12/26/2015,00:25,200 block Prospect St,Mount Washington,3,,
+ARREST,15245668,2701,Simple Assault.,12/26/2015,00:35,200 block Prospect St,Mount Washington,3,68,M
+OFFENSE 2.0,15245697,3743,Accidents Involving Damage to Attended Veh. or Property,12/26/2015,02:01,S 18th St & E Carson St,South Side Flats,3,,
+ARREST,15227864,3736,Reckless Driving,12/26/2015,02:30,Liberty Brg & P J Mc Ardle Rdwy,South Side Slopes,3,29,M
+ARREST,15227864,3802(b),DUI - High Rate of Alchol - BAC >=.10% <.16%,12/26/2015,02:30,Liberty Brg & P J Mc Ardle Rdwy,South Side Slopes,3,29,M
+ARREST,15227864,3802(a)(1),DUI - General Impairment,12/26/2015,02:30,Liberty Brg & P J Mc Ardle Rdwy,South Side Slopes,3,29,M
+OFFENSE 2.0,15245780,3921(a),Theft by Unlawful Taking or Disposition - Movable item,12/26/2015,08:20,800 block Brownsville Rd,Knoxville,3,,
+OFFENSE 2.0,15245791,3502,Burglary.,12/26/2015,08:45,2100 block Spring St,Arlington,3,,
+OFFENSE 2.0,15245805,9999,9999 - (Misc. Incident): ,12/26/2015,09:49,700 block Ensign Ave,Bon Air,3,,
+OFFENSE 2.0,15245914,3323,Stop Signs and Yield Signs.,12/26/2015,13:36,Jucunda St & Grimes Ave,Knoxville,3,,
+OFFENSE 2.0,15245914,1543,Driving While Operating Privilege is Suspended or Revoked.,12/26/2015,13:36,Jucunda St & Grimes Ave,Knoxville,3,,
+OFFENSE 2.0,15245914,13(a)(30),Possession w/ Intent to Del. Controlled Substance,12/26/2015,13:36,Jucunda St & Grimes Ave,Knoxville,3,,
+OFFENSE 2.0,15245914,13(a)(16),Possession of Controlled Substance,12/26/2015,13:36,Jucunda St & Grimes Ave,Knoxville,3,,
+ARREST,15245914,4303,General Lighting Requirements.,12/26/2015,13:36,Jucunda St & Grimes Ave,Knoxville,3,41,M
+ARREST,15245914,3323,Stop Signs and Yield Signs.,12/26/2015,13:36,Jucunda St & Grimes Ave,Knoxville,3,41,M
+ARREST,15245914,1543,Driving While Operating Privilege is Suspended or Revoked.,12/26/2015,13:36,Jucunda St & Grimes Ave,Knoxville,3,41,M
+ARREST,15245914,13(a)(16),Possession of Controlled Substance,12/26/2015,13:36,Jucunda St & Grimes Ave,Knoxville,3,41,M
+ARREST,15245914,13(a)(30),Possession w/ Intent to Del. Controlled Substance,12/26/2015,13:36,Jucunda St & Grimes Ave,Knoxville,3,18,M
+OFFENSE 2.0,15245914,4303,General Lighting Requirements.,12/26/2015,13:36,Jucunda St & Grimes Ave,Knoxville,3,,
+ARREST,15245914,13(a)(16),Possession of Controlled Substance,12/26/2015,13:36,Jucunda St & Grimes Ave,Knoxville,3,18,M
+OFFENSE 2.0,15245675,3928,Unauthorized Use of Automobile and Other Vehicles.,12/26/2015,01:00,300 block Renova St,Hazelwood,4,,
+OFFENSE 2.0,15245846,3921(a),Theft by Unlawful Taking or Disposition - Movable item,12/26/2015,10:40,4900 block Ellsworth Ave,Shadyside,4,,
+OFFENSE 2.0,15245941,3934,Theft from Vehicle,12/26/2015,13:00,6900 block Thomas St,Point Breeze North,4,,
+OFFENSE 2.0,15245941,3304,Criminal Mischief.,12/26/2015,13:00,6900 block Thomas St,Point Breeze North,4,,
+OFFENSE 2.0,15246020,9489,Found Property,12/26/2015,16:40,Beechwood Blvd & English Ln,Squirrel Hill South,4,,
+OFFENSE 2.0,15246105,1543,Driving While Operating Privilege is Suspended or Revoked.,12/26/2015,21:28,3400 block Forbes Ave,Central Oakland,4,,
+OFFENSE 2.0,15246105,5104,Resisting Arrest or Other Law Enforcement.,12/26/2015,21:28,3400 block Forbes Ave,Central Oakland,4,,
+OFFENSE 2.0,15246105,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),12/26/2015,21:28,3400 block Forbes Ave,Central Oakland,4,,
+OFFENSE 2.0,15246105,6106,Firearms not to be Carried without a License.,12/26/2015,21:28,3400 block Forbes Ave,Central Oakland,4,,
+ARREST,15246105,907,Possessing Instruments of Crime.,12/26/2015,21:28,3400 block Forbes Ave,Central Oakland,4,21,M
+ARREST,15246105,6106,Firearms not to be Carried without a License.,12/26/2015,21:28,3400 block Forbes Ave,Central Oakland,4,21,M
+OFFENSE 2.0,15246105,907,Possessing Instruments of Crime.,12/26/2015,21:28,3400 block Forbes Ave,Central Oakland,4,,
+ARREST,15246105,5104,Resisting Arrest or Other Law Enforcement.,12/26/2015,21:28,3400 block Forbes Ave,Central Oakland,4,21,M
+ARREST,15246105,1543,Driving While Operating Privilege is Suspended or Revoked.,12/26/2015,21:28,3400 block Forbes Ave,Central Oakland,4,21,M
+ARREST,15246105,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),12/26/2015,21:28,3400 block Forbes Ave,Central Oakland,4,21,M
+OFFENSE 2.0,15245667,029,Missing Juvenile,12/26/2015,00:22,900 block N Negley Ave,Highland Park,5,,
+OFFENSE 2.0,15245671,2701,Simple Assault.,12/26/2015,00:35,7200 block Kelly St,Homewood South,5,,
+ARREST,15245679,4302,Periods for Requiring Lighted Lamps.,12/26/2015,01:27,Brushton Ave & Mulford St,Homewood South,5,36,M
+OFFENSE 2.0,15245679,4302,Periods for Requiring Lighted Lamps.,12/26/2015,01:27,Brushton Ave & Mulford St,Homewood South,5,,
+OFFENSE 2.0,15245679,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,12/26/2015,01:27,Brushton Ave & Mulford St,Homewood South,5,,
+ARREST,15245679,1543,Driving While Operating Privilege is Suspended or Revoked.,12/26/2015,01:27,Brushton Ave & Mulford St,Homewood South,5,36,M
+ARREST,15245679,3802(a)(1),DUI - General Impairment,12/26/2015,01:27,Brushton Ave & Mulford St,Homewood South,5,36,M
+ARREST,15245679,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,12/26/2015,01:27,Brushton Ave & Mulford St,Homewood South,5,36,M
+OFFENSE 2.0,15245679,1543,Driving While Operating Privilege is Suspended or Revoked.,12/26/2015,01:27,Brushton Ave & Mulford St,Homewood South,5,,
+OFFENSE 2.0,15245679,3802(a)(1),DUI - General Impairment,12/26/2015,01:27,Brushton Ave & Mulford St,Homewood South,5,,
+OFFENSE 2.0,15245787,3304,Criminal Mischief.,12/26/2015,08:30,100 block N Highland Ave,East Liberty,5,,
+OFFENSE 2.0,15245797,3304,Criminal Mischief.,12/26/2015,09:10,7700 block Susquehanna St,Homewood South,5,,
+OFFENSE 2.0,15245797,3934,Theft from Vehicle,12/26/2015,09:10,7700 block Susquehanna St,Homewood South,5,,
+OFFENSE 2.0,15245822,3304,Criminal Mischief.,12/26/2015,10:15,300 block Lowell St,Larimer,5,,
+OFFENSE 2.0,15245855,3929,Retail Theft.,12/26/2015,11:35,4800 block Centre Ave,Bloomfield,5,,
+OFFENSE 2.0,15245880,029,Missing Juvenile,12/26/2015,13:02,2400 block Bracey Dr,East Hills,5,,
+OFFENSE 2.0,15245959,3929,Retail Theft.,12/26/2015,16:08,800 block Freeport Rd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15245959,3503,Criminal Trespass,12/26/2015,16:08,800 block Freeport Rd,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15245982,9999,9999 - (Misc. Incident): Project LifeSaver Activation,12/26/2015,17:14,5500 block Centre Ave,Friendship,5,,
+OFFENSE 2.0,15246010,4106,Access Device Fraud,12/26/2015,17:53,1300 block Heberton St,Highland Park,5,,
+OFFENSE 2.0,15246072,9999,9999 - (Misc. Incident): vehicle accident,12/26/2015,20:24,6300 block Penn Ave,East Liberty,5,,
+OFFENSE 2.0,15246115,9498,302 (Mental),12/26/2015,21:50,2300 block East Hills Dr,East Hills,5,,
+OFFENSE 2.0,15245693,2702,Aggravated Assault.,12/26/2015,02:52,Vare St,Westwood,6,,
+OFFENSE 2.0,15245693,2902,Unlawful Restraint.,12/26/2015,02:52,Vare St,Westwood,6,,
+ARREST,15245693,2702,Aggravated Assault.,12/26/2015,02:52,Vare St,Westwood,6,44,M
+ARREST,15245693,2902,Unlawful Restraint.,12/26/2015,02:52,Vare St,Westwood,6,44,M
+OFFENSE 2.0,15245761,5104,Resisting Arrest or Other Law Enforcement.,12/26/2015,06:20,2900 block Chartiers Ave,Sheraden,6,,
+OFFENSE 2.0,15245761,5104.1,Disarming a Law Enforcement Officer,12/26/2015,06:20,2900 block Chartiers Ave,Sheraden,6,,
+OFFENSE 2.0,15245761,4304(a)(1),Endangering Welfare of Children.,12/26/2015,06:20,2900 block Chartiers Ave,Sheraden,6,,
+OFFENSE 2.0,15245761,2702,Aggravated Assault.,12/26/2015,06:20,2900 block Chartiers Ave,Sheraden,6,,
+OFFENSE 2.0,15245761,2701,Simple Assault.,12/26/2015,06:20,2900 block Chartiers Ave,Sheraden,6,,
+OFFENSE 2.0,15245765,3745,Accidents Involving Damage to Unattended Veh.or Prop.,12/26/2015,07:01,400 block Cadet Ave,Brookline,6,,
+ARREST,15245761,5104.1,Disarming a Law Enforcement Officer,12/26/2015,07:20,2900 block Chartiers Ave,Sheraden,6,31,M
+ARREST,15245761,5104,Resisting Arrest or Other Law Enforcement.,12/26/2015,07:20,2900 block Chartiers Ave,Sheraden,6,31,M
+ARREST,15245761,4304(a)(1),Endangering Welfare of Children.,12/26/2015,07:20,2900 block Chartiers Ave,Sheraden,6,31,M
+ARREST,15245761,2702,Aggravated Assault.,12/26/2015,07:20,2900 block Chartiers Ave,Sheraden,6,31,M
+ARREST,15245761,2701,Simple Assault.,12/26/2015,07:20,2900 block Chartiers Ave,Sheraden,6,31,M
+ARREST,15244117,1543,Driving While Operating Privilege is Suspended or Revoked.,12/26/2015,09:38,Whited St & Saw Mill Run Blvd,Brookline,6,23,M
+ARREST,15244117,2701(a)(3),Simple Assault - Attempts by Physical Menace ,12/26/2015,09:38,Whited St & Saw Mill Run Blvd,Brookline,6,23,M
+ARREST,15244117,2709(a)(4),Harassment Communicates Prohibited Acts,12/26/2015,09:38,Whited St & Saw Mill Run Blvd,Brookline,6,23,M
+ARREST,15244117,4952,Intimidation of Witnesses or Victims,12/26/2015,09:38,Whited St & Saw Mill Run Blvd,Brookline,6,23,M
+OFFENSE 2.0,15245906,2705,Recklessly Endangering Another Person.,12/26/2015,13:29,Noblestown Rd & Poplar St,Westwood,6,,
+OFFENSE 2.0,15245906,3111,Obedience to Traffic-Control Devices.,12/26/2015,13:29,Noblestown Rd & Poplar St,Westwood,6,,
+OFFENSE 2.0,15245906,3733,Fleeing or Attempting to Elude Police Officer,12/26/2015,13:29,Noblestown Rd & Poplar St,Westwood,6,,
+OFFENSE 2.0,15245906,3743,Accidents Involving Damage to Attended Veh. or Property,12/26/2015,13:29,Noblestown Rd & Poplar St,Westwood,6,,
+OFFENSE 2.0,15245906,5104,Resisting Arrest or Other Law Enforcement.,12/26/2015,13:29,Noblestown Rd & Poplar St,Westwood,6,,
+OFFENSE 2.0,15246003,3745,Accidents Involving Damage to Unattended Veh.or Prop.,12/26/2015,17:38,Stebbins Ave & Fordham St,Brookline,6,,
+OFFENSE 2.0,15246139,9497,Aided Case,12/26/2015,22:47,800 block Wymore St,Elliott,6,,
