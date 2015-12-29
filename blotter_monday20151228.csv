@@ -1,0 +1,129 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+OFFENSE 2.0,15246674,029,Missing Juvenile,12/28/2015,00:25,200 block Ridge Ave,Allegheny Center,1,,
+OFFENSE 2.0,15246748,2709(a),Harassment.,12/28/2015,03:00,1200 block Thelma St,Marshall-Shadeland,1,,
+OFFENSE 2.0,15246768,9488,False  Burglar Alarm,12/28/2015,04:35,100 block W Mc Intyre Ave,Perry South,1,,
+OFFENSE 2.0,15246771,9488,False  Burglar Alarm,12/28/2015,04:43,100 block Federal St S,North Shore,1,,
+OFFENSE 2.0,15246772,9488,False  Burglar Alarm,12/28/2015,04:46,2100 block N Charles St,Perry South,1,,
+OFFENSE 2.0,15246847,9999,9999 - (Misc. Incident): ,12/28/2015,08:00,1200 block Western Ave,Chateau,1,,
+OFFENSE 2.0,15246871,3304,Criminal Mischief.,12/28/2015,11:13,Howard St & E North Ave,Fineview,1,,
+OFFENSE 2.0,15246850,6106,Firearms not to be Carried without a License.,12/28/2015,11:25,800 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,15246850,2701(a)(3),Simple Assault - Attempts by Physical Menace ,12/28/2015,11:25,800 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,15246850,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,12/28/2015,11:25,800 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,15246850,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),12/28/2015,11:25,800 block Mt Pleasant Rd,Northview Heights,1,,
+OFFENSE 2.0,15246885,9488,False  Burglar Alarm,12/28/2015,11:27,1100 block Brabec St,Troy Hill-Herrs Island,1,,
+OFFENSE 2.0,15246990,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,12/28/2015,14:00,600 block East Ohio St,East Allegheny,1,,
+OFFENSE 2.0,15247113,3922,Theft by Deception.,12/28/2015,15:00,1300 block Halsey Pl,Marshall-Shadeland,1,,
+OFFENSE 2.0,15247070,3921(a),Theft by Unlawful Taking or Disposition - Movable item,12/28/2015,17:15,400 block Kennedy Ave,Perry South,1,,
+ARREST,15247098,2701,Simple Assault.,12/28/2015,18:05,1400 block Chicago St,Northview Heights,1,19,F
+OFFENSE 2.0,15247098,2701,Simple Assault.,12/28/2015,18:05,1400 block Chicago St,Northview Heights,1,,
+OFFENSE 2.0,15247180,3921,Theft by Unlawful Taking or Disposition.,12/28/2015,19:00,1400 block Evandale Rd,Marshall-Shadeland,1,,
+OFFENSE 2.0,15247234,029,Missing Juvenile,12/28/2015,22:31,200 block Ridge Ave,Allegheny Center,1,,
+OFFENSE 2.0,15246726,3802(a)(1),DUI - General Impairment,12/28/2015,02:12,300 block Main St,Central Lawrenceville,2,,
+ARREST,15246740,13(a)(16),Possession of Controlled Substance,12/28/2015,02:44,Bedford Ave & Devilliers St,Crawford-Roberts,2,33,M
+ARREST,15246740,3802(a)(1),DUI - General Impairment,12/28/2015,02:44,Bedford Ave & Devilliers St,Crawford-Roberts,2,33,M
+ARREST,15246740,1543,Driving While Operating Privilege is Suspended or Revoked.,12/28/2015,02:44,Bedford Ave & Devilliers St,Crawford-Roberts,2,33,M
+OFFENSE 2.0,15246740,3802(a)(1),DUI - General Impairment,12/28/2015,02:44,Bedford Ave & Devilliers St,Crawford-Roberts,2,,
+OFFENSE 2.0,15246740,1543,Driving While Operating Privilege is Suspended or Revoked.,12/28/2015,02:44,Bedford Ave & Devilliers St,Crawford-Roberts,2,,
+OFFENSE 2.0,15246740,13(a)(16),Possession of Controlled Substance,12/28/2015,02:44,Bedford Ave & Devilliers St,Crawford-Roberts,2,,
+ARREST,15246733,9501,Bench Warrant,12/28/2015,02:47,1400 block Locust St,Bluff,2,29,M
+OFFENSE 2.0,15246733,9501,Bench Warrant,12/28/2015,02:50,1400 block Locust St,Bluff,2,,
+OFFENSE 2.0,15246783,9488,False  Burglar Alarm,12/28/2015,06:02,100 block 9th St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15246843,4120,Identity Theft,12/28/2015,09:40,1600 block BEDFORD Ave,Crawford-Roberts,2,,
+OFFENSE 2.0,15246915,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,12/28/2015,12:20,400 block Smithfield St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15246917,9496,Dead on Arrival (DOA),12/28/2015,12:22,5200 block Holmes St,Upper Lawrenceville,2,,
+ARREST,15246915,3929(a)(1),Retail Theft; takes possession of  carries away  or transfers displayed merchandise,12/28/2015,12:30,400 block Smithfield St,Golden Triangle/Civic Arena,2,41,M
+OFFENSE 2.0,15247054,029,Missing Juvenile,12/28/2015,16:40,1400 block Forbes Ave,Bluff,2,,
+OFFENSE 2.0,15247112,4106,Access Device Fraud,12/28/2015,17:00,4100 block Butler St,Central Lawrenceville,2,,
+OFFENSE 2.0,15247071,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,12/28/2015,17:40,400 block Smithfield St,Golden Triangle/Civic Arena,2,,
+ARREST,15247071,3929,Retail Theft.,12/28/2015,17:40,400 block Smithfield St,Golden Triangle/Civic Arena,2,45,M
+ARREST,15247071,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,12/28/2015,17:40,400 block Smithfield St,Golden Triangle/Civic Arena,2,45,M
+OFFENSE 2.0,15247071,3929,Retail Theft.,12/28/2015,17:40,400 block Smithfield St,Golden Triangle/Civic Arena,2,,
+ARREST,15247166,5902(a)(1),Prostitution ,12/28/2015,19:53,5th Ave & Pride St,Bluff,2,44,F
+ARREST,15247166,5902(a)(2),Prostitution - Loitering for purpose of,12/28/2015,19:53,5th Ave & Pride St,Bluff,2,44,F
+OFFENSE 2.0,15247166,5902(a)(1),Prostitution ,12/28/2015,19:53,5th Ave & Pride St,Bluff,2,,
+OFFENSE 2.0,15247166,5902(a)(2),Prostitution - Loitering for purpose of,12/28/2015,19:53,5th Ave & Pride St,Bluff,2,,
+OFFENSE 2.0,15247178,2709(a),Harassment.,12/28/2015,20:47,100 block 44th St,Central Lawrenceville,2,,
+OFFENSE 2.0,15247075,9504,Lost Property,12/28/2015,00:01,S 12th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15247128,9999,9999 - (Misc. Incident): ,12/28/2015,00:01,Knox Ave,Knoxville,3,,
+OFFENSE 2.0,15246723,2702,Aggravated Assault.,12/28/2015,02:05,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15246723,5505,Public Drunkenness,12/28/2015,02:05,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15246723,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,12/28/2015,02:05,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15246723,5104,Resisting Arrest or Other Law Enforcement.,12/28/2015,02:05,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15246723,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,12/28/2015,02:05,1500 block E Carson St,South Side Flats,3,,
+ARREST,15246723,2702,Aggravated Assault.,12/28/2015,02:05,1500 block E Carson St,South Side Flats,3,23,F
+ARREST,15246723,3304,Criminal Mischief.,12/28/2015,02:05,1500 block E Carson St,South Side Flats,3,23,F
+ARREST,15246723,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,12/28/2015,02:05,1500 block E Carson St,South Side Flats,3,23,F
+ARREST,15246723,5104,Resisting Arrest or Other Law Enforcement.,12/28/2015,02:05,1500 block E Carson St,South Side Flats,3,23,F
+ARREST,15246723,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,12/28/2015,02:05,1500 block E Carson St,South Side Flats,3,23,F
+ARREST,15246723,5505,Public Drunkenness,12/28/2015,02:05,1500 block E Carson St,South Side Flats,3,23,F
+OFFENSE 2.0,15246723,3304,Criminal Mischief.,12/28/2015,02:05,1500 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15246737,3701,Robbery.,12/28/2015,02:52,2900 block Harcum Way,South Side Slopes,3,,
+OFFENSE 2.0,15246737,3502,Burglary.,12/28/2015,02:52,2900 block Harcum Way,South Side Slopes,3,,
+OFFENSE 2.0,15246737,903,Criminal Conspiracy.,12/28/2015,02:52,2900 block Harcum Way,South Side Slopes,3,,
+OFFENSE 2.0,15246737,13(a)(32),Paraphernalia - Use or Possession,12/28/2015,02:52,2900 block Harcum Way,South Side Slopes,3,,
+OFFENSE 2.0,15246737,907,Possessing Instruments of Crime.,12/28/2015,02:52,2900 block Harcum Way,South Side Slopes,3,,
+ARREST,15246737,907,Possessing Instruments of Crime.,12/28/2015,02:55,2900 block Harcum Way,South Side Slopes,3,22,M
+ARREST,15246737,903,Criminal Conspiracy.,12/28/2015,02:55,2900 block Harcum Way,South Side Slopes,3,22,M
+ARREST,15246737,3701,Robbery.,12/28/2015,02:55,2900 block Harcum Way,South Side Slopes,3,22,M
+ARREST,15246737,3502,Burglary.,12/28/2015,02:55,2900 block Harcum Way,South Side Slopes,3,22,M
+ARREST,15246737,13(a)(32),Paraphernalia - Use or Possession,12/28/2015,02:55,2900 block Harcum Way,South Side Slopes,3,20,M
+ARREST,15246737,3502,Burglary.,12/28/2015,02:55,2900 block Harcum Way,South Side Slopes,3,20,M
+ARREST,15246737,3701,Robbery.,12/28/2015,02:55,2900 block Harcum Way,South Side Slopes,3,20,M
+ARREST,15246737,903,Criminal Conspiracy.,12/28/2015,02:55,2900 block Harcum Way,South Side Slopes,3,20,M
+ARREST,15246737,907,Possessing Instruments of Crime.,12/28/2015,02:55,2900 block Harcum Way,South Side Slopes,3,20,M
+OFFENSE 2.0,15246750,2701,Simple Assault.,12/28/2015,03:22,2200 block Arlington Ave,South Side Slopes,3,,
+ARREST,15246750,2701,Simple Assault.,12/28/2015,03:32,2200 block Arlington Ave,South Side Slopes,3,53,F
+OFFENSE 2.0,15246807,9496,Dead on Arrival (DOA),12/28/2015,07:50,1700 block Arlington Ave,South Side Slopes,3,,
+OFFENSE 2.0,15247096,4106,Access Device Fraud,12/28/2015,09:35,600 block Olympia Rd,Mount Washington,3,,
+OFFENSE 2.0,15246922,3745,Accidents Involving Damage to Unattended Veh.or Prop.,12/28/2015,11:00,Brownsville Rd & Thielman Ave,Carrick,3,,
+OFFENSE 2.0,15246892,3745,Accidents Involving Damage to Unattended Veh.or Prop.,12/28/2015,11:00,800 block Grandview Ave,Mount Washington,3,,
+OFFENSE 2.0,15247013,3745,Accidents Involving Damage to Unattended Veh.or Prop.,12/28/2015,15:00,Laclede St,Mount Washington,3,,
+OFFENSE 2.0,15247040,3921(a),Theft by Unlawful Taking or Disposition - Movable item,12/28/2015,16:15,S 26th St & Josephine St,South Side Flats,3,,
+OFFENSE 2.0,15247069,9094,Recovered Stolen Vehicle (OUTSIDE CITY),12/28/2015,17:02,300 block Jucunda St,Outside City,3,,
+ARREST,15245538,3304(a)(1),CRIMINAL MISCHIEF-Prop Damage By Fire  Explosives  or Other Dangerous Means,12/28/2015,23:25,2100 block Arlington Ave,Arlington,3,16,M
+ARREST,15245538,6110.1,Possesion of Firearm by Minor,12/28/2015,23:25,2100 block Arlington Ave,Arlington,3,16,M
+ARREST,15245538,901,Criminal Attempt,12/28/2015,23:25,2100 block Arlington Ave,Arlington,3,16,M
+ARREST,15245538,903,Criminal Conspiracy.,12/28/2015,23:25,2100 block Arlington Ave,Arlington,3,16,M
+OFFENSE 2.0,15245538,2702,Aggravated Assault.,12/28/2015,23:25,2100 block Arlington Ave,Arlington,3,,
+OFFENSE 2.0,15245538,2705,Recklessly Endangering Another Person.,12/28/2015,23:25,2100 block Arlington Ave,Arlington,3,,
+OFFENSE 2.0,15245538,2707.1,Discharge of a Firearm into Occupied Structure,12/28/2015,23:25,2100 block Arlington Ave,Arlington,3,,
+ARREST,15245538,2705,Recklessly Endangering Another Person.,12/28/2015,23:25,2100 block Arlington Ave,Arlington,3,16,M
+ARREST,15245538,2702,Aggravated Assault.,12/28/2015,23:25,2100 block Arlington Ave,Arlington,3,16,M
+OFFENSE 2.0,15245538,3304(a)(1),CRIMINAL MISCHIEF-Prop Damage By Fire  Explosives  or Other Dangerous Means,12/28/2015,23:25,2100 block Arlington Ave,Arlington,3,,
+ARREST,15245538,6106,Firearms not to be Carried without a License.,12/28/2015,23:25,2100 block Arlington Ave,Arlington,3,16,M
+OFFENSE 2.0,15246935,3502,Burglary.,12/28/2015,02:00,600 block Bellefonte St,Shadyside,4,,
+OFFENSE 2.0,15246863,3502,Burglary.,12/28/2015,02:00,300 block Lamont Pl,Shadyside,4,,
+OFFENSE 2.0,15246798,3304,Criminal Mischief.,12/28/2015,06:55,6000 block Spirit St,Shadyside,4,,
+OFFENSE 2.0,15246798,3921(a),Theft by Unlawful Taking or Disposition - Movable item,12/28/2015,06:55,6000 block Spirit St,Shadyside,4,,
+OFFENSE 2.0,15246829,9489,Found Property,12/28/2015,09:16,300 block McKee Pl,Shadyside,4,,
+OFFENSE 2.0,15246855,3934,Theft from Vehicle,12/28/2015,09:30,500 block East End Ave,Point Breeze,4,,
+OFFENSE 2.0,15247029,3921,Theft by Unlawful Taking or Disposition.,12/28/2015,11:00,7500 block Penn Ave,Point Breeze,4,,
+OFFENSE 2.0,15246919,3745,Accidents Involving Damage to Unattended Veh.or Prop.,12/28/2015,12:23,700 block Ivy St,Shadyside,4,,
+OFFENSE 2.0,15247041,3743,Accidents Involving Damage to Attended Veh. or Property,12/28/2015,14:40,5th Ave & S Negley Ave,Shadyside,4,,
+OFFENSE 2.0,15247023,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,12/28/2015,15:00,Hodge St,South Oakland,4,,
+OFFENSE 2.0,15247003,3921(a),Theft by Unlawful Taking or Disposition - Movable item,12/28/2015,15:00,800 block Flemington St,Greenfield,4,,
+OFFENSE 2.0,15247055,3745,Accidents Involving Damage to Unattended Veh.or Prop.,12/28/2015,16:00,Forbes Ave & Denniston St,Squirrel Hill North,4,,
+OFFENSE 2.0,15247036,9504,Lost Property,12/28/2015,16:20,1900 block Murray Ave,Squirrel Hill South,4,,
+OFFENSE 2.0,15247065,3743,Accidents Involving Damage to Attended Veh. or Property,12/28/2015,16:50,5200 block 5th Ave,Shadyside,4,,
+OFFENSE 2.0,15247091,9999,9999 - (Misc. Incident): 9999 - (Misc. Incident): Tree down on vehicle,12/28/2015,17:43,4900 block Wallingford St,Shadyside,4,,
+OFFENSE 2.0,15247175,3503,Criminal Trespass,12/28/2015,19:55,1400 block Beechwood Blvd,Squirrel Hill North,4,,
+OFFENSE 2.0,15247175,3934,Theft from Vehicle,12/28/2015,19:55,1400 block Beechwood Blvd,Squirrel Hill North,4,,
+ARREST,15246709,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,12/28/2015,01:58,N Negley Ave & Jackson St,Highland Park,5,36,F
+ARREST,15246709,3802(a)(1),DUI - General Impairment,12/28/2015,01:58,N Negley Ave & Jackson St,Highland Park,5,36,F
+OFFENSE 2.0,15246709,3802(c),DUI - Highest Rate of Alcohol - BAC >= .16%,12/28/2015,02:00,N Negley Ave & Jackson St,Highland Park,5,,
+OFFENSE 2.0,15246709,3802(a)(1),DUI - General Impairment,12/28/2015,02:00,N Negley Ave & Jackson St,Highland Park,5,,
+OFFENSE 2.0,15246831,3503(a),Criminal Trespass,12/28/2015,09:30,7000 block Mt Vernon St,Homewood North,5,,
+OFFENSE 2.0,15246930,3304,Criminal Mischief.,12/28/2015,12:30,7100 block Gladefield St,Lincoln-Lemington-Belmar,5,,
+OFFENSE 2.0,15247048,2709(a),Harassment.,12/28/2015,16:30,600 block Chislett St,East Liberty,5,,
+OFFENSE 2.0,15247058,3743,Accidents Involving Damage to Attended Veh. or Property,12/28/2015,16:45,Washington Blvd & Allegheny River Blvd,Highland Park,5,,
+OFFENSE 2.0,15247119,9489,Found Property,12/28/2015,16:50,4400 block Stanton Ave,Stanton Heights,5,,
+OFFENSE 2.0,15246861,9999,9999 - (Misc. Incident): ,12/28/2015,09:30,1600 block Westfield St,Beechview,6,,
+OFFENSE 2.0,15246899,4106,Access Device Fraud,12/28/2015,12:00,200 block Woodkirk St,East Carnegie,6,,
+OFFENSE 2.0,15246899,4120,Identity Theft,12/28/2015,12:00,200 block Woodkirk St,East Carnegie,6,,
+OFFENSE 2.0,15247011,9489,Found Property,12/28/2015,15:40,Universal St & Sutherland St,Sheraden,6,,
+OFFENSE 2.0,15247033,3502,Burglary.,12/28/2015,16:30,300 block Lorenz Ave,Elliott,6,,
+OFFENSE 2.0,15247110,9497,Aided Case,12/28/2015,18:03,1400 block Hillsboro St,Sheraden,6,,
+OFFENSE 2.0,15247123,3702,Robbery of Motor Vehicle.,12/28/2015,18:19,1800 block Village Rd,Fairywood,6,,
+OFFENSE 2.0,15247123,903,Criminal Conspiracy.,12/28/2015,18:19,1800 block Village Rd,Fairywood,6,,
+ARREST,15247123,3702,Robbery of Motor Vehicle.,12/28/2015,18:41,1800 block Village Rd,Fairywood,6,15,M
+ARREST,15247123,903,Criminal Conspiracy.,12/28/2015,18:41,1800 block Village Rd,Fairywood,6,15,M

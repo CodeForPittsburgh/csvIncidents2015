@@ -1,0 +1,126 @@
+﻿REPORT_NAME,CCR,SECTION,DESCRIPTION,ARREST_DATE,ARREST_TIME,ADDRESS,NEIGHBORHOOD,ZONE,AGE,GENDER
+ARREST,15195905,9015,Failure To Appear/Arrest on Attachment Order,12/27/2015,00:20,Federal St N & W North Ave,Allegheny Center,1,51,M
+OFFENSE 2.0,15246198,029,Missing Juvenile,12/27/2015,00:30,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,15246188,2701,Simple Assault.,12/27/2015,00:52,2800 block N Charles St,Perry South,1,,
+OFFENSE 2.0,15246192,9488,False  Burglar Alarm,12/27/2015,01:01,1700 block Belleau Dr,Fineview,1,,
+OFFENSE 2.0,15246265,029,Missing Juvenile,12/27/2015,02:40,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,15246265,2702,Aggravated Assault.,12/27/2015,02:40,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,15246280,029,Missing Juvenile,12/27/2015,03:30,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,15246295,2702,Aggravated Assault.,12/27/2015,03:52,1500 block Geyer Ave,Marshall-Shadeland,1,,
+ARREST,15246295,2702,Aggravated Assault.,12/27/2015,04:12,1500 block Geyer Ave,Marshall-Shadeland,1,23,F
+OFFENSE 2.0,15246308,3502,Burglary.,12/27/2015,04:54,100 block W Burgess St,Perry South,1,,
+OFFENSE 2.0,15246308,2702,Aggravated Assault.,12/27/2015,04:54,100 block W Burgess St,Perry South,1,,
+ARREST,15246265,2702,Aggravated Assault.,12/27/2015,06:00,2000 block Termon Ave,Brighton Heights,1,14,F
+OFFENSE 2.0,15246334,3502,Burglary.,12/27/2015,06:30,3200 block Langfitt Ave,Marshall-Shadeland,1,,
+OFFENSE 2.0,15246649,3745,Accidents Involving Damage to Unattended Veh.or Prop.,12/27/2015,10:00,Brighton Rd & Woods Run Ave,Brighton Heights,1,,
+OFFENSE 2.0,15246485,3745,Accidents Involving Damage to Unattended Veh.or Prop.,12/27/2015,14:30,900 block Western Ave,Allegheny West,1,,
+OFFENSE 2.0,15246537,9488,False  Burglar Alarm,12/27/2015,17:50,600 block East Ohio St,East Allegheny,1,,
+OFFENSE 2.0,15246675,029,Missing Juvenile,12/27/2015,23:00,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,15246656,9488,False  Burglar Alarm,12/27/2015,23:08,3800 block Perrysville Ave,Perry North,1,,
+OFFENSE 2.0,15246658,029,Missing Juvenile,12/27/2015,23:30,2000 block Termon Ave,Brighton Heights,1,,
+OFFENSE 2.0,15246165,9498,302 (Mental),12/27/2015,00:01,100 block 44th St,Central Lawrenceville,2,,
+OFFENSE 2.0,15246245,601.16,Public Urination And Defecation,12/27/2015,02:31,4200 block Davison St,Central Lawrenceville,2,,
+OFFENSE 2.0,15246245,2709(a)(3),Harassment No Legitimate Purpose,12/27/2015,02:31,4200 block Davison St,Central Lawrenceville,2,,
+OFFENSE 2.0,15246245,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,12/27/2015,02:31,4200 block Davison St,Central Lawrenceville,2,,
+OFFENSE 2.0,15246296,3304,Criminal Mischief.,12/27/2015,04:00,2000 block Forbes Ave,Bluff,2,,
+OFFENSE 2.0,15246317,3304(a)(5),CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another,12/27/2015,05:22,700 block Bryn Mawr Rd,Upper Hill,2,,
+OFFENSE 2.0,15246484,3922,Theft by Deception.,12/27/2015,15:15,2400 block Penn Ave,Strip District,2,,
+OFFENSE 2.0,15246484,3925,Receiving Stolen Property.,12/27/2015,15:15,2400 block Penn Ave,Strip District,2,,
+OFFENSE 2.0,15246484,4106,Access Device Fraud,12/27/2015,15:15,2400 block Penn Ave,Strip District,2,,
+OFFENSE 2.0,15246484,903,Criminal Conspiracy.,12/27/2015,15:15,2400 block Penn Ave,Strip District,2,,
+ARREST,15246481,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,12/27/2015,15:46,400 block Smithfield St,Golden Triangle/Civic Arena,2,50,F
+ARREST,15246481,5104,Resisting Arrest or Other Law Enforcement.,12/27/2015,15:46,400 block Smithfield St,Golden Triangle/Civic Arena,2,50,F
+ARREST,15246481,3503,Criminal Trespass,12/27/2015,15:46,400 block Smithfield St,Golden Triangle/Civic Arena,2,50,F
+OFFENSE 2.0,15246481,5503(a)(4),DISORDERLY CONDUCT - HAZARDOUS/PHYS. OFF,12/27/2015,15:46,400 block Smithfield St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15246481,3503,Criminal Trespass,12/27/2015,15:46,400 block Smithfield St,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15246481,5104,Resisting Arrest or Other Law Enforcement.,12/27/2015,15:46,400 block Smithfield St,Golden Triangle/Civic Arena,2,,
+ARREST,15246484,903,Criminal Conspiracy.,12/27/2015,16:05,2400 block Penn Ave,Strip District,2,34,M
+ARREST,15246484,4106,Access Device Fraud,12/27/2015,16:05,2400 block Penn Ave,Strip District,2,34,M
+ARREST,15246484,3925,Receiving Stolen Property.,12/27/2015,16:05,2400 block Penn Ave,Strip District,2,34,M
+ARREST,15246484,3922,Theft by Deception.,12/27/2015,16:05,2400 block Penn Ave,Strip District,2,34,M
+ARREST,15246484,903,Criminal Conspiracy.,12/27/2015,16:05,2400 block Penn Ave,Strip District,2,21,F
+OFFENSE 2.0,15246576,3934,Theft from Vehicle,12/27/2015,17:01,4000 block Butler St,Central Lawrenceville,2,,
+OFFENSE 2.0,15246592,3743,Accidents Involving Damage to Attended Veh. or Property,12/27/2015,19:05,Crosstown Blvd & Centre Ave Ramp,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15246638,3743,Accidents Involving Damage to Attended Veh. or Property,12/27/2015,22:10,Grant St & Blvd Of The Allies,Golden Triangle/Civic Arena,2,,
+OFFENSE 2.0,15246175,5505,Public Drunkenness,12/27/2015,00:26,1400 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15246175,5503,Disorderly Conduct.,12/27/2015,00:26,1400 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15246175,2706,Terroristic Threats.,12/27/2015,00:26,1400 block E Carson St,South Side Flats,3,,
+ARREST,15246175,2706,Terroristic Threats.,12/27/2015,00:28,1400 block E Carson St,South Side Flats,3,37,M
+ARREST,15246175,5505,Public Drunkenness,12/27/2015,00:28,1400 block E Carson St,South Side Flats,3,37,M
+ARREST,15246175,5503,Disorderly Conduct.,12/27/2015,00:28,1400 block E Carson St,South Side Flats,3,37,M
+OFFENSE 2.0,15246508,601.16(b)(1)(a),Any Person who urinates or defecates in  on  or about any public place,12/27/2015,02:12,S 15th St & E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15246509,601.16(b)(1)(a),Any Person who urinates or defecates in  on  or about any public place,12/27/2015,02:20,S 15th St & Roland St,South Side Flats,3,,
+OFFENSE 2.0,15246242,2701(b)(1),Simple Assault - Fight or Scuffle Entered by Mutual Consent,12/27/2015,02:30,E Carson St & S 16th St,South Side Flats,3,,
+OFFENSE 2.0,15246262,3736,Reckless Driving,12/27/2015,02:35,800 block Brownsville Rd,Knoxville,3,,
+OFFENSE 2.0,15246268,5503(a)(1),DISORDERLY CONDUCT - ENGAGE IN FIGHTING,12/27/2015,03:07,1700 block E Carson St,South Side Flats,3,,
+OFFENSE 2.0,15246410,3304,Criminal Mischief.,12/27/2015,08:30,1300 block Sarah St,South Side Flats,3,,
+OFFENSE 2.0,15246526,3304,Criminal Mischief.,12/27/2015,09:30,100 block S 21st St,South Side Flats,3,,
+OFFENSE 2.0,15246399,3304,Criminal Mischief.,12/27/2015,10:30,Albert St & Boggs Ave,Mount Washington,3,,
+OFFENSE 2.0,15246400,3304,Criminal Mischief.,12/27/2015,10:30,100 block Pius St,South Side Slopes,3,,
+OFFENSE 2.0,15246399,3934,Theft from Vehicle,12/27/2015,10:30,Albert St & Boggs Ave,Mount Washington,3,,
+OFFENSE 2.0,15246396,3934,Theft from Vehicle,12/27/2015,10:50,2300 block S 18th St,South Side Slopes,3,,
+OFFENSE 2.0,15246402,3304,Criminal Mischief.,12/27/2015,11:00,2600 block Jane St,South Side Flats,3,,
+OFFENSE 2.0,15246402,3934,Theft from Vehicle,12/27/2015,11:00,2600 block Jane St,South Side Flats,3,,
+ARREST,15219979,2706,Terroristic Threats.,12/27/2015,11:02,400 block Kingsboro St,Beltzhoover,3,26,M
+ARREST,15195668,3502,Burglary.,12/27/2015,11:02,400 block Kingsboro St,Beltzhoover,3,26,M
+ARREST,15195668,3304,Criminal Mischief.,12/27/2015,11:02,400 block Kingsboro St,Beltzhoover,3,26,M
+ARREST,15195668,2702,Aggravated Assault.,12/27/2015,11:02,400 block Kingsboro St,Beltzhoover,3,26,M
+ARREST,15125622,6105(a)(1),Persons not to possess  use  manufacture  control  sell or transfer firearms: Former Convict enumerated in subsection (b),12/27/2015,11:02,1000 block Theona St,Beltzhoover,3,26,M
+ARREST,15125622,2701,Simple Assault.,12/27/2015,11:02,1000 block Theona St,Beltzhoover,3,26,M
+ARREST,15238873,2702,Aggravated Assault.,12/27/2015,11:02,400 block Kingsboro St,Beltzhoover,3,26,M
+ARREST,15238873,2606(a),Aggravated Assault on Unborn Child,12/27/2015,11:02,400 block Kingsboro St,Beltzhoover,3,26,M
+ARREST,15238873,3502,Burglary.,12/27/2015,11:02,400 block Kingsboro St,Beltzhoover,3,26,M
+OFFENSE 2.0,15246434,3304,Criminal Mischief.,12/27/2015,12:47,100 block S 21st St,South Side Flats,3,,
+OFFENSE 2.0,15246437,9999,9999 - (Misc. Incident): ,12/27/2015,13:00,300 block Bausman St,Knoxville,3,,
+OFFENSE 2.0,15246511,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,12/27/2015,16:35,800 block E Warrington Ave,Allentown,3,,
+OFFENSE 2.0,15246550,9999,9999 - (Misc. Incident): ,12/27/2015,18:15,800 block E Warrington Ave,Allentown,3,,
+OFFENSE 2.0,15246645,2701,Simple Assault.,12/27/2015,22:31,300 block Edith St,Duquesne Heights,3,,
+ARREST,15246645,2701,Simple Assault.,12/27/2015,22:43,300 block Edith St,Duquesne Heights,3,57,F
+OFFENSE 2.0,15246300,2701,Simple Assault.,12/27/2015,04:14,S Braddock Ave & Biddle Ave,Regent Square,4,,
+ARREST,15246300,2701,Simple Assault.,12/27/2015,04:25,S Braddock Ave & Biddle Ave,Regent Square,4,28,F
+ARREST,15246300,2701,Simple Assault.,12/27/2015,04:25,S Braddock Ave & Biddle Ave,Regent Square,4,39,M
+OFFENSE 2.0,15246302,6308(a),Underage Purchase  Consume  Possessed or Transport Liquor,12/27/2015,04:30,Schenley Dr & Forbes Ave,North Oakland,4,,
+OFFENSE 2.0,15246302,5505,Public Drunkenness,12/27/2015,04:30,Schenley Dr & Forbes Ave,North Oakland,4,,
+OFFENSE 2.0,15246358,3934,Theft from Vehicle,12/27/2015,09:00,600 block Greer St,Greenfield,4,,
+OFFENSE 2.0,15246366,9999,9999 - (Misc. Incident): Tractor trailer struck into stop sign.,12/27/2015,09:00,Bigelow St & Winterburn Ave,Hazelwood,4,,
+OFFENSE 2.0,15246462,3921(a),Theft by Unlawful Taking or Disposition - Movable item,12/27/2015,12:00,4100 block Murray Ave,Greenfield,4,,
+OFFENSE 2.0,15246443,9999,9999 - (Misc. Incident): ,12/27/2015,14:20,4700 block Monongahela St,Hazelwood,4,,
+OFFENSE 2.0,15246574,3921,Theft by Unlawful Taking or Disposition.,12/27/2015,15:30,5600 block Darlington Rd,Squirrel Hill South,4,,
+OFFENSE 2.0,15246946,2709(a)(3),Harassment No Legitimate Purpose,12/27/2015,16:00,300 block Renova St,Hazelwood,4,,
+OFFENSE 2.0,15246189,2701,Simple Assault.,12/27/2015,00:55,8400 block Dersam St,East Hills,5,,
+OFFENSE 2.0,15246189,3502,Burglary.,12/27/2015,00:55,8400 block Dersam St,East Hills,5,,
+ARREST,15246189,2701,Simple Assault.,12/27/2015,01:00,8400 block Dersam St,East Hills,5,36,F
+ARREST,15246189,3502,Burglary.,12/27/2015,01:00,8400 block Dersam St,East Hills,5,36,F
+OFFENSE 2.0,15246235,2701,Simple Assault.,12/27/2015,02:10,7100 block Hermitage St,Homewood North,5,,
+ARREST,15246235,2701,Simple Assault.,12/27/2015,02:26,7100 block Hermitage St,Homewood North,5,34,F
+OFFENSE 2.0,15246260,2701,Simple Assault.,12/27/2015,02:48,7400 block Monticello St,Homewood North,5,,
+OFFENSE 2.0,15246324,2709,Harassment (Non-Specific),12/27/2015,05:54,2200 block Wilner Dr,East Hills,5,,
+OFFENSE 2.0,15246417,2709(a),Harassment.,12/27/2015,11:44,2400 block Bracey Dr,East Hills,5,,
+OFFENSE 2.0,15246483,3304,Criminal Mischief.,12/27/2015,15:22,300 block Lowell St,Larimer,5,,
+OFFENSE 2.0,15246483,3934,Theft from Vehicle,12/27/2015,15:22,300 block Lowell St,Larimer,5,,
+OFFENSE 2.0,15246590,029,Missing Juvenile,12/27/2015,19:40,6900 block Standish St,Morningside,5,,
+OFFENSE 2.0,15246610,2709.A3,HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE,12/27/2015,20:45,2200 block East Hills Dr,East Hills,5,,
+OFFENSE 2.0,15246610,3503(b)(1)(ii),Defiant Trespass Notice Posted by Sign(s),12/27/2015,20:45,2200 block East Hills Dr,East Hills,5,,
+OFFENSE 2.0,15246610,5503,Disorderly Conduct.,12/27/2015,20:45,2200 block East Hills Dr,East Hills,5,,
+ARREST,15246610,2709.A3,HARASSMENT - COURSE OF CONDUCT W/NO LEGIT. PURPOSE,12/27/2015,21:09,2200 block East Hills Dr,East Hills,5,24,M
+ARREST,15246610,3503(b)(1)(ii),Defiant Trespass Notice Posted by Sign(s),12/27/2015,21:09,2200 block East Hills Dr,East Hills,5,24,M
+ARREST,15246610,5503,Disorderly Conduct.,12/27/2015,21:09,2200 block East Hills Dr,East Hills,5,24,M
+OFFENSE 2.0,15246214,2701,Simple Assault.,12/27/2015,01:41,600 block Oaklynn Ct,Banksville,6,,
+OFFENSE 2.0,15246360,5505,Public Drunkenness,12/27/2015,09:24,2700 block Banksville Ave,Banksville,6,,
+OFFENSE 2.0,15246412,3503,Criminal Trespass,12/27/2015,11:30,Bucyrus St,Elliott,6,,
+OFFENSE 2.0,15246412,3304,Criminal Mischief.,12/27/2015,11:30,Bucyrus St,Elliott,6,,
+OFFENSE 2.0,15246453,3929,Retail Theft.,12/27/2015,13:41,3100 block Banksville Rd,Banksville,6,,
+OFFENSE 2.0,15246486,6105(c)(9),Persons Not To Possess Use Manuf  Control Firearm,12/27/2015,15:15,Citadel St & Sherwood Ave,Sheraden,6,,
+OFFENSE 2.0,15246486,607.03,Discharging Firearm or Airgun,12/27/2015,15:15,Citadel St & Sherwood Ave,Sheraden,6,,
+OFFENSE 2.0,15246486,2705,Recklessly Endangering Another Person.,12/27/2015,15:15,Citadel St & Sherwood Ave,Sheraden,6,,
+OFFENSE 2.0,15246486,2701(a)(3),Simple Assault - Attempts by Physical Menace ,12/27/2015,15:15,Citadel St & Sherwood Ave,Sheraden,6,,
+OFFENSE 2.0,15246486,6110.1,Possesion of Firearm by Minor,12/27/2015,15:15,Citadel St & Sherwood Ave,Sheraden,6,,
+OFFENSE 2.0,15246563,2706,Terroristic Threats.,12/27/2015,18:42,600 block Noblestown Rd,Elliott,6,,
+OFFENSE 2.0,15246563,2701(a)(3),Simple Assault - Attempts by Physical Menace ,12/27/2015,18:42,600 block Noblestown Rd,Elliott,6,,
+OFFENSE 2.0,15246563,2702,Aggravated Assault.,12/27/2015,18:42,600 block Noblestown Rd,Elliott,6,,
+OFFENSE 2.0,15246585,2709(a)(1),Harassment by Physical Contact  or Attempts or Threats,12/27/2015,18:45,3100 block Ashlyn St,Sheraden,6,,
+OFFENSE 2.0,15246584,3503.B1I,DEF. TRESPASS ACTUAL COMMUNICATION,12/27/2015,18:48,2200 block Noblestown Rd,Westwood,6,,
+OFFENSE 2.0,15246584,3929,Retail Theft.,12/27/2015,18:48,2200 block Noblestown Rd,Westwood,6,,
+ARREST,15246563,2706,Terroristic Threats.,12/27/2015,18:55,600 block Noblestown Rd,Elliott,6,42,M
+ARREST,15246563,2701(a)(3),Simple Assault - Attempts by Physical Menace ,12/27/2015,18:55,600 block Noblestown Rd,Elliott,6,42,M
+ARREST,15246563,2702,Aggravated Assault.,12/27/2015,18:55,600 block Noblestown Rd,Elliott,6,42,M
